@@ -1,0 +1,105 @@
+# COURSE: Phương pháp lập trình hướng đối tượng (CSC10003)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10003
+- **English Name**: Object-Oriented Programming
+- **Vietnamese Name**: Phương pháp lập trình hướng đối tượng
+- **Responsible Person**: for the module: Dr. Đinh Bá Tiến
+- **Semester**: (s) in which the module is taught: 4
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to Object-Orient Concepts and Programming
+- Class, constructors and destructor
+- Operator overloading
+- Inheritance
+- Inheritance and polymorphism
+- Const-correctness & Review
+- Midterm Exam
+- Templates and meta-programming
+- Exception handling & RAII
+- Standard template library (STL): vector, string, streams
+- Design patterns: Singleton, Composite
+- Review for the final exam
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Lập trình hướng đối tượng,Trần Đan Thư, Đinh Bá Tiến, Nguyễn Tấn Trần Minh Khang,2018,NXB Khoa học và kỹ thuật
+- [2]C++ Primer Plus, 4th Edition,Stephen Prata,2001,SAM
+- [3]The C++ Programming Language, 4th edition,Bjarne Stroustrup,2013,Addison-Wesley Professional
+- [4]Design Patterns: Elements of Reusable Objected-Oriented Software,Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides,1995,Addison-Wesley
+- [5]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition,Scott Meyers,2014,O'Reilly Media, Incorporated
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Work independently or in groups to solve problems using object-oriented concepts.
+- G2.Perform reading comprehension skills, write and present simple reports in English
+- G3.Use object-oriented, analysis and design concepts to solve real-world problems.
+- G4.Comprehend the OOP concepts: class, object, data hiding, encapsulation, inheritance, dynamic binding...
+- G5.Describe the key differences between C++, C#, and Java on some OOP topics
+- G6.Solve problems in C++ using OOP
+• Content:
+- Introduction to Object-Orient Concepts and Programming
+- Class, constructors and destructor
+- Operator overloading
+- Inheritance
+- Inheritance and polymorphism
+- Const-correctness & Review
+- Midterm Exam
+- Templates and meta-programming
+- Exception handling & RAII
+- Standard template library (STL): vector, string, streams
+- Design patterns: Singleton, Composite
+- Review for the final exam
+• Examination forms: Final examination, Lab final exam, Homework, Research Project, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Lập trình hướng đối tượng,Trần Đan Thư, Đinh Bá Tiến, Nguyễn Tấn Trần Minh Khang,2018,NXB Khoa học và kỹ thuật
+- [2]C++ Primer Plus, 4th Edition,Stephen Prata,2001,SAM
+- [3]The C++ Programming Language, 4th edition,Bjarne Stroustrup,2013,Addison-Wesley Professional
+- [4]Design Patterns: Elements of Reusable Objected-Oriented Software,Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides,1995,Addison-Wesley
+- [5]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition,Scott Meyers,2014,O'Reilly Media, Incorporated
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Lập trình hướng đối tượng,Trần Đan Thư, Đinh Bá Tiến, Nguyễn Tấn Trần Minh Khang,2018,NXB Khoa học và kỹ thuật
+- [2]C++ Primer Plus, 4th Edition,Stephen Prata,2001,SAM
+- [3]The C++ Programming Language, 4th edition,Bjarne Stroustrup,2013,Addison-Wesley Professional
+- [4]Design Patterns: Elements of Reusable Objected-Oriented Software,Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides,1995,Addison-Wesley
+- [5]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition,Scott Meyers,2014,O'Reilly Media, Incorporated
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Lập trình hướng đối tượng,Trần Đan Thư, Đinh Bá Tiến, Nguyễn Tấn Trần Minh Khang,2018,NXB Khoa học và kỹ thuật
+- [2]C++ Primer Plus, 4th Edition,Stephen Prata,2001,SAM
+- [3]The C++ Programming Language, 4th edition,Bjarne Stroustrup,2013,Addison-Wesley Professional
+- [4]Design Patterns: Elements of Reusable Objected-Oriented Software,Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides,1995,Addison-Wesley
+- [5]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition,Scott Meyers,2014,O'Reilly Media, Incorporated
+
+## READING MATERIALS
+- [1]Lập trình hướng đối tượng,Trần Đan Thư, Đinh Bá Tiến, Nguyễn Tấn Trần Minh Khang,2018,NXB Khoa học và kỹ thuật
+- [2]C++ Primer Plus, 4th Edition,Stephen Prata,2001,SAM
+- [3]The C++ Programming Language, 4th edition,Bjarne Stroustrup,2013,Addison-Wesley Professional
+- [4]Design Patterns: Elements of Reusable Objected-Oriented Software,Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides,1995,Addison-Wesley
+- [5]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 1st Edition,Scott Meyers,2014,O'Reilly Media, Incorporated

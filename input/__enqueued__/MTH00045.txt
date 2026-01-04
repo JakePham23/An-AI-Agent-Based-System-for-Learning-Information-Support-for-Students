@@ -1,0 +1,92 @@
+# COURSE: Toán rời rạc (MTH00045)
+
+## GENERAL INFORMATION
+- **Course ID**: MTH00045
+- **English Name**: Discrete Mathematics
+- **Vietnamese Name**: Toán rời rạc
+- **Responsible Person**: for the module: Dr. Lê Văn Hợp
+- **Semester**: (s) in which the module is taught: 1
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+(1) Logic: Students will learn the principles of propositional logic and predicate logic. They will explore logical connectives, truth tables, logical equivalences, and methods of proof, enabling them to construct and analyze logical arguments.
+(2) Sets and Relations: Students will study set theory, including operations on sets, set identities, and properties. They will also investigate various types of relations, such as equivalence relations and partial orders, and explore functions and their properties.
+(3) Combinatorics: Students will explore counting principles and combinatorial techniques. They will learn about permutations, combinations, binomial coefficients, and the inclusion-exclusion principle. These concepts are fundamental for analyzing the number of possible outcomes in various scenarios.
+(4) Graph Theory: Students will delve into graph theory, examining the properties and applications of graphs. They will learn about graph representations, connectivity, graph coloring, Eulerian and Hamiltonian paths, and spanning trees. Graph theory provides a powerful framework for solving problems in network design, optimization, and algorithm analysis.
+Discrete Mathematics is a crucial course for students in disciplines such as computer science, information technology, and engineering, as it lays the groundwork for further studies in areas like algorithms, data structures, cryptography, and artificial intelligence.
+• COURSE TOPICS:
+- Chapter 1: Logic Foundations
+- Chapter 2: Sets and Mappings
+- Chapter 3: Counting Methods
+- Chapter 4: Recursive Relations
+- Chapter 5: Set of Integers
+- Chapter 6: Relations on Sets
+- Chapter 7: Boolean Functions
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Toán rời rạc,Nguyễn Hữu Anh,1999,
+- [2]Discrete mathematicsand  its application,Kenneth h.  Rosen,,2012,
+- [3]Discrete  mathematics,Richard johnsonbaugh,2005,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Recognize and explain the English terms related to the subject.
+- G2.Understand, know, and apply the foundational issues of logic, sets, and mappings.
+- G3.Understand, know, and apply counting principles, combinatorial analysis, and recurrence relations in counting problems.
+- G4.Understand, know, and practice integer algorithms.
+- G5.Understand, know, and classify binary relations, order relations, and equivalence relations. Perform calculations in congruence relations.
+- G6.Understand Boolean functions and implement algorithms to find the minimal polynomial form for Boolean functions.
+- G7.Understand and adhere to ethical principles and responsibilities in learning.
+- G8.Have creative thinking, strong critical thinking skills, and a serious attitude toward learning and self-study.
+• Content:
+- Chapter 1: Logic Foundations
+- Chapter 2: Sets and Mappings
+- Chapter 3: Counting Methods
+- Chapter 4: Recursive Relations
+- Chapter 5: Set of Integers
+- Chapter 6: Relations on Sets
+- Chapter 7: Boolean Functions
+• Examination forms: Close Test, Final examination, Homework, In-class Activities, Quiz, quick test, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Toán rời rạc,Nguyễn Hữu Anh,1999,
+- [2]Discrete mathematicsand  its application,Kenneth h.  Rosen,,2012,
+- [3]Discrete  mathematics,Richard johnsonbaugh,2005,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Toán rời rạc,Nguyễn Hữu Anh,1999,
+- [2]Discrete mathematicsand  its application,Kenneth h.  Rosen,,2012,
+- [3]Discrete  mathematics,Richard johnsonbaugh,2005,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Toán rời rạc,Nguyễn Hữu Anh,1999,
+- [2]Discrete mathematicsand  its application,Kenneth h.  Rosen,,2012,
+- [3]Discrete  mathematics,Richard johnsonbaugh,2005,
+
+## READING MATERIALS
+- [1]Toán rời rạc,Nguyễn Hữu Anh,1999,
+- [2]Discrete mathematicsand  its application,Kenneth h.  Rosen,,2012,
+- [3]Discrete  mathematics,Richard johnsonbaugh,2005,

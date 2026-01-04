@@ -1,0 +1,138 @@
+# COURSE: Quy hoạch tuyến tính (CSC10104)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10104
+- **English Name**: Linear Programming
+- **Vietnamese Name**: Quy hoạch tuyến tính
+- **Responsible Person**: for the module: Lê Phúc Lữ
+- **Semester**: (s) in which the module is taught: 6
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+The course focuses on introducing students to the concepts, some mathematical models, applied problems and simulations in Python to solve problems related to the foundations of linear algebra and linear programming.
+• COURSE TOPICS:
+- Introduce to the important subjects, tools:
+- About some optimization problems
+- Reminds about the basic concepts of linear algebra: vectors, matrices
+- Introduction about some practical applications of the linear algebra
+- Introduce the simulation by some Python software package as numpy, scipy, simpy, ...
+- Introduction to the linear programming problems
+- Concept
+- Introduction
+- Components, terms
+- Illustrated problem
+- Solution method
+- Geometric methods for 2D problems.
+- Introduce about simplex algorithm
+- Finding the basic feasible solution
+- Simplex table and interations
+- Optimal sign of simplex method
+- Basic problems in linear algebra
+- • Deterministic calculation
+- • Solve the equation of 2 unknowns
+- • Gaussian method
+- • Matrix product
+- • Solve equations of many unknowns
+- Some advanced content on linear programming
+- • Big M technique in monomorphic method
+- • The concept of duality
+- • Computational processing for dual problem
+- Review: some questions for the midterm test
+- About linear algebra and linear programming
+- • PCA method
+- • SVM method
+- • Solve linear programming problems with a software package based on Python.
+- Application of linear programming
+- • Integer programming problem
+- • Introduce transportation problem: introduction, three ways to find bases, algorithms.
+- • Other applications in other problems: graph, game, coding theory, ...
+- Review 1: about linear algebra
+- Review 2: about linear programming
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Linear Programming - Foundations and Extensions,Robert J.Vanderbei,2020,Springer
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Know some terms in the optimization problems, linear algebra, the basic components such as vectors, matrices, ...
+Understanding what is the linear programming problem and related concepts.
+- G2.Solve basic problems in linear algebra such as determining determinant, Gauss method, matrix product, solving system of equations with many unknowns, ...
+Know how to solve the problem of linear programming by geometry, simplex algorithms; Understand and explainable the terms in the linear programming.
+- G3.Know some practical applications of linear algebra and simulation using numpy, scipy, simpy software packages.
+Know the advanced content of linear programming: the big M technique to find the basis in the simplex algorithm, the concept of duality and relate to the original article.
+- G4.Study the advanced contents on linear algebra such as PCA, SVM and solving linear programming problem on Python.
+Know how to apply linear programming to problems: integer programming, transportation problems, game theory.
+• Content:
+- Introduce to the important subjects, tools:
+- About some optimization problems
+- Reminds about the basic concepts of linear algebra: vectors, matrices
+- Introduction about some practical applications of the linear algebra
+- Introduce the simulation by some Python software package as numpy, scipy, simpy, ...
+- Introduction to the linear programming problems
+- Concept
+- Introduction
+- Components, terms
+- Illustrated problem
+- Solution method
+- Geometric methods for 2D problems.
+- Introduce about simplex algorithm
+- Finding the basic feasible solution
+- Simplex table and interations
+- Optimal sign of simplex method
+- Basic problems in linear algebra
+- • Deterministic calculation
+- • Solve the equation of 2 unknowns
+- • Gaussian method
+- • Matrix product
+- • Solve equations of many unknowns
+- Some advanced content on linear programming
+- • Big M technique in monomorphic method
+- • The concept of duality
+- • Computational processing for dual problem
+- Review: some questions for the midterm test
+- About linear algebra and linear programming
+- • PCA method
+- • SVM method
+- • Solve linear programming problems with a software package based on Python.
+- Application of linear programming
+- • Integer programming problem
+- • Introduce transportation problem: introduction, three ways to find bases, algorithms.
+- • Other applications in other problems: graph, game, coding theory, ...
+- Review 1: about linear algebra
+- Review 2: about linear programming
+• Examination forms: Final examination, Group Presentation, Quiz, quick test, Research Project, Case Study, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Linear Programming - Foundations and Extensions,Robert J.Vanderbei,2020,Springer
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Linear Programming - Foundations and Extensions,Robert J.Vanderbei,2020,Springer
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Linear Programming - Foundations and Extensions,Robert J.Vanderbei,2020,Springer
+
+## READING MATERIALS
+- [1]Linear Programming - Foundations and Extensions,Robert J.Vanderbei,2020,Springer

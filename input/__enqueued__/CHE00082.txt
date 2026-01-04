@@ -1,0 +1,93 @@
+# COURSE: Thực hành Hóa đại cương 2 (CHE00082)
+
+## GENERAL INFORMATION
+- **Course ID**: CHE00082
+- **English Name**: General Chemistry Laboratory 2
+- **Vietnamese Name**: Thực hành Hóa đại cương 2
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 0 hours Hours for laboratory session: ~ 50 hours Hours for self-study, examination preparation, other activities: ~ 60 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Week 1: Lab Exercise 1: Laboratory Safety; Data in the Laboratory; Laboratory Techniques. Volumetric Method - Determining the Density of Liquids
+- Week 2: Lab Exercise 2: Determining the Concentration of Acetic Acid in Vinegar
+- Week 3: Lab Exercise 3: Acids, Bases, Salts
+- Week 4: Lab Exercise 4: Factors Affecting Reaction Rates
+- Week 5: Lab Exercise 5: Determining the Amount of Phosphorus in NPK Chemical Fertilizer
+- Week 6: Lab Exercise 6: Synthesizing Potassium Aluminum Sulfate KAl(SO4)2·12H2O
+- Week 7: Lab Exercise 7: Properties of Organic Functional Groups
+- Week 8: Lab Exercise 8: Synthesizing Aspirin
+- Week 9: Lab Exercise 9: Soaps and Detergents
+- Week 10: Instructor Returns Assignments and Announces Practical Exam Scores
+- Week 11: Review
+- Week 12: Exam
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Giáo trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Use simple equipment in the chemistry lab to measure volume and determine density.
+- G2.Use the titration method to determine the concentration of acetic acid.
+- G3.Identify and distinguish the properties of acids and bases, as well as their effects.
+- G4.Identify the factors affecting the reaction rate.
+- G5.Determine the amount of phosphorus in a chemical compound while also identifying the components of the precipitate.
+- G6.Synthesize alum from aluminum cans.
+- G7.Identify and distinguish important functional groups in organic compounds.
+- G8.Synthesize aspirin from salicylic acid.
+- G9.Prepare soap and detergents.
+• Content:
+- Week 1: Lab Exercise 1: Laboratory Safety; Data in the Laboratory; Laboratory Techniques. Volumetric Method - Determining the Density of Liquids
+- Week 2: Lab Exercise 2: Determining the Concentration of Acetic Acid in Vinegar
+- Week 3: Lab Exercise 3: Acids, Bases, Salts
+- Week 4: Lab Exercise 4: Factors Affecting Reaction Rates
+- Week 5: Lab Exercise 5: Determining the Amount of Phosphorus in NPK Chemical Fertilizer
+- Week 6: Lab Exercise 6: Synthesizing Potassium Aluminum Sulfate KAl(SO4)2·12H2O
+- Week 7: Lab Exercise 7: Properties of Organic Functional Groups
+- Week 8: Lab Exercise 8: Synthesizing Aspirin
+- Week 9: Lab Exercise 9: Soaps and Detergents
+- Week 10: Instructor Returns Assignments and Announces Practical Exam Scores
+- Week 11: Review
+- Week 12: Exam
+• Examination forms: Close Test, Final examination, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## READING MATERIALS
+- [1]Giáo trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực tập Hóa đại cương 2. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ

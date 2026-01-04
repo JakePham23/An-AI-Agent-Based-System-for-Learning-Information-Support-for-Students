@@ -1,0 +1,103 @@
+# COURSE: Kỹ thuật lập trình (CSC10002)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10002
+- **English Name**: Programming Techniques
+- **Vietnamese Name**: Kỹ thuật lập trình
+- **Responsible Person**: for the module: Dr. Đinh Bá Tiến
+- **Semester**: (s) in which the module is taught: 2
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Programming Review
+- Pointer
+- Advanced Pointer
+- Binary File
+- Binary File Applications
+- Recursion
+- Recursion Applications
+- Linked List
+- Stack and Queue
+- Sorting and Dynamic Programming
+- Final Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]C Programming: A Modern Approach, 2th Edition,K.N. King,2008,Norton & Company
+- [2]Kỹ thuật lập trình,Trần Đan Thư, Nguyễn Thanh Phương, Đinh Bá Tiến, Trần Minh Triết,2011,NXB Khoa Học Kỹ thuật
+- [3]Data Structures and Algorithms in C++, 4th Edition,Adam Drozdek,2008,Cengage Learning
+- [4]The C Programming Language, 2th Edition,Brian W. Kernighan, Dennis M. Ritchie,1988,Prentice Hall
+- [5]C Programming, Wikibooks, http://en.wikibooks.org/wiki/C_Programming,,,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Describe and use advanced programming techniques in C/C++.
+- G2.Define and apply recursion concepts in programming.
+- G3.Describe and implement basic data structures in C/C++.
+- G4.Explain and use sort algorithms and dynamic programming in solving programming problems.
+- G5.Explain and present programming concepts in English.
+- G6.Demonstrate team-work and presentation skills.
+• Content:
+- Programming Review
+- Pointer
+- Advanced Pointer
+- Binary File
+- Binary File Applications
+- Recursion
+- Recursion Applications
+- Linked List
+- Stack and Queue
+- Sorting and Dynamic Programming
+- Final Review
+• Examination forms: Final examination, Lab mid-term exam, Lab final exam, Homework, Quiz, quick test, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]C Programming: A Modern Approach, 2th Edition,K.N. King,2008,Norton & Company
+- [2]Kỹ thuật lập trình,Trần Đan Thư, Nguyễn Thanh Phương, Đinh Bá Tiến, Trần Minh Triết,2011,NXB Khoa Học Kỹ thuật
+- [3]Data Structures and Algorithms in C++, 4th Edition,Adam Drozdek,2008,Cengage Learning
+- [4]The C Programming Language, 2th Edition,Brian W. Kernighan, Dennis M. Ritchie,1988,Prentice Hall
+- [5]C Programming, Wikibooks, http://en.wikibooks.org/wiki/C_Programming,,,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]C Programming: A Modern Approach, 2th Edition,K.N. King,2008,Norton & Company
+- [2]Kỹ thuật lập trình,Trần Đan Thư, Nguyễn Thanh Phương, Đinh Bá Tiến, Trần Minh Triết,2011,NXB Khoa Học Kỹ thuật
+- [3]Data Structures and Algorithms in C++, 4th Edition,Adam Drozdek,2008,Cengage Learning
+- [4]The C Programming Language, 2th Edition,Brian W. Kernighan, Dennis M. Ritchie,1988,Prentice Hall
+- [5]C Programming, Wikibooks, http://en.wikibooks.org/wiki/C_Programming,,,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]C Programming: A Modern Approach, 2th Edition,K.N. King,2008,Norton & Company
+- [2]Kỹ thuật lập trình,Trần Đan Thư, Nguyễn Thanh Phương, Đinh Bá Tiến, Trần Minh Triết,2011,NXB Khoa Học Kỹ thuật
+- [3]Data Structures and Algorithms in C++, 4th Edition,Adam Drozdek,2008,Cengage Learning
+- [4]The C Programming Language, 2th Edition,Brian W. Kernighan, Dennis M. Ritchie,1988,Prentice Hall
+- [5]C Programming, Wikibooks, http://en.wikibooks.org/wiki/C_Programming,,,
+
+## READING MATERIALS
+- [1]C Programming: A Modern Approach, 2th Edition,K.N. King,2008,Norton & Company
+- [2]Kỹ thuật lập trình,Trần Đan Thư, Nguyễn Thanh Phương, Đinh Bá Tiến, Trần Minh Triết,2011,NXB Khoa Học Kỹ thuật
+- [3]Data Structures and Algorithms in C++, 4th Edition,Adam Drozdek,2008,Cengage Learning
+- [4]The C Programming Language, 2th Edition,Brian W. Kernighan, Dennis M. Ritchie,1988,Prentice Hall
+- [5]C Programming, Wikibooks, http://en.wikibooks.org/wiki/C_Programming,,,

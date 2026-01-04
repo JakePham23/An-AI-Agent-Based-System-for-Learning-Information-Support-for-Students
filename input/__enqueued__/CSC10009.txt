@@ -1,0 +1,97 @@
+# COURSE: Hệ thống máy tính (CSC10009)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10009
+- **English Name**: Computer Systems
+- **Vietnamese Name**: Hệ thống máy tính
+- **Responsible Person**: for the module: Chung Thuỳ Linh
+- **Semester**: (s) in which the module is taught: 4
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 25 hours Hours for laboratory session: ~ 0 hours Hours for self-study, examination preparation, other activities: ~ 57.5 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Overview of computer knowledge, data represented on the computer
+- Microprocessor’s organization and operation
+- MIPS-32 bit architecture
+- Basic MIPS-32 bit implementation
+- X86-32 bit architecture
+- (Extend IA32 to 64 bits)
+- Running program on a system
+- Circuit logic: design combination circuit, ALU design way, application of sequence sequence
+- Memory Hierarchy
+- I/O System
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Computer Systems A Programmers Perspective,Prentice.Hall,2016,Pearson
+- [2]Computer Organization and Design: The Hardware/Software Interface (5th ed),D. A. Patterson and J. L. Hennessy,2014,Morgan Kaufmann
+- [3]Computer Organization: A Quantiative Approache,Patterson and J. L. Hennessy,2017,Morgan Kaufmann
+- [4]https://youtube.com/playlist?list=PLvvXmh2iABsLRCucq8APMG6sh6b-mQ90e,,,MBOOK
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Use the specialized English terminology about information technology
+- G2.Identify basic machine organization, including processors, memory hierarchical, and input/output architecture
+- G3.Translate bit strings to numbers using unsigned, 2’s complement, and IEEE standard floating-point representation system
+- G4.Apply instruction set architectures: RISC vs CISC, especially MIPS-32bit & x86-32 bit in building an assembly program
+- G5.Illustrate digital circuit at logic level by simulation tool (combinational circuit)
+• Content:
+- Overview of computer knowledge, data represented on the computer
+- Microprocessor’s organization and operation
+- MIPS-32 bit architecture
+- Basic MIPS-32 bit implementation
+- X86-32 bit architecture
+- (Extend IA32 to 64 bits)
+- Running program on a system
+- Circuit logic: design combination circuit, ALU design way, application of sequence sequence
+- Memory Hierarchy
+- I/O System
+- Review
+• Examination forms: Close Test, Homework, Quiz, quick test, Excercise
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Systems A Programmers Perspective,Prentice.Hall,2016,Pearson
+- [2]Computer Organization and Design: The Hardware/Software Interface (5th ed),D. A. Patterson and J. L. Hennessy,2014,Morgan Kaufmann
+- [3]Computer Organization: A Quantiative Approache,Patterson and J. L. Hennessy,2017,Morgan Kaufmann
+- [4]https://youtube.com/playlist?list=PLvvXmh2iABsLRCucq8APMG6sh6b-mQ90e,,,MBOOK
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Systems A Programmers Perspective,Prentice.Hall,2016,Pearson
+- [2]Computer Organization and Design: The Hardware/Software Interface (5th ed),D. A. Patterson and J. L. Hennessy,2014,Morgan Kaufmann
+- [3]Computer Organization: A Quantiative Approache,Patterson and J. L. Hennessy,2017,Morgan Kaufmann
+- [4]https://youtube.com/playlist?list=PLvvXmh2iABsLRCucq8APMG6sh6b-mQ90e,,,MBOOK
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Systems A Programmers Perspective,Prentice.Hall,2016,Pearson
+- [2]Computer Organization and Design: The Hardware/Software Interface (5th ed),D. A. Patterson and J. L. Hennessy,2014,Morgan Kaufmann
+- [3]Computer Organization: A Quantiative Approache,Patterson and J. L. Hennessy,2017,Morgan Kaufmann
+- [4]https://youtube.com/playlist?list=PLvvXmh2iABsLRCucq8APMG6sh6b-mQ90e,,,MBOOK
+
+## READING MATERIALS
+- [1]Computer Systems A Programmers Perspective,Prentice.Hall,2016,Pearson
+- [2]Computer Organization and Design: The Hardware/Software Interface (5th ed),D. A. Patterson and J. L. Hennessy,2014,Morgan Kaufmann
+- [3]Computer Organization: A Quantiative Approache,Patterson and J. L. Hennessy,2017,Morgan Kaufmann
+- [4]https://youtube.com/playlist?list=PLvvXmh2iABsLRCucq8APMG6sh6b-mQ90e,,,MBOOK

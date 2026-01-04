@@ -1,0 +1,94 @@
+# COURSE: Hệ điều hành (CSC10007)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10007
+- **English Name**: Operating Systems
+- **Vietnamese Name**: Hệ điều hành
+- **Responsible Person**: for the module: Dr. Trần Trung Dũng
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Overview
+- A brief of History
+- Architecture
+- Disk
+- File systems
+- Detail of FAT/NTFS/…
+- Processes and Threads
+- CPU Schedule
+- Memory management
+- Virtual memory
+- Synchronnization
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Giáo trình hệ điều hành,Tran Trung Dung, Pham Tuan Son,2021,NXB Khoa Học Kĩ Thuật
+- [2]Modern Operating System, 4th Edition,Andrew Tanenbaum & Herbert Bos,2014,Pearson PLC
+- [3]Operating System Concepts, 10th Edition,Abraham Silberschatz, Peter B. Galvin & Greg Gagne,2018,John Wiley & Sons
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Explain a lot of practical information about how programming languages, operating systems, and architectures interact and how to use each effectively.
+- G2.Show how the operating system is structured and its components work
+- G3.Use and manipulate computers and computer program
+- G4.Use the specialized English terminology in Operating System
+- G5.Apply some skills at the individual and the teamwork level to present problems in the Computer Networking
+• Content:
+- Overview
+- A brief of History
+- Architecture
+- Disk
+- File systems
+- Detail of FAT/NTFS/…
+- Processes and Threads
+- CPU Schedule
+- Memory management
+- Virtual memory
+- Synchronnization
+- Review
+• Examination forms: Open Test, Final examination, Lab mid-term exam, Lab final exam, Written Report, In-class Activities, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình hệ điều hành,Tran Trung Dung, Pham Tuan Son,2021,NXB Khoa Học Kĩ Thuật
+- [2]Modern Operating System, 4th Edition,Andrew Tanenbaum & Herbert Bos,2014,Pearson PLC
+- [3]Operating System Concepts, 10th Edition,Abraham Silberschatz, Peter B. Galvin & Greg Gagne,2018,John Wiley & Sons
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình hệ điều hành,Tran Trung Dung, Pham Tuan Son,2021,NXB Khoa Học Kĩ Thuật
+- [2]Modern Operating System, 4th Edition,Andrew Tanenbaum & Herbert Bos,2014,Pearson PLC
+- [3]Operating System Concepts, 10th Edition,Abraham Silberschatz, Peter B. Galvin & Greg Gagne,2018,John Wiley & Sons
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình hệ điều hành,Tran Trung Dung, Pham Tuan Son,2021,NXB Khoa Học Kĩ Thuật
+- [2]Modern Operating System, 4th Edition,Andrew Tanenbaum & Herbert Bos,2014,Pearson PLC
+- [3]Operating System Concepts, 10th Edition,Abraham Silberschatz, Peter B. Galvin & Greg Gagne,2018,John Wiley & Sons
+
+## READING MATERIALS
+- [1]Giáo trình hệ điều hành,Tran Trung Dung, Pham Tuan Son,2021,NXB Khoa Học Kĩ Thuật
+- [2]Modern Operating System, 4th Edition,Andrew Tanenbaum & Herbert Bos,2014,Pearson PLC
+- [3]Operating System Concepts, 10th Edition,Abraham Silberschatz, Peter B. Galvin & Greg Gagne,2018,John Wiley & Sons

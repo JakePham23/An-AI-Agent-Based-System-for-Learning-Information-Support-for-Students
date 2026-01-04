@@ -1,0 +1,163 @@
+# COURSE: Phương pháp luận sáng tạo (BAA00007)
+
+## GENERAL INFORMATION
+- **Course ID**: BAA00007
+- **English Name**: Creativity Methodologies
+- **Vietnamese Name**: Phương pháp luận sáng tạo
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 4
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 25 hours Hours for laboratory session: ~ 0 hours Hours for self-study, examination preparation, other activities: ~ 57.5 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Chapter 1: Introduction (2 periods)
+- Some basic concepts.
+- Subjects, objectives, benefits, and significance of the course on creative methodology..
+- The science of creativity and creative methodology: a brief history from Heuristics to Creatology.
+- Chapter 2: Natural Methods for Problem Solving and Decision Making – Overview of Approaches to Building Creative Methodology – TRIZ (2 periods).
+- Trial and error method.
+- Advantages and disadvantages of the trial and error method.
+- Classification of levels of creativity and levels of difficulty of problems.
+- Overview of approaches in the field of creative methodology.
+- Theory of solving inventive problems (TRIZ): basic ideas and sources of knowledge.
+- Block diagram of the theory of solving inventive problems (TRIZ).
+- Chapter 3: Some scientific and technical knowledge as the foundation of the subject (12 periods)
+- From needs to actions and vice versa.
+- Model of transforming information into knowledge in the process of problem-solving and decision-making.
+- Psychological factors and processes in creative thinking.
+- Psychological inertia.
+- Materialist dialectics and dialectical thinking.
+- Types of contradictions in problem-solving and decision-making.
+- Systems and systems thinking.
+- System inertia.
+- Regarding the two concepts: invention and innovation. The role and benefits of patent information in building creative methodology.
+- Chapter 4: Basic creative tricks (principles) (12 periods)
+- Things to note about basic creative tricks (principles).
+- Text presenting the basic creative principles.
+- Program for discovering tricks and reconstructing the thinking process to achieve the intended objects.
+- Program for streamlining the problem-solving and decision-making process.
+- Table of principles used to solve technical contradictions.
+- System of model transformations used to solve physical contradictions.
+- From principles to methods.
+- Chapter 5: Methods for enhancing creative thinking (6 periods)
+- Method of Focal Objects.
+- Morphological Analysis method.
+- Check-listing Method.
+- Brainstorming method.
+- Synectics method (using analogies).
+- Chapter 6: Laws of system development (10 periods)
+- Laws of system development.
+- The lifecycle of a system.
+- Diagram of the potential developments of a system.
+- Creative principles and methods: specific representations of the laws of system development.
+- Chapter 7: Summary of the introductory program on creative methodology (1 period)
+- Reasons for economic success in the 19th and 20th centuries.
+- Reasons for economic success in the 21st century.
+- Challenges.
+- Consequences of the challenges.
+- Requirements and actions needed to cope with the challenges.
+- New skills for the future.
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Giáo trình tóm tắt: phương pháp luận sáng tạo khoa học - kỹ thuật giải quyết vấn đề và ra quyết định (chương trình sơ cấp).,Phan Dũng,2000,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Provide a system of ways to consider phenomena.
+- G2.Enhance observation skills and creative curiosity.
+- G3.Analyze and logically explain existing creative solutions.
+- G4.Increase sensitivity in acquiring and evaluating the value of information.
+- G5.Recognize the unified similarities among systems that seem very different.
+- G6.Overcome psychological inertia.
+- G7.Help identify available reserves in the system, especially free reserves that can be utilized.
+- G8.Propose and select appropriate approaches to solve problems.
+- G9.Resolve conflicts present in the problem.
+- G10.Generate ideas for improving the given system.
+- G11.Forecast the developmental trends of the given system in the future.
+- G12.Assist in identifying, formulating, and selecting the problems that need to be solved.
+- G13.Practice developing creative imagination.
+- G14.Improve oneself, establish a systematic, creative work style and mindset.
+- G15.Contribute to building systematic and dialectical thinking.
+• Content:
+- Chapter 1: Introduction (2 periods)
+- Some basic concepts.
+- The science of creativity and creative methodology: a brief history from Heuristics to Creatology.
+- Chapter 2: Natural Methods for Problem Solving and Decision Making – Overview of Approaches to Building Creative Methodology – TRIZ (2 periods).
+- Trial and error method.
+- Advantages and disadvantages of the trial and error method.
+- Classification of levels of creativity and levels of difficulty of problems.
+- Overview of approaches in the field of creative methodology.
+- Theory of solving inventive problems (TRIZ): basic ideas and sources of knowledge.
+- Block diagram of the theory of solving inventive problems (TRIZ).
+- Chapter 3: Some scientific and technical knowledge as the foundation of the subject (12 periods)
+- From needs to actions and vice versa.
+- Model of transforming information into knowledge in the process of problem-solving and decision-making.
+- Psychological factors and processes in creative thinking.
+- Psychological inertia.
+- Materialist dialectics and dialectical thinking.
+- Types of contradictions in problem-solving and decision-making.
+- Systems and systems thinking.
+- System inertia.
+- Regarding the two concepts: invention and innovation. The role and benefits of patent information in building creative methodology.
+- Chapter 4: Basic creative tricks (principles) (12 periods)
+- Things to note about basic creative tricks (principles).
+- Text presenting the basic creative principles.
+- Program for discovering tricks and reconstructing the thinking process to achieve the intended objects.
+- Program for streamlining the problem-solving and decision-making process.
+- Table of principles used to solve technical contradictions.
+- System of model transformations used to solve physical contradictions.
+- From principles to methods.
+- Chapter 5: Methods for enhancing creative thinking (6 periods)
+- Method of Focal Objects.
+- Morphological Analysis method.
+- Check-listing Method.
+- Brainstorming method.
+- Synectics method (using analogies).
+- Chapter 6: Laws of system development (10 periods)
+- Laws of system development.
+- The lifecycle of a system.
+- Diagram of the potential developments of a system.
+- Creative principles and methods: specific representations of the laws of system development.
+- Chapter 7: Summary of the introductory program on creative methodology (1 period)
+- Reasons for economic success in the 19th and 20th centuries.
+- Reasons for economic success in the 21st century.
+- Challenges.
+- Consequences of the challenges.
+- Requirements and actions needed to cope with the challenges.
+- New skills for the future.
+• Examination forms: Close Test, Final examination, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình tóm tắt: phương pháp luận sáng tạo khoa học - kỹ thuật giải quyết vấn đề và ra quyết định (chương trình sơ cấp).,Phan Dũng,2000,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình tóm tắt: phương pháp luận sáng tạo khoa học - kỹ thuật giải quyết vấn đề và ra quyết định (chương trình sơ cấp).,Phan Dũng,2000,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình tóm tắt: phương pháp luận sáng tạo khoa học - kỹ thuật giải quyết vấn đề và ra quyết định (chương trình sơ cấp).,Phan Dũng,2000,
+
+## READING MATERIALS
+- [1]Giáo trình tóm tắt: phương pháp luận sáng tạo khoa học - kỹ thuật giải quyết vấn đề và ra quyết định (chương trình sơ cấp).,Phan Dũng,2000,

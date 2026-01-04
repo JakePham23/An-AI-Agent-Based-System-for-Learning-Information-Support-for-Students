@@ -1,0 +1,89 @@
+# COURSE: Thực tập tốt nghiệp (CSC10252)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10252
+- **English Name**: Industrial-based Thesis
+- **Vietnamese Name**: Thực tập tốt nghiệp
+- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Văn Vũ
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 0 hours Hours for laboratory session: ~ 250 hours Hours for self-study, examination preparation, other activities: ~ 300 hours
+
+## COURSE DESCRIPTION
+The course is performed in the form of thesis projects. Each project is carried out by up to two students who are expected to complete the project within 6 months. The thesis project is expected to be the culmination of students’ years of undergraduate study. They need to apply all knowledge, skills, and experience gained from all courses that they have already taken to carry out work necessary to complete the thesis project. The project is also expected to be sufficiently large in size and complexity as compared with other projects taken during their undergraduate study.
+The thesis project can be either research-oriented or application-oriented. In the research-oriented project, students need to propose a relevant research topic (based on recommendations of a thesis supervisor), carry out necessary research activities, write a thesis, and present the thesis in front of a thesis committee. The research work may lead to publications in a scientific conference or journal. In the application-oriented project, students in collaboration with a thesis supervisor propose and develop a software application, write a thesis to describe the application along with the process of developing it, and present the thesis in front of a thesis committee. The application should have the potential to be applied in practice and is possibly deployed for real use.
+Students on each team are assessed and graded by the thesis committee using the course’s predefined rubrics. They are required to meet a designated thesis reviewer to present their work and answer any questions the reviewer has. They then to present the thesis in front of the committee to defend their work. The final grade will be calculated from the grades given by the reviewer, the supervisor, and the committee members.
+• COURSE TOPICS:
+- Topic registration.
+- Project proposal submission.
+- Project report submission for defense.
+- Project defense with the defense committee.
+- Report revision and final submission after the defense.
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]The only grammar book you'll ever need: A one-stop source for every writing assignment,Thurman, Susan, and Larry Shea,2003,Adams Media
+- [2]Writing for Computer Science (4th. ed.).,Justin Zobel,2014,Springer
+- [3]How to write a great research paper,Simon Peyton Jones,,Microsoft Research, Cambridge
+- [4]How to Write a SIGGRAPH Paper: A Guide to Choosing a Good Research Topic, Doing the Research, and Writing It Up,David Salesin, Adobe,2012,SIGGRAPH Tutorial
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Analyze a sufficiently complex problem, generate ideas and requirements for an appropriate solution to the problem
+- G2.Apply appropriate knowledge, skills, techniques and tools to design, implement and evaluate the proposed solution (either a scientific solution or a software application)
+- G3.Create a technical report to communicate the proposed solution in detail
+- G4.Defend the project through a poster presentation to a reviewer and the committee
+- G5.Practice project management activities
+- G6.Practice teamwork
+• Content:
+- Topic registration.
+- Project proposal submission.
+- Project report submission for defense.
+- Project defense with the defense committee.
+- Report revision and final submission after the defense.
+• Examination forms: Lab Report, Research Project, Individual Presentation, Group Presentation
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The only grammar book you'll ever need: A one-stop source for every writing assignment,Thurman, Susan, and Larry Shea,2003,Adams Media
+- [2]Writing for Computer Science (4th. ed.).,Justin Zobel,2014,Springer
+- [3]How to write a great research paper,Simon Peyton Jones,,Microsoft Research, Cambridge
+- [4]How to Write a SIGGRAPH Paper: A Guide to Choosing a Good Research Topic, Doing the Research, and Writing It Up,David Salesin, Adobe,2012,SIGGRAPH Tutorial
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The only grammar book you'll ever need: A one-stop source for every writing assignment,Thurman, Susan, and Larry Shea,2003,Adams Media
+- [2]Writing for Computer Science (4th. ed.).,Justin Zobel,2014,Springer
+- [3]How to write a great research paper,Simon Peyton Jones,,Microsoft Research, Cambridge
+- [4]How to Write a SIGGRAPH Paper: A Guide to Choosing a Good Research Topic, Doing the Research, and Writing It Up,David Salesin, Adobe,2012,SIGGRAPH Tutorial
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The only grammar book you'll ever need: A one-stop source for every writing assignment,Thurman, Susan, and Larry Shea,2003,Adams Media
+- [2]Writing for Computer Science (4th. ed.).,Justin Zobel,2014,Springer
+- [3]How to write a great research paper,Simon Peyton Jones,,Microsoft Research, Cambridge
+- [4]How to Write a SIGGRAPH Paper: A Guide to Choosing a Good Research Topic, Doing the Research, and Writing It Up,David Salesin, Adobe,2012,SIGGRAPH Tutorial
+
+## READING MATERIALS
+- [1]The only grammar book you'll ever need: A one-stop source for every writing assignment,Thurman, Susan, and Larry Shea,2003,Adams Media
+- [2]Writing for Computer Science (4th. ed.).,Justin Zobel,2014,Springer
+- [3]How to write a great research paper,Simon Peyton Jones,,Microsoft Research, Cambridge
+- [4]How to Write a SIGGRAPH Paper: A Guide to Choosing a Good Research Topic, Doing the Research, and Writing It Up,David Salesin, Adobe,2012,SIGGRAPH Tutorial

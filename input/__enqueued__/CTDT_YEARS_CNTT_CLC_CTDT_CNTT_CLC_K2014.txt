@@ -1,0 +1,543 @@
+TÀI LIỆU: CTDT_CNTT_CLC_K2014
+TỔNG SỐ TRANG: 12
+==================================================
+
+--- Trang 1 ---
+_ ĐẠI HỌC QUỐC GIA TP.HCM... CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc
+
+Số: 2)04/QD-KHTN
+TP. Hồ Chí Minh, ngay 0Zthang {| năm 2018
+
+QUYẾT ĐỊNH
+Ban hành Chương trình đào tạo đại học Chất lượng cao
+ngành Công nghệ Công nghệ thông tin
+
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
+Căn cứ Quyết định số 26/2014/QĐ- -TTg ngày 26 tháng 3 năm 2014 của Thủ tướng
+Chính phủ ban hành Quy chế về tổ chức và hoạt động của Đại học Quốc gia và các cơ sở
+giáo dục đại học thành viên;
+
+Căn ctr Quyét định số 867/QD- -DHQG ngày 17/8/2016 của Dai học Quốc gia
+TP.HCM về việc ban hành Quy chế tổ chức và hoạt động của trường đại học thành viên
+và khoa trực thuộc Đại học Quốc gia Thành phố Hồ Chí Minh;
+
+Căn cứ Công văn số 1011/DHQG-DH&SDH ngày 17/06/ 2013 của Đại học Quốc
+gia TP. HCM về việc triển khai các chương trình thuộc Đề án thí điểm chương trình chất
+lượng cao với học phí tương ứng tại ĐHQG-HCM;
+
+Xét dé nghị của Trưởng Khoa Công nghệ thông tin và Trưởng phòng Đào tạo,
+
+QUYÉT ĐỊNH:
+
+Điều 1. Ban hành kèm theo quyết định này là Chương trình đào tạo đại học Chất
+lượng cao ngành Công nghệ thông tin, áp dụng từ khóa tuyển 2014.
+
+Điều 2. Trưởng các Phòng/Ban chức năng, trưởng khoa Công nghệ thông tin và sinh
+viên học chương trình Chất lượng cao chịu trách thi hành quyết định này kể từ ngày Hil
+
+Noi nhận: Trần Lê Quan
+- ĐHQG- HCM;
+Như điều 2;
+
+- Lưu: VT, PBT.
+
+--- Trang 3 ---
+ĐẠI HỌC QUỐC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG DẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập — Tự do — Hanh phúc
+
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+
+CHÁT LƯỢNG CAO VỚI HỌC PHÍ TƯƠNG ỨNG
+NHÓM NGANH CÔNG NGHỆ THONG TIN - KHÓA TUYỂN 2014
+
+của Hiệu trưởng Trường Đại học Khoa học Tự nhiên)
+Tên chương trình _ : Chất lượng cao với học phí tương ứng nhóm ngành Công nghệ thông tin
+Trình độ đào tạo _: Đại học
+
+Loại hình đào tạo: Chính quy
+
+1. MỤC TIỂU ĐÀO TẠO
+
+1.1 MỤC TIỂU CHUNG
+Mục tiêu của chương trình đào tạo nhằm đào tạo ra các sinh viên tốt nghiệp:
+
+s Có kiến thúc kỹ thuật vững chắc; hiểu được các trách nhiệm và đạo đức nghề nghiệp dé
+áp dụng các công nghệ, kỹ thuật mới nhất của ngành công nghệ thông tin (CNTT) vào
+việc giải quyết các vấn đề trên thực tế; có thể áp dụng các phương pháp khoa học trong
+việc thực hiện các nghiên cứu trong lĩnh vực CNTT.
+
+® Trang bị cho sinh viên những kỹ năng cá nhân, kỹ năng nhóm/giao tiếp và kỹ năng
+CDIO để nhận biết và giải quyết các vấn đề thực tế một cách có hệ thống, có logic và
+Sáng tạo.
+
+s Sinh viên được trang bị day đủ đẻ có thé hình thành vấn dé, phân tích, thiết kế, giải
+quyết vấn đề và vận hành hệ thống CNTT.
+
+1.2 MỤC TIÊU CỤ THẺ - CHUAN ĐẦU RA CUA CHƯƠNG TRÌNH ĐÀO TẠO
+
+1.2.1 Mục tiêu cu thể
+
+e« Biết được trách nhiệm, đạo đức nghề nghiệp, và hiện trạng kinh tế, môi trường và xã hội.
+
+s C6 day đủ các kỹ năng cá nhân, kỹ năng nhóm/ giao tiếp và kỹ nang CDIO.
+
+e C6 khả nang kế thừa và phát triển các kiến thức, kỹ năng chuyên môn.
+
+* Cé khả năng áp dụng các kiến thức chuyên môn trong quá trình giải quyết các vấn dé
+thực tế hay nghiên cứu.
+
+® Có khả năng hình thành ý tưởng, phân tích, thiết kế, giải quyết và vận hành các hệ thống
+CNEL.
+
+* Co khả nang sử dụng các công cụ, phương pháp, quy trình, kỹ thuat,... để hỗ trợ qua
+trình giải quyết các bài toán CNTT.
+
+12.2 Chuẩn đầu ra của chương trình giáo dục
+
+** Kiến thức
+— Kiến thức nền tảng về Khoa học
+
+Trường ĐHKHTN. Đại học quốc gia Tp. HCM
+Chương trình giáo duc đại học - Chat lượng cao với học phí tương ning nhỏm ngành CNTT - trang 1/9
+
+--- Trang 4 ---
+© Khối kiến thúc về Toán
+s Khối kiến thúc về Vật lý
+© Khối kiến thức về Điện - Điện tử
+— Kiến thức nền tảng của lĩnh vực CNTT
+© Khối kiến thức về lập trình
+© Kiến thức tổng quát về lĩnh vực CNTT
+— Kiến thức kỹ thuật nâng cao, các công cụ và phương pháp trong ngành CNTT
+« Khối kiến thức cấu trúc dữ liệu và giải thuật
+« Khối kiến thức về hệ điều hành máy tính
+© Khéi kiến thức kiến trúc máy tính
+¢ Khối kiến thức mạng máy tính
+© Khối kiến thức cơ sở dữ liệu
+e Khối kiến thức về an ninh, bảo mật và tính riêng tư
+© Các công cụ, phương pháp và công nghệ hỗ trợ trong ngành CNTT
+— Các kiến thức nâng cao của HTTT
+© Kiến thức về dữ liệu và khai thác dữ liệu
+© Kiến thức về Hệ thống thông tin
+e Kiến thức về các loại ứng dụng HTTT
+Các kiến thức nâng cao của CNPM
+
+e Ước lượng chi phí xây dựng hệ thống phần mềm
+e Tiến trình và phương pháp phát triển phần mềm
+© Thiết kế kiến trúc phần mềm
+se Các công nghệ hiện đại và nâng cao trong phát triển phần mềm
+— Các kiến thức nâng cao của MMT
+e Lập trình mang
+© Quản trị, kiểm soát và bảo trì mang
+e Anninh mạng
+e Điện toán dam mây
+© Các công nghệ mạng hiện đại và mạng tương lai
+— Các kiến thức nâng cao của KHMT
+e Các kiến thức nâng cao chung của chuyên ngành Khoa học máy tính
+© Các kiến thức nâng cao chuyên ngành Công nghệ trí thức
+© Các kiến thức nâng cao chuyên ngành Khoa học máy tính
+¢ Các kiến thức nâng cao chuyên ngành Thị giác máy tính và Robot
++* Kỹ năng mềm
+— Kỹ năng và tính cách cá nhân
+¢ Độc lập
+e Tự tin trong môi trường nghề nghiệp
+e Sin sàng ra quyết định
+e Cách nghĩ sáng tao
+e_ Cách nghĩ mang tính phản biện
+¢ Thích nghỉ vào môi trường mới
+
+Trưởng DHKHTN, Đại học quốc gia Tp. HCM
+Chương trình giáo dục đai học - Chất lượng cao với học phí tương tứng nhóm ngành CNTT - trang 2/90
+
+--- Trang 5 ---
+¢ Quản ly tai nguyên cá nhân (thời gian, tiền bac...)
+© Học và tự học suốt đời
+
+© Quan trị dự án
+— Kỹ năng nhóm
+
+Thành lập nhóm
+Hoạt động trong nhóm
+Lãnh đạo nhóm
+Phát triển nhóm
+
+— Kỹ năng giao tiếp
+© Kỹ năng giao tiếp nghe, nói, đọc, viết
+s® Kỹ năng trình bày
+
+s® Kỹ năng đàm phán
+© Kỹ năng phát triển các mối quan hệ xã hội
+
+— Kỹ năng ngoại ngữ
+« Kỹ năng nói tiếng Anh
+
+Kỹ năng nghe tiếng Anh
+
+Kỹ năng đọc tiếng Anh
+
+Kỹ năng viết tiếng Anh
+
+Sử dụng các thuật ngữ chuyên ngành
+
+— Kỹ năng lãnh đạo
+
+Thái độ lãnh đạo
+
+Nhận biết các vấn đề, sự cố và nghịch lý
+
+Đề xuất và sáng tạo trong việc giải quyết các van dé, sự cố
+Xây dựng và dẫn dat một tổ chức
+
+Lên kế hoạch và dẫn dat dự án đến thành công
+
+— Kỹ năng khởi nghiệp
+
+Thành lập công ty, tổ chức công ty và quản trị
+
+Viết kế hoạch kinh doanh
+
+Tài chính công ty
+
+Hình thành ý tưởng sản phẩm, dịch vụ dựa trên công nghệ
+Sáng tạo trong sản phẩm/ dịch vụ, quảng bá
+
+s* Ngữ cảnh, trách nhiệm va dao đức
+— Ngũ cảnh bên ngoài, xã hội, kinh tế và môi trường
+
+Các vấn đề và giá trị của xã hội, kinh tế và môi trường đương đại
+
+e Vai trò và trách nhiệm
+© Ngũ cảnh văn hóa, lịch sử
+e Luật lệ và quy định của xã hội
+
+— Ngữ cảnh công ty và doanh nghiệp
+
+© Ngữ cảnh và văn hóa của công ty, tổ chức
+
+© Các bên liên quan, mục tiêu và chiến lược của công ty/ doanh nghiệp
+e Luật lệ và quy định của công ty/ doanh nghiệp
+
+— Đạo đức, trách nhiệm và các giá trị cá nhân cốt lõi
+
+Trường ĐHKHTN, Dai học quốc gia Tp. HCM
+Chương trình giáo duc dai học - Chat lượng cao với học phí tương ting nhóm ngành CNTT - trang 3/9
+
+--- Trang 6 ---
+© Các chuẩn mục và nguyên tắc đạo đức
+e Trách nhiệm và cách hành xử chuyên nghiệp
+s Sựcam kết
+¢ Trung thực, uy tín và trung thành
+“+ Phương pháp khoa học và nghiên cứu
+— Suy luận có phân tích và giải quyết vấn dé
+5 Xác định và hình thành van dé
+© M6 hình hóa và phân tích
+* Suy luận & giải quyết
+© Đánh giá giải pháp và đề xuất
+— Thực nghiệm, điều tra và khám pha tri thức
+© Hình thành giả thuyết
+e Khảo sát trên tài liệu
+© Khao sát trên thực tế
+© Kiểm chứng và bảo vệ giả thuyết
+— Suynghĩ tầm mức hệ thống
+e Suy nghĩ toàn cục
+¢ Sw tương tác giữa các thành phần trong hệ thong
+e Xác định độ ưu tiên và quan trọng
+© Đánh giá hệ thống
++* Hình thành ý tưởng, thiết kế và hiện thực hóa hệ thống CNTT
+— Hình thành ý tưởng/ bài toán/ dự án
+e Xác định mục tiêu của bài toán/ dự án và thu thập yêu cầu
+e Phân tích và nghiên cứu tinh khả thi của bài toán/ dự án
+se Đặc tả mục tiêu, yêu cầu của bài toán/ dự án
+— Thiết kế hệ thống CNTT (giải pháp, sản phẩm, ...)
+© Tiến trình và phương pháp thiết kế
+e Thiết kế kiến trúc và các thành phần của hệ thống CNTT (chức nang, CSDL,
+© Thiết kế đa ngành, đa mục tiêu
+— Hiện thực hóa (implementation)
+© Các tiến trình và phương pháp hiện thực hóa
+e Hiện thực hóa hệ thống dựa trên thiết kế
+® Tích hợp các thành phần trong hệ thong
++ Kiểm chứng, vận hành, bảo trì va phát triển hệ thong CNTT
+~ Kiểm chứng
+ Tién trình và phương pháp kiểm chứng
+° Kiểm chứng các yêu cầu
+© Kiểm chứng các thành phan hay toàn bộ hệ thong
+— Vận hành và bảo trì
+« Huấn luyện và vận hành
+© Quản lý việc vận hành
+
+Trường ĐHKHTN, Đại học quốc gia Tp. HCM
+Chương trình giáo duc dai học - C ‘hat hương cao với hoc phí tương tửng nhóm ngành CNTT - trang 4/9
+
+--- Trang 7 ---
+« Bảo trì hệ thông
+— Cải tiến và kết thúc
+© Cải tiến hệ thống
+© Kết thúc và hủy bỏ hệ thống
+1.3 CƠ HOI NGHE NGHIỆP
+Sinh viên sau khi tốt nghiệp có thé có các cơ hội nghề nghiệp sau:
+
+© Các vị trí thuộc nhóm Phát triển sản phẩm phần mềm: vị trí phân tích nghiệp vụ/ phân
+tích yêu cầu người dùng, thiết kế phần mềm, lập trình phần mềm, kiểm thử sản phâm,
+quản lý quy trình phát triển phần mềm, quản lý dự án, tu vấn,...
+
+e Cac vị trí thuộc nhóm Hệ thống thông tin: quản trị cơ sở dữ liệu, quản trị hệ thông
+CNTT cho doanh nghiệp, tư vấn hệ thống CNTT, quản trị thông tin, quản trị an ninh/bảo
+mật,...
+
+© Cac vị trí thuộc nhóm Mang máy tính và viễn thông: quản trị mạng, quản trị hệ thong
+CNTT, an ninh va bao mat hé théng mang,...
+
+e Các vị trí thuộc nhóm Nghiên cứu tại các viện, trường đại học, các công ty phan mém
+lớn: trí tuệ nhân tạo, khai thác dữ liệu, xử lý ngôn ngữ,...
+
+© Cac vị trí thuộc nhóm Giảng day: Trợ giảng, Giảng viên,...
+
+© Cae vị trí khác: tư vấn, huấn luyện về các hệ thống CNTT....
+
+2. THỜI GIAN ĐÀO TẠO: 4 năm
+3. KHOI LƯỢNG KIÊN THỨC TOAN KHÓA: 146 tin chỉ
+4. ĐÓI TƯỢNG TUYẾN SINH
+
+Theo Quy chế tuyển sinh đại học, cao đẳng hệ chính quy của Bộ Giáo dục và Dao tao
+
+5. QUY TRÌNH ĐÀO TẠO
+
+Theo quy chế Dao tạo đại học va cao đẳng theo Hệ thống tin chỉ ban hành kèm theo Quyết định
+số 1368/DHQG-DH&SDH ngày 21 tháng 11 năm 2008 của Giám Đốc Đại học Quốc gia Tp. Hỗ
+Chí Minh.
+
+6. CÁU TRÚC CHƯƠNG TRÌNH
+
+Cấu trúc chung của nội dung chương trình đào tạo được trình bày trong bảng dưới đây:
+KHỎI KIÊN THỨC SO TIN CHÍ | GHI CHU |
+
+KIÊN THỨC BÁT BUỘC > 106
+Kiến thức giáo dục đại cương 63 |
+Tin hoc 24
+Toan 16
+Vat ly 8 =
+Khác 15
+Kiến thức cơ sở 23
+Kiến thức chuyên nghiệp >20
+KIÊN THỨC TỰ CHỌN >30 _|
+HOC PHAN TOT NGHIEP 10
+_ iene Sinh viên có thê tích lãy
+TONG CONG nhiéu hon 146 TC. ;
+
+Trưởng ĐHKHTN. Đại học quốc gia Tp. HCM
+Chương trình giáo duc đại học - Chất lượng cao với học phí tương tứng nhóm ngành CNTT - trang 5/9
+
+--- Trang 8 ---
+7. NỘI DUNG CHƯƠNG TRINH
+
+7.1 KIEN THUC GIAO DUC DAI CUONG
+
+Tổng công 63 tin chi (không kế Giáo dục thé chat và Giáo dục quốc phòng), bao gồm các khối kiến
+
+thức Tin học, Toán, Vật lý, Khoa học xã hội và nhân văn.
+
+7.1.1 Kiến thức Tin học
+
+STT | MÃ SÓ TÊN HỌC PHÀN TC | LT | TH | Loại
+| 1 CTT003 [Nee môn lập trình 4 45 30 | BB
+| 2 | CTT005_ | Ly thuyết đô thị 4 45 30 | BB
+
+3 CTT006 |Phương pháp lập trình hướng đối tượng 4 45 30 BB
+
+4 CTTOO8 |Kỹ thuật lập trình 4 | 45 30 BB
+
+5 CTT009 [Nhập môn Công nghệ thông tin | 3 30 45 BB
+
+6 CTT010 |Nhập môn Công nghệ thông tin 2 3 30 45 BB
+
+| 7 | CTT0II |Nhậpmôn Văn hóa doanh nghiệp Nhật Bản | 2 | 30 | 0 | BB
+TONG CONG 24
+
+Sinh viên khóa 2014 trở về trước nếu chưa học hoặc học lại môn CTT005 — Ly thuyết đồ thị thì có
+
+thể học môn sau để thay thế:
+
+STT| MÃ SÓ TEN HOC PHAN TC | LT | TH | Loai
+[1 | TTH046 |Todn hoc tổ hop 4 | 45 | 30 | TC
+7.1.2 Kiến thức Toán
+STT | MÃ SÓ TÊN HỌC PHẢN TC | LT | TH | Loại
+1 | TTH003 |Đại số BI 3 | 45 | 0 | BB |
+2 | TTH026 |Giải tích Bl 3 45 0 | BB
+3 | TTH027 |Giải tích B2 3 45 0 | BB
+4 | TTH043 |Xác suất thống kê B 3 45 0 | BB
+5 TTH063 [Toán rời rac 4 60 0 BB
+TỎNG CỌNG "-Š. |
+
+7.1.3. Kiến thức Vật lý
+
+Chọn 8 tin chi trong các học phan sau, nên chon các học phan cùng loại (DTV001 + DTV091,
+DTV012 + DTV092).
+
+TÊN HỌC PHẢN
+
+Điện tử căn bản
+DTV091 | Thực hành Điện tử căn bản
+
+Trường DHKHTN, Đại học quốc gia Tp. HCM
+Chương trình gido duc đại học - Chat lượng cao với học phi tương tứng nhóm ngành CNTT - trang 6/9
+
+--- Trang 9 ---
+STT | MÃ SÓ TÊN HỌC PHAN - Te | ur | TH | Loại |
+—
+
+3 VLH023 |Điện từ + Quang - Lượng tử - Nguyên tử 4 60 | 0 Le |
+4 | DTV012 |Lý thuyết mạch số |3 [45 | 0 | te |
+5 | DTV092 |Thực hành mạch số 1 0 | 30 | TC |
+
+_ =. —†—— ¬
+6 | PHY00085 |Nhập môn Internet vạn vật 4 45 | 30 Te |
+TONG CONG 8 |
+
+7.1.4 Lý luận Triết học Mác-Lênin và Tư tưởng Hồ Chí Minh
+
+| srr| MÃsỏ | TÊN HỌC PHAN TC | LT |T
+
+= H
+| CTH00I1 |Những nguyên lý cơ bản của CN Mác - Lénin| 5 75 0
+2 CTH002 |Đường lối cách mạng của ĐCSVN 0
+| 3 | CTH003 |Tư tưởng HCM 0
+| TÓNG CỘNG
+
+7.1.5 Kinh tế- xã hội
+
+7.1.6 Giáo dục thể chat và giáo dục quốc phòng
+
+STT | MÃ SỞ _ TÊN HỌC PHẢN TC | LT | TH | Loại
+1 | PLD001 | Pháp luật đại cương 3 | 45 | 0 | BB
+2 Chọn 01 học phần trong các học phan sau:
+
+KTH001 | Kinh tế đại cương 2 | 30 | 0 | Te
+Tâm lý đại cương 2 | 30 | 0 | TC
+Logie học 2 |30 | 0 | Tc
+
+TỎNG CỘNG 5 |
+
+@
+` Tế
+
+v^
+
+TÊN HỌC PHẢN
+
+Thẻ dục 1
+
+Thể dục 2
+
+Giáo dục quốc phòng
+TONG CONG
+
+72 KIEN THUC GIAO DUC CHUYEN NGHIỆP
+
+Khối kiến thức này tổng cộng 83 tín chỉ, bao gồm: kiến thức cơ sở nhóm ngành công nghệ thông
+tin, kiến thức chuyên nghiệp phan bắt buộc và phan tự chọn (kiến thức ngành/ chuyên nganh/ liên
+ngành), và kiến thức của học phan tốt nghiệp.
+
+7.2.1 Kiến thức cơ sở nhóm ngành công nghệ thông tin
+
+STT | MÃSÓ | TÊN HỌC PHẢN TC | LT | TH | Loại
+1 | CTTI0I |Cấu trac dữ liệu và giải thuật | 4 | 45 | 30 | BB
+
+Trường DHKHTN, Đại học quốc gia Tp. HCM
+Chương trình giáo duc đại học - Chat lượng cao với học phí tương ting nhóm ngành CNTT - trang 7/9
+
+\
+`
+
+--- Trang 10 ---
+a CTT102 |Co sở dữ liêu lu 45 | 30 | BBL
+3 CTTI03 |Hệ điều hành I 45 | 30 | BB
+4 CTTI04 |Kiến trúc máy tinh va hợp ngữ | 4 45 | 30 | BB
+[—s | crrios |Mang may tinh 4 |-45 | 30 | BB
+[6 CTTI23 |Kỹ năng mềm 3 30 | 45 | BB
+TỎNG CỘNG _| 2 |
+
+72.2 Kiến thức chuyên nghiệp bắt buộc
+
+Sinh viên chọn tối thiểu 05 học phần (gọi là N học phần > 05) trong các học phần sau đây dé tích
+
+lũy tối thiểu 20 tín chỉ.
+
+= ^ > ———— 1 ¬1
+srr] MÃ SỐ TÊN HỌC PHẢN TC | LT | TH | Loại
+1 | CTT203 |Hệ quản trị cơ sở dữ liệu 4 45 30 | TC
+> Ì CTT204 |Phân tích thiết kế hệ thống thông tin 4 45 30 TC
++ —— † + +J_—
+L | CTTšS01 |Lập trình Windows : 4 " 45 30 TE
+4 CTT§502 |Nhập môn công nghệ a = - 45 30 Te
+3 | CTTS504 |Phân tích và thiết kế phan mem 4 45 30 TC
+Diên — = cement
+6 | CTT303 |Cơ sở trí tuệ nhân tao 4 45 30 TC
+— — —. ———— =r +
+7 | CTT406 |Thống kê máy tính và ứng dụng 4 45 30 TC
+1 H a —— ——
+§ CTT310 |Xử lý ảnh số và video số 4 45 30 ffG
+———. ad Res = oo oe aS =
+2) CTT603 | Lập trình mạng 4 45 30 TG
+SA _| |- =
+TONG CONG 20
+
+7.2.3. Kiến thức chuyên nghiệp tự chon
+
+Sinh viên tích lũy ít nhất là 14 tín chỉ (gọi là M học phần) trong danh sách học phân thuộc khối kiến
+
+thức ngành hay chuyên ngành của chương trình giáo dục đại học hệ chính quy đại trà làm học phần
+
+tự chọn theo ngành/ chuyên ngành/ liên ngành của bản thân với sự tư vấn của cố vần học tập, để cho
+
+số tín chi của (N+M) học phan t6i thiéu 14 50 tin chi:
+
+- Mục 7.2.2 của chương trình giáo dục dai học ngành Công nghệ thông tin, khóa tuyên 2014.
+
+- Mục 7.2.2 của chương trình giáo dục đại học ngành Khoa học Máy tính, khóa tuyển 2014.
+
+-_ Mục 7.2.2 của chương trình giáo dục đại học ngành Kỹ thuật Phần mềm, khóa tuyển 2014.
+
+- Mục 7.2.2 của chương trình giáo dục đại học ngành Hệ thống Thông tin, khóa tuyển 2014.
+
+- _ Hoặc các học phan trong bang sau:
+
+stt| MÃ SÓ TEN HOC PHAN | Ly TH | Loại
+
+1 | CTTI27 |Nhập môn tư duy thuật toán | 4 45 30 | TC !
+2 | CTTI28 |Thuật toán tổ hop và ứng dụng 4 45 30 | tc
+3 | CTTI29 |Thực tập thực tế 4 | 30 | 60 | TC |
+
+Trưởng ĐHKHTN, Đại hoc quốc gia Tp HCM
+Chương trình giáo dục đại học - Chất lượng cao với học phí tương ning nhóm ngành CNTT - trang 8/9
+
+--- Trang 11 ---
+Ngoài ra, hằng năm, danh sách các học phần tự chọn có thể được bổ sung thêm theo dé nghị của
+Hội đồng Khoa học Khoa. Sinh viên có thể chọn học các học phần này nếu được sự đồng ý ý của Ban
+Điều hành Chương trình.
+
+7.2.4  Kién thức tốt nghiệp
+
+Sinh viên Chương trình Chất lượng cao phải tích lũy 10 tín chỉ kiến thức tốt nghiệp bằng hình thức
+làm khóa luận tốt nghiệp.
+
+str} MÃ SÓ TÊN HỌC PHAN TT TH | Loai |
+1 | CTT991 | Khóa luận tốt nghiệp 10 BB |
+TỎNG CỘNG |
+
+8. DIEU KIEN TOT NGHIỆP
+Tích lũy đủ ít nhất 146 tin chi của khối kiến thức giáo dục đại cương và giáo dục chuyên nghiệp
+cùng với khối kiến thức tốt nghiệp như đã mô tả trong ở mục 6. CÂU TRÚC CHƯƠNG TRÌNH,
+đồng thời thỏa các điều kiện theo Điều 28 trong Qui chế Đào tạo đại học và cao dang hệ chính qui
+theo hệ thống tín chỉ, ban hành kèm theo Quyết định số 1368/DHQG-DH&SDH ngày 21 tháng 11
+năm 2008 của Giám đốc Đại học Quốc gia TP.Hồ Chí Minh. Ngoài ra, sinh viên phải đạt yêu cầu về
+
+chuẩn đầu ra ngoại ngữ quy định đối với chương trình chất lượng cao với học phí tương ứng.
+
+TRƯỞNG PHÒNG ĐÀO TẠO TRƯỞNG KHOA
+
+———ro
+TRAN THAI SON DINH BA TIEN
+
+Trưởng DHKHTN, Đại học quốc gia Tp. HCM
+Chương trình giáo duc đại học - Chat lượng cao với học phi tương ting nhóm ngành CNTT - trang 9/9
+

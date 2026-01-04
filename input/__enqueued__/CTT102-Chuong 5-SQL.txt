@@ -1,0 +1,7959 @@
+CHƯƠNG 
+  5 
+SQL 
+  (Structured 
+  Query 
+  Language) 
+Bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+§Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+  (view) 
+§Chỉ 
+  mục 
+  (index) 
+Giới 
+  thiệu 
+§Ngôn 
+  ngữ 
+  ĐSQH 
+	-Cách 
+  thức 
+  truy 
+  vấn 
+  dữ 
+  liệu 
+	-Khó 
+  khăn 
+  cho 
+  người 
+  sử 
+  dụng 
+§SQL 
+  (Structured 
+  Query 
+  Language) 
+	-Ngôn 
+  ngữ 
+  cấp 
+  cao 
+	-Người 
+  sử 
+  dụng 
+  chỉ 
+  cần 
+  đưa 
+  ra 
+  nội 
+  dung 
+  cần 
+  truy 
+  vấn 	-Được 
+  phát 
+  triển 
+  bởi 
+  IBM 
+  (1970s) 
+	-Được 
+  gọi 
+  là 
+  SEQUEL 
+	-Được 
+  ANSI 
+  công 
+  nhận 
+  và 
+  phát 
+  triển 
+  thành 
+  chuẩn 		lSQL-­‐86 
+		lSQL-­‐92 
+		lSQL-­‐99 
+Giới 
+  thiệu 
+  (=) 
+§SQL 
+  gồm 
+-Định 
+  nghĩa 
+  dữ 
+  liệu 
+  (DDL) 
+-Thao 
+  tác 
+  dữ 
+  liệu 
+  (DML) 
+-Phân 
+  quyền 
+  và 
+  bảo 
+  mật 
+-Điều 
+  khiển 
+  giao 
+  tác 
+-Cột 
+  ~ 
+  thuộc 
+  tính 
+-Dòng 
+  ~ 
+  bộ 
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+-Kiểu 
+  dữ 
+  liệu 
+-Các 
+  lệnh 
+  định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+§Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+  (view) 
+§Chỉ 
+  mục 
+  (index) 
+Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Là 
+  ngôn 
+  ngữ 
+  mô 
+  tả 
+	-Lược 
+  đồ 
+  cho 
+  mỗi 
+  quan 
+  hệ 
+	-Miền 
+  giá 
+  trị 
+  tương 
+  ứng 
+  của 
+  từng 
+  thuộc 
+  tính 	-Ràng 
+  buộc 
+  toàn 
+  vẹn 
+	-Chỉ 
+  mục 
+  trên 
+  mỗi 
+  quan 
+  hệ 
+§Gồm 
+	-CREATE 
+  TABLE 
+  (tạo 
+  bảng) 
+	-DROP 
+  TABLE 
+  (xóa 
+  bảng) 
+	-ALTER 
+  TABLE 
+  (sửa 
+  bảng) 
+	-CREATE 
+  DOMAIN 
+  (tạo 
+  miền 
+  giá 
+  trị) 
+	-CREATE 
+  DATABASE 
+Kiểu 
+  dữ 
+  liệu 
+§Số 
+  (numeric) 
+-INTEGER 
+-SMALLINT 
+-NUMERIC, 
+  NUMERIC(p), 
+  NUMERIC(p,s) -DECIMAL, 
+  DECIMAL(p), 
+  DECIMAL(p,s) -REAL 
+-DOUBLE 
+  PRECISION 
+-FLOAT, 
+  FLOAT(p) 
+Kiểu 
+  dữ 
+  liệu 
+  (=) 
+§Chuỗi 
+  ký 
+  tự 
+  (character 
+  string) 
+	-CHARACTER 
+  hoặc 
+  CHAR 
+	-CHARACTER(n) 
+  hoặc 
+  CHAR 
+  (n) 
+	-CHARACTER 
+  VARYING(n) 
+  hoặc 
+  VARCHAR(n) 	-NATIONAL 
+  CHARACTER 
+  (n) 
+  hoặc 
+  NCHAR(n) §Chuỗi 
+  bit 
+  (bit 
+  string) 
+	-BIT, 
+  BIT(x) 
+	-BIT 
+  VARYING(x) 
+§Ngày 
+  giờ 
+  (datetime) 
+	-DATE 
+  gồm 
+  ngày, 
+  tháng 
+  và 
+  năm 
+	-TIME 
+  gồm 
+  giờ, 
+  phút 
+  và 
+  giây 
+	-TIMESTAMP 
+  gồm 
+  ngày 
+  và 
+  giờ 
+Lệnh 
+  tạo 
+  bảng 
+§Để 
+  định 
+  nghĩa 
+  một 
+  bảng 
+	-Tên 
+  bảng 
+	-Các 
+  thuộc 
+  tính 
+		lTên 
+  thuộc 
+  tính 
+		lKiểu 
+  dữ 
+  liệu 
+		lCác 
+  RBTV 
+  trên 
+  thuộc 
+  tính 
+§Cú 
+  pháp 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	9 
+Ví 
+  dụ 
+  -­‐ 
+  Tạo 
+  bảng 
+§Tạo 
+  bảng 
+  lưu 
+  trữ 
+  thông 
+  tin 
+  giáo 
+  viên 
+  với 
+  các 
+  thuộc 
+  tính 
+  và 	quy 
+  định 
+  sau: 
+		-MaGV 
+  : 
+  Khoá 
+  chính 
+		-HoTen: 
+  Họ 
+  tên 
+  của 
+  giáo 
+  viên 
+  không 
+  được 
+  để 
+  trống 
+		-Luong: 
+  Mặc 
+  định 
+  là 
+  1000 
+		-Phai: 
+  Phải 
+  là 
+  Nam 
+  hoặc 
+  Nữ 
+		-NgaySinh: 
+  Ngày 
+  tháng 
+  năm 
+  sinh 
+  của 
+  giáo 
+  viên 
+		-SoNha, 
+  Duong, 
+  Quan, 
+  ThanhPho 
+  : 
+  địa 
+  chỉ 
+  của 
+  giáo 
+  viên 		-GVQLCM: 
+  mã 
+  giáo 
+  viên 
+  quản 
+  lý 
+  chuyên 
+  môn 
+  của 
+  giáo 
+  viên 			(khoá 
+  ngoại) 
+		-MaBM: 
+  mã 
+  bộ 
+  môn 
+  của 
+  giáo 
+  viên 
+  (khoá 
+  ngoại) 
+Ví 
+  dụ 
+  -­‐ 
+  Tạo 
+  bảng 
+CREATE 
+  TABLE 
+  GIAOVIEN 
+  ( 
+ 
+  Duong 
+   
+  NVARCHAR(50), 
+) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	11 
+Lệnh 
+  tạo 
+  bảng 
+  (=) 
+§<RBTV> 
+-NOT 
+  NULL 
+-NULL 
+-UNIQUE 
+-DEFAULT 
+-PRIMARY 
+  KEY 
+-FOREIGN 
+  KEY 
+  / 
+  REFERENCES 
+-CHECK 
+§Đặt 
+  tên 
+  cho 
+  RBTV 
+Ví 
+  dụ 
+  -­‐ 
+  RBTV 
+CREATE 
+  TABLE 
+  GIAOVIEN 
+  ( 
+ 
+  LUONG 
+   
+  INTDEFAULT 
+  (1000), 
+ 
+  SONHA 
+   
+  NVARCHAR(10), 
+ 
+  DUONG 
+   
+  NVARCHAR(50), 
+Ví 
+  dụ 
+  -­‐ 
+  RBTV 
+CREATE 
+  TABLE 
+  CONGVIEC( 
+	 
+  MADT 
+   
+  VARCHAR(10), 
+	 
+  STT 	INT, 
+	 
+  TENCV 
+   
+  NVARCHAR(50), 
+	 
+  NGAYBD 
+  DATETIME, 
+	 
+  NGAYKT 
+  DATETIME,
+ 
+  )
+CREATE 
+  TABLEDETAI 
+  ( 
+ 
+  MADT 
+   
+   
+  VARCHAR 
+  (10) 
+  PRIMARY 
+  KEY,  
+  TENDT 
+   
+   
+  NVARCHAR 
+  (50) 
+  UNIQUE, 
+ 
+  KINHPHI 
+  INT, 
+ 
+  CAPQL 
+   
+   
+  NVARCHAR 
+  (50), 
+ 
+  NGAYBD 
+   
+  DATETIME, 
+ 
+  NGAYKT 
+   
+  DATETIME, 
+ 
+  MACD 
+   
+   
+  VARCHAR 
+  (10), 
+ 
+  GVCNDT 
+   
+  CHAR 
+  (9) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 
+   
+   
+  ) 	14 
+Ví 
+  dụ 
+  -­‐ 
+  Đặt 
+  tên 
+  cho 
+  RBTV 
+	CREATETABLE 
+  GIAOVIEN 
+  ( 
+Ví 
+  dụ 
+  -­‐ 
+  Đặt 
+  tên 
+  cho 
+  RBTV 
+CREATETABLE 
+  CONGVIEC( 
+	 
+  MADT 
+   
+  VARCHAR(10), 
+	 
+  STT 	INT, 
+	 
+  TENCV 
+   
+  NVARCHAR(50), 
+	 
+  NGAYBD 
+  DATETIME, 
+	 
+  NGAYKT 
+  DATETIME, 
+)
+Lệnh 
+  sửa 
+  bảng 
+	§Được 
+  dùng 
+  để 
+		-Thay 
+  đổi 
+  cấu 
+  trúc 
+  bảng 
+		-Thay 
+  đổi 
+  RBTV 
+§Xóa 
+  cột 
+Lệnh 
+  sửa 
+  bảng 
+  (=) 
+§Xóa 
+  RBTV 
+Ví 
+  dụ 
+  -­‐ 
+  Thay 
+  đổi 
+  cấu 
+  trúc 
+  bảng 
+ALTERTABLE 
+  GIAOVIEN 
+  ADD 
+  TUOI 
+  INT 
+CONSTRAINT 
+  CK_TUOI 
+  CHECK(TUOI 
+  >= 
+  23 
+  AND 
+  TUOI 
+  <=60) 
+  NOTNULL
+ALTER 
+  TABLE 
+  GIAOVIEN 
+  DROP 
+  COLUMN 
+  HOTEN 
+ALTERTABLE 
+  GIAOVIEN 
+  ALTERCOLUMN 
+  HOTEN NVARCHAR(100)
+Ví 
+  dụ 
+  -­‐ 
+  Thay 
+  đổi 
+  RBTV 
+TABLE 
+  BOMON( 
+	INT 
+  NOT 
+		NULL, 
+ALTERTABLE 
+  BOMON 
+  ADD 
+	CONSTRAINT 
+  PK_BOMON 
+  PRIMARYKEY(MABM), 
+CONSTRAINT 
+  PK_BOMON PRIMARYKEY(
+Lệnh 
+  xóa 
+  bảng 
+	§Được 
+  dùng 
+  để 
+  xóa 
+  cấu 
+  trúc 
+  bảng 		-Tất 
+  cả 
+  dữ 
+  liệu 
+  của 
+  bảng 
+  cũng 
+  bị 
+  xóa 	§Cú 
+  pháp 
+§Ví 
+  dụ 
+	DROP 
+  TABLE 
+  GIAOVIEN 
+DROP 
+  TABLE 
+  BOMON 
+DROP 
+  TABLE 
+  THAMGIADT 
+Lệnh 
+  xóa 
+  bảng 
+  (=) 
+GIÁOVIÊN 
+BỘMÔN 
+KHOA 
+Lệnh 
+  tạo 
+  miền 
+  giá 
+  trị 
+	§Tạo 
+  ra 
+  một 
+  kiểu 
+  dữ 
+  liệu 
+  mới 
+  kế 
+  thừa 
+  những 
+  kiểu 
+  dữ 
+  liệu 
+  có 		sẳn 
+	§Cú 
+  pháp 
+§Ví 
+  dụ 
+CREATE 
+  DOMAIN 
+  MyString30 
+  ASVARCHAR(30) 
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+-Truy 
+  vấn 
+  cơ 
+  bản 
+-Tập 
+  hợp, 
+  so 
+  sánh 
+  tập 
+  hợp 
+  và 
+  truy 
+  vấn 
+  lồng 
+-Hàm 
+  kết 
+  hợp 
+  và 
+  gom 
+  nhóm 
+-Một 
+  số 
+  kiểu 
+  truy 
+  vấn 
+  khác §Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+  (view) 
+Truy 
+  vấn 
+  dữ 
+  liệu 
+§Là 
+  ngôn 
+  ngữ 
+  rút 
+  trích 
+  dữ 
+  liệu 
+  thỏa 
+  một 
+  số 
+  điều 
+  kiện 
+  nào 
+  đó §Dựa 
+  trên 
+-Cho 
+  phép 
+  1 
+  bảng 
+  có 
+  nhiều 
+  dòng 
+  trùng 
+  nhau -Bảng 
+  là 
+  bag 
+  ≠ 
+  quan 
+  hệ 
+  là 
+  set 
+Truy 
+  vấn 
+  cơ 
+  bản 
+§Gồm 
+  3 
+  mệnh 
+  đề 
+-<danh 
+  sách 
+  các 
+  cột> 
+	lTên 
+  các 
+  cột 
+  cần 
+  được 
+  hiển 
+  thị 
+  trong 
+  kết 
+  quả 
+  truy 
+  vấn -<danh 
+  sách 
+  các 
+  bảng> 
+	lTên 
+  các 
+  bảng 
+  liên 
+  quan 
+  đến 
+  câu 
+  truy 
+  vấn 
+-<điều 
+  kiện> 
+	lBiểu 
+  thức 
+  boolean 
+  xác 
+  định 
+  dòng 
+  nào 
+  sẽ 
+  được 
+  rút 
+  trích 	lNối 
+  các 
+  biểu 
+  thức: 
+  AND, 
+  OR, 
+  và 
+  NOT 
+	lPhép 
+  toán: 
+  < 
+  , 
+  > 
+  , 
+  ≤ 
+  , 
+  ≥ 
+  , 
+  ≠ 
+  , 
+  =, 
+  LIKE 
+  và 
+  BETWEEN 
+Truy 
+  vấn 
+  cơ 
+  bản 
+  (=) 
+	§SQL 
+  và 
+  ĐSQH 
+		π
+			SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+×	FROM 
+  <danh 
+  sách 
+  các 
+  bảng> 
+WHERE 
+  <điều 
+  kiện> 
+σ
+	SELECT 
+  L 
+Mệnh 
+  đề 
+  SELECT 
+FROM 
+  KHOA 
+WHERE 
+  PHONG='I53' 
+AND 
+  NAMTL 
+  ='1995' 
+σPHG='I53'∧NamTL='1995'(KHOA)
+Mệnh 
+  đề 
+  SELECT 
+  (=) 
+SELECT 
+  MAKHOA, 
+  TENKHOA, 
+  PHONG 
+FROM 
+  KHOA 
+WHERE 
+  PHONG='I53' 
+AND 
+  NAMTL 
+  ='1995' 
+πMAKHOA, 
+  TENKHOA, 
+  PHONG(σPHG='I53'∧NamTL='1995'(KHOA))
+Mệnh 
+  đề 
+  SELECT 
+  (=) 
+SELECT 
+  MAKHOA 
+  AS'Mã 
+  khoa', 
+  TENKHOA 
+  AS'Tên 
+  khoa', 
+  PHONG 
+  AS'Mã 
+  phòng' 
+FROM 
+  KHOA 
+WHERE 
+  PHONG='I53' 
+  AND 
+  NAMTL 
+  ='1995' 
+ρMã 
+  khoa, 
+  Tên 
+  khoa, 
+  Mã 
+  phòng(πMANV,HONV,TENLOT,TENNV(σPHG='I53'∧NamTL='1995'(KHOA)))
+Mệnh 
+  đề 
+  SELECT 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN, 
+  SONHA 
+  +','+ 
+  DUONG 
+  +','+','+ 
+  QUAN 
+  +','+ THANHPHO 
+  AS'DIA 
+  CHI' 
+FROM 
+  GIAOVIEN 
+WHERE 
+  PHAI='Nam'
+ρMAGV,HOTEN,DIA CHI(πMAGV,HOTEN,SONHA+DUONG+QUAN+THANHPHO(σPHAI=‘Nam’(GIAOVIEN)))
+Mệnh 
+  đề 
+  SELECT 
+  (=) 
+SELECT 
+  MAGV, 
+  LUONG*1.1 
+  AS'LUONG10%' FROM 
+  GIAOVIEN 
+WHERE 
+  PHAI='Nam'
+ρMAGV,LUONG10%(πMAGV,LUONG*1.1(σPHAI=‘Nam’(GIAOVIEN))) 
+Mệnh 
+  đề 
+  SELECT 
+  (=) 
+Ví 
+  dụ 
+	§Cho 
+  biết 
+  MAGV 
+  và 
+  TENGV 
+  làm 
+  việc 
+  ở 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 		thông 
+  tin’
+R1 ← GIAOVIEN      GIAOVIEN.MABM=BOMON.MABM BOMON 
+KQ ←πMAGV, HOTEN (σTENBM='Hệ thống thông tin'(R1)) 
+ANDGIAOVIEN.MABM=BOMON.MABM
+Mệnh 
+  đề 
+  WHERE 
+	§Sử 
+  dụng 
+  các 
+  phép 
+  toán 
+  AND, 
+  OR 
+  để 
+  nối 
+  các 
+  biểu 
+  thức 
+  điều 		kiện 
+  lại 
+  với 
+  nhau 
+SELECT 
+  MAGV, 
+  HOTEN 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN, 
+  BOMON 
+WHERE 
+  (TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin' 
+  OR 
+  TENBM 
+  = 
+  N'Mạng 
+  máy 
+  tính') AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM
+Độ 
+  ưu 
+  tiên 
+  mặc 
+  định 
+  của 
+  các 
+  phép 
+  toán: 
+  từ 
+  trái 
+  qua 
+  phải. 
+Nên 
+  sử 
+  dụng 
+  dấu 
+  ngoặc 
+  thể 
+  hiện 
+  tường 
+  minh 
+  sự 
+  ưu 
+  tiên 
+  của 
+  các 
+  phép 
+  toán. 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  LUONG 
+  >= 
+  20000 
+  AND 
+  LUONG 
+  <= 
+  30000 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  LUONG 
+  BETWEEN 
+  20000 
+  AND 
+  30000 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MANV, 
+  TENNV 
+FROM 
+  NHANVIEN 
+WHERE 
+  LUONG 
+  NOT 
+  BETWEEN 
+  20000 
+  AND 30000 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  LUONG 
+  < 
+  20000 
+  OR 
+  LUONG 
+  > 
+  30000 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN
+WHERE 
+  HOTEN 
+  LIKE‘Nguyen 
+  %’
+Chuỗi 
+  bất 
+  kỳ 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  LIKE‘Nguyen’
+phủ 
+  định 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  NOT 
+  LIKE‘Nguyen’
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	41 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  NGAYSINH 
+  BETWEEN‘1955-­‐12-­‐08’AND‘1966-­‐07-­‐19’
+’12/08/1955’MM/DD/YYYY ’05:30 
+  PM’‘December 
+  8, 
+  1955’
+‘1955-­‐12-­‐08 
+  17:30:00’
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+-Sử 
+  dụng 
+  trong 
+  trường 
+  hợp: 
+		lKhông 
+  biết 
+  (value 
+  unknown) 
+		lKhông 
+  thể 
+  áp 
+  dụng 
+  (value 
+  inapplicable) 
+		lKhông 
+  tồn 
+  tại 
+  (value 
+  withheld) 
+-Những 
+  biểu 
+  thức 
+  tính 
+  toán 
+  có 
+  liên 
+  quan 
+  đến 
+  giá 
+  trị 
+  NULL 
+  sẽ 	cho 
+  ra 
+  kết 
+  quả 
+  là 
+  NULL 
+		lx 
+  có 
+  giá 
+  trị 
+  là 
+  NULL 
+		lx 
+  + 
+  3 
+  cho 
+  ra 
+  kết 
+  quả 
+  là 
+  NULL 
+		lx 
+  + 
+  3 
+  là 
+  một 
+  biểu 
+  thức 
+  không 
+  hợp 
+  lệ 
+  trong 
+  SQL 
+-Những 
+  biểu 
+  thức 
+  so 
+  sánh 
+  có 
+  liên 
+  quan 
+  đến 
+  giá 
+  trị 
+  NULL 
+  sẽ 
+  cho 	ra 
+   
+  kết 
+  quả 
+  là 
+  UNKNOWN 
+		lx 
+  = 
+  3 
+  cho 
+  ra 
+  kết 
+  quả 
+  là 
+  UNKNOWN 
+Mệnh 
+  đề 
+  WHERE 
+  (=) 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  GVQL 
+  IS 
+  NULL 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  GVQL 
+  IS 
+  NOT 
+  NULL 
+Mệnh 
+  đề 
+  FROM 
+SELECT 
+  * 
+Mệnh 
+  đề 
+  FROM 
+  (=) 
+Ví 
+  dụ 
+  1 
+§Cho 
+  biết 
+  tên 
+  của 
+  bộ 
+  môn 
+  và 
+  tên 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  của 	những 
+  bộ 
+  môn 
+  thuộc 
+  khoa 
+  CNTT 
+  (mã 
+  khoa) 
+SELECT 
+  BM.TENBM, 
+  GV.HOTEN 
+   
+  AS 
+  TEN_TRUONGBM FROMBOMONBM, 
+  GIAOVIENGV 
+WHEREBM.TRUONGBM 
+  = 
+  GV.MAGV 
+  AND 
+	 
+  BM.MAKHOA= 
+  ‘CNTT’ 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  giáo 
+  viên 
+  làm 
+  trưởng 
+  bộ 
+  môn 
+Ví 
+  dụ 
+  2 
+¡Với 
+  những 
+  đề 
+  tài 
+  thuộc 
+  cấp 
+  quản 
+  lý 
+  ‘Thành 
+  phố’, 
+  cho 
+  biết mã 
+  đề 
+  tài, 
+  đề 
+  tài 
+  thuộc 
+  về 
+  chủ 
+  đề 
+  nào, 
+  họ 
+  tên 
+  người 
+  chủ nghiệm 
+  đề 
+  tài 
+  cùng 
+  với 
+  ngày 
+  sinh 
+  và 
+  địa 
+  chỉ 
+  của 
+  người 
+  ấy 
+SELECT 
+  D.MADT, 
+  C.TENCD, 
+  G.MAGV, 
+  G.HOTEN, 
+  G.DIACHI FROMDETAI 
+  D, 
+  CHUDE 
+  C, 
+  GIAOVIEN 
+  G 
+WHERE 
+  D.CapQL 
+  = 
+  ‘Thanh 
+  Pho’ 
+  AND 
+  D.MACD 
+  = 
+  C.MACD 
+  AND D.GVCNDT 
+  = 
+  G.MAGV 
+Ví 
+  dụ 
+  3 
+§Tìm 
+  họ 
+  tên 
+  của 
+  giáo 
+  viên 
+  viên 
+  thuộc 
+  bộ 
+  môn 
+  “HTTT” 
+  có tham 
+  gia 
+  vào 
+  đề 
+  tài 
+  “ 
+  Mobile 
+  Database” 
+  với 
+  số 
+  tiền 
+  phụ 
+  cấp cho 
+  mỗi 
+  công 
+  việc 
+  trên 
+  10 
+  triệu. 
+SELECT 
+  GV.HOTEN 
+FROM 
+  GIAOVIEN 
+  GV, 
+  THAMGIADT 
+  TG, 
+  DETAI 
+  DT 
+WHERE 
+  GV.MAGV 
+  = 
+  TG.MAGV 
+  AND
+	 
+  TG.MADT 
+  = 
+  DT.MADT 
+  AND
+	 
+  GV.MABM=‘HTTT’ 
+  AND
+	 
+  DT.TENDT=‘Mobile 
+  Database’ 
+  AND 
+  TG.PHUCAP>10 
+Ví 
+  dụ 
+  4 
+	§Tìm 
+  họ 
+  tên 
+  của 
+  từng 
+  giáo 
+  viên 
+  và 
+  người 
+  phụ 
+  trách 
+  chuyên 		môn 
+  trực 
+  tiếp 
+  của 
+  nhân 
+  viên 
+  đó. 
+Ví 
+  dụ 
+  5 
+	§Tìm 
+  họ 
+  tên 
+  của 
+  những 
+  giáo 
+  viên 
+  được 
+  “Trần 
+  Trà 
+  Hương”		phụ 
+  trách 
+  quản 
+  lý 
+  chuyên 
+  môn. 
+Mệnh 
+  đề 
+  ORDER 
+  BY 
+	§Dùng 
+  để 
+  hiển 
+  thị 
+  kết 
+  quả 
+  câu 
+  truy 
+  vấn 
+  theo 
+  một 
+  thứ 
+  tự 
+  nào 		đó 
+	§Cú 
+  pháp 
+-ASC: 
+  tăng 
+  (mặc 
+  định) 
+-DESC: 
+  giảm 
+Mệnh 
+  đề 
+  ORDER 
+  BY 
+  (=) 
+§Ví 
+  dụ 
+SELECT* 
+FROM 
+  THAMGIADT 
+ORDERBY 
+  MAGV 
+  DESC, 
+  MADT, 
+  STT 
+  DESC
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+-Truy 
+  vấn 
+  cơ 
+  bản 
+-Tập 
+  hợp, 
+  so 
+  sánh 
+  tập 
+  hợp 
+  và 
+  truy 
+  vấn 
+  lồng 
+-Hàm 
+  kết 
+  hợp 
+  và 
+  gom 
+  nhóm 
+-Một 
+  số 
+  dạng 
+  truy 
+  vấn 
+  khác §Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+  (view) 
+Phép 
+  toán 
+  tập 
+  hợp 
+  trong 
+  SQL 
+§SQL 
+  có 
+  cài 
+  đặt 
+  các 
+  phép 
+  toán 
+-Hội 
+  (UNION) 
+-Giao 
+  (INTERSECT) 
+-Trừ 
+  (EXCEPT) 
+§Kết 
+  quả 
+  trả 
+  về 
+  là 
+  tập 
+  hợp 
+	-Loại 
+  bỏ 
+  các 
+  bộ 
+  trùng 
+  nhau 
+	-Để 
+  giữ 
+  lại 
+  các 
+  bộ 
+  trùng 
+  nhau 
+		lUNION 
+  ALL 
+		lINTERSECT 
+  ALL 
+		lEXCEPT 
+  ALL 
+Phép 
+  toán 
+  tập 
+  hợp 
+  trong 
+  SQL 
+  (=) 	¡Cú 
+  pháp 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	58 
+Ví 
+  dụ 
+  6 
+§Cho 
+  biết 
+  mã 
+  của 
+  các 
+  giáo 
+  viên 
+  có 
+  họ 
+  tên 
+  bắt 
+  đầu 
+  là 'Nguyễn' 
+  và 
+  lương 
+  trên 
+  200000 
+  hoặc, 
+  giáo 
+  viên 
+  là 
+  trưởng 
+  bộ môn 
+  nhận 
+  chức 
+  sau 
+  năm 
+  1995 
+SELECT 
+  MAGV 
+FROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  LIKE 
+  N'Nguyễn%' 
+AND 
+  LUONG 
+  > 
+  200000 
+UNION 
+SELECT 
+  TRUONGBM 
+FROM 
+  BOMON 
+WHEREYEAR(NGAYNHANCHUC)>=1995 
+Ví 
+  dụ 
+  7 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  vừa 
+  là 
+  trưởng 
+  bộ 
+  môn 
+  vừa 
+  chủ 
+  nhiệm 	đề 
+  tài 
+SELECT 
+  TRUONGBM 
+FROM 
+  BOMON 
+INTERSECT 
+SELECT 
+  GVCNDT 
+FROM 
+  DETAI 
+SELECT 
+  BM.TRUONGBM 
+FROM 
+  BOMON 
+  BM, 
+  DETAI 
+  DT 
+WHERE 
+  BM.TRUONGBM 
+  = 
+  DT.GVCNDT
+Ví 
+  dụ 
+  8 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  không 
+  tham 
+  gia 
+  bất 
+  kỳ 
+  đề 
+  tài 
+  nào 
+SELECT 
+  MAGV 
+FROM 
+  GIAOVIEN 
+EXCEPT 
+SELECT 
+  MAGV 
+FROM 
+  THAMGIADT 
+Truy 
+  vấn 
+  lồng 
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN, 
+  BOMON 
+Truy 
+  vấn 
+  lồng 
+  (=) 
+§Các 
+  câu 
+  lệnh 
+  SELECT 
+  có 
+  thể 
+  lồng 
+  nhau 
+  ở 
+  nhiều 
+  mức 
+§Câu 
+  truy 
+  vấn 
+  con 
+  thường 
+  trả 
+  về 
+  một 
+  tập 
+  các 
+  giá 
+  trị 
+§Các 
+  câu 
+  truy 
+  vấn 
+  con 
+  trong 
+  cùng 
+  một 
+  mệnh 
+  đề 
+  WHERE 
+  được 	kết 
+  hợp 
+  bằng 
+  phép 
+  nối 
+  logic 
+§Mệnh 
+  đề 
+  WHERE 
+  của 
+  câu 
+  truy 
+  vấn 
+  cha 
+		-<biểu 
+  thức> 
+  <so 
+  sánh 
+  tập 
+  hợp> 
+  <truy 
+  vấn 
+  con> 
+		-So 
+  sánh 
+  tập 
+  hợp 
+  thường 
+  đi 
+  cùng 
+  với 
+  một 
+  số 
+  toán 
+  tử 
+			lIN, 
+  NOT 
+  IN 
+			lALL 
+			lANY 
+  hoặc 
+  SOME 
+		-Kiểm 
+  tra 
+  sự 
+  tồn 
+  tại 
+			lEXISTS 
+			lNOT 
+  EXISTS 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 63 
+Truy 
+  vấn 
+  lồng 
+  (=) 
+§Có 
+  2 
+  loại 
+  truy 
+  vấn 
+  lồng 
+	-Lồng 
+  phân 
+  cấp 
+		lMệnh 
+  đề 
+  WHERE 
+  của 
+  truy 
+  vấn 
+  con 
+  không 
+  tham 
+  chiếu 
+  đến 			thuộc 
+  tính 
+  của 
+  các 
+  quan 
+  hệ 
+  trong 
+  mệnh 
+  đề 
+  FROM 
+  ở 
+  truy 
+  vấn 			cha 
+		lKhi 
+  thực 
+  hiện, 
+  câu 
+  truy 
+  vấn 
+  con 
+  sẽ 
+  được 
+  thực 
+  hiện 
+  trước 	-Lồng 
+  tương 
+  quan 
+		lMệnh 
+  đề 
+  WHERE 
+  của 
+  truy 
+  vấn 
+  con 
+  tham 
+  chiếu 
+  ít 
+  nhất 
+  một 			thuộc 
+  tính 
+  của 
+  các 
+  quan 
+  hệ 
+  trong 
+  mệnh 
+  đề 
+  FROM 
+  ở 
+  truy 
+  vấn 			cha 
+		lKhi 
+  thực 
+  hiện, 
+  câu 
+  truy 
+  vấn 
+  con 
+  sẽ 
+  được 
+  thực 
+  hiện 
+  nhiều 			lần, 
+  mỗi 
+  lần 
+  tương 
+  ứng 
+  với 
+  một 
+  bộ 
+  của 
+  truy 
+  vấn 
+  cha 
+Ví 
+  dụ 
+  -­‐ 
+  Lồng 
+  phân 
+  cấp 
+WHERE 
+   
+  GIAOVIEN.MAGV 
+  = 
+  BOMON.TRUONGBM
+SELECT 
+  MAGV, 
+  HOTEN
+FROM 
+  GIAOVIEN 
+Mệnh 
+  đề 
+  WHERE 
+  của 
+  truy 
+  vấn 
+  con 
+  không 
+  tham 
+  chiếu 
+  đến 
+  thuộc 
+tính 
+  của 
+  các 
+  quan 
+  hệ 
+  trong 
+  mệnh 
+  đề 
+  FROM 
+  ở 
+  truy 
+  vấn 
+  cha 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	65 
+Ví 
+  dụ 
+  9 
+SELECT 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  MAGV 
+  IN(SELECT 
+  MAGV 
+OR 
+  MAGV 
+  IN(SELECT 
+  TRUONGBM 
+Ví 
+  dụ 
+  10 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  không 
+  tham 
+  gia 
+  đề 
+  tài 
+  nào 
+SELECT* 
+FROM 
+  GIAOVIEN 
+WHERE 
+  MAGV 
+  NOTIN(SELECT 
+  MAGV 
+	FROM 
+  THAMGIADT)
+SELECT* 
+FROM 
+  GIAOVIEN 
+WHERE 
+  MAGV 
+  <>ALL(SELECT 
+  MAGV 
+	FROM 
+  THAMGIADT)
+Ví 
+  dụ 
+  11 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  có 
+  lương 
+  lớn 
+  hơn 
+  lương 
+  của 
+  ít 
+  nhất 
+  một 	giáo 
+  viên 
+  bộ 
+  môn 
+  ‘Công 
+  nghệ 
+  phần 
+  mềm’
+SELECT* 
+FROM 
+  GIAOVIEN 
+WHERE 
+  LUONG 
+  >ANY(SELECT 
+  GV.LUONG 
+FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+AND 
+  BM.TENBM 
+  = 
+  N'Công 
+  nghệ 
+  phần 
+  mềm')
+	SELECT 
+  GV1.* 
+	FROM 
+  GIAOVIEN 
+  GV1, 
+  GIAOVIEN 
+  GV2, 
+  BOMON 
+  BM 
+	WHERE 
+  GV2.MABM 
+  = 
+  BM.MABM 
+	AND 
+  BM.TENBM 
+  = 
+  N'Công 
+  nghệ 
+  phần 
+  mềm' 
+  AND 
+  GV1.LUONG 
+  > 
+  GV2.LUONG © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	68 
+Ví 
+  dụ 
+  12 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  có 
+  lương 
+  lớn 
+  hơn 
+  lương 
+  của 
+  tất 
+  cả 
+  giáo 	viên 
+  thuộc 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 
+  thông 
+  tin’
+SELECT* 
+FROM 
+  GIAOVIEN 
+WHERE 
+  LUONG 
+  >ALL(SELECT 
+  LUONG 
+	FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+	WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+	AND 
+  BM.TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin')
+Ví 
+  dụ 
+  13 
+§Tìm 
+  những 
+  trưởng 
+  bộ 
+  môn 
+  tham 
+  gia 
+  tối 
+  thiểu 
+  1 
+  đề 
+  tài 
+SELECT* 
+FROM 
+  GIAOVIEN 
+WHERE 
+  MAGV 
+  IN(SELECT 
+  TRUONGBM 
+		FROM 
+  BOMON) 
+AND 
+  MAGV 
+  IN(SELECT 
+  MAGV 
+	FROM 
+  THAMGIADT)
+Ví 
+  dụ 
+  -­‐ 
+  Lồng 
+  tương 
+  quan 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  là 
+  trưởng 
+  bộ 
+  môn 
+WHERE 
+   
+  GIAOVIEN.MAGV 
+  = 
+  BOMON.TRUONGBM
+	SELECT 
+  MAGV, 
+  HOTEN 
+	FROM 
+  GIAOVIEN 
+  GV 
+	WHEREEXISTS(SELECT* 	Sử 
+  dụng 
+  truy 
+  vấn 
+  lồng 
+  với 
+  EXISTS 		FROM 
+  BOMON 
+  BM 
+		WHERE 
+  BM.TRUONGBM 
+  =GV.MAGV) 
+Giáo 
+  viên 
+  là 
+  trưởng 
+  bộ 
+  môn 
+  khi 
+  tồn 
+  tại 
+  một 
+  bộ 
+  môn 
+  có 
+  TRUONGBM 
+  = MAGV 
+  của 
+  giáo 
+  viên 
+  đó 
+Mệnh 
+  đề 
+  WHERE 
+  của 
+  truy 
+  vấn 
+  con 
+  tham 
+  chiếu 
+  ít 
+  nhất 
+  một 
+  thuộc 
+  tính 
+  của 
+  các quan 
+  hệ 
+  trong 
+  mệnh 
+  đề 
+  FROM 
+  ở 
+  truy 
+  vấn 
+  cha 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 71 
+Ví 
+  dụ 
+  -­‐ 
+  Lồng 
+  tương 
+  quan 
+	§Tìm 
+  những 
+  giáo 
+  viên 
+  có 
+  lương 
+  lớn 
+  nhất 
+FROM 
+  GIAOVIEN 
+  GV2 
+WHERE 
+  GV2.LUONG 
+   
+  > 
+   
+  GV.LUONG)
+FROM 
+  GIAOVIEN 
+  GV2)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	72 
+Ví 
+  dụ 
+  14 
+§Tìm 
+  giáo 
+  viên 
+  trùng 
+  tên 
+  và 
+  cùng 
+  giới 
+  tính 
+  với 
+  giáo 
+  viên 
+  khác 	trong 
+  cùng 
+  bộ 
+  môn 
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV1 
+WHEREEXISTS(SELECT* 
+	FROM 
+  GIAOVIEN 
+  GV2 
+	WHERE 
+  GV1.HOTEN 
+  LIKE 
+  GV2.HOTEN 	AND 
+  GV1.PHAI 
+  = 
+  GV2.PHAI 
+	AND 
+  GV1.MABM 
+  = 
+  GV2.MABM 
+	AND 
+  GV1.MAGV 
+  <> 
+  GV2.MAGV)
+Ví 
+  dụ 
+  15 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  không 
+  tham 
+  gia 
+  đề 
+  tài 
+  nào 
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV 
+WHERENOT 
+  EXISTS(SELECT* 
+	FROM 
+  THAMGIADT 
+  PC 
+	WHERE 
+  PC.MAGV 
+  = 
+  GV.MAGV)
+Giáo 
+  viên 
+  GV 
+  không 
+  tham 
+  gia 
+  đề 
+tài 
+  khi 
+  không 
+  tồn 
+  tại 
+  một 
+  dòng 
+nào 
+  trong 
+  THAMGIADT 
+  mà 
+  có 
+MAGV 
+  = 
+  GV.MAGV 
+Ví 
+  dụ 
+  16 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  có 
+  lương 
+  lớn 
+  hơn 
+  lương 
+  của 
+  ít 
+  nhất 
+  một 	giáo 
+  viên 
+  bộ 
+  môn 
+  ‘Công 
+  nghệ 
+  phần 
+  mềm’
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV1 
+WHEREEXISTS(SELECT* 
+		FROM 
+  GIAOVIEN 
+  GV2, 
+  BOMON 
+  BM 
+		WHERE 
+  GV2.MABM 
+  = 
+  BM.MABM 
+	AND 
+  BM.TENBM 
+  = 
+  N'Công 
+  nghệ 
+  phần 
+  mềm' 		AND 
+  GV1.LUONG 
+  > 
+  GV2.LUONG)
+Ví 
+  dụ 
+  17 
+§Tìm 
+  những 
+  trưởng 
+  bộ 
+  môn 
+  tham 
+  gia 
+  tối 
+  thiểu 
+  1 
+  đề 
+  tài 
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV 
+WHEREEXISTS(SELECT* 
+		FROM 
+  BOMON 
+  BM 
+		WHERE 
+  GV.MAGV 
+  =BM.TRUONGBM) ANDEXISTS(SELECT*FROM 
+  THAMGIADT 
+  PC 
+	WHERE 
+  PC.MAGV 
+  = 
+  GV.MAGV)
+Nhận 
+  xét 
+  IN 
+  và 
+  EXISTS 
+§IN 
+-<tên 
+  cột> 
+  IN 
+  <câu 
+  truy 
+  vấn 
+  con> 
+-Thuộc 
+  tính 
+  ở 
+  mệnh 
+  đề 
+  SELECT 
+  của 
+  truy 
+  vấn 
+  con 
+  phải 
+  có 
+  cùng kiểu 
+  dữ 
+  liệu 
+  với 
+  thuộc 
+  tính 
+  ở 
+  mệnh 
+  đề 
+  WHERE 
+  của 
+  truy 
+  vấn cha 
+§EXISTS 
+-Không 
+  cần 
+  có 
+  thuộc 
+  tính, 
+  hằng 
+  số 
+  hay 
+  biểu 
+  thức 
+  nào 
+  khác 
+  đứng 	trước 
+-Không 
+  nhất 
+  thiết 
+  liệt 
+  kê 
+  tên 
+  thuộc 
+  tính 
+  ở 
+  mệnh 
+  đề 
+  SELECT 
+  của 	truy 
+  vấn 
+  con 
+-Những 
+  câu 
+  truy 
+  vấn 
+  có 
+  = 
+  ANY 
+  hay 
+  IN 
+  đều 
+  có 
+  thể 
+  chuyển 
+  thành 	câu 
+  truy 
+  vấn 
+  có 
+  EXISTS 
+Nhận 
+  xét 
+  IN 
+  và 
+  EXISTS 
+§EXISTS: 
+-Sử 
+  dụng 
+  để 
+  kiểm 
+  tra 
+  tồn 
+  tại 
+-Cú 
+  pháp 
+  sử 
+  dụng 
+-… 
+  EXISTS 
+  (Select 
+  … 
+  From 
+  … 
+  Where…) 
+Sub query 
+Nếu 
+  sub 
+  query 
+  có 
+  dữ 
+  liệu 
+  (>= 
+  1 
+  dòng) 
+à 
+  tồn 
+  tại 
+  <-­‐> 
+  mệnh 
+  đề 
+  EXISTS 
+  (…) 
+  = 
+  TRUE 
+Nếu 
+  sub 
+  query 
+  không 
+  có 
+  dữ 
+  liệu 
+  (0 
+  dòng 
+  hoặc 
+  rỗng) à 
+  Không 
+  tồn 
+  tại 
+  <-­‐> 
+  mệnh 
+  đề 
+  EXISTS 
+  (…) 
+  = 
+  FALSE 
+Ví 
+  dụ 
+  18 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  có 
+  tham 
+  gia 
+  đề 
+  tài 
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV 
+WHEREEXISTS(SELECT* 
+Nếu 
+  giáo 
+  viên 
+  GV 
+  có 
+  tham 
+  gia 
+  đề 
+  tài 
+  à
+câu 
+  truy 
+  vấn 
+  bên 
+  trong 
+  sẽ 
+  có 
+  dữ 
+  liệu 
+(>= 
+  1 
+  dòng) 
+  à 
+  mệnh 
+  EXISTS 
+  (S 
+  .. 
+  F… 
+W) 
+  có 
+  giá 
+  trị 
+  TRUE
+Ví 
+  dụ 
+  19 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  không 
+  tham 
+  gia 
+  đề 
+  tài 
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV 
+Nếu 
+  giáo 
+  viên 
+  GV 
+  không 
+  tham 
+  gia 
+  đề 
+tài 
+  à 
+  câu 
+  truy 
+  vấn 
+  bên 
+  trong 
+  sẽ 
+  rỗng 
+(0 
+  dòng) 
+  à 
+  NOT 
+  EXISTS 
+  (S…F..W) 
+  có 
+giá 
+  trị 
+  TRUE 
+Phép 
+  chia 
+  trong 
+  SQL 
+Phép 
+  chia 
+  trong 
+  SQL 
+  (=) 
+§Sử 
+  dụng 
+  EXCEPT 
+  để 
+  biểu 
+  diễn 
+SELECT 
+  R1.A, 
+  R1.B, 
+  R1.C 
+FROM 
+  R 
+  R1 
+WHERENOT 
+  EXISTS 
+  ( 
+	 
+  ( 
+  SELECT 
+  S.D, 
+  S.E 
+   
+  FROM 
+  S) 
+		EXCEPT 
+		( 
+  SELECT 
+  R2.D, 
+  R2.E 
+		FROM 
+  R 
+  R2 
+		WHERE 
+  R1.A=R2.A 
+  AND 
+  R1.B=R2.B 		AND 
+  R1.C=R2.C 
+  ) 
+Phép 
+  chia 
+  trong 
+  SQL 
+  (=) 
+§Sử 
+  dụng 
+  NOT 
+  EXISTS 
+  để 
+  biểu 
+  diễn 
+SELECT 
+  R1.A, 
+  R1.B, 
+  R1.C 
+FROM 
+  R 
+  R1 
+WHERENOT 
+  EXISTS 
+  ( 
+SELECT 
+  * 
+FROM 
+  S 
+WHERENOT 
+  EXISTS 
+  ( 
+		SELECT 
+  * 
+		FROM 
+  R 
+  R2 
+		WHERE 
+  R2.D=S.D 
+  AND 
+  R2.E=S.E 
+		AND 
+  R1.A=R2.A 
+  AND 
+  R1.B=R2.B 
+  AND 
+  R1.C=R2.C 
+  )) 
+Ví 
+  dụ 
+  20 
+¡Tìm 
+  tên 
+  các 
+  giáo 
+  viên 
+  được 
+  phân 
+  công 
+  làm 
+  tất 
+  cả 
+  các 
+  đề 	tài 
+-Tìm 
+  tên 
+  các 
+  nhân 
+  viên 
+  mà 
+  không 
+  có 
+  đề 
+  án 
+  nào 
+  là 
+  không 	được 
+  phân 
+  công 
+  làm 
+-Tập 
+  bị 
+  chia: 
+  THAMGIADT(MAGV, 
+  MADT) -Tập 
+  chia: 
+  DETAI(MADT) 
+-Tập 
+  kết 
+  quả: 
+  KQ(MAGV) 
+-Kết 
+  KQ 
+  với 
+  GIAOVIEN 
+  để 
+  lấy 
+  ra 
+  TENGV 
+Ví 
+  dụ 
+  20 
+  – 
+  Except 
+SELECTDISTINCT 
+  GV.MAGV, 
+  GV.HOTEN 
+FROM 
+  GIAOVIEN 
+  GV, 
+  THAMGIADT 
+  PC1 
+WHERE 
+  GV.MAGV 
+  = 
+  PC1.MAGV 
+ANDNOTEXISTS((SELECT 
+  DT.MADT 
+  FROM 
+  DETAI 
+  DT) Toàn bộ đề tài 
+Ví 
+  dụ 
+  20 
+  – 
+  Not 
+  Exists 
+SELECTDISTINCT 
+  GV.MAGV, 
+  GV.HOTEN 
+FROM 
+  GIAOVIEN 
+  GV, 
+  THAMGIADT 
+  PC1 
+WHERE 
+  GV.MAGV 
+  = 
+  PC1.MAGV 
+ANDNOTEXISTS( 
+  SELECT* 
+	FROM 
+  DETAI 
+  DT 
+Tìm 
+  những 
+  giáo 
+  viên 
+  mà 
+  danh 
+  sách 
+  đề 
+  tài 
+  không 
+  tham 
+  gia 
+  = 
+  rỗng 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	86 
+Ví 
+  dụ 
+  20 
+  – 
+  Not 
+  Exists 
+SELECTDISTINCT 
+  GV.MAGV, 
+  GV.HOTEN 
+FROM 
+  GIAOVIEN 
+  GV, 
+  THAMGIADT 
+  PC1 
+WHERE 
+  GV.MAGV 
+  = 
+  PC1.MAGV 
+AND0 
+  = 
+  (SELECTCOUNT(*) 
+	FROM 
+  DETAI 
+  DT 
+	WHERENOTEXISTS(SELECT* 
+		FROM 
+  THAMGIADT 
+  PC2 
+		WHERE 
+  PC2.MAGV 
+  = 
+  PC1.MAGV 		AND 
+  DT.MADT 
+  = 
+  PC2.MADT))
+Tìm 
+  những 
+  giáo 
+  viên 
+  mà 
+  số 
+  lượng 
+  đề 
+  tài 
+  chưa 
+  tham 
+  gia 
+  bằng 
+  0 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	87 
+Phép 
+  chia 
+  – 
+  với 
+  Count 
+§Cho 
+  R(A,B), 
+  S(B), 
+  thực 
+  hiện 
+  R÷S 
+SELECT 
+  R.A 
+FROM 
+  R 
+[WHERE 
+  R.B 
+  IN 
+  (SELECT 
+  S.B 
+  FROM 
+  S 
+   
+   
+  [WHERE 
+  <ĐK>]] GROUP 
+  BY 
+  R.A 
+HAVINGCOUNT(DISTINCT 
+  R.B) 
+  = 
+  ( 
+  SELECTCOUNT(S.B)  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  FROM 
+  S 
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  [WHERE 
+  <ĐK>]) 
+Ví 
+  dụ 
+  20 
+  – 
+  Count 
+SELECTDISTINCT 
+  GV.MAGV, 
+  GV.HOTEN 
+FROM 
+  GIAOVIEN 
+  GV, 
+  THAMGIADT 
+  PC1 
+WHERE 
+  GV.MAGV 
+  = 
+  PC1.MAGV 
+GROUP 
+  BY 
+  GV.MAGV, 
+  GV.HOTEN 
+HAVINGCOUNT(DISTINCT 
+  PC1.MADT) 
+  = 
+  (SELECTCOUNT 
+  (MADT) 	FROM 
+  DETAI 
+  DT) 
+Ví 
+  dụ 
+  21 
+  – 
+  Count 
+§Tìm 
+  tên 
+  các 
+  giáo 
+  viên 
+  được 
+  phân 
+  công 
+  làm 
+  tất 
+  cả 
+  các 
+  đề 
+  tài 	có 
+  kinh 
+  phí 
+  trên 
+  100 
+  triệu? 
+SELECTDISTINCT 
+  GV.MAGV, 
+  GV.HOTEN 
+FROM 
+  GIAOVIEN 
+  GV, 
+  THAMGIADT 
+  PC1 
+WHERE 
+  GV.MAGV 
+  = 
+  PC1.MAGV 
+AND 
+  PC1.MADT 
+  IN 
+  (SELECT 
+  DT.MADT 
+  FROM 
+  DETAI 
+  WHERE 
+  KINHPHI 
+  > 
+  100) GROUP 
+  BY 
+  GV.MAGV, 
+  GV.HOTEN 
+HAVINGCOUNT(DISTINCT 
+  PC1.MADT) 
+  = 
+  (SELECTCOUNT 
+  (MADT)
+ 
+  WHERE 
+  KINHPHI 
+  >100) 
+Bài 
+  tập 
+  phép 
+  chia 
+1.Cho 
+  biết 
+  mã 
+  số, 
+  họ 
+  tên, 
+  ngày 
+  sinh 
+  của 
+  giáo 
+  viên 
+  tham 
+  gia 
+  tất 	cả 
+  các 
+  công 
+  việc 
+  của 
+  đề 
+  tài 
+  ‘Ứng 
+  dụng 
+  hóa 
+  học 
+  xanh’. 
+2.Cho 
+  biết 
+  mã 
+  số, 
+  họ 
+  tên, 
+  tên 
+  bộ 
+  môn 
+  và 
+  tên 
+  người 
+  quản 
+  lý chuyên 
+  môn 
+  của 
+  giáo 
+  viên 
+  tham 
+  gia 
+  tất 
+  cả 
+  các 
+  đề 
+  tài 
+  thuộc chủ 
+  đề 
+  ‘Nghiên 
+  cứu 
+  phát 
+  triển’. 
+3.Cho 
+  biết 
+  họ 
+  tên, 
+  ngày 
+  sinh, 
+  tên 
+  khoa, 
+  tên 
+  trưởng 
+  khoa 
+  của giáo 
+  viên 
+  tham 
+  gia 
+  tất 
+  cả 
+  các 
+  đề 
+  tài 
+  có 
+  giáo 
+  viên 
+  ‘Nguyễn Hoài 
+  An’ 
+  tham 
+  gia. 
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+-Truy 
+  vấn 
+  cơ 
+  bản 
+-Tập 
+  hợp, 
+  so 
+  sánh 
+  tập 
+  hợp 
+  và 
+  truy 
+  vấn 
+  lồng 
+-Hàm 
+  kết 
+  hợp 
+  và 
+  gom 
+  nhóm 
+-Một 
+  số 
+  dạng 
+  truy 
+  vấn 
+  khác §Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+  (view) 
+Hàm 
+  kết 
+  hợp 
+§COUNT 
+-COUNT(*) 
+   
+  đếm 
+  số 
+  dòng 
+-COUNT(<tên 
+  thuộc 
+  tính>) 
+  đếm 
+  số 
+  giá 
+  trị 
+  khác 
+  NULL 
+  của 
+  thuộc 	tính 
+-COUNT(DISTINCT 
+  <tên 
+  thuộc 
+  tính>) 
+  đếm 
+  số 
+  giá 
+  trị 
+  khác 
+  nhau 	và 
+  khác 
+  NULL 
+  của 
+  thuộc 
+  tính 
+§MIN 
+§MAX 
+§SUM 
+§AVG 
+§Các 
+  hàm 
+  kết 
+  hợp 
+  được 
+  đặt 
+  ở 
+  mệnh 
+  đề 
+  SELECT 
+  hoặc 
+  HAVING 
+Ví 
+  dụ 
+  22 
+	§Tìm 
+  tổng 
+  lương, 
+  lương 
+  cao 
+  nhất, 
+  lương 
+  thấp 
+  nhất 
+  và 
+  lương 		trung 
+  bình 
+  của 
+  các 
+  giáo 
+  viên 
+SELECTSUM(LUONG), 
+  MAX(LUONG), 
+  MIN(LUONG), 
+  AVG(LUONG) 
+FROM 
+  GIAOVIEN 
+Ví 
+  dụ 
+  23 
+§Cho 
+  biết 
+  số 
+  lượng 
+  giáo 
+  viên 
+  của 
+  bộ 
+  môn 
+  ‘Mạng 
+  máy 
+  tính’
+SELECTCOUNT(*)AS 
+  SL_GV 
+FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+ 
+  AND 
+  TENBM=N'Mạng 
+  máy 
+  tính'
+Ví 
+  dụ 
+  24 
+§Tìm 
+  những 
+  giáo 
+  viên 
+  có 
+  lương 
+  thuộc 
+  3 
+  mức 
+  lương 
+  cao 
+  nhất 
+SELECT* 
+FROM 
+  GIAOVIEN 
+  GV1 
+WHERE 
+  2 
+  >=(SELECTCOUNT(*) 
+	FROM 
+  GIAOVIEN 
+  GV2 
+	WHERE 
+  GV2.LUONG 
+  > 
+  GV1.LUONG)
+Ví 
+  dụ 
+  25 
+	§Cho 
+  biết 
+  số 
+  lượng 
+  giáo 
+  viên 
+  của 
+  từng 
+  bộ 
+  môn 
+Gom 
+  nhóm 
+¡Cú 
+  pháp 
+¡Sau 
+  khi 
+  gom 
+  nhóm 
+	-Mỗi 
+  nhóm 
+  các 
+  bộ 
+  sẽ 
+  có 
+  cùng 
+  giá 
+  trị 
+  tại 
+  các 
+  thuộc 
+  tính 
+  gom 		nhóm 
+Ví 
+  dụ 
+  26 
+§Cho 
+  biết 
+  số 
+  lượng 
+  giáo 
+  viên 
+  của 
+  từng 
+  bộ 
+  môn 
+SELECT 
+  MABM,COUNT(*)'Số 
+  lượng 
+  giáo 
+  viên' FROM 
+  GIAOVIEN 
+GROUPBY 
+  MABM
+SELECT 
+  GV.MABM,COUNT(*)'Số 
+  lượng 
+  giáo 
+  viên' FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+GROUPBY 
+  GV.MABM
+Ví 
+  dụ 
+  27 
+§Với 
+  mỗi 
+  giáo 
+  viên 
+  cho 
+  biết 
+  mã 
+  số, 
+  mã 
+  đề 
+  tài 
+  và 
+  số 
+  công 
+  việc 	mà 
+  họ 
+  tham 
+  gia 
+  ứng 
+  với 
+  mỗi 
+  đề 
+  tài 
+SELECT 
+  PC.MAGV, 
+  PC.MADT,COUNT(*)AS'Số 
+  lượng 
+  công 
+  việc' FROM 
+  THAMGIADT 
+  PC 
+GROUPBY 
+  PC.MAGV, 
+  PC.MADT
+Ví 
+  dụ 
+  28 
+	§Cho 
+  biết 
+  những 
+  giáo 
+  viên 
+  tham 
+  gia 
+  từ 
+  2 
+  công 
+  việc 
+   
+  trở 
+  lên 
+  cho 		mỗi 
+  đề 
+  tài? 
+Điều 
+  kiện 
+  trên 
+  nhóm 
+	§Cú 
+  pháp 
+Ví 
+  dụ 
+  29 
+§Cho 
+  biết 
+  những 
+  giáo 
+  viên 
+  tham 
+  gia 
+  từ 
+  2 
+  công 
+  việc 
+   
+  trở 
+  lên 
+  cho 	mỗi 
+  đề 
+  tài? 
+SELECT 
+  PC.MAGV, 
+  PC.MADT,COUNT(*)AS'Số 
+  lượng 
+  công 
+  việc' FROM 
+  THAMGIADT 
+  PC 
+GROUPBY 
+  PC.MAGV, 
+  PC.MADT 
+HAVINGCOUNT(*) 
+  >= 
+  2
+Ví 
+  dụ 
+  30 
+§Cho 
+  biết 
+  những 
+  giáo 
+  viên 
+  tham 
+  gia 
+  từ 
+  2 
+  đề 
+  tài 
+  trở 
+  lên 
+SELECT 
+  PC.MAGV, 
+  COUNT(DISTINCTMADT)AS'Số 
+  lượng 
+  đề 
+  tài' FROM 
+  THAMGIADT 
+  PC 
+GROUPBY 
+  PC.MAGV 
+HAVINGCOUNT(DISTINCTMADT) 
+  >= 
+  2
+Ví 
+  dụ 
+  31 
+§Cho 
+  biết 
+  những 
+  bộ 
+  môn 
+  (TENBM) 
+  có 
+  lương 
+  trung 
+  bình 
+  của 	các 
+  giáo 
+  viên 
+  lớn 
+  hơn 
+  20000 
+SELECT 
+  GV.MABM,AVG(GV.LUONG)AS'Lương 
+  trung bình' 
+FROM 
+  GIAOVIEN 
+  GV 
+GROUPBY 
+  GV.MABM 
+HAVINGAVG(GV.LUONG)>20000
+	SELECT 
+  BM.TENBM,AVG(GV.LUONG)AS'Lương 
+  trung 
+  bình' 	FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+	WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+	GROUPBY 
+  BM.MABM, 
+  BM.TENBM 
+	HAVINGAVG(GV.LUONG)>=20000
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	105 
+Nhận 
+  xét 
+§Mệnh 
+  đề 
+  GROUP 
+  BY 
+-Các 
+  thuộc 
+  tính 
+  trong 
+  mệnh 
+  đề 
+  SELECT 
+  (trừ 
+  những 
+  thuộc 
+  tính trong 
+  các 
+  hàm 
+  kết 
+  hợp) 
+  phải 
+  xuất 
+  hiện 
+  trong 
+  mệnh 
+  đề 
+  GROUP BY 
+§Mệnh 
+  đề 
+  HAVING 
+-Sử 
+  dụng 
+  các 
+  hàm 
+  kết 
+  hợp 
+  trong 
+  mệnh 
+  đề 
+  SELECT 
+  để 
+  kiểm 
+  tra 	một 
+  số 
+  điều 
+  kiện 
+  nào 
+  đó 
+-Chỉ 
+  kiểm 
+  tra 
+  điều 
+  kiện 
+  trên 
+  nhóm, 
+  không 
+  là 
+  điều 
+  kiện 
+  lọc 
+  trên 	từng 
+  bộ 
+-Sau 
+  khi 
+  gom 
+  nhóm 
+  điều 
+  kiện 
+  trên 
+  nhóm 
+  mới 
+  được 
+  thực 
+  hiện 
+Nhận 
+  xét 
+  (=) 
+§Thứ 
+  tự 
+  thực 
+  hiện 
+  câu 
+  truy 
+  vấn 
+  có 
+  mệnh 
+  đề 
+  GROUP 
+  BY 
+  và 	HAVING 
+-(1) 
+  Chọn 
+  ra 
+  những 
+  dòng 
+  thỏa 
+  điều 
+  kiện 
+  trong 
+  mệnh 
+  đề 	WHERE 
+-(2) 
+  Những 
+  dòng 
+  này 
+  sẽ 
+  được 
+  gom 
+  thành 
+  nhiều 
+  nhóm 
+  tương 	ứng 
+  với 
+  mệnh 
+  đề 
+  GROUP 
+  BY 
+-(3) 
+  Áp 
+  dụng 
+  các 
+  hàm 
+  kết 
+  hợp 
+  cho 
+  mỗi 
+  nhóm 
+-(4) 
+  Bỏ 
+  qua 
+  những 
+  nhóm 
+  không 
+  thỏa 
+  điều 
+  kiện 
+  trong 
+  mệnh 
+  đề 	HAVING 
+-(5) 
+  Rút 
+  trích 
+  các 
+  giá 
+  trị 
+  của 
+  các 
+  cột 
+  và 
+  hàm 
+  kết 
+  hợp 
+  trong 
+  mệnh 	đề 
+  SELECT 
+Ví 
+  dụ 
+  32 
+§Tìm 
+  những 
+  phòng 
+  ban 
+  có 
+  lương 
+  trung 
+  bình 
+  cao 
+  nhất 
+SELECT 
+  GV.MABM,AVG(GV.LUONG)AS'Lương 
+  trung 
+  bình' FROM 
+  GIAOVIEN 
+  GV 
+GROUPBY 
+  GV.MABM 
+HAVINGAVG(GV.LUONG))=(SELECTMAX(AVG(GV.LUONG)) 	FROM 
+  GIAOVIEN 
+  GV 
+	GROUPBY 
+  GV.MABM)
+Ví 
+  dụ 
+  33 
+§Tìm 
+  những 
+  phòng 
+  ban 
+  có 
+  lương 
+  trung 
+  bình 
+  cao 
+  nhất 
+SELECT 
+  GV.MABM,AVG(GV.LUONG)AS'Lương 
+  trung 
+  bình' FROM 
+  GIAOVIEN 
+  GV 
+GROUPBY 
+  GV.MABM 
+HAVINGAVG(GV.LUONG)>=ALL(SELECTAVG(GV.LUONG) 	FROM 
+  GIAOVIEN 
+  GV 	GROUPBY 
+  GV.MABM)
+Ví 
+  dụ 
+  34 
+§Tìm 
+  tên 
+  các 
+  giáo 
+  viên 
+  được 
+  phân 
+  công 
+  làm 
+  tất 
+  cả 
+  các 
+  đề 
+  tài 
+SELECT 
+  PC.MAGV,COUNT(DISTINCTPC.MADT)AS'Số 
+  lượng 
+  đề 
+  tài' FROM 
+  THAMGIADT 
+  PC 
+GROUPBY 
+  PC.MAGV 
+HAVINGCOUNT(DISTINCTPC.MADT)=(SELECTCOUNT(MADT) 	FROM 
+  DETAI)
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+-Truy 
+  vấn 
+  cơ 
+  bản 
+-Tập 
+  hợp, 
+  so 
+  sánh 
+  tập 
+  hợp 
+  và 
+  truy 
+  vấn 
+  lồng 
+-Hàm 
+  kết 
+  hợp 
+  và 
+  gom 
+  nhóm 
+-Một 
+  số 
+  dạng 
+  truy 
+  vấn 
+  khác §Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+  (view) 
+Một 
+  số 
+  dạng 
+  truy 
+  vấn 
+  khác 	§Truy 
+  vấn 
+  con 
+  ở 
+  mệnh 
+  đề 
+  FROM 	§Điều 
+  kiện 
+  kết 
+  ở 
+  mệnh 
+  đề 
+  FROM 		-Phép 
+  kết 
+  tự 
+  nhiên 
+		-Phép 
+  kết 
+  ngoàI 
+	§Cấu 
+  trúc 
+  CASE 
+Truy 
+  vấn 
+  con 
+  ở 
+  mệnh 
+  đề 
+  FROM 
+	§Kết 
+  quả 
+  trả 
+  về 
+  của 
+  một 
+  câu 
+  truy 
+  vấn 
+  phụ 
+  là 
+  một 
+  bảng 		-Bảng 
+  trung 
+  gian 
+  trong 
+  quá 
+  trình 
+  truy 
+  vấn 
+		-Không 
+  có 
+  lưu 
+  trữ 
+  thật 
+  sự 
+	§Cú 
+  pháp 
+Ví 
+  dụ 
+  35 
+§Cho 
+  biết 
+  những 
+  bộ 
+  môn 
+  (TENBM) 
+  có 
+  lương 
+  trung 
+  bình 
+  của 	các 
+  giáo 
+  viên 
+  lớn 
+  hơn 
+  20000 
+SELECT 
+  BM.TENBM,AVG(GV.LUONG)AS 
+  LUONG_TB FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+GROUPBY 
+  BM.MABM, 
+  BM.TENBM 
+HAVINGAVG(GV.LUONG)>=20000
+Ví 
+  dụ 
+  35(=) 
+§Cho 
+  biết 
+  những 
+  bộ 
+  môn 
+  (TENBM) 
+  có 
+  lương 
+  trung 
+  bình 
+  của 	các 
+  giáo 
+  viên 
+  lớn 
+  hơn 
+  20000 
+SELECT 
+  BM.TENBM, 
+  LUONG_GV.LUONG_TB 
+FROM 
+  BOMON 
+  BM,(SELECT 
+  MABM,AVG(LUONG) 
+  LUONG_TB 	FROM 
+  GIAOVIEN 
+	GROUPBY 
+  MABM) 
+  AS 
+  LUONG_GV 
+WHERE 
+  BM.MABM 
+  = 
+  LUONG_GV.MABM 
+Điều 
+  kiện 
+  kết 
+  ở 
+  mệnh 
+  đề 
+  FROM 	§Kết 
+  bằng 
+§Kết 
+  ngoài 
+Ví 
+  dụ 
+  36 
+§Tìm 
+  mã 
+  và 
+  tên 
+  các 
+  giáo 
+  viên 
+  làm 
+  việc 
+  tại 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 	thông 
+  tin’
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN, 
+  BOMON 
+WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin' 
+AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+  GV 
+  INNER 
+  JOIN 
+  BOMON 
+  BM 
+  ON 
+  GV.MABM 
+  = 
+  BM.MABM WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin'
+Ví 
+  dụ 
+  37 
+§Tìm 
+  họ 
+  tên 
+  các 
+  giáo 
+  viên 
+  và 
+  tên 
+  các 
+  đề 
+  tài 
+  giáo 
+  viên 
+  tham 
+  gia 	nếu 
+  có 
+SELECTDISTINCT 
+  GV.* 
+FROM 
+  GIAOVIEN 
+  GV 
+  LEFT 
+  JOIN 
+  (THAMGIADT 
+  PC 
+  JOIN 
+  DETAI 
+  DT 
+  ON PC.MADT 
+  = 
+  DT.MADT) 
+  ON 
+  GV.MAGV 
+  = 
+  PC.MAGV 
+GV.MAGV= 
+  PC.MAGV 
+mở 
+  rộng 
+Cấu 
+  trúc 
+  CASE 
+	§Cho 
+  phép 
+  kiểm 
+  tra 
+  điều 
+  kiện 
+  và 
+  xuất 
+  thông 
+  tin 
+  theo 
+  từng 		trường 
+  hợp 
+§Cú 
+  pháp 
+Ví 
+  dụ 
+  38 
+§Cho 
+  biết 
+  họ 
+  tên 
+  các 
+  giáo 
+  viên 
+  đã 
+  đến 
+  tuổi 
+  về 
+  hưu 
+  (nam 
+  60 	tuổi, 
+  nữ 
+  55 
+  tuổi) 
+SELECT 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHEREYEAR(GETDATE())-­‐YEAR(NGAYSINH)>=(CASE 
+  PHAI 
+		WHEN'Nam'THEN 
+  60 			WHEN'Nu'THEN 
+  55 END)
+Ví 
+  dụ 
+  39 
+§Cho 
+  biết 
+  họ 
+  tên 
+  các 
+  giáo 
+  viên 
+  và 
+  năm 
+  về 
+  hưu 
+SELECT 
+  GV.HOTEN,YEAR(GV.NGAYSINH)+(CASE 
+  PHAI 
+		WHEN'Nam'THEN 
+  60 			WHEN'Nu'THEN 
+  55 	END)AS 
+  NAMVEHUU 
+FROM 
+  GIAOVIEN 
+  GV 
+SELECT 
+  GV.HOTEN,(CASE 
+  PHAI 
+		WHEN'Nam'THENYEAR(NGAYSINH)+ 
+  60 		WHEN'Nu'THENYEAR(NGAYSINH)+ 
+  55 	END)AS 
+  NAMVEHUU 
+FROM 
+  GIAOVIEN 
+  GV 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	121 
+Kết luận 
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+§Cập 
+  nhật 
+  dữ 
+  liệu 
+-Thêm 
+  (insert) 
+-Xóa 
+  (delete) 
+-Sửa 
+  (update) 
+§Khung 
+  nhìn 
+  (view) 
+§Chỉ 
+  mục 
+  (index) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	123 
+Lệnh 
+  INSERT 
+§Dùng 
+  để 
+  thêm 
+  1 
+  hay 
+  nhiều 
+  dòng 
+  vào 
+  bảng 
+§Để 
+  thêm 
+  dữ 
+  liệu 
+-Tên 
+  quan 
+  hệ 
+-Danh 
+  sách 
+  các 
+  thuộc 
+  tính 
+  cần 
+  thêm 
+  dữ 
+  liệu -Danh 
+  sách 
+  các 
+  giá 
+  trị 
+  tương 
+  ứng 
+Lệnh 
+  INSERT 
+  (=) 
+	§Cú 
+  pháp 
+  (thêm 
+  1 
+  dòng)
+Ví 
+  dụ 
+  40 
+INSERTINTO 
+  THAMGIADT(MAGV, 
+  MADT, 
+  STT, 
+  PHUCAP, 
+  KETQUA) 
+VALUES(’002',‘001', 
+  1, 
+  1.0, 
+  N’ĐẠT')
+INSERTINTO 
+  THAMGIADT(MAGV, 
+  MADT, 
+  STT, 
+  PHUCAP, 
+  KETQUA) 
+VALUES(’002',‘001', 
+  2, 
+  1.2,NULL)
+Lệnh 
+  INSERT 
+  (=) 
+§Nhận 
+  xét 
+	-Thứ 
+  tự 
+  các 
+  giá 
+  trị 
+  phải 
+  trùng 
+  với 
+  thứ 
+  tự 
+  các 
+  cột 
+-Có 
+  thể 
+  thêm 
+  giá 
+  trị 
+  NULL 
+  ở 
+  những 
+  thuộc 
+  tính 
+  không 
+  là 
+  khóa 	chính 
+  và 
+  NOT 
+  NULL 
+-Câu 
+  lệnh 
+  INSERT 
+  sẽ 
+  gặp 
+  lỗi 
+  nếu 
+  vi 
+  phạm 
+  RBTV 
+	lKhóa 
+  chính 
+	lTham 
+  chiếu 
+	lNOT 
+  NULL 
+  -­‐ 
+  các 
+  thuộc 
+  tính 
+  có 
+  ràng 
+  buộc 
+  NOT 
+  NULL 
+  bắt 		buộc 
+  phải 
+  có 
+  giá 
+  trị 
+Lệnh 
+  INSERT 
+  (=) 
+	§Cú 
+  pháp 
+  (thêm 
+  nhiều 
+  dòng)
+Ví 
+  dụ 
+  41 
+CREATETABLE 
+  THONGKE_BM 
+  ( 
+	 
+  TENBM 
+  NVARCHAR(50), 
+	 
+  SL_GV 
+  INT, 
+	 
+  LUONG_TC 
+  INT 
+	PRIMARYKEY(TENBM) 
+)
+INSERTINTO 
+  THONGKE_BM 
+SELECT 
+  BM.TENBM,COUNT(GV.MAGV),SUM(GV.LUONG) FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+GROUPBY 
+  BM.MABM, 
+  BM.TENBM 
+Lệnh 
+  DELETE 
+§Dùng 
+  để 
+  xóa 
+  các 
+  dòng 
+  của 
+  bảng §Cú 
+  pháp 
+Ví 
+  dụ 
+  42 
+DELETEFROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  LIKE 
+  N'Trần%'
+DELETEFROM 
+  GIAOVIEN 
+WHERE 
+  MAGV 
+  = 
+  'GV001'
+DELETE 
+  FROM 
+  GIAOVIEN 
+Ví 
+  dụ 
+  43 
+§Xóa 
+  đi 
+  những 
+  giáo 
+  viên 
+  ở 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 
+  thông 
+  tin’
+DELETEFROM 
+  GIAOVIEN 
+WHERE 
+  MABM 
+  IN(SELECT 
+  MABM 
+	FROM 
+  BOMON 
+	WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin')
+DELETEFROM 
+  GIAOVIEN 
+FROM 
+  BOMON 
+  BM 
+WHERE 
+  GIAOVIEN.MABM 
+  = 
+  BM.MABM 
+AND 
+  BM.TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin'
+Lệnh 
+  DELETE 
+  (=) 
+§Nhận 
+  xét 
+	-Số 
+  lượng 
+  số 
+  dòng 
+  bị 
+  xóa 
+  phụ 
+  thuộc 
+  vào 
+  điều 
+  kiện 
+  ở 
+  mệnh 
+  đề 		WHERE 
+-Nếu 
+  không 
+  chỉ 
+  định 
+  điều 
+  kiện 
+  ở 
+  mệnh 
+  đề 
+  WHERE, 
+  tất 
+  cả 
+  các 	dòng 
+  trong 
+  bảng 
+  sẽ 
+  bị 
+  xóa 
+-Lệnh 
+  DELETE 
+  có 
+  thể 
+  gây 
+  ra 
+  vi 
+  phạm 
+  RB 
+  tham 
+  chiếu 	lKhông 
+  cho 
+  xóa 
+	lXóa 
+  luôn 
+  những 
+  dòng 
+  có 
+  giá 
+  trị 
+  đang 
+  tham 
+  chiếu 
+  đến 	–CASCADE 
+	lĐặt 
+  NULL 
+  cho 
+  những 
+  giá 
+  trị 
+  tham 
+  chiếu 
+Lệnh 
+  DELETE 
+  (=) 
+Lệnh 
+  DELETE 
+  (=) 
+Lệnh 
+  UPDATE 
+	§Dùng 
+  để 
+  thay 
+  đổi 
+  giá 
+  trị 
+  của 
+  thuộc 
+  tính 
+  cho 
+  các 
+  dòng 
+  của 		bảng 
+§Cú 
+  pháp 
+Ví 
+  dụ 
+  44 
+UPDATE 
+  GIAOVIEN 
+SET 
+  NGAYSINH='08/12/1965' 
+WHERE 
+  MAGV='GV001'
+UPDATE 
+  GIAOVIEN 
+SET 
+  LUONG=LUONG*1.1 
+Ví 
+  dụ 
+  45 
+§Với 
+  mỗi 
+  giáo 
+  viên 
+  của 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 
+  thông 
+  tin’, 
+  nâng lương 
+  của 
+  các 
+  giáo 
+  viên 
+  gấp 
+  1.5 
+  lần 
+  và 
+  gán 
+  giáo 
+  viên 
+  quản 
+  lý (GVQL) 
+  thành 
+  null 
+UPDATE 
+  GIAOVIEN 
+SET 
+  LUONG 
+  = 
+  LUONG*1.5, 
+  GVQL 
+  =NULL 
+WHERE 
+  MABM 
+  =(SELECT 
+  MABM 
+	FROM 
+  BOMON 
+	WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin')
+Ví 
+  dụ 
+  46 
+§Tăng 
+  10% 
+  lương 
+  cho 
+  giáo 
+  viên 
+  có 
+  tham 
+  gia 
+  đề 
+  tài 
+UPDATE 
+  GIAOVIEN 
+SET 
+  LUONG 
+  = 
+  LUONG 
+  * 
+  1.1 
+FROM 
+  THAMGIADT 
+  TG 
+WHERE 
+  TG.MAGV 
+  = 
+  GIAOVIEN.MAGV 
+Ví 
+  dụ 
+  47 
+§Tăng 
+  lương 
+  10% 
+  cho 
+  tất 
+  cả 
+  các 
+  giáo 
+  viên 
+  làm 
+  cho 
+  đề 
+  tài 	‘DT001’nhiều 
+  hơn 
+  3 
+  công 
+  việc. 
+UPDATE 
+  GIAOVIEN 
+SET 
+  LUONG 
+  = 
+  LUONG 
+  * 
+  1.1 
+WHERE 
+  MAGV 
+  IN(SELECT 
+  PC.MAGV 
+	FROM 
+  THAMGIADT 
+  TG 
+	WHERE 
+  TG.MADT 
+  ='DT001' 	GROUPBY 
+  TG.MAGV, 
+  TG.MADT 	HAVINGCOUNT(*)>= 
+  3)
+Lệnh 
+  UPDATE 
+§Nhận 
+  xét 
+-Những 
+  dòng 
+  thỏa 
+  điều 
+  kiện 
+  tại 
+  mệnh 
+  đề 
+  WHERE 
+  sẽ 
+  được 
+  cập 	nhật 
+  giá 
+  trị 
+  mới 
+-Nếu 
+  không 
+  chỉ 
+  định 
+  điều 
+  kiện 
+  ở 
+  mệnh 
+  đề 
+  WHERE, 
+  tất 
+  cả 
+  các 	dòng 
+  trong 
+  bảng 
+  sẽ 
+  bị 
+  cập 
+  nhật 
+-Lệnh 
+  UPDATE 
+  có 
+  thể 
+  gây 
+  ra 
+  vi 
+  phạm 
+  RB 
+  tham 
+  chiếu 
+lKhông 
+  cho 
+  sửa 
+lSửa 
+  luôn 
+  những 
+  dòng 
+  có 
+  giá 
+  trị 
+  đang 
+  tham 
+  chiếu 
+  đến 
+–CASCADE 
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+§Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+-Định 
+  nghĩa 
+-Truy 
+  vấn 
+	-Cập 
+  nhật 
+§Chỉ 
+  mục 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	142 
+Khung 
+  nhìn 
+§Bảng 
+  là 
+  một 
+  quan 
+  hệ 
+  được 
+  tổ 
+  chức 
+  lưu 
+  trữ 
+  vật 
+  lý 
+  trong 
+  CSDL 
+§Khung 
+  nhìn 
+  cũng 
+  là 
+  một 
+  quan 
+  hệ 
+-Không 
+  được 
+  lưu 
+  trữ 
+  vật 
+  lý 
+  (bảng 
+  ảo) 
+-Không 
+  chứa 
+  dữ 
+  liệu 
+-Được 
+  định 
+  nghĩa 
+  từ 
+  những 
+  bảng 
+  khác 
+-Có 
+  thể 
+  truy 
+  vấn 
+  hay 
+  cập 
+  nhật 
+  thông 
+  qua 
+  khung 
+  nhìn 
+Khung 
+  nhìn 
+  (=) 
+§Tại 
+  sao 
+  phải 
+  sử 
+  dụng 
+  khung 
+  nhìn? 
+-Che 
+  dấu 
+  tính 
+  phức 
+  tạp 
+  của 
+  dữ 
+  liệu 
+-Đơn 
+  giản 
+  hóa 
+  các 
+  câu 
+  truy 
+  vấn 
+-Hiển 
+  thị 
+  dữ 
+  liệu 
+  dưới 
+  dạng 
+  tiện 
+  dụng 
+  nhất -An 
+  toàn 
+  dữ 
+  liệu 
+Định 
+  nghĩa 
+  khung 
+  nhìn 
+	§Cú 
+  pháp 
+§Bảng 
+  ảo 
+  này 
+  có 
+	-Danh 
+  sách 
+  thuộc 
+  tính 
+  trùng 
+  với 
+  các 
+  thuộc 
+  tính 
+  trong 
+  mệnh 
+  đề 		SELECT 
+	-Số 
+  dòng 
+  phụ 
+  thuộc 
+  vào 
+  điều 
+  kiện 
+  ở 
+  mệnh 
+  đề 
+  WHERE 
+	-Dữ 
+  liệu 
+  được 
+  lấy 
+  từ 
+  các 
+  bảng 
+  ở 
+  mệnh 
+  đề 
+  FROM 
+Ví 
+  dụ 
+  48 
+CREATEVIEW 
+  GV_HTTT 
+  AS 
+SELECT 
+  GV.* 
+FROM 
+  GIAOVIEN 
+  GV 
+WHERE 
+  BM.MABM 
+  ='HTTT' 
+CREATEVIEW 
+  THONGKE_BM 
+  AS 
+SELECT 
+  BM.TENBM,COUNT(GV.MAGV) 
+  SL_GV, 		SUM(GV.LUONG) 
+  TONG_LUONG FROM 
+  GIAOVIEN 
+  GV, 
+  BOMON 
+  BM 
+WHERE 
+  GV.MABM 
+  = 
+  BM.MABM 
+GROUPBY 
+  BM.MABM, 
+  BM.TENBM 
+Truy 
+  vấn 
+  trên 
+  khung 
+  nhìn 
+§Tuy 
+  không 
+  chứa 
+  dữ 
+  liệu 
+  nhưng 
+  có 
+  thể 
+  thực 
+  hiện 
+  các 
+  câu 
+  truy 	vấn 
+  trên 
+  khung 
+  nhìn 
+SELECT 
+  GV.HOTEN 
+FROM 
+  GV_HTTT 
+  GV 
+WHERE 
+  GV.MAGV 
+  ='GV003'
+GV_HTTT ←σMABM='HTTT'(GIAOVIEN) 
+π HOTEN (σMAGV='GV003'(GV_HTTT)) 
+Truy 
+  vấn 
+  trên 
+  khung 
+  nhìn 
+  (=) 
+§Có 
+  thể 
+  viết 
+  câu 
+  truy 
+  vấn 
+  dữ 
+  liệu 
+  từ 
+  khung 
+  nhìn 
+  và 
+  bảng 
+SELECTDISTINCT 
+  GV.* 
+FROM 
+  GV_HTTT 
+  GV, 
+  THAMGIADT 
+  PC 
+WHERE 
+  GV.MAGV 
+  = 
+  PC.MAGV
+GV_HTTT ←σMABM='HTTT'(GIAOVIEN) 
+KQ ←GV_HTTT     GV_HTTT.MAGV=THAMGIADT.MAGV THAMGIADT 
+Cập 
+  nhật 
+  trên 
+  khung 
+  nhìn 
+§Có 
+  thể 
+  dùng 
+  các 
+  câu 
+  lệnh 
+  INSERT, 
+  DELETE 
+  và 
+  UPDATE 
+  cho 	các 
+  khung 
+  nhìn 
+  đơn 
+  giản 
+		-Khung 
+  nhìn 
+  được 
+  xây 
+  dựng 
+  trên 
+  1 
+  bảng 
+  và 
+  có 
+  khóa 
+  chính 
+  của 			bảng 
+§Không 
+  thể 
+  cập 
+  nhật 
+  dữ 
+  liệu 
+  nếu 
+-Khung 
+  nhìn 
+  có 
+  dùng 
+  từ 
+  khóa 
+  DISTINCT 
+-Khung 
+  nhìn 
+  có 
+  sử 
+  dụng 
+  các 
+  hàm 
+  kết 
+  hợp 
+-Khung 
+  nhìn 
+  có 
+  mệnh 
+  đề 
+  SELECT 
+  mở 
+  rộng 
+-Khung 
+  nhìn 
+  được 
+  xây 
+  dựng 
+  từ 
+  bảng 
+  có 
+  RB 
+  trên 
+  cột -Khung 
+  nhìn 
+  được 
+  xây 
+  dựng 
+  từ 
+  nhiều 
+  bảng 
+Cập 
+  nhật 
+  trên 
+  khung 
+  nhìn 
+  (=) 
+§Sửa 
+  lại 
+  lương 
+  cho 
+  giáo 
+  viên 
+  mã 
+  ‘GV003’ 
+  ở 
+  bộ 
+  môn 
+  'Hệ 
+  thống 	thông 
+  tin' 
+  tăng 
+  lên 
+  10%
+UPDATE 
+  GV_HTTT 
+SET 
+  LUONG 
+  = 
+  LUONG 
+  * 
+  1.1 
+WHERE 
+  MAGV 
+  ='GV003'
+Nội 
+  dung 
+  chi 
+  >ết 
+§Giới 
+  thiệu 
+§Định 
+  nghĩa 
+  dữ 
+  liệu 
+§Truy 
+  vấn 
+  dữ 
+  liệu 
+§Cập 
+  nhật 
+  dữ 
+  liệu 
+§Khung 
+  nhìn 
+§Chỉ 
+  mục 
+Chỉ 
+  mục 
+	§Chỉ 
+  mục 
+  trên 
+  thuộc 
+  tính 
+  A 
+  là 
+  một 
+  cấu 
+  trúc 
+  dữ 
+  liệu 
+  làm 
+  cho 		việc 
+  tìm 
+  kiếm 
+  mẫu 
+  tin 
+  có 
+  chứa 
+  A 
+  hiệu 
+  quả 
+  hơn 
+Chỉ 
+  mục 
+  (=) 
+	§Cú 
+  pháp 
+§Ví 
+  dụ 
+CREATE 
+  INDEX 
+  MABM_IND 
+  ON 
+  GIAOVIEN(MABM)
+CREATE 
+  INDEX 
+  MABM_PHAI_IND 
+  ON 
+  GIAOVIEN(MABM, 
+  PHAI)
+Chỉ 
+  mục 
+  (=) 
+	§Nhận 
+  xét 
+		-Tìm 
+  kiếm 
+  nhanh 
+  trong 
+  trường 
+  hợp 
+  so 
+  sánh 
+  với 
+  hằng 
+  số 
+  và 			phép 
+  kết 
+		-Làm 
+  chậm 
+  đi 
+  các 
+  thao 
+  tác 
+  thêm, 
+  xóa 
+  và 
+  sửa 
+		-Tốn 
+  chi 
+  phí 
+				lLưu 
+  trữ 
+  chỉ 
+  mục 
+				lTruy 
+  xuất 
+  đĩa 
+  nhiều 
+§Chọn 
+  lựa 
+  cài 
+  đặt 
+  chỉ 
+  mục 
+  hợp 
+  lý? 
+  ⇒ 
+  sẽ 
+  được 
+  tìm 
+  hiểu 
+  kỹ 	trong 
+  các 
+  môn 
+  học 
+  tiếp 
+  Hệ 
+  QTCSDL, 
+  CSDL 
+  NC. 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 2
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 3
+-Định 
+  nghĩa 
+  khung 
+  nhìn -Ràng 
+  buộc 
+  toàn 
+  vẹn
+§SQL 
+  sử 
+  dụng 
+  thuật 
+  ngữ 	-Bảng 
+  ~ 
+  quan 
+  hệ
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 4
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 5
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 6
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 7
+-DATETIME: 
+  gồm 
+  DATE 
+  và 
+  TIME 
+  (Chỉ 
+  có 
+  trong 
+  SQL 
+  của 
+  SQL © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN Server) | 8
+CREATE 
+  TABLE 
+  <Tên_bảng> 
+  ( 
+	<Tên_cột> 
+  <Kiểu_dữ_liệu> 
+  [<RBTV>], 	<Tên_cột> 
+  <Kiểu_dữ_liệu> 
+  [<RBTV>], 
+  …
+ 
+  [<RBTV>] 
+)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 10
+MaGV 
+ 
+  HoTen 
+ 
+  Luong 
+ 
+  Phai 
+ 
+  NgaySinh  
+  SoNha | CHAR(9), 
+NVARCHAR(50), 
+INT, 
+CHAR(3), 
+DATETIME, 
+NVARCHAR(10),
+Quan 
+ 
+  ThanhPho 
+  GVQLCM 
+MaBM | NVARCHAR(50), 
+NVARCHAR(50), 
+CHAR(9), 
+ 
+  CHAR(9)
+CONSTRAINT 
+  <Ten_RBTV> 
+  <RBTV>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 12
+MAGV | CHAR(9) 
+  PRIMARY 
+  KEY,
+HOTEN | NVARCHAR(50) 
+  NOT 
+  NULL,
+PHAI 
+ 
+  NGAYSINH | CHAR(3) 
+  CHECK 
+  (PHAI 
+  IN(‘Nam’, 
+  ‘Nu’)), DATETIME,
+QUAN | NVARCHAR(50), | 13
+THANHPHO | NVARCHAR(50), | 13
+GVQLCM | CHAR(9), | 13
+MABM | CHAR(9) | 13
+) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | ) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 13
+PRIMARY 
+  KEY(MADT, 
+  STT)
+MAGV | CHAR(9)CONSTRAINT 
+  PK_GV 
+  PRIMARYKEY, 
+	NVARCHAR(50)CONSTRAINT 
+  NN_HOTEN 
+  NOTNULL, 	INTCONSTRAINT 
+  DE_LUONG 
+  DEFAULT(10000), CHAR(3)CONSTRAINT 
+  CK_PHAI 
+  CHECK(PHAI 
+  IN('Nam','Nu'))
+HOTEN | CHAR(9)CONSTRAINT 
+  PK_GV 
+  PRIMARYKEY, 
+	NVARCHAR(50)CONSTRAINT 
+  NN_HOTEN 
+  NOTNULL, 	INTCONSTRAINT 
+  DE_LUONG 
+  DEFAULT(10000), CHAR(3)CONSTRAINT 
+  CK_PHAI 
+  CHECK(PHAI 
+  IN('Nam','Nu'))
+LUONG  
+  PHAI | CHAR(9)CONSTRAINT 
+  PK_GV 
+  PRIMARYKEY, 
+	NVARCHAR(50)CONSTRAINT 
+  NN_HOTEN 
+  NOTNULL, 	INTCONSTRAINT 
+  DE_LUONG 
+  DEFAULT(10000), CHAR(3)CONSTRAINT 
+  CK_PHAI 
+  CHECK(PHAI 
+  IN('Nam','Nu'))
+15
+NGAYSINH | NGAYSINH | DATETIME, | 15
+SONHA | SONHA | NVARCHAR(10), | 15
+DUONG | DUONG | NVARCHAR(50), | 15
+QUAN | QUAN | NVARCHAR(50), | 15
+THANHPHO | THANHPHO | NVARCHAR(50), | 15
+GVQL | GVQL | CHAR(9), | 15
+MABM | MABM | CHAR(9) | 15
+) | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 15
+CONSTRAINT 
+  PK_CV 
+  PRIMARYKEY(MADT, 
+  STT),
+CONSTRAINT 
+  FK_CONGVIEC_DETAI
+FOREIGNKEY 
+  MADT 
+  REFERENCES 
+  DETAI(MADT)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 16
+§Thêm 
+  cột
+ALTER 
+  TABLE 
+  <Tên_bảng> 
+  DROP 
+  COLUMN 
+  <Tên_cột>
+§Cập 
+  nhật 
+  cột | 17
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 17
+§Thêm 
+  RBTV
+ALTER 
+  TABLE 
+  <Tên_bảng> 
+  DROP 
+  <Tên_RBTV>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 18
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 19
+CREATETABLE 
+  BOMON(
+INT 
+  NOTNULL, | Phải xác định NOT NULL
+INT 
+  NOTNULL, | trước khi tạo khóa chính
+TENBM | NVARCHAR(50),
+PHONG | CHAR(10),
+DIENTHOAI | CHAR(15),
+TRUONGBM | CHAR(9
+ALTER | Cần 
+  có 
+  bảng
+ALTER | REFERENCES 
+  GIAOVIEN( | ), | GIAOVIEN 
+  trước
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | ( | KEY(TRUONGBM) | 20
+DROP 
+  TABLE 
+  <Tên_bảng>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 21
+MãGV | HọTên | Lương | Phái | NgàySinh | SốNhà | Đường | Quận | ThànhPhố | GVQL | MãBM
+MãKhoa | TrưởngBM | NgàyNhậnChức | ĐiệnThoại | MãBM | TênBM | Phòng
+TrưởngKhoa | NgàyNhậnChức | TênKhoa | NămTL | Phòng | ĐiệnThoại | MãKhoa | 22
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | NămTL | Phòng | ĐiệnThoại | MãKhoa | 22
+CREATE DOMAIN <Tên_kdl_mới> AS <Kiểu_dữ_liệu>
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 23
+§Chỉ 
+  mục 
+  (index) © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 24
++
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 25
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> FROM 
+  <danh 
+  sách 
+  các 
+  bảng> WHERE 
+  <điều 
+  kiện>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 26
+FROM 
+  R 
+WHERE 
+  C | πL (σC (R)) | 27
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 27
+Lấy 
+  tất 
+  cả 
+  các
+SELECT* | cột 
+  của 
+  quan 
+  hệ 
+kết 
+  quả
+MaKhoa | TenKhoa | Phong | NamTL | DienThoai | TruongKhoa | NgayNhanChuc
+CNTT | Công 
+  nghệ 
+  thông 
+  tin | I53 | 1995 | 08313964145 | GV130 | 01/01/2007
+SH | Sinh học | B32 | 1975 | 08313123545 | GV250 | 01/01/1990
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 28
+Lấy 
+  ra 
+  một 
+  số 
+  cột
+MaKhoa | TenKhoa | Phong
+CNTT | Công 
+  nghệ 
+  thông 
+  tin | I53
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 29
+Tên 
+  bí 
+  danh
+Mã 
+khoa | Tên 
+  khoa | Mã 
+  phòng
+CNTT | Công 
+  nghệ 
+  thông tin | I53
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 30
+Mở 
+  rộng
+MAGV | HOTEN | DIA 
+  CHI
+GV001 | Nguyễn Văn A | 123 Phan Đăng Lưu, Q.Phú Nhuận, TP.Hồ Chí 
+  Minh
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 31
+Mở 
+  rộng
+MAGV | LUONG10%
+GV001 | 550000
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 32
+Loại 
+  bỏ 
+  các 
+  dòng 
+  trùng 
+  nhau
+SELECT 
+  LUONG 
+FROM 
+  GIAOVIEN 
+WHERE 
+  PHAI=‘Nam’
+LUONG | SELECT 
+  DISTINCTLUONG FROM 
+  GIAOVIEN 
+WHERE 
+  PHAI=‘Nam’
+LUONG
+30000 
+25000 
+25000 | 30000
+30000 
+25000 
+25000 | 25000 
+38000
+38000 
+-­‐ 
+  Tốn 
+  chi 
+  phí 
+-­‐ 
+  Người 
+  dùng 
+  muốn 
+  thấy | 38000 
+-­‐ 
+  Tốn 
+  chi 
+  phí 
+-­‐ 
+  Người 
+  dùng 
+  muốn 
+  thấy
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 33
+SELECT | MAGV, 
+  HOTEN
+FROM 
+WHERE | GIAOVIEN, 
+  BOMON 
+TENBM= 
+  N'Hệ 
+  thống 
+  thông 
+  tin'
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 34
+FROM 
+  GIAOVIEN, 
+  BOMON | FROM 
+  GIAOVIEN, 
+  BOMON | TRUE | 35
+Biểu 
+thức 
+luận 
+  lý | WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin' AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM | TRUE | 35
+Biểu 
+thức 
+luận 
+  lý | WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin' AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM | AND | 35
+Biểu 
+thức 
+luận 
+  lý | WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin' AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM | TRUE | 35
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | TRUE | 35
+Độ 
+  ưu 
+  tiên
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 36
+BETWEEN
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 37
+NOT 
+  BETWEEN
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 38
+LIKE
+FROM 
+  GIAOVIEN | HOTEN 
+  LIKE‘nguyen 
+  _ 
+  _ 
+  _ 
+  _’
+WHERE 
+  HOTEN 
+  LIKE‘Nguyen 
+  _ 
+  _ 
+  _ 
+  _’ | WHERE 
+  HOTEN 
+  LIKE‘Nguyen 
+  _ 
+  _ 
+  _ 
+  _’ | HOTEN 
+  LIKE‘nguyen 
+  _ 
+  _ 
+  _ 
+  _’
+SELECT 
+  MAGV, 
+  HOTEN | 4 
+  ký 
+  tự 
+  bất 
+  kỳ | HOTEN 
+  LIKE‘nguyen 
+  _ 
+  _ 
+  _ 
+  _’
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 39
+NOT 
+  LIKE
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 40
+SELECT 
+  MAGV, 
+  HOTEN | SELECT 
+  MAGV, 
+  HOTEN
+FROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  LIKE 
+  N'Nguyễn_%’ | FROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  LIKE 
+  N'Nguyễn![_]%'ESCAPE'!'
+SELECT* | SELECT*
+FROM 
+  GIAOVIEN 
+  GV 
+WHERE 
+  GV.HOTEN 
+  LIKE 
+  N'[n]%' | FROM 
+  GIAOVIEN 
+  GV 
+WHERE 
+  GV.HOTEN 
+  LIKE 
+  N'[nh]%'
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 42
+SELECT* | SELECT*
+FROM 
+  GIAOVIEN 
+  GV 
+WHERE 
+  GV.HOTEN 
+  LIKE 
+  N'[^h]%' | FROM 
+  GIAOVIEN 
+  GV 
+WHERE 
+  GV.HOTEN 
+  LIKE 
+  N'[^nh]%'
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 43
+Ngày 
+  giờ
+‘1955-­‐12-­‐08’ | YYYY-­‐MM-­‐DD | ’17:30:00’ | HH:MI:SS
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 44
+NULL
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN lx 
+  = 
+  3 
+  là 
+  một 
+  so 
+  sánh 
+  không 
+  hợp 
+  lệ 
+  trong 
+  SQL | 45
+NULL
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 46
+Mệnh 
+  đề 
+  FROM 
+  tương 
+  đương 
+  với 
+  phép 
+  x 
+  trong 
+  đại 
+  số 
+  quan 
+  hệ
+GIAOVIEN 
+  x 
+  BOMON | SELECT 
+  *
+GIAOVIEN 
+  x 
+  BOMON | FROM 
+  GIAOVIEN, 
+  BOMON
+FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  TRUE | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  TRUE | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  TRUE
+MAGV | MABM | MABM  
+  TENBM | MABM  
+  TENBM | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  TRUE | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  TRUE | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  TRUE
+001 | HTTT | HTTT | Hệ 
+  thống 
+  thông 
+  tin | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết
+001 | HTTT | MTT | Mạng 
+  máy 
+  tính | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết
+001 | HTTT | CNPM  
+  Công 
+  nghệ 
+  PM | CNPM  
+  Công 
+  nghệ 
+  PM | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết
+002 | MMT | HTTT | Hệ 
+  thống 
+  thông 
+  tin | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết | Sử 
+  dụng 
+  thêm 
+  điều 
+kiện 
+  ở 
+  WHERE 
+  để 
+  biểu diễn 
+  phép 
+  kết
+002 | MMT | HTTT | Hệ 
+  thống 
+  thông 
+  tin | GIAOVIEN 
+   
+   
+   
+   
+   
+   
+   
+  BOMON | GIAOVIEN 
+   
+   
+   
+   
+   
+   
+   
+  BOMON | GIAOVIEN 
+   
+   
+   
+   
+   
+   
+   
+  BOMON
+002 | MMT | MTT | Mạng 
+  máy 
+  tính | GIAOVIEN 
+   
+   
+   
+   
+   
+   
+   
+  BOMON | GIAOVIEN 
+   
+   
+   
+   
+   
+   
+   
+  BOMON | GIAOVIEN 
+   
+   
+   
+   
+   
+   
+   
+  BOMON
+002 | MMT | MTT | Mạng 
+  máy 
+  tính | SELECT 
+  * | SELECT 
+  * | C
+002 | MMT | CNPM  
+  Công 
+  nghệ 
+  PM | CNPM  
+  Công 
+  nghệ 
+  PM | SELECT 
+  * | SELECT 
+  * | C
+… | … | … | … | SELECT 
+  * | SELECT 
+  * | C
+… | … | … | … | FROM 
+  GIAOVIEN, 
+  BOMON | FROM 
+  GIAOVIEN, 
+  BOMON | FROM 
+  GIAOVIEN, 
+  BOMON
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | FROM 
+  GIAOVIEN, 
+  BOMON | FROM 
+  GIAOVIEN, 
+  BOMON | FROM 
+  GIAOVIEN, 
+  BOMON
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | WHERE 
+  C | WHERE 
+  C | 47
+SELECT 
+  MAGV, 
+  MABM, 
+  TENBM
+Nhập 
+  nhằng 
+  (Ambigous) 
+  ??? | Nhập 
+  nhằng 
+  (Ambigous) 
+  ??? | Nhập 
+  nhằng 
+  (Ambigous) 
+  ??? | Nhập 
+  nhằng 
+  (Ambigous) 
+  ??? | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  MABM 
+  = 
+  MABM
+SELECT 
+  G.MAGV, 
+  G.MABM, 
+  B.TENBM FROM 
+  GIAOVIEN 
+  G, 
+  BOMON 
+  ASB WHERE 
+  G.MABM 
+  = 
+  B.MABM
+Đặt 
+  bí 
+  danh 
+  cho 
+  bảng 
+  sử 
+  dụng khoảng 
+  trắng 
+  hoặc 
+  từ 
+  khoá 
+  AS 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  bộ 
+  môn 
+  của giáo 
+  viên 
+48
+MAGV 
+001 001 001 002 002 002 … | MABM  
+  TENBM 
+CNPM  
+  Công 
+  nghệ 
+  PM 
+CNPM  
+  Công 
+  nghệ 
+  PM 
+	 
+  Hệ 
+  thống 
+  thông 
+  tin 
+ 
+  Mạng 
+  máy 
+  tính 
+… 
+ 
+  Hệ 
+  thống 
+  thông 
+  tin 
+ 
+  Mạng 
+  máy 
+  tính | MABM  
+  TENBM 
+CNPM  
+  Công 
+  nghệ 
+  PM 
+CNPM  
+  Công 
+  nghệ 
+  PM 
+	 
+  Hệ 
+  thống 
+  thông 
+  tin 
+ 
+  Mạng 
+  máy 
+  tính 
+… 
+ 
+  Hệ 
+  thống 
+  thông 
+  tin 
+ 
+  Mạng 
+  máy 
+  tính | MABM  
+  TENBM 
+CNPM  
+  Công 
+  nghệ 
+  PM 
+CNPM  
+  Công 
+  nghệ 
+  PM 
+	 
+  Hệ 
+  thống 
+  thông 
+  tin 
+ 
+  Mạng 
+  máy 
+  tính 
+… 
+ 
+  Hệ 
+  thống 
+  thông 
+  tin 
+ 
+  Mạng 
+  máy 
+  tính | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  MABM 
+  = 
+  MABM
+SELECT 
+  G.MAGV, 
+  G.MABM, 
+  B.TENBM FROM 
+  GIAOVIEN 
+  G, 
+  BOMON 
+  ASB WHERE 
+  G.MABM 
+  = 
+  B.MABM
+Đặt 
+  bí 
+  danh 
+  cho 
+  bảng 
+  sử 
+  dụng khoảng 
+  trắng 
+  hoặc 
+  từ 
+  khoá 
+  AS 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  bộ 
+  môn 
+  của giáo 
+  viên 
+48
+MAGV 	MABM  
+  TENBM | MAGV 	MABM  
+  TENBM | MAGV 	MABM  
+  TENBM | MAGV 	MABM  
+  TENBM | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  MABM 
+  = 
+  MABM
+SELECT 
+  G.MAGV, 
+  G.MABM, 
+  B.TENBM FROM 
+  GIAOVIEN 
+  G, 
+  BOMON 
+  ASB WHERE 
+  G.MABM 
+  = 
+  B.MABM
+Đặt 
+  bí 
+  danh 
+  cho 
+  bảng 
+  sử 
+  dụng khoảng 
+  trắng 
+  hoặc 
+  từ 
+  khoá 
+  AS 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  bộ 
+  môn 
+  của giáo 
+  viên 
+48
+001 | 001 | HTTT | Hệ 
+  thống 
+  thông 
+  tin | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  MABM 
+  = 
+  MABM
+SELECT 
+  G.MAGV, 
+  G.MABM, 
+  B.TENBM FROM 
+  GIAOVIEN 
+  G, 
+  BOMON 
+  ASB WHERE 
+  G.MABM 
+  = 
+  B.MABM
+Đặt 
+  bí 
+  danh 
+  cho 
+  bảng 
+  sử 
+  dụng khoảng 
+  trắng 
+  hoặc 
+  từ 
+  khoá 
+  AS 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  bộ 
+  môn 
+  của giáo 
+  viên 
+48
+002 | 002 | MTT | Mạng 
+  máy 
+  tính | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  MABM 
+  = 
+  MABM
+SELECT 
+  G.MAGV, 
+  G.MABM, 
+  B.TENBM FROM 
+  GIAOVIEN 
+  G, 
+  BOMON 
+  ASB WHERE 
+  G.MABM 
+  = 
+  B.MABM
+Đặt 
+  bí 
+  danh 
+  cho 
+  bảng 
+  sử 
+  dụng khoảng 
+  trắng 
+  hoặc 
+  từ 
+  khoá 
+  AS 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  bộ 
+  môn 
+  của giáo 
+  viên 
+48
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN… 	… 	… | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN… 	… 	… | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN… 	… 	… | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN… 	… 	… | FROM 
+  GIAOVIEN, 
+  BOMON WHERE 
+  MABM 
+  = 
+  MABM
+SELECT 
+  G.MAGV, 
+  G.MABM, 
+  B.TENBM FROM 
+  GIAOVIEN 
+  G, 
+  BOMON 
+  ASB WHERE 
+  G.MABM 
+  = 
+  B.MABM
+Đặt 
+  bí 
+  danh 
+  cho 
+  bảng 
+  sử 
+  dụng khoảng 
+  trắng 
+  hoặc 
+  từ 
+  khoá 
+  AS 
+Điều 
+  kiện 
+  kết 
+  để 
+  tìm 
+  ra 
+  bộ 
+  môn 
+  của giáo 
+  viên 
+48
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 49
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 50
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 51
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 52
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 53
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> FROM 
+  <danh 
+  sách 
+  các 
+  bảng> WHERE 
+  <điều 
+  kiện> 
+ORDER 
+  BY 
+  <danh 
+  sách 
+  các 
+  cột>
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 54
+MAGV | MADT | STT | MAGV | MADT | STT | 55
+GV01 | DT01 | 1 | GV02 | DT01 | 3 | 55
+GV01 | DT01 | 2 | GV02 | DT01 | 2 | 55
+GV01 | DT02 | 1 | GV02 | DT03 | 4 | 55
+GV02 | DT01 | 2 | GV02 | DT03 | 1 | 55
+GV02 | DT01 | 3 | GV01 | DT01 | 2 | 55
+GV02 | DT03 | 1 | GV01 | DT01 | 1 | 55
+GV02 | DT03 | 4 | GV01 | DT02 | 1 | 55
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | GV01 | DT02 | 1 | 55
+§Chỉ 
+  mục 
+  (index) © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 56
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 57
+SELECT 
+  <ds 
+  cột> 
+  FROM 
+  <ds 
+  bảng> 
+  WHERE 
+  <điều 
+  kiện> UNION 
+  [ALL] 
+SELECT 
+  <ds 
+  cột> 
+  FROM 
+  <ds 
+  bảng> 
+  WHERE 
+  <điều 
+  kiện>
+SELECT 
+  <ds 
+  cột> 
+  FROM 
+  <ds 
+  bảng> 
+  WHERE 
+  <điều 
+  kiện> INTERSECT 
+  [ALL] 
+SELECT 
+  <ds 
+  cột> 
+  FROM 
+  <ds 
+  bảng> 
+  WHERE 
+  <điều 
+  kiện>
+SELECT 
+  <ds 
+  cột> 
+  FROM 
+  <ds 
+  bảng> 
+  WHERE 
+  <điều 
+  kiện> EXCEPT 
+  [ALL] 
+SELECT 
+  <ds 
+  cột> 
+  FROM 
+  <ds 
+  bảng> 
+  WHERE 
+  <điều 
+  kiện>
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 59
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 60
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 61
+WHERE 
+  TENBM 
+  = 
+  N'Hệ 
+  thống 
+  thông 
+  tin'
+AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM | AND 
+  GIAOVIEN.MABM 
+  = 
+  BOMON.MABM | Câu 
+  truy 
+  vấn | 62
+Câu 
+  truy 
+  vấn cha 
+  (Outer 
+query) | Câu 
+  truy 
+  vấn | 62
+Câu 
+  truy 
+  vấn cha 
+  (Outer 
+query) | con 
+  (Subquery) | 62
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | con 
+  (Subquery) | 62
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 64
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN, 
+  BOMON | Sử 
+  dụng 
+  phép 
+  kết
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+WHERE 
+  MAGV 
+  IN(SELECT 
+  TRUONGBM 	FROM 
+  BOMON | WHERE 
+  MABM 
+  IN(‘001',‘002',‘004',‘005‘,‘007‘ 
+  )
+Sử 
+  dụng 
+  truy 
+  vấn 
+  lồng 
+  với 
+  IN
+FROM 
+  GIAOVIEN 
+WHERE 
+  HOTEN 
+  LIKE 
+  N'Nguyễn%' AND 
+  LUONG 
+  > 
+  200000)
+FROM 
+  BOMON 
+WHEREYEAR(NGAYNHANCHUC)>=1995)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 66
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 67
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 69
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 70
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN, 
+  BOMON | Sử 
+  dụng 
+  phép 
+  kết
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+  GV 
+WHERENOT 
+  EXISTS(SELECT* | Giáo 
+  viên 
+  là 
+  có 
+  lương 
+  lớn nhất 
+  khi 
+  không 
+  tồn 
+  tại 
+  một giáo 
+  viên 
+  nào 
+  mà 
+  có 
+  lương lớn 
+  hơn 
+  giáo 
+  viên 
+  đó
+SELECT 
+  MAGV, 
+  HOTEN 
+FROM 
+  GIAOVIEN 
+  GV 
+WHERELUONG 
+  >= 
+  ALL 
+  (SELECTLUONG | Giáo 
+  viên 
+  là 
+  có 
+  lương 
+  lớn 
+nhất 
+  khi 
+  lương 
+  của 
+  giáo 
+  viên lớn 
+  hơn 
+  hoặc 
+  bằng 
+  tất 
+  cảlương 
+  của 
+  các 
+  giáo 
+  viên
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 73
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 74
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 75
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 76
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 77
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 78
+FROM 
+  THAMGIADT 
+  PC 
+WHERE 
+  PC.MAGV 
+  = 
+  GV.MAGV)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 79
+WHERENOT 
+  EXISTS(SELECT* 
+FROM 
+  THAMGIADT 
+  PC 
+WHERE 
+  PC.MAGV 
+  = 
+  GV.MAGV)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 80
+bi
+§R÷S 
+  là 
+  tập 
+  các 
+  giá 
+  trị 
+  ai 
+  trong 
+  R 
+  sao 
+  cho 
+  không 
+  có 
+  giá 
+  trị 
+  bi 	nào 
+  trong 
+  S 
+  làm 
+  cho 
+  bộ 
+  (ai, 
+  bi) 
+  không 
+  tồn 
+  tại 
+  trong 
+  R | §R÷S 
+  là 
+  tập 
+  các 
+  giá 
+  trị 
+  ai 
+  trong 
+  R 
+  sao 
+  cho 
+  không 
+  có 
+  giá 
+  trị 
+  bi 	nào 
+  trong 
+  S 
+  làm 
+  cho 
+  bộ 
+  (ai, 
+  bi) 
+  không 
+  tồn 
+  tại 
+  trong 
+  R
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 81
+) © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 82
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 83
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 84
+Những 
+  đề 
+  tài mà 
+  giáo 
+  viên PC1.MAGV 
+không 
+  tham gia | EXCEPT | EXCEPT
+Những 
+  đề 
+  tài mà 
+  giáo 
+  viên PC1.MAGV 
+không 
+  tham gia | (SELECT 
+  PC2.MADT | Những đề tài mà
+Những 
+  đề 
+  tài mà 
+  giáo 
+  viên PC1.MAGV 
+không 
+  tham gia | FROM 
+  THAMGIADT 
+  PC2 | PC1.MaGV đã tham gia
+Những 
+  đề 
+  tài mà 
+  giáo 
+  viên PC1.MAGV 
+không 
+  tham gia | WHERE 
+  PC2.MAGV 
+  =PC1.MAGV)) | WHERE 
+  PC2.MAGV 
+  =PC1.MAGV))
+Nếu 
+  danh 
+  sachs 
+  đề 
+  tài 
+  chưa 
+  tham 
+  gia 
+  = 
+rỗng 
+  à 
+  Giáo 
+  viên 
+  đã 
+  tham 
+  gia 
+  tất 
+  cả 
+  các 
+  đề | Nếu 
+  danh 
+  sachs 
+  đề 
+  tài 
+  chưa 
+  tham 
+  gia 
+  = 
+rỗng 
+  à 
+  Giáo 
+  viên 
+  đã 
+  tham 
+  gia 
+  tất 
+  cả 
+  các 
+  đề | Nếu 
+  danh 
+  sachs 
+  đề 
+  tài 
+  chưa 
+  tham 
+  gia 
+  = 
+rỗng 
+  à 
+  Giáo 
+  viên 
+  đã 
+  tham 
+  gia 
+  tất 
+  cả 
+  các 
+  đề
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN tài | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN tài | 85
+Những 
+  đề 
+  tài 
+mà 
+  giáo 
+  viên 
+PC1.MAGV 
+không 
+  tham 
+  gia | WHERENOTEXISTS(SELECT* 
+FROM 
+  THAMGIADT 
+  PC2 
+WHERE 
+  PC2.MAGV 
+  =PC1.MAGV AND 
+  DT.MADT 
+  = 
+  PC2.MADT))
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 88
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 89
+FROM 
+  DETAI 
+  DT
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 90
+4.Cho 
+  biết 
+  họ 
+  tên 
+  giáo 
+  viên 
+  khoa 
+  ‘Công 
+  nghệ 
+  thông 
+  tin’ 
+  tham 	gia 
+  tất 
+  cả 
+  các 
+  công 
+  việc 
+  của 
+  đề 
+  tài 
+  có 
+  trưởng 
+  bộ 
+  môn 
+  của 
+  bộ 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN môn 
+  đông 
+  nhất 
+  khoa 
+  ‘Công 
+  nghệ 
+  thông 
+  tin’ 
+  làm 
+  chủ 
+  nhiệm. | 91
+§Chỉ 
+  mục 
+  (index) © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 92
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 93
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 94
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 95
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 96
+Bộ môn | Số lượng
+HTTT | 2
+CNPM | 1
+MMT | 1
+MANV | HOTEN | … | MABM
+GV001 | Nguyễn Văn A | … | HTTT
+GV002 | Trần Văn B | … | HTTT
+GV003 | Trần Thị C | … | CNPM
+GV004 | Đặng Thị D | … | MMT
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 97
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+FROM 
+  <danh 
+  sách 
+  các 
+  bảng> 
+WHERE 
+  <điều 
+  kiện> 
+GROUP 
+  BY 
+  <danh 
+  sách 
+  các 
+  cột 
+  gom 
+  nhóm>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 98
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 99
+MAGV | MADT | STT
+GV001 | DT001 | 1
+GV001 | DT001 | 2
+GV001 | DT002 | 1
+GV002 | DT002 | 2
+GV003 | DT001 | 3
+GV003 | DT002 | 3
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 100
+MAGV | MADT | STT
+GV001 | DT001 | 1
+GV001 | DT001 | 2
+GV001 | DT002 | 1
+GV002 | DT002 | 2
+GV003 | DT001 | 3
+GV003 | DT002 | 3
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 101
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+FROM 
+  <danh 
+  sách 
+  các 
+  bảng> 
+WHERE 
+  <điều 
+  kiện> 
+GROUP 
+  BY 
+  <danh 
+  sách 
+  các 
+  cột 
+  gom 
+  nhóm> HAVING 
+  <điều 
+  kiện 
+  trên 
+  nhóm>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 102
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 103
+MAGV | MADT | STT
+GV001 | DT001 | 1
+GV001 | DT001 | 2
+GV001 | DT002 | 1
+GV002 | DT002 | 2
+GV003 | DT001 | 3
+GV003 | DT002 | 3
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 104
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 106
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 107
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 108
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 109
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 110
+§Chỉ 
+  mục 
+  (index) © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 111
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 112
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+FROM 
+  R1, 
+  R2, 
+  (<truy 
+  vấn 
+  con>) 
+  AS 
+  tên_bảng WHERE 
+  <điều 
+  kiện>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 113
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 114
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 115
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+FROM 
+  R1 
+  [INNER] 
+  JOIN 
+  R2 
+  ON 
+   
+  <biểu 
+  thức> WHERE 
+  <điều 
+  kiện>
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+FROM 
+  R1 
+  LEFT|RIGHT 
+  [OUTER] 
+  JOIN 
+  R2 
+  ON 
+   
+  <biểu 
+  thức> WHERE 
+  <điều 
+  kiện>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 116
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 117
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 118
+CASE 
+  <tên 
+  cột> 
+	WHEN 
+  <giá 
+  trị> 
+  THEN 
+  <biểu 
+  thức> 	WHEN 
+  <giá 
+  trị> 
+  THEN 
+  <biểu 
+  thức> 	 
+  … 
+	 
+  [ELSE 
+  <biểu 
+  thức>] 
+END
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 119
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 120
+SELECT 
+  <danh 
+  sách 
+  các 
+  cột> 
+FROM 
+  <danh 
+  sách 
+  các 
+  bảng> 
+[WHERE 
+  <điều 
+  kiện>] 
+[GROUP 
+  BY 
+  <các 
+  thuộc 
+  tính 
+  gom 
+  nhóm>] [HAVING 
+  <điều 
+  kiện 
+  trên 
+  nhóm>] 
+[ORDER 
+  BY 
+  <các 
+  thuộc 
+  tính 
+  sắp 
+  thứ 
+  tự>]
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 122
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 124
+INSERT 
+  INTO 
+  <tên 
+  bảng>(<danh 
+  sách 
+  các 
+  thuộc 
+  tính>) VALUES 
+  (<danh 
+  sách 
+  các 
+  giá 
+  trị>)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 125
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 126
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 127
+INSERT 
+  INTO 
+  <tên 
+  bảng>(<danh 
+  sách 
+  các 
+  thuộc 
+  tính>) 	 
+  <câu 
+  truy 
+  vấn 
+  con>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 128
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 129
+DELETE 
+  FROM 
+  <tên 
+  bảng> [WHERE 
+  <điều 
+  kiện>]
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 130
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 131
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 132
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 133
+MAGV | HOTEN | … | MABM
+GV0 | Ngyễn ă A | … | HTTT
+GV0 | Ngyễn ă A | … | HTTT
+GV002 | Trần Văn B | … | HTTT
+GV003 | Trần Thị C | … | CNPM
+GV004 | Đặng Thị D | … | MMT
+MAGV | MADT | STT | PHUCAP | KETQUA
+GV001 | 001 | 1 | ... | ...
+GV001 | 001 | 3 | ... | ...
+GV003 | 002 | 1 | ...
+GV004 | 003 | 1 | ... | ...
+... | ... | ... | ... | ...
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 134
+MABM | TENBM
+TTT | Hhntntn
+TTT | Hhntntn
+CNPM | Công nghệ phần mềm
+MMT | Mạng máy tính
+KHMT | Khoa học máy tính
+MANV | HOTEN | … | MABM
+GV001 | Nguyễn Văn A | … | HTTT
+GV002 | Trần Văn B | … | HTTT
+GV003 | Trần Thị C | … | CNPM
+GV004 | Đặng Thị D | … | MMT
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 135
+UPDATE 
+  <tên 
+  bảng> 
+SET 
+  <tên 
+  thuộc 
+  tính>=<giá 
+  trị 
+  mới>,  
+   
+   
+   
+   
+   
+   
+  <tên 
+  thuộc 
+  tính>=<giá 
+  trị 
+  mới>, … 
+[WHERE 
+  <điều 
+  kiện>]
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 136
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 137
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 138
+UPDATE 
+  GIAOVIEN 
+SET 
+  LUONG 
+  = 
+  LUONG 
+  * 
+  1.1 
+WHERE 
+  EXISTS 
+  ( 
+SELECT 
+  * 
+FROM 
+  THAMGIADT 
+  TG 
+WHERE 
+  TG.MAGV 
+  = 
+  GIAOVIEN.MAGV 
+  ) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | UPDATE 
+  GIAOVIEN 
+SET 
+  LUONG 
+  = 
+  LUONG 
+  * 
+  1.1 
+WHERE 
+  MAGV 
+  IN 
+  ( 
+SELECT 
+  TG.MAGV 
+FROM 
+  THAMGIADT 
+  TG 
+WHERE 
+  TG.MAGV 
+  = 
+  GIAOVIEN.MAGV 
+  ) 
+139
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 140
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 141
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 143
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 144
+CREATE 
+  VIEW 
+  <tên 
+  khung 
+  nhìn> AS
+	 
+  <câu 
+  truy 
+  vấn>
+DROP 
+  VIEW 
+  <tên 
+  khung 
+  nhìn>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 145
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 146
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 147
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 148
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 149
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 150
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 151
+SELECT 
+  * 
+FROM 
+  GIAOVIEN 
+WHERE 
+  MABM='HTTT'AND 
+   
+  PHAI=‘Nu’
+Đọc 
+  200 
+  bộ
+Bảng 
+  GIAOVIEN 
+  có 
+  10.000 
+  bộ | 152
+Có 
+  200 
+  giáo 
+  viên 
+  làm 
+  việc 
+  cho 
+  bộ 
+  môn 
+  ‘HTTT’ | 152
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 152
+CREATE 
+  INDEX 
+  <tên 
+  chỉ 
+  mục> 
+  ON 
+  <tên 
+  bảng>(<tên 
+  cột>)
+DROP 
+  INDEX 
+  <tên 
+  chỉ 
+  mục>
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 153
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 154
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 155

@@ -1,0 +1,76 @@
+# COURSE: Nhập môn thiết kế và phân tích giải thuật (CSC14111)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14111
+- **English Name**: Introduction to Design and Analysis of Algorithms
+- **Vietnamese Name**: Nhập môn thiết kế và phân tích giải thuật
+- **Responsible Person**: for the module: Dr. Nguyễn Thanh Phương
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- General introduction to design and analysis of algorithms
+- Fundamentals of the analysis of algorithm efficiency
+- Brute-force design technique
+- Backtracking design technique
+- Divide-and-conquer design technique
+- Decrease-and-conquer design technique
+- Dynamic programming
+- Greedy design technique
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Introduction to the Design and Analysis of Algorithms (3rd edition),Anany Levitin,2012,Pearson
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Propose solutions to problems by thinking independently.
+- G2.Interpret English terminology in the field of algorithm design and analysis.
+- G3.Evaluate the complexity of algorithms by applying methods.
+- G4.Compare and apply major algorithm design techniques by analyzing them.
+- G5.Solve classes of problems commonly encountered in computer science by analyzing them.
+• Content:
+- General introduction to design and analysis of algorithms
+- Fundamentals of the analysis of algorithm efficiency
+- Brute-force design technique
+- Backtracking design technique
+- Divide-and-conquer design technique
+- Decrease-and-conquer design technique
+- Dynamic programming
+- Greedy design technique
+• Examination forms: Final examination, Homework, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Introduction to the Design and Analysis of Algorithms (3rd edition),Anany Levitin,2012,Pearson
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Introduction to the Design and Analysis of Algorithms (3rd edition),Anany Levitin,2012,Pearson
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Introduction to the Design and Analysis of Algorithms (3rd edition),Anany Levitin,2012,Pearson
+
+## READING MATERIALS
+- [1]Introduction to the Design and Analysis of Algorithms (3rd edition),Anany Levitin,2012,Pearson

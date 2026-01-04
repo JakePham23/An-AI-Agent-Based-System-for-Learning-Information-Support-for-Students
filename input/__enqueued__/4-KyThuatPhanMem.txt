@@ -1,0 +1,102 @@
+--- THÔNG TIN CHƯƠNG TRÌNH ĐÀO TẠO ---
+Khoa: Công nghệ thông tin
+Ngành đào tạo: Kỹ thuật phần mềm
+Chương trình: Chương trình chuẩn (Đại trà)
+
+--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (BẮT BUỘC) ---
+Các môn học sau đây thuộc khối "Kiến thức giáo dục đại cương" nhóm bắt buộc của ngành Kỹ thuật phần mềm:
+1. Môn học BAA00003: Tư tưởng Hồ Chí Minh.
+2. Môn học BAA00004: Pháp luật đại cương.
+3. Môn học BAA00011: Anh văn 1.
+4. Môn học BAA00012: Anh văn 2.
+5. Môn học BAA00013: Anh văn 3.
+6. Môn học BAA00014: Anh văn 4.
+7. Môn học BAA00021: Thể dục 1.
+8. Môn học BAA00022: Thể dục 2.
+9. Môn học BAA00101: Triết học Mác - Lênin.
+10. Môn học BAA00102: Kinh tế chính trị Mác - Lênin.
+11. Môn học BAA00103: Chủ nghĩa xã hội khoa học.
+12. Môn học BAA00104: Lịch sử Đảng Cộng sản Việt Nam.
+13. Môn học CSC00004: Nhập môn công nghệ thông tin.
+14. Môn học MTH00021: Vi tích phân 1.
+15. Môn học MTH00022: Vi tích phân 2.
+16. Môn học MTH00035: Đại số tuyến tính.
+17. Môn học MTH00044: Xác suất thống kê.
+18. Môn học MTH00045: Toán rời rạc.
+19. Môn học MTH00050: Toán học tổ hợp.
+
+--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (TỰ CHỌN) ---
+Các môn học sau đây thuộc khối "Kiến thức giáo dục đại cương" nhóm tự chọn của ngành Kỹ thuật phần mềm:
+1. Môn học BAA00005: Kinh tế đại cương.
+2. Môn học BAA00006: Tâm lý đại cương.
+3. Môn học BAA00007: Phương pháp luận sáng tạo.
+4. Môn học BIO00001: Sinh đại cương 1.
+5. Môn học BIO00002: Sinh đại cương 2.
+6. Môn học BIO00081: Thực tập Sinh đại cương 1.
+7. Môn học BIO00082: Thực tập Sinh đại cương 2.
+8. Môn học CHE00001: Hóa đại cương 1.
+9. Môn học CHE00002: Hóa đại cương 2.
+10. Môn học CHE00081: Thực hành Hóa đại cương 1.
+11. Môn học CHE00082: Thực hành Hóa đại cương 2.
+12. Môn học ENV00001: Môi trường đại cương.
+13. Môn học ENV00003: Con người và môi trường.
+14. Môn học GEO00002: Khoa học Trái đất.
+15. Môn học MTH00051: Toán ứng dụng và thống kê.
+16. Môn học MTH00052: Phương pháp tính.
+17. Môn học MTH00053: Lý thuyết số.
+18. Môn học MTH00056: Phương pháp toán cho trí tuệ nhân tạo.
+19. Môn học PHY00001: Vật lý đại cương 1 (Cơ - Nhiệt).
+20. Môn học PHY00002: Vật lý đại cương 2 (Điện từ - Quang).
+21. Môn học PHY00081: Thực hành Vật lý đại cương.
+
+--- KHỐI KIẾN THỨC CƠ SỞ NGÀNH ---
+Các môn học sau đây thuộc khối "Kiến thức cơ sở ngành" của ngành Kỹ thuật phần mềm:
+1. Môn học CSC10001: Nhập môn lập trình.
+2. Môn học CSC10002: Kỹ thuật lập trình.
+3. Môn học CSC10003: Phương pháp lập trình hướng đối tượng.
+4. Môn học CSC10004: Cấu trúc dữ liệu và giải thuật.
+5. Môn học CSC10006: Cơ sở dữ liệu.
+6. Môn học CSC10007: Hệ điều hành.
+7. Môn học CSC10008: Mạng máy tính.
+8. Môn học CSC10009: Hệ thống máy tính.
+9. Môn học CSC10012: Cơ sở lập trình.
+10. Môn học CSC13002: Nhập môn công nghệ phần mềm.
+11. Môn học CSC14003: Cơ sở trí tuệ nhân tạo.
+
+--- KHỐI KIẾN THỨC NGÀNH ---
+Các môn học sau đây thuộc khối "Kiến thức ngành" chuyên sâu của ngành Kỹ thuật phần mềm:
+1. Môn học CSC10102: Kiến tập nghề nghiệp.
+2. Môn học CSC10103: Khởi nghiệp.
+3. Môn học CSC10104: Quy hoạch tuyến tính.
+4. Môn học CSC10105: Nhập môn tư duy thuật toán.
+5. Môn học CSC10106: Thuật toán tổ hợp và ứng dụng.
+6. Môn học CSC10107: Thực tập thực tế.
+7. Môn học CSC10121: Kỹ năng mềm.
+8. Môn học CSC13001: Lập trình Windows.
+9. Môn học CSC13003: Kiểm thử phần mềm.
+10. Môn học CSC13005: Phân tích và quản lý yêu cầu phần mềm.
+11. Môn học CSC13006: Quản lý dự án phần mềm.
+12. Môn học CSC13007: Phát triển game.
+13. Môn học CSC13008: Phát triển ứng dụng web.
+14. Môn học CSC13009: Phát triển phần mềm cho thiết bị di động.
+15. Môn học CSC13010: Thiết kế phần mềm.
+16. Môn học CSC13101: Các chủ đề nâng cao trong Công nghệ phần mềm.
+17. Môn học CSC13102: Lập trình ứng dụng Java.
+18. Môn học CSC13103: Công nghệ Java cho hệ thống phân tán.
+19. Môn học CSC13106: Kiến trúc phần mềm.
+20. Môn học CSC13107: Mẫu thiết kế hướng đối tượng và ứng dụng.
+21. Môn học CSC13108: Mô hình hóa phần mềm.
+22. Môn học CSC13112: Thiết kế giao diện.
+23. Môn học CSC13118: Phát triển ứng dụng cho thiết bị di động nâng cao.
+24. Môn học CSC14005: Nhập môn học máy.
+25. Môn học CSC16106: Nhập môn lập trình điều khiển thiết bị thông minh.
+
+--- KHỐI KIẾN THỨC TỐT NGHIỆP ---
+Các môn học hoặc học phần sau đây thuộc khối "Kiến thức tốt nghiệp" của ngành Kỹ thuật phần mềm:
+1. Môn học CSC10204: Thực tập dự án tốt nghiệp.
+2. Môn học CSC10251: Khóa luận tốt nghiệp.
+3. Môn học CSC10252: Thực tập tốt nghiệp.
+4. Môn học CSC13114: Phát triển ứng dụng web nâng cao.
+5. Môn học CSC13115: Các công nghệ mới trong phát triển phần mềm.
+6. Môn học CSC13116: Đồ án Công nghệ phần mềm.
+7. Môn học CSC13117: Phát triển game nâng cao.

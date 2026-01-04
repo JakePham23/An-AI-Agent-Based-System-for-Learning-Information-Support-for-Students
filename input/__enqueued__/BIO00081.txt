@@ -1,0 +1,122 @@
+# COURSE: Thực tập Sinh đại cương 1 (BIO00081)
+
+## GENERAL INFORMATION
+- **Course ID**: BIO00081
+- **English Name**: Biology Laboratory 1
+- **Vietnamese Name**: Thực tập Sinh đại cương 1
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 2
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 0 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 30 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Exercise 1: Theory of errors, graphs, data analysis, instructions for using instruments and equipment.
+- Exercise 2: Measuring the specific gravity and density of liquids and solids.
+- Exercise 3: Investigating the viscosity of liquids.
+- Exercise 4: Measuring gravitational acceleration using a reversible pendulum.
+- Exercise 5: Investigating the polarization of light – Verifying Malus's law.
+- Exercise 6: Investigating the phenomenon of light dispersion: Measuring the refractive index of a glass prism.
+- Exercise 7: Measuring thermal energy – The melting heat of ice.
+- Exercise 8: Measuring the mechanical equivalent of a calorie.
+- Exercise 9: Investigating the volt-ampere characteristic curve of diodes and transistors.
+- Exercise 10: Investigating DC and AC circuits, RLC circuits.
+- Exercise 11: Measuring the resistance of various types of resistors using the Wheatstone bridge method.
+- Exercise 12: Measuring small objects using a microscope.
+- Introduction to the subject
+- Laboratory regulations
+- Microscope and cell structure
+- Osmosis
+- Organic components of the cell
+- Enzyme activity
+- Cellular respiration
+- Mitosis
+- Microbial diversity
+- Plant diversity
+- Animal diversity
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Thực tập Sinh học Đại cương 1,Bùi Trang Việt, Lê Thị Mỹ Phước,2016,Tủ sách Đại học Khoa học Tự nhiên
+- [2]Laboratory investigations for biology (2 edition),Dickey Jean,2003,The Benjamin/Cummings
+- [3]Sinh học Đại cương,Phạm Thành Hổ,2011,Tủ sách Đại học Khoa học Tự nhiên
+- [4]Sinh học Tế bào,Bùi Trang Việt,2013,Nhà xuất bản Đại học Quốc Gia TP Hồ Chí Minh
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Prepare microscopic slides and use optical microscopes.
+- G2.Conduct experiments to demonstrate some basic life processes: osmosis, enzyme activity, respiration, and mitosis.
+- G3.Perform some qualitative reactions and identify the basic organic components of life.
+- G4.Observe and recognize the main groups of animals, plants, and microorganisms.
+- G5.Use the basic equipment and instruments of a general biology laboratory.
+- G6.Comply with laboratory rules and follow biosafety regulations.
+• Content:
+- Exercise 1: Theory of errors, graphs, data analysis, instructions for using instruments and equipment.
+- Exercise 2: Measuring the specific gravity and density of liquids and solids.
+- Exercise 3: Investigating the viscosity of liquids.
+- Exercise 4: Measuring gravitational acceleration using a reversible pendulum.
+- Exercise 5: Investigating the polarization of light – Verifying Malus's law.
+- Exercise 6: Investigating the phenomenon of light dispersion: Measuring the refractive index of a glass prism.
+- Exercise 7: Measuring thermal energy – The melting heat of ice.
+- Exercise 8: Measuring the mechanical equivalent of a calorie.
+- Exercise 9: Investigating the volt-ampere characteristic curve of diodes and transistors.
+- Exercise 10: Investigating DC and AC circuits, RLC circuits.
+- Exercise 11: Measuring the resistance of various types of resistors using the Wheatstone bridge method.
+- Exercise 12: Measuring small objects using a microscope.
+- Introduction to the subject
+- Laboratory regulations
+- Microscope and cell structure
+- Osmosis
+- Organic components of the cell
+- Enzyme activity
+- Cellular respiration
+- Mitosis
+- Microbial diversity
+- Plant diversity
+- Animal diversity
+• Examination forms: Final examination, Written Report, Lab Report
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Thực tập Sinh học Đại cương 1,Bùi Trang Việt, Lê Thị Mỹ Phước,2016,Tủ sách Đại học Khoa học Tự nhiên
+- [2]Laboratory investigations for biology (2 edition),Dickey Jean,2003,The Benjamin/Cummings
+- [3]Sinh học Đại cương,Phạm Thành Hổ,2011,Tủ sách Đại học Khoa học Tự nhiên
+- [4]Sinh học Tế bào,Bùi Trang Việt,2013,Nhà xuất bản Đại học Quốc Gia TP Hồ Chí Minh
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Thực tập Sinh học Đại cương 1,Bùi Trang Việt, Lê Thị Mỹ Phước,2016,Tủ sách Đại học Khoa học Tự nhiên
+- [2]Laboratory investigations for biology (2 edition),Dickey Jean,2003,The Benjamin/Cummings
+- [3]Sinh học Đại cương,Phạm Thành Hổ,2011,Tủ sách Đại học Khoa học Tự nhiên
+- [4]Sinh học Tế bào,Bùi Trang Việt,2013,Nhà xuất bản Đại học Quốc Gia TP Hồ Chí Minh
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Thực tập Sinh học Đại cương 1,Bùi Trang Việt, Lê Thị Mỹ Phước,2016,Tủ sách Đại học Khoa học Tự nhiên
+- [2]Laboratory investigations for biology (2 edition),Dickey Jean,2003,The Benjamin/Cummings
+- [3]Sinh học Đại cương,Phạm Thành Hổ,2011,Tủ sách Đại học Khoa học Tự nhiên
+- [4]Sinh học Tế bào,Bùi Trang Việt,2013,Nhà xuất bản Đại học Quốc Gia TP Hồ Chí Minh
+
+## READING MATERIALS
+- [1]Thực tập Sinh học Đại cương 1,Bùi Trang Việt, Lê Thị Mỹ Phước,2016,Tủ sách Đại học Khoa học Tự nhiên
+- [2]Laboratory investigations for biology (2 edition),Dickey Jean,2003,The Benjamin/Cummings
+- [3]Sinh học Đại cương,Phạm Thành Hổ,2011,Tủ sách Đại học Khoa học Tự nhiên
+- [4]Sinh học Tế bào,Bùi Trang Việt,2013,Nhà xuất bản Đại học Quốc Gia TP Hồ Chí Minh

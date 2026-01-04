@@ -1,0 +1,134 @@
+# COURSE: Hệ thống thông tin phục vụ trí tuệ kinh doanh (CSC12107)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC12107
+- **English Name**: Information Systems for Business Intelligence
+- **Vietnamese Name**: Hệ thống thông tin phục vụ trí tuệ kinh doanh
+- **Responsible Person**: for the module: Hồ Thị Hoàng Vy
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Chapter 1: overview of business intelligence
+- * Describe the business intelligence (B I) concepts and relate them to DSS
+- * Summarize main applications and business value for BI
+- * Understand the various types of analytics
+- * Information gathering
+- * Decision-making
+- Chapter 2: Data warehouse
+- * What’s a data warehouse
+- * DW architecture
+- * DW development
+- Chapter 3: data modeling
+- * Dimensional data store
+- * Dimension/fact table
+- * Data hierarchy
+- Slowly changing dimension
+- Chapter 3: data modeling
+- Chapter 4: ETL process
+- * Introduction to ETL
+- * ETL approach and architecture
+- * Extracting data sources
+- Chapter 4: ETL process
+- Populate the DW (stage loading, NDS, dimension/fact table, refresh data)
+- Chapter 5: Business intelligence OLAP
+- Chapter 6: Business intelligence report, dashboard
+- Chapter 7: Business intelligence mining
+- Chapter 7: Business intelligence mining
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Building a Data Warehouse With Examples in SQL Server,Vincent Rainardi,2008,Apress
+- [2]Business Intelligence Guidebook From Data Integration to Analytics,Rick Sherman,2015,Elsevier
+- [3]Business Intelligence, Analytics, and Data Science: A Managerial Perspective (4th Edition),Ramesh Sharda, Dursun Delen, Efraim Turban,2019,Pearson
+- [4]https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15,,,
+- [5]https://www.mssqltips.com/sqlservertutorial/2000/sql-server-analysis-services-ssas-tutorial/,,,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply teamwork skills to present or discuss related topics/concepts about DW and BI
+- G2.Use the skill of reading technical documents about data warehouse in English
+- G3.Analyze business requirements and applying the basic knowledge for the data warehouse design phases
+- G4.Distinguish the main data mining tasks and some algorithms for predictive and descriptive analysis on business intelligence.
+- G5.Conduct a DW/BI project with MS BI tool
+• Content:
+- Chapter 1: overview of business intelligence
+- * Describe the business intelligence (B I) concepts and relate them to DSS
+- * Summarize main applications and business value for BI
+- * Understand the various types of analytics
+- * Information gathering
+- * Decision-making
+- Chapter 2: Data warehouse
+- * What’s a data warehouse
+- * DW architecture
+- * DW development
+- Chapter 3: data modeling
+- * Dimensional data store
+- * Dimension/fact table
+- * Data hierarchy
+- Slowly changing dimension
+- Chapter 3: data modeling
+- Chapter 4: ETL process
+- * Introduction to ETL
+- * ETL approach and architecture
+- * Extracting data sources
+- Chapter 4: ETL process
+- Populate the DW (stage loading, NDS, dimension/fact table, refresh data)
+- Chapter 5: Business intelligence OLAP
+- Chapter 6: Business intelligence report, dashboard
+- Chapter 7: Business intelligence mining
+- Chapter 7: Business intelligence mining
+- Review
+• Examination forms: Close Test, Final examination, Lab final exam, Homework, Quiz, quick test, Case Study, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Building a Data Warehouse With Examples in SQL Server,Vincent Rainardi,2008,Apress
+- [2]Business Intelligence Guidebook From Data Integration to Analytics,Rick Sherman,2015,Elsevier
+- [3]Business Intelligence, Analytics, and Data Science: A Managerial Perspective (4th Edition),Ramesh Sharda, Dursun Delen, Efraim Turban,2019,Pearson
+- [4]https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15,,,
+- [5]https://www.mssqltips.com/sqlservertutorial/2000/sql-server-analysis-services-ssas-tutorial/,,,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Building a Data Warehouse With Examples in SQL Server,Vincent Rainardi,2008,Apress
+- [2]Business Intelligence Guidebook From Data Integration to Analytics,Rick Sherman,2015,Elsevier
+- [3]Business Intelligence, Analytics, and Data Science: A Managerial Perspective (4th Edition),Ramesh Sharda, Dursun Delen, Efraim Turban,2019,Pearson
+- [4]https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15,,,
+- [5]https://www.mssqltips.com/sqlservertutorial/2000/sql-server-analysis-services-ssas-tutorial/,,,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Building a Data Warehouse With Examples in SQL Server,Vincent Rainardi,2008,Apress
+- [2]Business Intelligence Guidebook From Data Integration to Analytics,Rick Sherman,2015,Elsevier
+- [3]Business Intelligence, Analytics, and Data Science: A Managerial Perspective (4th Edition),Ramesh Sharda, Dursun Delen, Efraim Turban,2019,Pearson
+- [4]https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15,,,
+- [5]https://www.mssqltips.com/sqlservertutorial/2000/sql-server-analysis-services-ssas-tutorial/,,,
+
+## READING MATERIALS
+- [1]Building a Data Warehouse With Examples in SQL Server,Vincent Rainardi,2008,Apress
+- [2]Business Intelligence Guidebook From Data Integration to Analytics,Rick Sherman,2015,Elsevier
+- [3]Business Intelligence, Analytics, and Data Science: A Managerial Perspective (4th Edition),Ramesh Sharda, Dursun Delen, Efraim Turban,2019,Pearson
+- [4]https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15,,,
+- [5]https://www.mssqltips.com/sqlservertutorial/2000/sql-server-analysis-services-ssas-tutorial/,,,

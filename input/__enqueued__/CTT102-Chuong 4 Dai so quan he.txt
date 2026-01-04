@@ -1,0 +1,3247 @@
+CHƯƠNG 
+  4
+Đại 
+  số 
+  quan 
+  hệ 
+Bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Giới 
+  thiệu 
+§Xét 
+  một 
+  số 
+  xử 
+  lý 
+  trên 
+  quan 
+  hệ 
+  KHOA 	-Thêm 
+  Khoa 
+  ‘Hóa 
+  học’ 
+  vào 
+  quan 
+  hệ 	-Chuyển 
+  Khoa 
+  CNTT 
+  sang 
+  phòng 
+  B12 
+-Cho 
+  biết 
+  tên 
+  các 
+  khoa 
+  được 
+  thành 
+  lập 
+  từ 
+  năm 
+  1980 
+Giới 
+  thiệu 
+  (8) 
+§Có 
+  2 
+  loại 
+  xử 
+  lý: 
+	-Làm 
+  thay 
+  đổi 
+  dữ 
+  liệu 
+  (cập 
+  nhật): 
+  thêm 
+  mới, 
+  xóa 
+  và 
+  sửa 
+	-Không 
+  làm 
+  thay 
+  đổi 
+  dữ 
+  liệu 
+  (rút 
+  trích): 
+  truy 
+  vấn 
+§Ngôn 
+  ngữ 
+  truy 
+  vấn 
+  (Query 
+  Language 
+  – 
+  QL): 
+	-Cho 
+  phép 
+  người 
+  dùng 
+  rút 
+  trích 
+  hay 
+  cập 
+  nhật 
+  dữ 
+  liệu 
+  được 
+  lưu 
+  trong 		một 
+  mô 
+  hình 
+  dữ 
+  liệu 
+§Ngôn 
+  ngữ 
+  truy 
+  vấn 
+  quan 
+  hệ: 
+	-Đại 
+  số 
+  quan 
+  hệ 
+  (Relational 
+  Algebra) 
+			lBiểu 
+  diễn 
+  câu 
+  truy 
+  vấn 
+  dưới 
+  dạng 
+  biểu 
+  thức, 
+  cho 
+  phép 
+  người 
+  dùng 
+  biểu 
+  diễn 
+  các 				bước 
+  thực 
+  hiện 
+  câu 
+  truy 
+  vấn 
+-Phép 
+  tính 
+  quan 
+  hệ 
+  (Relational 
+  Calculus) 
+	lBiểu 
+  diễn 
+  kết 
+  quả 
+  phi 
+  thủ 
+  tục 
+  dựa 
+  trên 
+  ngôn 
+  ngữ 
+  logic, 
+  cho 
+  phép 
+  người 
+  dùng 
+  diễn 		đạt 
+  cái 
+  họ 
+  cần 
+  hơn 
+  là 
+  thao 
+  tác 
+  xử 
+  lý 
+  nó 
+-SQL 
+  (Structured 
+  Query 
+  Language) 
+Đại 
+  số 
+§Đại 
+  số 
+-Toán 
+  tử 
+  (operator) 
+-Toán 
+  hạng 
+  (operand) 
+§Trong 
+  số 
+  học 
+	-Toán 
+  tử: 
+  +, 
+  -­‐, 
+  *, 
+  / 
+	-Toán 
+  hạng 
+  -­‐ 
+  biến 
+  (variables): 
+  x, 
+  y, 
+  z 	-Hằng 
+  (constant) 
+	-Biểu 
+  thức 
+		l(x+7) 
+  / 
+  (y-­‐3) 
+		l(x+y)*z 
+   
+  and/or 
+  (x+7) 
+  / 
+  (y-­‐3) 
+Đại 
+  số 
+  quan 
+  hệ 
+§Biến 
+  là 
+  các 
+  quan 
+  hệ 
+	-Tập 
+  hợp 
+  (set) 
+§Toán 
+  tử 
+  là 
+  các 
+  phép 
+  toán 
+  (operations) 	-Trên 
+  tập 
+  hợp 
+lHội 
+   
+   
+  ∪ 
+  (union) 
+lGiao 
+  ∩ 
+  (intersec) 
+lTrừ 
+   
+   
+  -­‐ 
+   
+  (difference) 
+-Rút 
+  trích 
+  1 
+  phần 
+  của 
+  quan 
+  hệ 
+	lChọn 
+   
+  σ 
+   
+  (selection) 
+	lChiếu 
+   
+  π 
+   
+  (projection) 
+-Kết 
+  hợp 
+  các 
+  quan 
+  hệ 
+lTích 
+  Cartesian 
+   
+  × 
+   
+  (Cartesian 
+  product) lKết 
+   
+   
+   
+   
+   
+   
+   
+  (join) 
+Đại 
+  số 
+  quan 
+  hệ 
+  (8) 
+§Khi 
+  dùng 
+  đại 
+  số 
+  quan 
+  hệ, 
+  một 
+  nhu 
+  cầu 
+  truy 
+  vấn 
+  được 
+  thể 		hiện 
+  qua 
+  một 
+  biểu 
+  thức 
+  đại 
+  số 
+  quan 
+  hệ: 
+			-Kết 
+  quả 
+  trả 
+  về 
+  là 
+  một 
+  thể 
+  hiện 
+  của 
+  quan 
+  hệ 
+			-Có 
+  thể 
+  là 
+  một 
+  chuỗi 
+  các 
+  phép 
+  toán 
+  đại 
+  số 
+  quan 
+  hệ 
+			-Theo 
+  thứ 
+  tự 
+  thực 
+  hiện 
+  của 
+  các 
+  toán 
+  tử, 
+  kết 
+  quả 
+  của 
+  toán 
+  tử 				thực 
+  hiện 
+  trước 
+  là 
+  đầu 
+  vào 
+  cho 
+  toán 
+  tử 
+  thực 
+  hiện 
+  kế 
+  tiếp. 
+Đại 
+  số 
+  quan 
+  hệ 
+  (8) 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Phép 
+  toán 
+  tập 
+  hợp 
+§Quan 
+  hệ 
+  là 
+  tập 
+  hợp 
+  các 
+  bộ 
+-Phép 
+  hội 
+   
+  r 
+  ∪ 
+  s 
+-Phép 
+  giao 
+   
+  r 
+  ∩ 
+  s 
+-Phép 
+  trừ 
+   
+  r 
+  -­‐ 
+  s 
+§Tính 
+  khả 
+  hợp 
+  (Union 
+  Compatibility) 
+	-Cho 
+  hai 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  R(A1, 
+  A2, 
+  …, 
+  An) 
+  và 
+  S(B1, 
+  B2, 
+  …, 
+  Bn), 		r(R), 
+  s(S). 
+  Hai 
+  quan 
+  hệ 
+  r 
+  và 
+  s 
+  là 
+  khả 
+  hợp 
+  nếu 
+lR 
+  và 
+  S 
+  có 
+  cùng 
+  bậc 
+  n 
+lVà 
+  có 
+  DOM(Ai)=DOM(Bi) 
+  , 
+  1≤ 
+  i 
+  ≤ 
+  n 
+§Kết 
+  quả 
+  phép 
+  toán 
+  ∪, 
+  ∩, 
+  hoặc 
+  -­‐ 
+  của 
+  r 
+  và 
+  s 
+  là 
+  một 
+  quan 
+  hệ 
+  có 	các 
+  thuộc 
+  tính 
+  cùng 
+  tên 
+  với 
+  các 
+  thuộc 
+  tính 
+  của 
+  quan 
+  hệ 
+  r. 
+Phép 
+  toán 
+  tập 
+  hợp 
+  (8) 
+§Ví 
+  dụ 
+  hai 
+  quan 
+  hệ 
+  khả 
+  hợp 
+Bậc n=3 
+DOM(TENSV) = DOM(TENGV) 
+DOM(NGSINH) = DOM(NG_SINH) 
+DOM(PHAI) = DOM(GIOITINH) 
+Phép 
+  hội 
+§Cho 
+  2 
+  quan 
+  hệ 
+  r 
+  và 
+  s 
+  khả 
+  hợp 
+§Phép 
+  hội 
+  của 
+  r 
+  và 
+  s 
+		-Ký 
+  hiệu 
+  r 
+  ∪ 
+  s 
+		-Là 
+  một 
+  quan 
+  hệ 
+  gồm 
+  các 
+  bộ 
+  thuộc 
+  r 
+  hoặc 
+  thuộc 
+  s, 
+  hoặc 
+  cả 
+  hai 			(các 
+  bộ 
+  trùng 
+  lắp 
+  sẽ 
+  bị 
+  loại 
+  bỏ) 
+Phép 
+  hội 
+  (8) 
+Phép 
+  giao 
+§Cho 
+  2 
+  quan 
+  hệ 
+  r 
+  và 
+  s 
+  khả 
+  hợp 
+§Phép 
+  giao 
+  của 
+  r 
+  và 
+  s 
+		-Ký 
+  hiệu 
+  r 
+  ∩ 
+  s 
+		-Là 
+  một 
+  quan 
+  hệ 
+  gồm 
+  các 
+  bộ 
+  thuộc 
+  r 
+  đồng 
+  thời 
+  thuộc 
+  s 
+Phép 
+  giao 
+  (8) 
+Phép 
+  trừ 
+§Cho 
+  2 
+  quan 
+  hệ 
+  r 
+  và 
+  s 
+  khả 
+  hợp 
+§Phép 
+  giao 
+  của 
+  r 
+  và 
+  s 
+		-Ký 
+  hiệu 
+  r 
+  -­‐ 
+  s 
+		-Là 
+  một 
+  quan 
+  hệ 
+  gồm 
+  các 
+  bộ 
+  thuộc 
+  R 
+  và 
+  không 
+  thuộc 
+  S 
+Phép 
+  trừ 
+  (8) 
+Các 
+  Enh 
+  chất 
+§Giao 
+  hoán 
+r ∪ s = s ∪ r 
+r ∩ s = s ∩ r 
+§Kết 
+  hợp 
+r ∪ (s ∪ t) = (r ∪ s) ∪ t 
+r ∩ (s ∩ t) = (r ∩ s) ∩ t 
+Các 
+  Enh 
+  chất 
+§Giao 
+  hoán 
+r ∪ s = s ∪ r 
+r ∩ s = s ∩ r 
+§Kết 
+  hợp 
+r ∪ (s ∪ t) = (r ∪ s) ∪ t 
+r ∩ (s ∩ t) = (r ∩ s) ∩ t 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Phép 
+  chọn 
+§Được 
+  dùng 
+  để 
+  lấy 
+  ra 
+  các 
+  bộ 
+  của 
+  quan 
+  hệ 
+  r 
+  thỏa 
+  mãn 
+  điều 		kiện 
+  chọn 
+  P 
+§Ký 
+  hiệu 
+			σ P (r) 
+§P 
+  là 
+  biểu 
+  thức 
+  gồm 
+  các 
+  mệnh 
+  đề 
+  có 
+  dạng 
+			-<tên 
+  thuộc 
+  tính> 
+  <phép 
+  so 
+  sánh> 
+  <hằng 
+  số> 
+			-<tên 
+  thuộc 
+  tính> 
+  <phép 
+  so 
+  sánh> 
+  <tên 
+  thuộc 
+  tính> 
+l<phép 
+  so 
+  sánh> 
+  gồm 
+  < 
+  , 
+  > 
+  , 
+  ≤ 
+  , 
+  ≥ 
+  , 
+  ≠ 
+  , 
+  = 
+lCác 
+  mệnh 
+  đề 
+  được 
+  nối 
+  lại 
+  nhờ 
+  các 
+  phép 
+  ∧ 
+  , 
+  ∨ 
+  , 
+  ¬
+Phép 
+  chọn 
+  (8) 
+§Kết 
+  quả 
+  trả 
+  về 
+  là 
+  một 
+  quan 
+  hệ 
+		-Có 
+  cùng 
+  danh 
+  sách 
+  thuộc 
+  tính 
+  với 
+  r 
+		-Có 
+  số 
+  bộ 
+  luôn 
+  ít 
+  hơn 
+  hoặc 
+  bằng 
+  số 
+  bộ 
+  của 
+  r 
+§Ví 
+  dụ 
+	σ(A=B)∧(D>5) (r) 
+Phép 
+  chọn 
+  (8) 
+§Phép 
+  chọn 
+  có 
+  tính 
+  giao 
+  hoán 
+σ p1 (σp2 (r))  =  σ p2 (σp1 (r)) =  σ p1 ∧p2 (r) 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Phép 
+  chiếu 
+§Được 
+  dùng 
+  để 
+  lấy 
+  ra 
+  một 
+  vài 
+  cột 
+  của 
+  quan 
+  hệ 
+  r 
+§Kết 
+  quả 
+  trả 
+  về 
+  là 
+  một 
+  quan 
+  hệ 
+	-Có 
+  k 
+  thuộc 
+  tính 
+	-Có 
+  số 
+  bộ 
+  luôn 
+  ít 
+  hơn 
+  hoặc 
+  bằng 
+  số 
+  bộ 
+  của 
+  r §Ví 
+  dụ 
+Phép 
+  chiếu 
+  (8) 
+§Phép 
+  chiếu 
+  không 
+  có 
+  tính 
+  giao 
+  hoán 
+πX,Y (r) =  πX (πY (r)) 
+πA1, A2, …, An(πA1, A2, …, Am(r)) =  πA1, A2, …, An (r) , với n ≤ m 
+Phép 
+  chọn 
+  vs. 
+  Phép 
+  chiếu 	A1, 
+  A2, 
+  A3 
+  …, 
+  An 
+A1, 
+  A2, 
+  A3 
+  …, 
+  An 
+A1, 
+  A2, 
+  A3 
+  …, 
+  An 
+Ví 
+  dụ 
+  1 
+§Cho 
+  biết 
+  họ 
+  tên 
+  và 
+  mức 
+  lương 
+  của 
+  các 
+  giáo 
+  viên 
+  nữ 
+πHOTEN, LUONG (σPHAI=‘Nữ’ (GIAOVIEN))
+Ví 
+  dụ 
+  2 
+§Cho 
+  biết 
+  mã 
+  số 
+  các 
+  giáo 
+  viên 
+  thuộc 
+  bộ 
+  môn 
+  HTTT 
+  hoặc 
+  có 	tham 
+  gia 
+  đề 
+  tài 
+  mã 
+  001 
+πMAGV (σMABM=‘HTTT’ (GIAOVIEN))∪πMAGV (σMAĐT=‘001’ (TG_ĐETAI)) 
+Ví 
+  dụ 
+  3 
+§Cho 
+  biết 
+  mã 
+  số 
+  các 
+  trưởng 
+  khoa 
+  có 
+  chủ 
+  nhiệm 
+  đề 
+  tài 
+πTRUONGKHOA(KHOA) ∩πGVCNĐT (ĐETAI) 
+Ví 
+  dụ 
+  4 
+§Cho 
+  biết 
+  tên 
+  các 
+  công 
+  việc 
+  bắt 
+  đầu 
+  trong 
+  khoảng 
+  từ 	01/01/2007 
+  đến 
+  01/08/2007 
+σ (NGAYBĐ>=‘1/1/2007’ ∧ NGAYBĐ<=‘1/8/2007’) (CONGVIEC) 
+Phép 
+  chiếu 
+  tổng 
+  quát 
+§Mở 
+  rộng 
+  phép 
+  chiếu 
+  bằng 
+  cách 
+  cho 
+  phép 
+  sử 
+  dụng 
+  các 
+  phép 	toán 
+  số 
+  học 
+  trong 
+  danh 
+  sách 
+  thuộc 
+  tính 
+§Ký 
+  hiệu 
+   
+  πF1, 
+  F2, 
+  …, 
+  Fn 
+  (E) 
+	-E 
+  là 
+  biểu 
+  thức 
+  ĐSQH 
+	-F1, 
+  F2, 
+  …, 
+  Fn 
+  là 
+  các 
+  biểu 
+  thức 
+  số 
+  học 
+  liên 
+  quan 
+  đến 		lHằng 
+  số 
+		lThuộc 
+  tính 
+  trong 
+  E 
+	Phép 
+  chiếu 
+  tổng 
+  quát 
+§Ví 
+  dụ 
+		-Cho 
+  biết 
+  họ 
+  tên 
+  của 
+  các 
+  giáo 
+  viên 
+  và 
+  lương 
+  của 
+  họ 
+  sau 
+  khi 
+  tăng 
+  10% 
+πHOTEN, LUONG*1.1 (GIAOVIEN)
+Chuỗi 
+  các 
+  phép 
+  toán 
+§Kết 
+  hợp 
+  các 
+  phép 
+  toán 
+  đại 
+  số 
+  quan 
+  hệ 		-Lồng 
+  các 
+  biểu 
+  thức 
+  lại 
+  với 
+  nhau 
+-Thực 
+  hiện 
+  từng 
+  phép 
+  toán 
+  một 
+Cần đặt tên cho quan hệ 
+Phép 
+  gán 
+§Được 
+  sử 
+  dụng 
+  để 
+  nhận 
+  lấy 
+  kết 
+  quả 
+  trả 
+  về 
+  của 
+  một 
+  phép 
+  toán 		-Thường 
+  là 
+  kết 
+  quả 
+  trung 
+  gian 
+  trong 
+  chuỗi 
+  các 
+  phép 
+  toán §Ký 
+  hiệu 
+   
+  ←
+§Ví 
+  dụ 
+	-B1 
+KQ ←πA1, A2, …, Ak (s) 
+Phép 
+  đổi 
+  tên 
+§Được 
+  dùng 
+  để 
+  đổi 
+  tên 
+		-Quan 
+  hệ 
+		Xét quan hệ r(B, C, D)
+		ρs(r)  :  Đổi tên quan hệ r thành s 
+		-Thuộc 
+  tính 
+		ρX, C, D (r)  :  Đổi tên thuộc tính B thành X 		-Quan 
+  hệ 
+  lẫn 
+  thuộc 
+  tính 
+ρs(X,C,D)(r) : đổi tên quan hệ r thành s và thuộc tính B thành X
+	Ví 
+  dụ 
+  5 
+§Cho 
+  biết 
+  mã 
+  số 
+  và 
+  họ 
+  tên 
+  giáo 
+  viên 
+  thuộc 
+  bộ 
+  môn 
+  HTTT 
+ρKQ(MA, TEN) (πMAGV, HOTEN(GV_HTTT)) 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Phép 
+  Ech 
+  Cartesian 
+§Được 
+  dùng 
+  để 
+  kết 
+  hợp 
+  các 
+  bộ 
+  của 
+  các 
+  quan 
+  hệ 
+  lại 
+  với 
+  nhau §Ký 
+  hiệu 
+			r × s 
+§Kết 
+  quả 
+  trả 
+  về 
+  là 
+  một 
+  quan 
+  hệ 
+  q 
+	-Mỗi 
+  bộ 
+  của 
+  q 
+  là 
+  tổ 
+  hợp 
+  giữa 
+  1 
+  bộ 
+  trong 
+  r 
+  và 
+  1 
+  bộ 
+  trong 
+  s 	-Nếu 
+  r 
+  có 
+  u 
+  bộ 
+  và 
+  s 
+  có 
+  v 
+  bộ 
+  thì 
+  q 
+  sẽ 
+  có 
+  u 
+  × 
+  v 
+  bộ 
+	-Nếu 
+  r 
+  có 
+  n 
+  thuộc 
+  tính 
+  và 
+  s 
+  có 
+  m 
+  thuộc 
+  tính 
+  thì 
+  q 
+  sẽ 
+  có 
+  n 
+  + 
+  m 		thuộc 
+  tính 
+  (R+∩ 
+  S+ 
+   
+  =∅ 
+  ) 
+Phép 
+  Ech 
+  Cartesian 
+  (8) 
+ρ(X,C,D) (s) 
+Phép 
+  Ech 
+  Cartesian 
+  (8) 
+§Thông 
+  thường 
+  theo 
+  sau 
+  phép 
+  tích 
+  Cartesian 
+  là 
+  phép 
+  chọn 
+Ví 
+  dụ 
+  6 
+§Cho 
+  biết 
+  thông 
+  tin 
+  của 
+  bộ 
+  môn 
+  cùng 
+  thông 
+  tin 
+  giảng 
+  viên 	làm 
+  trưởng 
+  bộ 
+  môn 
+  đó 
+Ví 
+  dụ 
+  6 
+  (8) 
+Ví 
+  dụ 
+  6 
+  (8) 
+§B1: 
+  Tích 
+  Cartesian 
+  BOMON 
+  và 
+  GIAOVIEN 	BM_GV ← (GIÁOVIÊN × BỘMÔN)
+§B2: 
+  Chọn 
+  ra 
+  những 
+  bộ 
+  thỏa 
+  TRUONGBM 
+  = 
+  MAGV 
+KQ ←σTRUONGBM=MAGV(BM_GV)
+σTRUONGBM=MAGV(BM_GV)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN
+Ví 
+  dụ 
+  7 
+§Cho 
+  biết 
+  mức 
+  lương 
+  cao 
+  nhất 
+  của 
+  các 
+  giảng 
+  viên 
+Ví 
+  dụ 
+  7 
+  (8) 
+§B1: 
+  Chọn 
+  ra 
+  những 
+  lương 
+  không 
+  phải 
+  là 
+  lớn 
+  nhất 	r1 ← (πLUONG(GIAOVIEN)) 
+	r2 ←σGIAOVIEN.LUONG < R1.LUONG(GIAOVIEN × r1) 
+r3 ←πR2.LUONG (r2) 
+§B2: 
+  Lấy 
+  tập 
+  hợp 
+  lương 
+  trừ 
+  đi 
+  lương 
+  trong 
+  r3 
+KQ ←πLUONG (GIAOVIEN) - r3 
+Ví 
+  dụ 
+  8 
+§Cho 
+  biết 
+  họ 
+  tên 
+  các 
+  giáo 
+  viên 
+  cùng 
+  bộ 
+  môn 
+  với 
+  giáo 
+  viên 	‘Trần 
+  Trà 
+  Hương’ 
+		-Quan 
+  hệ: 
+  GIAOVIEN 
+		-Thuộc 
+  tính: 
+  HOTEN, 
+  MABM 
+		-Điều 
+  kiện: 
+  HOTEN 
+  = 
+  ‘Trần 
+  Trà 
+  Hương’ 
+Ví 
+  dụ 
+  8 
+  (8) 
+§B1: 
+  Tìm 
+  bộ 
+  môn 
+  mà 
+  giáo 
+  viên 
+  ‘Trần 
+  Trà 
+  Hương’ 
+  thuộc 
+  về 
+r1 ←πMABM,MAGV (σHOTEN=‘Trần Trà Hương’ (GIAOVIEN)) 
+§B2: 
+  Lấy 
+  ra 
+  họ 
+  tên 
+  các 
+  giáo 
+  viên 
+  cùng 
+  bộ 
+  môn 
+r2 ←σHOTEN <>’Trần Trà Hương’ (GIAOVIEN) 
+r3 ←σR1.MABM=R2.MABM (r1 × r2) 
+KQ ←πHOTEN (r3) 
+Ví 
+  dụ 
+  9 
+¡Tìm 
+  các 
+  đề 
+  tài 
+  thuộc 
+  chủ 
+  đề 
+  ‘Quản 
+  lý 
+  giáo 
+  dục’ -Quan 
+  hệ: 
+  CHUĐE, 
+  ĐETAI 
+-Thuộc 
+  tính: 
+  TENCĐ, 
+  MACĐ 
+-Điều 
+  kiện: 
+  TENCĐ 
+  = 
+  ‘Quản 
+  lý 
+  giáo 
+  dục’ 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+-Kết 
+  tự 
+  nhiên 
+  (Natural 
+  join) 
+-Kết 
+  có 
+  điều 
+  kiện 
+  tổng 
+  quát 
+  (Theta 
+  join) 
+-Kết 
+  bằng 
+  (Equi 
+  join) 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Phép 
+  kết 
+§Được 
+  dùng 
+  để 
+  truy 
+  xuất 
+  dữ 
+  liệu 
+  từ 
+  hai 
+  quan 
+  hệ §Ký 
+  hiệu 
+  r 
+   
+   
+   
+   
+   
+  s 
+-R(A1, 
+  A2, 
+  …, 
+  An) 
+  và 
+  S(B1, 
+  B2, 
+  …, 
+  Bm) 
+§Kết 
+  quả 
+  của 
+  phép 
+  kết 
+  là 
+  một 
+  quan 
+  hệ 
+  q 
+-Có 
+  n 
+  + 
+  m 
+  thuộc 
+  tính 
+  Q(A1, 
+  A2, 
+  …, 
+  An, 
+  B1, 
+  B2, 
+  …, 
+  Bm) 
+-Mỗi 
+  bộ 
+  của 
+  q 
+  là 
+  tổ 
+  hợp 
+  của 
+  1 
+  bộ 
+  trong 
+  r 
+  và 
+  1 
+  bộ 
+  trong 
+  s, 
+  thỏa 
+  mãn 	một 
+  số 
+  điều 
+  kiện 
+  kết 
+  nào 
+  đó 
+lCó 
+  dạng 
+  Aiθ 
+  Bj 
+lAi 
+  là 
+  thuộc 
+  tính 
+  của 
+  R, 
+  Bj 
+  là 
+  thuộc 
+  tính 
+  của 
+  S lAi 
+  và 
+  Bj 
+  có 
+  cùng 
+  miền 
+  giá 
+  trị 
+lθ 
+  là 
+  phép 
+  so 
+  sánh 
+  ≠, 
+  =, 
+  <, 
+  >, 
+  ≤, 
+  ≥
+Phép 
+  kết 
+  (8) 
+§Phân 
+  loại 
+	-Kết 
+  theta 
+  (theta 
+  join) 
+  là 
+  phép 
+  kết 
+  có 
+  điều 
+  kiện 		lKý 
+  hiệu 
+  r 
+   
+   
+   
+   
+   
+  C 
+  s 
+		lC 
+  gọi 
+  là 
+  điều 
+  kiện 
+  kết 
+  trên 
+  thuộc 
+  tính 
+-Kết 
+  bằng 
+  (equi 
+  join) 
+  khi 
+  C 
+  là 
+  điều 
+  kiện 
+  so 
+  sánh 
+  bằng 
+-Kết 
+  tự 
+  nhiên 
+  (natural 
+  join): 
+  khi 
+  hai 
+  thuộc 
+  tính 
+  trong 
+  điều 
+  kiện 	kết 
+  bằng 
+  C 
+  có 
+  tên 
+  giống 
+  nhau. 
+lKý 
+  hiệu 
+   
+  r 
+   
+   
+   
+   
+   
+   
+  s 
+   
+   
+  hay 
+   
+   
+  r 
+  * 
+  s 
+lR+∩ 
+  S+≠∅
+lQuan 
+  hệ 
+  kết 
+  quả 
+  của 
+  phép 
+  kết 
+  bằng 
+  có 
+  tập 
+  thuộc 
+  tính 
+  là 
+  hội 	tập 
+  thuộc 
+  tính 
+  của 
+  r 
+  và 
+  s 
+  bỏ 
+  bớt 
+  đi 
+  1 
+  thuộc 
+  tính 
+  giống 
+  nhau 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	53 
+Phép 
+  kết 
+  (8) 
+§Ví 
+  dụ 
+  phép 
+  kết 
+  theta 
+r      B<D s 
+Phép 
+  kết 
+  (8) 
+§Ví 
+  dụ 
+  phép 
+  kết 
+  bằng 
+r      C=D s 
+Phép 
+  kết 
+  (8) 
+§Ví 
+  dụ 
+  phép 
+  kết 
+  tự 
+  nhiên 
+r     s 
+Ví 
+  dụ 
+  10 
+§Cho 
+  biết 
+  giáo 
+  viên 
+  có 
+  lương 
+  lớn 
+  hơn 
+  lương 
+  của 
+  giáo 
+  viên 	‘Nguyễn 
+  Hoài 
+  An’ 
+		-Quan 
+  hệ: 
+  GIAOVIEN 
+		-Thuộc 
+  tính: 
+  LUONG 
+GIAOVIEN(MAGV, HOTEN, LUONG, PHAI, NGAYSINH,…) 
+R1(LG) ←πLUONG (σHOTEN=‘Nguyễn Hoài An’ (GIAOVIEN)) 
+KQ ← GIAOVIEN       LUONG>LG R1 
+KQ(MAGV, HOTEN, LUONG, PHAI, NGAYSINH,…, LG))
+Ví 
+  dụ 
+  11 
+§Với 
+  mỗi 
+  giáo 
+  viên, 
+  hãy 
+  cho 
+  biết 
+  thông 
+  tin 
+  của 
+  bộ 
+  môn 
+  mà 
+  họ 	đang 
+  làm 
+  việc 
+		-Quan 
+  hệ: 
+  GIAOVIEN, 
+  BOMON 
+GIAOVIEN(MAGV, HOTEN, LUONG, PHAI, …, MABM, …) BOMON(MABM, TENBM, PHONG, DIENTHOAI, …)
+KQ ← GIAOVIEN        BOMON 
+KQ(MAGV, HOTEN, …, MABM, TENBM, PHONG, …))
+Ví 
+  dụ 
+  12 
+§Với 
+  mỗi 
+  đề 
+  tài, 
+  cho 
+  biết 
+  thông 
+  tin 
+  giáo 
+  viên 
+  chủ 
+  nhiệm 
+  đề 
+  tài 	đó 
+		-Quan 
+  hệ: 
+  ĐETAI, 
+  GIAOVIEN 
+ĐETAI(MAĐT, TENĐT, KINHPHI, …, GVCNĐT) GIAOVIEN(MAGV, HOTEN, LUONG, PHAI, …)
+KQ ←ĐETAI       GVCNĐT = MAGV GIAOVIEN 
+KQ(MAĐT, TENĐT, KINHPHI, …, GVCNĐT, MAGV, HOTEN, …)
+Ví 
+  dụ 
+  13 
+§Với 
+  mỗi 
+  khoa 
+  cho 
+  biết 
+  thông 
+  tin 
+  trưởng 
+  khoa 
+Ví 
+  dụ 
+  14 
+§Cho 
+  biết 
+  lương 
+  cao 
+  nhất 
+  trong 
+  bộ 
+  môn 
+  ‘HTTT’ 
+Ví 
+  dụ 
+  15 
+§Cho 
+  biết 
+  giáo 
+  viên 
+  làm 
+  việc 
+  cùng 
+  bộ 
+  môn 
+  với 
+  giáo 
+  viên 
+  002 
+Ví 
+  dụ 
+  16 
+§Cho 
+  biết 
+  các 
+  giáo 
+  viên 
+  của 
+  bộ 
+  môn 
+  ‘Vi 
+  sinh’ 
+  có 
+  tham 
+  gia 
+  đề 	tài 
+  006 
+Tập 
+  đầy 
+  đủ 
+  các 
+  phép 
+  toán 
+  ĐSQH 
+§Tập 
+  các 
+  phép 
+  toán 
+  σ, 
+  π, 
+  ×, 
+  -­‐, 
+  ∪ 
+  được 
+  gọi 
+  là 
+  tập 
+  đầy 
+  đủ 
+  các 	phép 
+  toán 
+  ĐSQH 
+		-Nghĩa 
+  là 
+  các 
+  phép 
+  toán 
+  có 
+  thể 
+  được 
+  biểu 
+  diễn 
+  qua 
+  chúng 		-Ví 
+  dụ 
+			lr 
+  ∩s 
+  = 
+  r 
+  ∪s 
+  -­‐ 
+  ((r-­‐s) 
+  ∪(s-­‐r)) 
+			lr 
+   
+   
+   
+   
+   
+  C 
+  s 
+  = 
+  σC(r×s) 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phép 
+  chia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Phép 
+  chia 
+§Được 
+  dùng 
+  để 
+  lấy 
+  ra 
+  một 
+  số 
+  bộ 
+  trong 
+  quan 
+  hệ 
+  r 
+  sao 
+  cho 	thỏa 
+  với 
+  tất 
+  cả 
+  các 
+  bộ 
+  trong 
+  quan 
+  hệ 
+  s 
+§Ký 
+  hiệu 
+  r 
+  ÷ 
+  s 
+		-r(Z) 
+  và 
+  x(X) 
+				lZ 
+  là 
+  tập 
+  thuộc 
+  tính 
+  của 
+  r, 
+  X 
+  là 
+  tập 
+  thuộc 
+  tính 
+  của 
+  s 				lX 
+  ⊆ 
+  Z 
+§Kết 
+  quả 
+  của 
+  phép 
+  chia 
+  là 
+  một 
+  quan 
+  hệ 
+  t(Y) 
+		-Với 
+  Y=Z-­‐X 
+		-Có 
+  t0 
+  là 
+  một 
+  bộ 
+  của 
+  t 
+  nếu 
+  với 
+  mọi 
+  bộ 
+  tS∈S, 
+  tồn 
+  tại 
+  bộ 
+  tR∈R 			thỏa 
+  2 
+  điều 
+  kiện 
+Phép 
+  chia 
+  (8) 
+Ví 
+  dụ 
+  17 
+§Cho 
+  biết 
+  mã 
+  giáo 
+  viên 
+  tham 
+  gia 
+  tất 
+  cả 
+  công 
+  việc 
+  thuộc 
+  đề 
+  tài 	001 
+Ví 
+  dụ 
+  18 
+§Cho 
+  biết 
+  tên 
+  đề 
+  tài 
+  có 
+  tất 
+  cả 
+  giảng 
+  viên 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 	thông 
+  tin’ 
+  tham 
+  gia 
+Phép 
+  chia 
+  (8) 
+§Biểu 
+  diễn 
+  phép 
+  chia 
+  thông 
+  qua 
+  tập 
+  đầy 
+  đủ 
+  các 
+  phép 
+  toán 	ĐSQH 
+Q1 ←πY (r) 
+Q2 ← Q1 × s 
+Q3 ←πY(Q2 - r) 
+KQ ← Q1 - Q3
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phépchia 
+§Các 
+  phép 
+  toán 
+  khác 
+-Hàm 
+  kết 
+  hợp 
+  (Aggregation 
+  function) 
+-Phép 
+  gom 
+  nhóm 
+  (Grouping) 
+	-Phép 
+  kết 
+  ngoài 
+  (Outer 
+  join) 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Hàm 
+  kết 
+  hợp 
+§Nhận 
+  vào 
+  tập 
+  hợp 
+  các 
+  giá 
+  trị 
+§Trả 
+  về 
+  một 
+  giá 
+  trị 
+  đơn 
+§Gồm 
+	-AVG 
+	-MIN 
+	-MAX 
+	-SUM 
+	-COUNT 
+Hàm 
+  kết 
+  hợp 
+  (8) 
+§Ví 
+  dụ 
+Phép 
+  gom 
+  nhóm 
+§Được 
+  dùng 
+  để 
+  phân 
+  chia 
+  quan 
+  hệ 
+  thành 
+  nhiều 
+  nhóm 
+  dựa 
+  trên 	điều 
+  kiện 
+  gom 
+  nhóm 
+  nào 
+  đó 
+§Ký 
+  hiệu 
+			G1, G2, …, GnℑF1(A1), F2(A2), …, Fn(An)(E) 
+		-E 
+  là 
+  biểu 
+  thức 
+  ĐSQH 
+		-G1, 
+  G2, 
+  …, 
+  Gn 
+  là 
+  các 
+  thuộc 
+  tính 
+  gom 
+  nhóm 
+		-F1, 
+  F2, 
+  …, 
+  Fn 
+  là 
+  các 
+  hàm 
+		-A1, 
+  A2, 
+  …, 
+  An 
+  là 
+  các 
+  thuộc 
+  tính 
+  tính 
+  toán 
+  trong 
+  hàm 
+  F 
+	Phép 
+  gom 
+  nhóm 
+  (8) 
+§Ví 
+  dụ
+ℑSUM(C)(r) 
+	Ví 
+  dụ 
+  19 
+§Cho 
+  biết 
+  số 
+  lượng 
+  giáo 
+  viên 
+  viên 
+  và 
+  tổng 
+  lương 
+  của 
+  họ 
+	Ví 
+  dụ 
+  20 
+§Cho 
+  biết 
+  số 
+  lượng 
+  giáo 
+  viên 
+  và 
+  lương 
+  trung 
+  bình 
+  của 
+  từng 
+  bộ 		môn 
+	Ví 
+  dụ 
+  21 
+§Cho 
+  biết 
+  tên 
+  khoa 
+  có 
+  đông 
+  giáo 
+  viên 
+  nhất 
+	Ví 
+  dụ 
+  22 
+§Cho 
+  biết 
+  họ 
+  tên 
+  giáo 
+  viên 
+  chủ 
+  nhiệm 
+  nhiều 
+  đề 
+  tài 
+  nhất 
+Ví 
+  dụ 
+  23 
+§Cho 
+  biết 
+  tên 
+  chủ 
+  đề 
+  và 
+  số 
+  lượng 
+  đề 
+  tài 
+  thuộc 
+  về 
+  chủ 
+  đề 
+  đó 
+Phép 
+  kết 
+  ngoài 
+§Mở 
+  rộng 
+  phép 
+  kết 
+  để 
+  tránh 
+  mất 
+  mát 
+  thông 
+  tin 	-Thực 
+  hiện 
+  phép 
+  kết 
+	-Lấy 
+  thêm 
+  các 
+  bộ 
+  không 
+  thỏa 
+  điều 
+  kiện 
+  kết 
+§Có 
+  3 
+  hình 
+  thức 
+-Mở 
+  rộng 
+  bên 
+  trái 
+-Mở 
+  rộng 
+  bên 
+  phải 
+Ví 
+  dụ 
+  24 
+  -­‐ 
+  a 
+§Cho 
+  biết 
+  họ 
+  tên 
+  giáo 
+  viên 
+  và 
+  tên 
+  bộ 
+  môn 
+  họ 
+  làm 
+  trưởng 
+  bộ 	môn 
+  nếu 
+  có 
+R1 ← GIAOVIEN        MAGV=TRUONGBM BOMON KQ ←πHOTEN, TENBM (R1)
+Ví 
+  dụ 
+  24 
+  -­‐ 
+  b 
+§Cho 
+  danh 
+  sách 
+  tên 
+  bộ 
+  môn 
+  và 
+  họ 
+  tên 
+  trưởng 
+  bộ 
+  môn 
+  đó 
+  nếu 	có. 
+Ví 
+  dụ 
+  24 
+  -­‐ 
+  c 
+§Cho 
+  danh 
+  sách 
+  tên 
+  giáo 
+  viên 
+  và 
+  các 
+  đề 
+  tài 
+  giáo 
+  viên 
+  đó 
+  chủ 	nhiệm 
+  nếu 
+  có 
+Nội 
+  dung 
+  chi 
+  2ết 
+§Giới 
+  thiệu 
+§Đại 
+  số 
+  quan 
+  hệ 
+§Phép 
+  toán 
+  tập 
+  hợp 
+§Phép 
+  chọn 
+§Phép 
+  chiếu 
+§Phép 
+  tích 
+  Cartesian 
+§Phép 
+  kết 
+§Phépchia 
+§Các 
+  phép 
+  toán 
+  khác 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  trên 
+  quan 
+  hệ 
+Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+§Nội 
+  dung 
+  của 
+  CSDL 
+  có 
+  thể 
+  được 
+  cập 
+  nhật 
+  bằng 
+  các 
+  thao 
+  tác 		-Thêm 
+  (insertion) 
+		-Xóa 
+  (deletion) 
+		-Sửa 
+  (updating) 
+§Các 
+  thao 
+  tác 
+  cập 
+  nhật 
+  được 
+  diễn 
+  đạt 
+  thông 
+  qua 
+  phép 
+  toán 	gán 
+rnew← các phép toán trênrold 
+Thao 
+  tác 
+  thêm 
+§Được 
+  diễn 
+  đạt 
+	rnew← rold∪ E
+-r 
+  là 
+  quan 
+  hệ 
+-E 
+  là 
+  một 
+  biểu 
+  thức 
+  ĐSQH 
+§Ví 
+  dụ 
+	-Phân 
+  công 
+  giáo 
+  viên 
+  có 
+  mã 
+  001 
+  tham 
+  gia 
+  công 
+  việc 
+  4 
+  của 
+  đề 		tài 
+  số 
+  001 
+  với 
+  mức 
+  phụ 
+  cấp 
+  2 
+THAMGIAĐT ←THAMGIAĐT ∪ (‘001’, ‘001’, 4, 2)
+Thao 
+  tác 
+  xóa 
+§Được 
+  diễn 
+  đạt 
+	rnew← rold- E
+-r 
+  là 
+  quan 
+  hệ 
+-E 
+  là 
+  một 
+  biểu 
+  thức 
+  ĐSQH 
+§Ví 
+  dụ 
+	-Xóa 
+  phân 
+  công 
+  tham 
+  gia 
+  đề 
+  tài 
+  cho 
+  giáo 
+  viên 
+  001 
+THAMGIAĐT ←THAMGIAĐT  -  σMAGV=‘001’(THAMGIAĐT)
+Ví 
+  dụ 
+  25 
+§Xóa 
+  các 
+  đề 
+  tài 
+  thuộc 
+  chủ 
+  đề 
+  ‘NCPT’ 
+Thao 
+  tác 
+  sửa 
+§Được 
+  diễn 
+  đạt 
+	rnew←πF1, F2, …, Fn (rold)
+-r 
+  là 
+  quan 
+  hệ 
+-Fi 
+  là 
+  biểu 
+  thức 
+  tính 
+  toán 
+  cho 
+  ra 
+  giá 
+  trị 
+  mới 
+  của 
+  thuộc 
+  tính 
+§Ví 
+  dụ 
+		-Tăng 
+  mức 
+  phụ 
+  cấp 
+  cho 
+  các 
+  đề 
+  tài 
+  của 
+  tất 
+  cả 
+  giáo 
+  viên 
+  lên 
+  1.5 			lần 
+	THAMGIAĐT ←πMAGV, MAĐT, STT, PHUCAP*1.5(THAMGIAĐT)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 2
+MÃKHOA | TÊNKHOA | NĂMTL | PHÒNG | ĐIỆNTHOAI | TRƯỞNGKHOA | NGÀYNHẬNCHỨC
+CNTT | Công nghệ thông tin | 1995 | B12 B11 | 0838123456 | 002 | 20/02/2005
+VL | Vật lý | 1976 | B21 | 0838223223 | 005 | 18/09/2003
+SH | Sinh học | 1980 | B31 | 0838454545 | 004 | 11/10/2000
+HH | Hóa học | 1980 | B41 | NULL | 007 | 15/10/2001
+TÊNKHOA
+Sinh 
+  học
+Hóa 
+  học
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 3
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 4
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 5
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 6
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 7
+Phép 
+  toán 
+  đại 
+  số | Phép 
+  toán 
+  đại 
+  số 
+  quan 
+  hệ
+Toán 
+  hạng | -­‐ 
+  Biến 
+  : 
+  x, 
+  y, 
+  z, 
+  … 
+-­‐ 
+  Hằng 
+  số 
+  : 
+  150, 
+  … | -­‐ 
+  Quan 
+  hệ 
+  : 
+  NhanVien, 
+  … 
+-­‐ 
+  Thể 
+  hiện 
+  của 
+  quan 
+  hệ 
+  : 
+  t, 
+  v, 
+  …
+Toán 
+  tử | -­‐ 
+  Thao 
+  tác 
+  xử 
+  lý 
+  giữa 
+  các 
+  toán 
+hạng 
+  để 
+  tạo 
+  thành 
+  giá 
+  trị 
+  mới 
+  : 
+  +, 
+  -­‐, *, 
+  /, 
+  … | -­‐ 
+  Thao 
+  tác 
+  xử 
+  lý 
+  giữa 
+  các 
+  quan 
+  hệ để 
+  tạo 
+  thành 
+  quan 
+  hệ 
+  mới 
+  : 
+  phép chọn 
+  σ, 
+  hội 
+  ∪ 
+  , 
+  …
+Biểu 
+  thức | -­‐ 
+  Chuỗi 
+  các 
+  phép 
+  toán 
+  đại 
+  số 
+-­‐ 
+  Kết 
+  quả 
+  cho 
+  ra 
+  một 
+  giá 
+  trị 
+  mới 
+ 
+   
+  (x+7) 
+  / 
+  (y-­‐3) 
+ 
+   
+  (x+y)*z 
+   
+  and/or 
+  (x+7) 
+  / 
+  (y-­‐3) | -­‐ 
+  Chuỗi 
+  các 
+  phép 
+  toán 
+  đại 
+  số 
+  quan hệ 
+  (câu 
+  truy 
+  vấn) 
+-­‐ 
+  Kết 
+  quả 
+  cho 
+  ra 
+  một 
+  quan 
+  hệ 
+  mới 
+πMANV(NHANVIEN)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 8
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 9
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 10
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 11
+§Ví 
+  dụ | 12
+12
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 12
+SinhVien 
+  ∪GiaoVien | SinhVien 
+  ∪GiaoVien
+HOTEN | DIACHI
+Đinh Bá Tiến | 119 Cống Quỳnh, Tp HCM
+Nguyễn Thanh Tùng | 222 Nguyễn Văn Cừ, Tp HCM
+Lê Quỳnh Như | 291 Hồ Văn Huê,  Tp HCM
+Trần Thanh Tâm | 553 Mai Thị Lựu,  Tp HCM
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 13
+§Ví 
+  dụ | 14
+14
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 14
+SinhVien 
+  ∩GiaoVien | SinhVien 
+  ∩GiaoVien
+HOTEN | DIACHI
+Đinh Bá Tiến | 119 Cống Quỳnh, Tp HCM
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 15
+§Ví 
+  dụ | 16
+16
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 16
+SinhVien 
+  – 
+  GiaoVien | SinhVien 
+  – 
+  GiaoVien
+HOTEN | DIACHI
+Nguyễn Thanh Tùng | 222 Nguyễn Văn Cừ, Tp HCM
+Lê Quỳnh Như | 291 Hồ Văn Huê,  Tp HCM
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 17
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 18
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 19
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 20
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 21
+r | A | B | C | D | 22
+α | α | α | 1 | 7 | 22
+α | α | β | 5 | 7 | 22
+β | β | β | 12 | 3 | 22
+β | β | β | 23 | 10 | 22
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 22
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 23
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 24
+§Ký 
+  hiệu | πA1, A2, …, Ak(r)
+r | A | B | C | πA,C (r) | 25
+α | α | 10 | 1 | 25
+α | α | 20 | 1 | 25
+β | β | 30 | 1 | 25
+β | β | 40 | 2 | 25
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 25
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 26
+Phép chọn | i | σ | j, i>=j
+Phép chiếu | π | A1, 
+  A2, 
+  A3 
+  …, 
+  Am | 27
+Phép chiếu | π | 27
+π | 27
+π | 27
+n | n | π | m, n>=m | 27
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | π | m, n>=m | 27
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 28
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 29
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 30
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 31
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 32
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 33
+πA1, A2, …, Ak (σP (r)) | σP (πA1, A2, …, Ak (r))
+lB1 
+lB2 | σP (r) 
+	πA1, A2, …, Ak (Quan hệ kết quả ở B1)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 34
+-B2 | s ←σP (r)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 35
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 36
+§C1: | πMAGV, HOTEN (σMABM=‘HTTT’ (GIAOVIEN))
+§C2: | GV_HTTT  ←σMABM=‘HTTT’ (GIAOVIEN) KQ  ←πMAGV, HOTEN (GV_HTTT) | GV_HTTT  ←σMABM=‘HTTT’ (GIAOVIEN) KQ  ←πMAGV, HOTEN (GV_HTTT)
+§C2: | KQ(MA, TEN) ←πMAGV, HOTEN (GV_HTTT)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 37
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 38
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 39
+§Ví 
+  dụ | r × s | A | R.B | unambiguous | unambiguous | unambiguous
+r × s | A | R.B | S.B C | S.B C | D
+r × s | α | 1 | α | 10 | +
+r × s | α | 1 | β | 10 | +
+r × s | α | 1 | β | 20 | -
+r × s | α | 1 | γ | 10 | -
+r × s | α | 1 | γ | 10 | -
+r × s | β | 2 | α | 10 | +
+r × s | β | 2 | β | 10 | +
+r × s | β | 2 | β | 20 | -
+r × s | β | 2 | γ | 10 | -
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 40
+r × s | σA=S.B (r × s) | 41
+41
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 41
+TENBM | MABM | TRUONGBM | NGAYNHANCHUC | …
+Hệ thống thông tin Công nghệ tri thức Mạng máy tính | HTTT 
+CNTT 
+MMT | 001 | 20/09/2004 
+15/05/2005
+MAGV | HOTEN | NGSINH | MABM | PHAI | LUONG | ….
+001 
+003 
+004 | Nguyễn Hoài An 
+Trần Trà Dương 
+Nguyễn Ngọc Anh Trương Nam Sơn | 15/02/1973 20/06/1960 11/05/1975 20/06/1959 | MMT 
+HTTT 
+HTTT 
+VS | Nam Nu 
+Nu 
+Nam | 2000 
+2500 
+2200 
+2300
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 42
+TENBM | MABM | TRUONGBM | NGAYNHANCHUC | GV | HOTEN | …
+Hệ thống thông tin 
+Mạng máy tính | HTTT 
+MMT | 002 
+001 | 20/09/2004 
+15/05/2005 | 002 001 | Trần Trà Dương 
+Trương Nam Sơn
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 43
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 44
+GIÁOVIÊN
+GIÁOVIÊN | MÃGV | HỌTÊN | …. | NGÀYSINH | SỐNHÀ | ….
+001 | Nguyễn Hoài An | …. | 15/02/1973 | 25/3 | ….
+002 | Trần Trà Hương | …. | 20/06/1960 | 125 | ….
+003 | Nguyễn Ngọc Ánh | …. | 11/05/1975 | 12/21 | ….
+…. | …. | …. | …. | …. | ….
+BỘMÔN | MÃBM | TÊNBM | PHÒNG | …. | TRƯỞNGBM | ….
+BỘMÔN | HTTT | Hệ thống thông tin | B13 | …. | 002 | ….
+HTTT | Hệ thống thông tin | B13 | …. | 002 | ….
+CNTT | Công nghệ tri thức | B15 | …. | ….
+MMT | Mạng máy tính | B16 | …. | 001 | ….
+…. | …. | …. | …. | …. | ….
+MÃGVHỌTÊN | MÃGVHỌTÊN | ….NGÀYSINH…. | ….NGÀYSINH…. | MÃBMTÊNBM | MÃBMTÊNBM | PHÒNG…. TRƯỞNGBM…. | PHÒNG…. TRƯỞNGBM…. | PHÒNG…. TRƯỞNGBM…. | PHÒNG…. TRƯỞNGBM….
+001 | Nguyễn Hoài An …. 15/02/1973 | Nguyễn Hoài An …. 15/02/1973 | …. | HTTT | Hệ thống thông tin B13 | Hệ thống thông tin B13 | …. 002 | …. | ….
+001 | Nguyễn Hoài An …. 15/02/1973 | Nguyễn Hoài An …. 15/02/1973 | …. | CNTT | Công nghệ tri thức B15 | Công nghệ tri thức B15 | …. | …. | ….
+001 | Nguyễn Hoài An …. 15/02/1973 | Nguyễn Hoài An …. 15/02/1973 | …. | MMT | Mạng máy tính | B16 | …. 001 | 45 | ….
+…. | …. | …. …. | …. | …. | …. | …. | …. …. | …. | ….
+HOTEN | … | LUONG | … | … | LUONG | …
+Nguyễn Hoài An | … | 2000 | … | … | 2000 | … | 46
+Trần Trà Hương | … | 2500 | … | … | 2500 | … | 46
+Nguyễn Ngọc Anh | … | 2200 | … | … | 2200 | … | 46
+… | … | … | … | … | 2200 | … | 46
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | … | … | 2200 | … | 46
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 47
+Giáo viên “Trần Trà Hương” ở bộ môn nào? | Những giáo viên nào thuộc về bộ môn đó? | 48
+48
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 48
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 49
+MACĐ | TENCĐ
+QLGD NCPT ƯDCN … | Quản lý giáo dục 
+Nghiên cứu phát triển Ứng dụng công nghệ …
+MAĐT | TENĐT | MACĐ | … | 50
+001 | HTTT quản lý các trường ĐH | QLGD | … | 50
+002 | HTTT quản lý giáo vụ cho một Khoa | GLGD | … | 50
+003 | Nghiên cứu chế tạo sợi Nanô Platin | NCPT | … | 50
+… | … | … | … | 50
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | … | … | 50
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 51
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 52
+r | A | B | C | s | D | E | σC(r × s)
+r | 1 | 2 | 3 | 3 | 3 | 1 | σC(r × s)
+r | 4 | 5 | 6 | 6 | 6 | 2 | σC(r × s)
+r | 7 | 8 | 9 | r      C s   = | r      C s   = | r      C s   = | σC(r × s)
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 54
+A A | A A | B B | B B | C C | C C | S. D | S. D | D
+1 | 1 | 2 | 2 | 3 | 3 | C 
+3 1 | C 
+3 1 | 1
+4 | 4 | 5 | 5 | 6 | 6 | 6 | 2 | 2
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 4 | 5 | 6 | 56
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 57
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 58
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 59
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 60
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 61
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 62
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 63
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 64
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 65
+ltR(Y) 
+  = 
+  t0 | R(Z) | Y | 66
+ltR(X) 
+  = 
+  tS(X) | X | Y | 66
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | X | Y | 66
+§Ví 
+  dụ | §Ví 
+  dụ | r ÷ s | 67
+67
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 67
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 68
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 69
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 70
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 71
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 72
+SUM(B) = 10 | 73
+AVG(A) = 1.5 | 73
+MIN(A) = 1 | 73
+MAX(B) = 4 | 73
+COUNT(A) = 4 | 73
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | COUNT(A) = 4 | 73
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 74
+AℑSUM(C)(r)
+A | SUM_C
+α
+β
+γ | 14 
+3 
+10
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 75
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 76
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 77
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 78
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 79
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 80
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 81
+HOTEN | TENBM
+Nguyễn Hoài An 
+Trần Trà Hương 
+Nguyễn Ngọc Ánh … | Mạng máy tính 
+Hệ thống thông tin null 
+…
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 82
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 83
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 84
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 85
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 86
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 87
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 88
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 89
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 90

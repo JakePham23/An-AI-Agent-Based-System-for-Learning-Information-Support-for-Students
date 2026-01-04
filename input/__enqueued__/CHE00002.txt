@@ -1,0 +1,81 @@
+# COURSE: Hóa đại cương 2 (CHE00002)
+
+## GENERAL INFORMATION
+- **Course ID**: CHE00002
+- **English Name**: General Chemistry 2
+- **Vietnamese Name**: Hóa đại cương 2
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 25 hours Hours for laboratory session: ~ 0 hours Hours for self-study, examination preparation, other activities: ~ 57.5 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Chapter 1: Thermochemistry: Energy Transfer and Chemical Change (8 periods)
+- Chapter 2: Thermodynamics: Entropy, Free Energy, and Direction of Chemical Reactions (4 periods)
+- Chapter 3: Chemical Equilibrium (6 periods)
+- Chapter 4: Kinetics: Rates and Mechanisms of Chemical Reactions (6 periods)
+- Chapter 5: Acid-Base Equilibrium (6 periods)
+- Chapter 6: Ion Balance in Solutions (4 periods)
+- Chapter 7: Electrochemistry (5 periods)
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]General Chemistry, Principles and Modern Applications, 10nd  Edition,Ralph H. Petrucci, F. G. Herring, J. Madura, C. Bissonnette,2011,Pearson Canada
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Nguyễn Công Tránh,,tài liệu nội bộ, chưa xuất bản
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Understand and explain the thermal effects accompanying chemical and physical changes.
+- G2.Understand and explain the conditions for reactions to occur naturally and for chemical equilibrium to be established.
+- G3.Understand and explain chemical equilibrium and the factors affecting it.
+- G4.Understand and explain reaction rates and the factors influencing these rates.
+- G5.Understand and explain the types of equilibria in solutions: acid-base, precipitation, and complex formation.
+- G6.Understand and explain electrochemical cells, predict the direction of redox reactions, and natural corrosion processes.
+- G7.Identify the correlation between the factors affecting properties and transformations in the reaction system.
+• Content:
+- Chapter 1: Thermochemistry: Energy Transfer and Chemical Change (8 periods)
+- Chapter 2: Thermodynamics: Entropy, Free Energy, and Direction of Chemical Reactions (4 periods)
+- Chapter 3: Chemical Equilibrium (6 periods)
+- Chapter 4: Kinetics: Rates and Mechanisms of Chemical Reactions (6 periods)
+- Chapter 5: Acid-Base Equilibrium (6 periods)
+- Chapter 6: Ion Balance in Solutions (4 periods)
+- Chapter 7: Electrochemistry (5 periods)
+• Examination forms: Close Test, Final examination, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]General Chemistry, Principles and Modern Applications, 10nd  Edition,Ralph H. Petrucci, F. G. Herring, J. Madura, C. Bissonnette,2011,Pearson Canada
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Nguyễn Công Tránh,,tài liệu nội bộ, chưa xuất bản
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]General Chemistry, Principles and Modern Applications, 10nd  Edition,Ralph H. Petrucci, F. G. Herring, J. Madura, C. Bissonnette,2011,Pearson Canada
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Nguyễn Công Tránh,,tài liệu nội bộ, chưa xuất bản
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]General Chemistry, Principles and Modern Applications, 10nd  Edition,Ralph H. Petrucci, F. G. Herring, J. Madura, C. Bissonnette,2011,Pearson Canada
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Nguyễn Công Tránh,,tài liệu nội bộ, chưa xuất bản
+
+## READING MATERIALS
+- [1]General Chemistry, Principles and Modern Applications, 10nd  Edition,Ralph H. Petrucci, F. G. Herring, J. Madura, C. Bissonnette,2011,Pearson Canada
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Nguyễn Công Tránh,,tài liệu nội bộ, chưa xuất bản

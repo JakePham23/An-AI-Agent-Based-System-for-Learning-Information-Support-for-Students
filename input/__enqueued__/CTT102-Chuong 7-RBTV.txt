@@ -1,0 +1,2778 @@
+CHƯƠNG 
+  7 
+Ràng 
+  buộc 
+  toàn 
+  vẹn 
+  (Integrety Constraints) 
+Slide 
+  bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+  chi 
+  @ết 
+§Khái 
+  niệm
+§Các 
+  đặc 
+  trưng 
+  của 
+  RBTV 
+§Phân 
+  loại 
+§Cài 
+  đặt 
+Khái 
+  niệm 
+§RBTV 
+  (Integrety 
+  Constraints) 
+  được 
+  phát 
+  hiện 
+  từ 
+  ngữ 
+  nghĩa 	của 
+  dữ 
+  liệu 
+  hoặc 
+  thể 
+  hiện 
+  của 
+  dữ 
+  liệu 
+  trong 
+  thực 
+  tế 
+  (1). 
+§RBTV 
+  nhằm 
+  đảm 
+  bảo 
+  (1): 
+§Tính 
+  đúng 
+  của 
+  dữ 
+  liệu 
+  và 
+  mô 
+  hình 
+  dữ 
+  liệu. 
+		§Ngữ 
+  nghĩa 
+  của 
+  CSDL 
+§Khi 
+  RBTV 
+  được 
+  khai 
+  báo, 
+   
+  mọi 
+  thể 
+  hiện 
+  của 
+  quan 
+  hệ 
+  đều 	phải 
+  thỏa 
+  các 
+  RBTV 
+  này 
+  ở 
+  bất 
+  kỳ 
+  thời 
+  điểm 
+  nào 
+  (1). 
+§RBTV 
+  được 
+  phát 
+  hiện 
+  và 
+  khai 
+  báo 
+  bởi 
+  các 
+  thiết 
+  kế 
+  viên 	trong 
+  quá 
+  trình 
+  thiết 
+  kế 
+  dữ 
+  liệu 
+  (1). 
+§RBTV 
+  được 
+  định 
+  nghĩa 
+  trên 
+  một 
+  quan 
+  hệ 
+  hoặc 
+  liên 
+  quan 	đến 
+  nhiều 
+  quan 
+  hệ 
+  (1). 
+(1) 
+   
+  Trích 
+  từ 
+  sách: 
+  Fundamental 
+  of 
+  Databases 
+  4th 
+  , 
+  Ramez 
+  Elmasri 
+  & 
+  Shamkant 
+  B. 
+  Navathe, 
+  ISBN 	0-­‐321-­‐12226-­‐7, 
+  2003
+Nội 
+  dung 
+  chi 
+  @ết 
+§Khái 
+  niệm 
+  và 
+  phân 
+  loại 
+§Các 
+  đặc 
+  trưng 
+  của 
+  RBTV 
+	-Bối 
+  cảnh 
+	-Nội 
+  dung 
+	-Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+§Phân 
+  loại 
+§Cài 
+  đặt 
+Bối 
+  cảnh 
+§Bối 
+  cảnh 
+  của 
+  một 
+  RBTV 
+	-Là 
+  những 
+  quan 
+  hệ 
+  có 
+  khả 
+  năng 
+  bị 
+  vi 
+  phạm 
+  RBTV 
+  khi 
+  thực 		hiện 
+  các 
+  phép 
+  cập 
+  nhật 
+  dữ 
+  liệu 
+  (thêm, 
+  xóa, 
+  sửa 
+  dữ 
+  liệu) 
+§Ví 
+  dụ 
+  (R1)
+	-Mức 
+  lương 
+  của 
+  một 
+  người 
+  giáo 
+  viên 
+  không 
+  được 
+  vượt 
+  quá 		trưởng 
+  bộ 
+  môn 
+•Các 
+  phép 
+  cập 
+  nhật 
+–Cập 
+  nhật 
+  lương 
+  cho 
+  giáo 
+  viên 
+–Thêm 
+  mới 
+  một 
+  giáo 
+  viên 
+  vào 
+  một 
+  bộ 
+  môn –Bổ 
+  nhiệm 
+  trưởng 
+  bộ 
+  môn 
+  cho 
+  một 
+  bộ 
+  môn •Bối 
+  cảnh: 
+  GIAOVIEN, 
+  BOMON 
+Bối 
+  cảnh 
+  (I) 
+§Ví 
+  dụ 
+  (R2)
+	-Người 
+  quản 
+  lý 
+  trực 
+  tiếp 
+  (của 
+  một 
+  giáo 
+  viên) 
+  phải 
+  là 
+  một 
+  giáo 		viên 
+  trong 
+  cùng 
+  bộ 
+  môn 
+			•Các 
+  phép 
+  cập 
+  nhật 
+			–Cập 
+  nhật 
+  người 
+  quản 
+  lý 
+  trực 
+  tiếp 
+  của 
+  một 
+  giáo 
+  viên 			–Thêm 
+  mới 
+  một 
+  giáo 
+  viên 
+			•Bối 
+  cảnh: 
+  GIAOVIEN 
+Nội 
+  dung 
+§Nội 
+  dung 
+  của 
+  một 
+  RBTV 
+  được 
+  phát 
+  biểu 
+  bằng 	-Ngôn 
+  ngữ 
+  tự 
+  nhiên 
+		•Dễ 
+  hiểu 
+  nhưng 
+  thiếu 
+  tính 
+  chặt 
+  chẽ 
+-Ngôn 
+  ngữ 
+  hình 
+  thức 
+	•Cô 
+  đọng, 
+  chặt 
+  chẽ 
+  nhưng 
+  đôi 
+  lúc 
+  khó 
+  hiểu 	•Biểu 
+  diễn 
+  thông 
+  qua 
+	–Đại 
+  số 
+  quan 
+  hệ 
+	–Phép 
+  tính 
+  quan 
+  hệ 
+  (biến 
+  bộ) 
+	–Mã 
+  giả 
+  (pseudo 
+  code) 
+Nội 
+  dung 
+  (I) 
+§Ví 
+  dụ 
+  (R1)
+	-Ngôn 
+  ngữ 
+  tự 
+  nhiên 
+		•Mức 
+  lương 
+  của 
+  một 
+  người 
+  giáo 
+  viên 
+  không 
+  được 
+  vượt 
+  quá 		trưởng 
+  bộ 
+  môn 
+  của 
+  giáo 
+  viên 
+  đó. 
+-Ngôn 
+  ngữ 
+  hình 
+  thức 
+(∀t)(GIAOVIEN(t) ∧(∃s)(BOMON(s) ∧
+	(∃u)(GIAOVIEN(u) ∧
+		 s.TRUONGBM = u.MAGV  ∧		 s.MABM = t.MABM ∧
+		 t.LUONG ≤ u.LUONG )))
+Nội 
+  dung 
+  (I) 
+§Ví 
+  dụ 
+  (R2)
+	-Ngôn 
+  ngữ 
+  tự 
+  nhiên 
+		•Người 
+  quản 
+  lý 
+  trực 
+  tiếp 
+  của 
+  một 
+  giáo 
+  viên 
+  phải 
+  là 
+  một 
+  giáo 		viên 
+  trong 
+  cùng 
+  bộ 
+  môn 
+-Ngôn 
+  ngữ 
+  hình 
+  thức 
+∀(t)(GIAOVIEN(t) ∧(t.GVQLCM ≠ null  ⇒
+	 (∃s)(GIAOVIEN(s) ∧ s.MABM = t.MABM  		∧ s.MAGV = t.GVQLCM ))) 
+Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+§Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+	-Xác 
+  định 
+  thao 
+  tác 
+  cập 
+  nhật 
+  nào 
+  cần 
+  phải 
+  kiểm 
+  tra 
+  RBTV 
+  khi 		được 
+  thực 
+  hiện 
+  trên 
+  quan 
+  hệ 
+  bối 
+  cảnh 
+§Có 
+  2 
+  loại 
+-Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+  cho 
+  một 
+  RBTV -Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+  tổng 
+  hợp 
+Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+  một 
+  RBTV 
+(+) Vi phạm RBTV 
+(-) Không vi phạm RBTV 
+Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+  tổng 
+  hợp 
+Nội 
+  dung 
+  chi 
+  @ết 
+§Khái 
+  niệm 
+§Các 
+  đặc 
+  trưng 
+  của 
+  RBTV 
+§Phân 
+  loại 
+§Cài 
+  đặt 
+Phân 
+  loại 
+§RBTV 
+  được 
+  chia 
+  làm 
+  3 
+  loại 
+  chính 
+  (1): 
+•RBTV 
+  bắt 
+  buộc 
+  liên 
+  quan 
+  đến 
+  mô 
+  hình 
+  dữ 
+  liệu 
+  (inherent 	model 
+  based 
+  contraints). 
+•Ví 
+  dụ: 
+  Một 
+  quan 
+  hệ 
+  không 
+  được 
+  chứa 
+  các 
+  bộ 
+  dữ 
+  liệu 
+  trùng 
+  nhau. 
+•RBTV 
+  liên 
+  quan 
+  đến 
+  lược 
+  đồ 
+  của 
+  mô 
+  hình 
+  dữ 
+  liệu 	(schema 
+  based 
+  contraints). 
+•Ví 
+  dụ: 
+  Ràng 
+  buộc 
+  miền 
+  giá 
+  trị, 
+  ràng 
+  buộc 
+  trên 
+  khóa, 
+  ràng 
+  buộc trên 
+  giá 
+  trị 
+  rỗng, 
+  ràng 
+  buộc 
+  tham 
+  chiếu. 
+•RBTV 
+  dựa 
+  trên 
+  ứng 
+  dụng 
+  (application 
+  based 	contraints). 
+•Ví 
+  dụ: 
+  Mức 
+  lương 
+  của 
+  một 
+  người 
+  giáo 
+  viên 
+  không 
+  được 
+  vượt quá 
+  trưởng 
+  bộ 
+  môn 
+(1) 
+   
+  Trích 
+  từ 
+  sách: 
+  Fundamental 
+  of 
+  Databases 
+  4th 
+  , 
+  Ramez 
+  Elmasri 
+  & 
+  Shamkant 
+  B. 
+  Navathe, 
+  ISBN 	0-­‐321-­‐12226-­‐7, 
+  2003
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	14 
+Phân 
+  loại 
+§RBTV 
+  liên 
+  quan 
+  đến 
+  một 
+  quan 
+  hệ: 	•Miền 
+  giá 
+  trị 
+	•Liên 
+  bộ 
+	•Liên 
+  thuộc 
+  tính 
+§RBTV 
+  liên 
+  quan 
+  đến 
+  nhiều 
+  quan 
+  hệ: 	•Tham 
+  chiếu 
+	•Liên 
+  bộ 
+  liên 
+  quan 
+  hệ 
+	•Liên 
+  thuộc 
+  tính 
+  liên 
+  quan 
+  hệ 	•Thuộc 
+  tính 
+  tổng 
+  hợp 
+	•Chu 
+  trình 
+RBTV 
+  -­‐ 
+  Miền 
+  giá 
+  trị 
+§Ràng 
+  buộc 
+  qui 
+  định 
+  các 
+  giá 
+  trị 
+  cho 
+  một 
+  thuộc 
+  tính 
+§Miền 
+  giá 
+  trị 
+-Liên 
+  tục 
+-Rời 
+  rạc 
+Ví 
+  dụ 
+  3 
+§Giới 
+  tính 
+  của 
+  giáo 
+  viên 
+  phải 
+  là 
+  ‘Nam’hoặc 
+  ‘Nữ’
+-Biểu 
+  diễn: 
+DOM(PHAI) = {‘Nam’, ‘Nữ’} -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+Ví 
+  dụ 
+  4 
+§Phụ 
+  cấp 
+  của 
+  mỗi 
+  công 
+  việc 
+  trong 
+  đề 
+  tài 
+  không 
+  được 
+  vượt 	quá 
+  20 
+  triệu.
+-Biểu 
+  diễn: 
+∀(t )(THAMGIAĐT(t) ∧t.PHỤCẤP ≤ 20) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+RBTV 
+  -­‐ 
+  Liên 
+  bộ 
+§Sự 
+  tồn 
+  tại 
+  của 
+  một 
+  hay 
+  nhiều 
+  bộ 
+  phụ 
+  thuộc 
+  vào 
+  sự 
+  tồn 
+  tại 	của 
+  một 
+  hay 
+  nhiều 
+  bộ 
+  khác 
+  trong 
+  cùng 
+  quan 
+  hệ 
+§Trường 
+  hợp 
+  đặc 
+  biệt 
+-RB 
+  khóa 
+  chính 
+-RB 
+  duy 
+  nhất 
+  (unique) 
+Ví 
+  dụ 
+  5 
+§Tên 
+  bộ 
+  môn 
+  là 
+  duy 
+  nhất. 
+-Bối 
+  cảnh: 	BOMON
+-Biểu 
+  diễn: 
+hay 
+-Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+Ví 
+  dụ 
+  6 
+§Một 
+  giáo 
+  viên 
+  được 
+  tham 
+  gia 
+  tối 
+  đa 
+  5 
+  công 
+  việc 
+  trong 
+  tất 
+  cả 	đề 
+  tài 
+-Biểu 
+  diễn: 
+	(∀t)(THAMGIADT(t) ∧
+	 card({ s | THAMGIADT(s) ∧ s.MAGV = t.MAGV}) ≤ 5 ) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+RBTV 
+  -­‐ 
+  Liên 
+  thuộc 
+  bnh 
+§Là 
+  ràng 
+  buộc 
+  giữa 
+  các 
+  thuộc 
+  tính 
+  trong 
+  cùng 
+  quan 
+  hệ 
+Ví 
+  dụ 
+  8 
+§Một 
+  giáo 
+  viên 
+  không 
+  trực 
+  tiếp 
+  quản 
+  lý 
+  chuyên 
+  môn 
+   
+  chính 		mình 
+-Biểu 
+  diễn: 
+	(∀t)( GIAOVIEN(t) ∧ (t.GVQLCM = null ∨ t.GVQLCM ≠ t.MAGV) } -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	23 
+Ví 
+  dụ 
+  9 
+§Ngày 
+  bắt 
+  đầu 
+  của 
+  đề 
+  tài 
+  luôn 
+  nhỏ 
+  hơn 
+  ngày 
+  kết 
+  thúc 
+  của 
+  đề 	tài. 
+-Biểu 
+  diễn: 
+	(∀t)( ĐỀTÀI(t) ∧ t.NGÀYBĐ  ≤  t.NGÀYKT) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+Ví 
+  dụ 
+  10 
+§Ngày 
+  bắt 
+  đầu 
+  của 
+  một 
+  công 
+  việc 
+  luôn 
+  nhỏ 
+  hơn 
+  ngày 
+  kết 
+  thúc 	của 
+  công 
+  việc 
+  đó. 
+-Biểu 
+  diễn: 
+	(∀t)( CÔNGVIỆC(t) ∧ t.NGÀYBĐ  ≤  t.NGÀYKT) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+RBTV 
+  -­‐ 
+  Tham 
+  chiếu 
+§Giá 
+  trị 
+  xuất 
+  hiện 
+  tại 
+  các 
+  thuộc 
+  tính 
+  trong 
+  một 
+  quan 
+  hệ 
+  nào 	đó 
+  phải 
+  tham 
+  chiếu 
+  đến 
+  giá 
+  trị 
+  khóa 
+  chính 
+  của 
+  một 
+  quan 
+  hệ 	khác 
+  cho 
+  trước 
+Bắt buộc phải tồn tại trước 
+§Trường 
+  hợp 
+  đặc 
+  biệt 
+	-RB 
+  khóa 
+  ngoại 
+Ví 
+  dụ 
+  11 
+§Mọi 
+  giáo 
+  viên 
+  phải 
+  thuộc 
+  về 
+  một 
+  bộ 
+  môn 
+  cụ 
+  thể. 
+-Biểu 
+  diễn: 
+	(∀t)(GIAOVIEN(t) ∧∃s(BOMON(s) ∧ s.MABM = t.MABM)) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+Ví 
+  dụ 
+  12 
+§Trưởng 
+  bộ 
+  môn 
+  phải 
+  là 
+  một 
+  giáo 
+  viên 
+-Biểu 
+  diễn: 
+	(∀t)(BOMON(t) ∧∃s(GIAOVIEN(s) ∧ s.MAGV = t.TRUONGBM)) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+RBTV 
+  -­‐ 
+  Tham 
+  chiếu 
+  (I) 
+§Còn 
+  gọi 
+  là 
+  phụ 
+  thuộc 
+  tồn 
+  tại 
+§Thường 
+  có 
+  bối 
+  cảnh 
+  là 
+  hai 
+  quan 
+  hệ 
+	-Nhưng 
+  có 
+  trường 
+  hợp 
+  suy 
+  biến 
+  thành 
+  một 
+  quan 
+  hệ 
+	-Ví 
+  dụ 
+  (R2) 
+		•Người 
+  quản 
+  lý 
+  trực 
+  tiếp 
+  của 
+  một 
+  giáo 
+  viên 
+  phải 
+  là 
+  một 
+  giáo 		viên 
+  trong 
+  cùng 
+  bộ 
+  môn 
+		•Bối 
+  cảnh: 
+  GIAOVIEN 
+		•Biểu 
+  diễn: 
+			∀(t)(GIAOVIEN(t) ∧(t.GVQLCM ≠ null  ⇒
+ (∃s)(GIAOVIEN(s) ∧ s.MABM = t.MABM ∧ s.MAGV = t.GVQLCM ))) 
+RBTV 
+  -­‐ 
+  Liên 
+  bộ, 
+  liên 
+  quan 
+  hệ 
+§Là 
+  ràng 
+  buộc 
+  xảy 
+  ra 
+  giữa 
+  các 
+  bộ 
+  trên 
+  nhiều 
+  quan 
+  hệ 
+  khác 	nhau 
+Ví 
+  dụ 
+  13 
+§Mỗi 
+  đề 
+  tài 
+  phải 
+  có 
+  ít 
+  nhất 
+  một 
+  công 
+  việc 
+  thuộc 
+  về 
+  đề 
+  tài 
+  đó 
+-Biểu 
+  diễn: 
+	 (∀t) (DETAI(t) ∧ (∃s)(CONGIVEC(s) ∧ t.MADT = s.MADT)) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+Ví 
+  dụ 
+  14 
+§Mỗi 
+  bộ 
+  môn 
+  phải 
+  có 
+  ít 
+  nhất 
+  một 
+  giáo 
+  viên 
+-Biểu 
+  diễn: 
+	 (∀t) (BOMON(t) ∧ (∃s)(GIAOVIEN(s) ∧ t.MABM = s.MABM)) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+RBTV 
+  -­‐ 
+  Liên 
+  thuộc 
+  bnh, 
+  liên 
+  quan 
+  hệ 
+§Là 
+  ràng 
+  buộc 
+  xãy 
+  ra 
+  giữa 
+  các 
+  thuộc 
+  tính 
+  trên 
+  nhiều 
+  quan 
+  hệ 	khác 
+  nhau 
+Ví 
+  dụ 
+  15 
+§Ngày 
+  sinh 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  nhỏ 
+  hơn 
+  ngày 
+  nhận 	chức: 
+-Biểu 
+  diễn: 
+	(∀t)(BOMON(t) ∧∃s(GIAOVIEN(s) ∧ s.MAGV = t.TRUONGBM 		∧ s.NGAYSINH < t.NGAYNHANCHUC)) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	34 
+Ví 
+  dụ 
+  16 
+§Phụ 
+  cấp 
+  của 
+  một 
+  công 
+  việc 
+  trong 
+  đề 
+  tài 
+  luôn 
+  luôn 
+  nhỏ 
+  hơn 	kinh 
+  phí 
+  của 
+  đề 
+  tài 
+  đó. 
+-Biểu 
+  diễn: 
+	(∀t)(THAMGIADT(t) ∧∃s(DETAI(s) ∧ s.MADT = t.MADT 		∧ t.PHUCAP < s.KINHPHI)) -Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	35 
+RBTV 
+  -­‐ 
+  Thuộc 
+  bnh 
+  tổng 
+  hợp 
+§Thuộc 
+  tính 
+  tổng 
+  hợp 
+  (còn 
+  gọi 
+  là 
+  thuộc 
+  tính 
+  suy 
+  diễn) 
+	-Là 
+  thuộc 
+  tính 
+  có 
+  giá 
+  trị 
+  được 
+  tính 
+  toán 
+  từ 
+  các 
+  thuộc 
+  tính 
+  khác 
+§Khi 
+  CSDL 
+  có 
+  thuộc 
+  tính 
+  tổng 
+  hợp 
+	-RBTV 
+  bảo 
+  đảm 
+  quan 
+  hệ 
+  giữa 
+  thuộc 
+  tính 
+  tổng 
+  hợp 
+  và 
+  các 		thuộc 
+  tính 
+  nguồn 
+Ví 
+  dụ 
+  17 
+§BOMON(MABM, 
+  TENBM, 
+  TRUONGBM, 
+  NGAYNHANCHUC, 	SO_GV) 
+§Số 
+  giáo 
+  viên 
+  của 
+  một 
+  bộ 
+  môn 
+  phải 
+  bằng 
+  tổng 
+  số 
+  lượng 
+  giáo 	viên 
+  thuộc 
+  bộ 
+  môn 
+  đó 
+  đó 
+		-Bối 
+  cảnh: 	GIAOVIEN, BOMON
+		-Biểu 
+  diễn: 
+			(∀t)(BOMON(t) ∧ t.SO_GV = card({ s|GIAOVIEN(s) ∧
+					 s.MABM = t.MABM})) 		-Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	37 
+RBTV 
+  – 
+  Chu 
+  trình 
+§Lược 
+  đồ 
+  CSDL 
+  có 
+  thể 
+  được 
+  biểu 
+  diễn 
+  bằng 
+  đồ 
+  thị 
+-Đỉnh 
+-Cạnh 
+•Đường 
+  nối 
+  một 
+  đỉnh 
+  quan 
+  hệ 
+  với 
+  một 
+  đỉnh 
+  thuộc 
+  tính trong 
+  lược 
+  đồ 
+  CSDL 
+§Chu 
+  trình 
+-Đồ 
+  thị 
+  xuất 
+  hiện 
+  đường 
+  đi 
+  khép 
+  kín 
+  ~ 
+  Lược 
+  đồ 
+  CSDL 
+  có 
+  chu 	trình 
+Ví 
+  dụ 
+  17 
+§Nhân 
+  viên 
+  chỉ 
+  được 
+  phân 
+  công 
+  vào 
+  các 
+  đề 
+  án 
+  do 
+  phòng 
+  ban 	của 
+  mình 
+  phụ 
+  trách 
+PHG=PHONG 
+PHANCONG 
+Ví 
+  dụ 
+  17 
+  (I) 
+§Nhân 
+  viên 
+  chỉ 
+  được 
+  phân 
+  công 
+  vào 
+  các 
+  đề 
+  án 
+  do 
+  phòng 
+  ban 	của 
+  mình 
+  phụ 
+  trách 
+		-Bối 
+  cảnh: 	NHANVIEN, DEAN, PHANCONG 
+		-Biểu 
+  diễn: 
+			NVDA ← NHANVIEN       PHG=PHONG DEAN 
+			(∀t) (PHANCONG(t) ∧(∃s)(NVDA(s) ∧
+					 t.MA_NVIEN = s.MANV ∧ t.MADA = s.SODA )) 		-Bảng 
+  tầm 
+  ảnh 
+  hưởng: 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	40 
+Ví 
+  dụ 
+  18 
+§DDH 
+  (SODDH, 
+  NGAYDH, 
+  MAKH) 
+§CT_DDH 
+  (SODDH, 
+  MAMH, 
+  SOLUONG, 
+  DONGIA) 
+§GIAOHANG(MAGH, 
+  NGAYGH, 
+  TONGTIEN, 
+  SODDH) §CT_GH 
+  (MAGH,MAMH) 
+§Chỉ 
+  được 
+  phép 
+  giao 
+  các 
+  mặt 
+  hàng 
+  mà 
+  khách 
+  hàng 
+  có 
+  đặt. 
+MAGH=MAGH 
+CT_DDH 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	41 
+Nội 
+  dung 
+  chi 
+  @ết 
+§Khái 
+  niệm 
+§Các 
+  đặc 
+  trưng 
+  của 
+  RBTV 
+§Phân 
+  loại 
+§Cài 
+  đặt
+	-Assertion 
+	-Trigger 
+	-Transaction 
+  (giao 
+  tác) 
+	-Stored 
+  Procedure 
+  (thủ 
+  tục 
+  lưu 
+  trữ 
+  nội) 
+Cài 
+  đặt 
+§Các 
+  RBTV 
+  được 
+  cài 
+  đặt 
+  bởi 
+-Primary 
+  key 
+-Foreign 
+  key 
+-Check 
+  contraint 
+-Assertion 
+-Trigger 
+-Transaction 
+Asser@on 
+§Là 
+  một 
+  biểu 
+  thức 
+  SQL 
+  luôn 
+  mang 
+  giá 
+  trị 
+  TRUE 
+  tại 
+  mọi 
+  thời 	điểm. 
+-Người 
+  sử 
+  dụng 
+  cần 
+  cho 
+  biết 
+  cái 
+  gì 
+  phải 
+  đúng 
+§Cú 
+  pháp 
+Ví 
+  dụ 
+  15 
+§Ngày 
+  sinh 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  nhỏ 
+  hơn 
+  ngày 
+  nhận 	chức 
+CREATE ASSERTION R12 CHECK ( 
+NOT EXISTS ( 
+		SELECT * 
+		FROM GIAOVIEN, BOMON 
+		WHERE MAGV=TRUONGBM 
+		AND NGAYSINH > NGAYNHANCHUC ) ) 
+Ví 
+  dụ 
+  19 
+§Lương 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  lớn 
+  hơn 
+  50000 
+CREATE ASSERTION R15 CHECK ( 
+NOT EXISTS ( 
+		SELECT * 
+		FROM GIAOVIEN, BOMON 		WHERE MAGV=TRUONGBM 		AND LUONG < 50000 ) ) 
+Ví 
+  dụ 
+  19 
+  (I) 
+§Lương 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  lớn 
+  hơn 
+  50000 
+ TENBM NVARCHAR(50) UNIQUE, 
+ MABM CHAR(10)NOT NULL, 
+ TRUONGBM CHAR(10),
+ NGAYNHANCHUC DATETIME, 
+ CONSTRAINT CHK_BM_LUONGTRUONGBM CHECK ( 
+	 TRUONGBM NOT IN (SELECT MAGV FROM GIAOVIEN 			WHERE LUONG <= 50000 )) 
+) 
+Ví 
+  dụ 
+  16 
+§Số 
+  lượng 
+  giáo 
+  viên 
+  của 
+  mỗi 
+  bộ 
+  môn 
+  không 
+  quá 
+  20 
+  người 
+CREATE ASSERTION R16 CHECK ( 
+ 20 >= ALL ( SELECTCOUNT(MAGV) 		FROM GIAOVIEN 
+		GROUP BY MABM ) 
+) 
+Ví 
+  dụ 
+  16 
+  (I) 
+§Số 
+  lượng 
+  giáo 
+  viên 
+  của 
+  mỗi 
+  bộ 
+  môn 
+  không 
+  quá 
+  20 
+  người 
+CONSTRAINT CHK_GV_SLGVBM CHECK ( 
+ 20 >= ALL ( SELECTCOUNT(MAGV) FROM GIAOVIEN 		GROUP BY MABM )) 
+Trigger 
+§Là 
+  tập 
+  hợp 
+  các 
+  lệnh 
+  được 
+  thực 
+  hiện 
+  tự 
+  động 
+  khi 
+  xuất 
+  hiện 	một 
+  biến 
+  cố 
+  nào 
+  đó 
+thêm 
+xóa 
+Thông báo lỗi 
+Trigger 
+  (I) 
+§Cú 
+  pháp 
+Ví 
+  dụ 
+  15 
+§Lương 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  lớn 
+  hơn 
+  50000 
+CREATE TRIGGER TR_BM_UPD 
+AFTER UPDATE OF TRUONGBM ON BOMON 
+REFERENCING 
+	NEW ROW AS NewTuple 
+FOR EACH ROW 
+WHEN (50000 >= (SELECT LUONG  FROM GIAOVIEN 
+			WHERE MAGV=NewTuple.TRUONGBM))  Thông báo lỗi cho người dùng 
+Ví 
+  dụ 
+  15 
+  (I) 
+§Lương 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  lớn 
+  hơn 
+  50000 
+CREATE TRIGGER TR_BM_UPD 
+AFTER UPDATE OF TRUONGBM ON BOMON 
+REFERENCING 
+NEW ROW AS NewTuple 
+OLD ROW AS OldTuple 
+FOR EACH ROW 
+WHEN (50000 >= (SELECT LUONG  FROM GIAOVIEN 
+		WHERE MAGV=NewTuple.TRUONGBM)) UPDATE BOMON 
+SET TRUONGBM=OldTuple.TRUONGBM 
+WHERE TRUONGBM=NewTuple.TRUONGBM 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	53 
+Ví 
+  dụ 
+  15 
+  (I) 
+§Lương 
+  của 
+  trưởng 
+  bộ 
+  môn 
+  phải 
+  lớn 
+  hơn 
+  50000 
+CREATE TRIGGER TR_BM_UPD 
+AFTER UPDATE OF LUONG ON GIAOVIEN 
+REFERENCING 
+NEW ROW AS NewTuple 
+OLD ROW AS OldTuple 
+FOR EACH ROW 
+WHEN (NewTuple.LUONG <= 50000 AND NewTuple.MAGV IN ( 		SELECT TRUONGBM FROM BOMON )) 
+UPDATE GIAOVIEN 
+SET LUONG=OldTuple.LUONG 
+WHERE LUONG=NewTuple.LUONG 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	54 
+Transac@on 
+§Là 
+  tập 
+  các 
+  lệnh 
+  thực 
+  hiện 
+  một 
+  xử 
+  lý 
+  nào 
+  đó 
+  trong 
+  một 
+  ứng 	dụng 
+  CSDL, 
+  sao 
+  cho 
+		-Hoặc 
+  là 
+  tất 
+  cả 
+  các 
+  lệnh 
+  đều 
+  được 
+  thực 
+  hiện 
+  thành 
+  công 		-Hoặc 
+  là 
+  không 
+  có 
+  lệnh 
+  nào 
+  được 
+  thực 
+  hiện 
+§Ví 
+  dụ: 
+  xử 
+  lý 
+  chuyển 
+  tiền 
+  trong 
+  ngân 
+  hàng 
+Giao tác Chuyển_tiền 
+ Giảm tiền trong tài khoản người gửi 
+ Tăng tiền trong tài khoản người nhận 
+	Nếu tất cả đều thành công thìhoàn tất giao tác 	Ngược lạiquay lui giao tác 
+Cuối giao tác
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	55 
+Transac@on 
+  (I) 
+§Giao 
+  tác 
+  phải 
+  đảm 
+  bảo 
+	-Tính 
+  nguyên 
+  tố 
+  (atomicity) 
+	-Tính 
+  nhất 
+  quán 
+  của 
+  CSDL 
+  (consistency) 		•Các 
+  RBTV 
+  không 
+  bị 
+  vi 
+  phạm 
+		–Trong 
+  khi 
+  thực 
+  hiện 
+  giao 
+  tác 
+		–Trước 
+  và 
+  sau 
+  khi 
+  thực 
+  hiện 
+  giao 
+  tác 
+Ví 
+  dụ 
+  7 
+§Mỗi 
+  trận 
+  đấu 
+  là 
+  cuộc 
+  thi 
+  đấu 
+  của 
+  đúng 
+  2 
+  đội 
+Giao tác Thêm_trận_đấu(t, s) 
+	 Thêm t vào THIDAU 
+	 Thêm s vào THIDAU 
+		Nếu có một thao tác thất bại thì
+			Quay lui giao tác 
+		Ngược lại 
+			Hoàn tất giao tác 
+		Cuối nếu 
+Cuối giao tác
+Ví 
+  dụ 
+  7 
+  (I) 
+Giao tác Xóa_trận_đấu(ngay, gio) 
+Với mọi s∈THIDAU (s.NGAY=ngay ∧ s.GIO=gio)		 Xóa s khỏi THIDAU 
+Cuối với mọi 
+Nếu có một thao tác thất bại thì
+			Quay lui giao tác 
+Ngược lại 
+			Hoàn tất giao tác 
+Cuối nếu 
+Cuối giao tác
+Ví 
+  dụ 
+  11 
+§Mỗi 
+  hóa 
+  đơn 
+  phải 
+  có 
+  ít 
+  nhất 
+  một 
+  chi 
+  tiết 
+  hóa 
+  đơn 
+Giao tác Thêm_hóa_đơn 
+ Thêm HOADON 
+ Thêm chi tiết thứ 1 vào CTHD 
+ Thêm chi tiết thứ 2 vào CTHD 
+ … 
+	Nếu có một thao tác thêm thất bại thì			Quay lui giao tác 
+	Ngược lại 
+			Hoàn tất giao tác 
+	Cuối nếu 
+Cuối giao tác 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	59 
+Ví 
+  dụ 
+  11 
+  (I) 
+Giao tác Thêm_hóa_đơn 
+	 Thêm HOADON 
+	 Thêm chi tiết thứ 1 vào CTHD 
+	 Thêm chi tiết thứ 2 vào CTHD 
+	 … 
+		Nếu có một thao tác thêm thất bại thì			Quay lui giao tác 
+		Ngược lại 
+			Hoàn tất giao tác 
+		Cuối nếu 
+Cuối giao tác 
+Stored 
+  Procedure 
+§Các 
+  DBMS 
+  thương 
+  mại 
+  cung 
+  cấp 
+  cách 
+  thức 
+  lưu 
+  trữ 
+  các 
+  hàm 	hay 
+  thủ 
+  tục 
+		-Được 
+  lưu 
+  trữ 
+  trong 
+  lược 
+  đồ 
+  CSDL 
+		-Được 
+  sử 
+  dụng 
+  trong 
+  các 
+  câu 
+  lệnh 
+  SQL 
+§Cú 
+  pháp 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	61 
+Ví 
+  dụ 
+  7 
+§Mỗi 
+  trận 
+  đấu 
+  là 
+  cuộc 
+  thi 
+  đấu 
+  của 
+  đúng 
+  2 
+  đội 
+CREATE PROCEDURE Thêm_trận_đấu 
+t THIDAU , s THIDAU 
+ Thêm t vào THIDAU 
+If@@error<>0 rollback tran 
+	 Thêm s vào THIDAU 
+		If@@error<>0  rollback tran 
+commit tran
+GO 
+EXEC Thêm_trận_đấu  x, y 
+Nhận 
+  xét 
+§DBMS 
+  sẽ 
+  kiểm 
+  tra 
+  RBTV 
+-Sau 
+  khi 
+  một 
+  thao 
+  tác 
+  cập 
+  nhật 
+  diễn 
+  ra 
+  trên 
+  CSDL -Cuối 
+  mỗi 
+  giao 
+  tác 
+§Nên 
+  cài 
+  đặt 
+  RBTV 
+  ở 
+  đâu 
+  ??? 
+-DBMS 
+-Application 
+-Trigger 
+  quá 
+  nhiều 
+  → 
+  hệ 
+  thống 
+  chậm 
+  chạm -Stored 
+  Procedure 
+  → 
+  hiệu 
+  quả 
+  cao 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 2
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 3
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 5
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 6
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 7
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 8
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 9
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 10
+Tên_RB | Thêm | Xóa | Sửa
+Quan hệ 1 | + | - | +(Thuộc tính)
+Quan hệ 2 | - | + | -
+…
+Quan hệ n | - | + | -
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 11
+Ràng buộc 1 | Ràng buộc 1 | Ràng buộc 1 | Ràng buộc 2 | Ràng buộc 2 | Ràng buộc 2 | Ràng buộc m | Ràng buộc m | Ràng buộc m
+T | X | S | T | X | S | … | … | … | T | X | S
+Quan hệ 1 | + | - | + | + | - | + | + | - | +
+Quan hệ 2 | - | + | -
+Quan hệ 3 | - | - | + | - | + | -
+…
+Quan hệ n | - | + | - | - | - | +
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 12
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 13
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 15
+R | A | B | C | D | β∈{α, β, γ} 9 ∈{1..10}
+R | α | α | 1 | 1 | β∈{α, β, γ} 9 ∈{1..10}
+R | α | β | 5 | 7 | β∈{α, β, γ} 9 ∈{1..10}
+R | β | β | 12 | 3 | β∈{α, β, γ} 9 ∈{1..10}
+R | β | β | 23 | 9 | β∈{α, β, γ} 9 ∈{1..10}
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 16
+-Bối 
+  cảnh: | GIÁOVIÊN
+hay | ∀(t )(GIAOVIEN(t) ∧(t.PHAI = 'Nam'∨ t.PHAI = ‘Nữ‘))
+R3 | Thêm | Xóa | Sửa
+GIÁOVIÊN | + | - | + (PHAI)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 17
+-Bối 
+  cảnh: | THAMGIAĐT
+R4 | Thêm | Xóa | Sửa
+THAMGIAĐT | + | - | + (PHỤCẤP)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 18
+R | A | B | C | D
+R | α | α | 1 | 1
+R | α | β | 5 | 7
+R | β | β | 12 | 3
+R | β | β | 23 | 9
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 19
+∀(t1, t2) (BOMON(t1) ∧BOMON(t2) ∧
+	 (t1≠ t2 ⇒ t1.TENBM ≠ t2.TENBM))
+∀(t1)(BOMON(t1) ∧ ¬(∃t2)(BOMON(t2) ∧	 t1≠ t2 ∧ t1.TENBM = t2.TENBM) )
+R5 | Thêm | Xóa | Sửa
+BOMON | + | - | + (TENBM)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 20
+-Bối 
+  cảnh: | THAMGIAĐT
+R6 | Thêm | Xóa | Sửa
+THAMGIADT | + | - | + (MAGV)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 21
+R | A | B | C | D
+α | α | 1 | 1 | 22
+α | β | 5 | 7 | 22
+β | β | 12 | 3 | 22
+β | β | 23 | 9 | 22
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 9 | 22
+-Bối 
+  cảnh: | GIAOVIEN
+R8 | Thêm | Xóa | Sửa
+GIAOVIEN | + | - | + (GVQLCM)
+-Bối 
+  cảnh: | ĐỀTÀI
++ (NGÀYBĐ, NGÀYKT) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 24
+-Bối 
+  cảnh: | CÔNGVIỆC
++ (NGÀYBĐ, NGÀYKT) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 25
+R | A | B | C | D | S | E | F
+R | α | α | 1 | 1 | S | 7 | 1
+R | α | β | 5 | 7 | S | 7 | 1
+R | α | β | 5 | 7 | S | 3 | 2
+R | β | β | 12 | 3 | S | 3 | 2
+R | β | β | 23 | 9 | S | 3 | 2
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 26
+-Bối 
+  cảnh: | BOMON, GIAOVIEN
+R11 | Thêm | Xóa | Sửa
+GIAOVIEN | + | - | + (MABM)
+BOMON | - | + | +(MABM)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 27
+-Bối 
+  cảnh: | BOMON, GIAOVIEN
+R12 | Thêm | Xóa | Sửa
+GIAOVIEN | - | + | + (MAGV)
+BOMON | + | - | +(TRUONGBM)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 28
+Bảng 
+  tầm 
+  ảnh 
+  hưởng 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 29
+R | A | B | C | D
+R | α | α | 1 | 1
+R | α | β | 5 | 7
+R | β | β | 12 | 3
+R | β | β | 23 | 9
+R | S | A | B | C
+α | 2 | 7 | 30
+α | 4 | 7 | 30
+β | 2 | 3 | 30
+γ | 2 | 10 | 30
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 2 | 10 | 30
+-Bối 
+  cảnh: | DETAI, CONGVIEC
+R13 | Thêm | Xóa | Sửa
+DETAI | + | - | +(MADT)
+CONGVIEC | - | + | + (MADT)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 31
+-Bối 
+  cảnh: | GIAOVIEN, BOMON
+R14 | Thêm | Xóa | Sửa
+BOMON | + | - | +(MABM)
+GIAOVIEN | - | + | + (MABM)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 32
+R | A | B | C | D | S | A | B | C
+α | α | 1 | 1 | α | 2 | 7 | 33
+α | β | 5 | 7 | α | 4 | 7 | 33
+β | β | 12 | 3 | β | 2 | 3 | 33
+β | β | 23 | 9 | γ | 2 | 10 | 33
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | γ | 2 | 10 | 33
+-Bối 
+  cảnh: | GIAOVIEN, BOMON
+R15 | Thêm | Xóa | Sửa
+GIAOVIEN | - | - | + (NGAYSINH)
+BOMON | + | - | + (NGAYNHANCHUC, TRUONGBM)
+-Bối 
+  cảnh: | THAMGIADT, DETAI
+R16 | Thêm | Xóa | Sửa
+THAMGIADT | + | - | + (PHUCAP)
+DETAI | + | - | + (KINHPHI)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 36
+R17 | Thêm | Xóa | Sửa
+GIAOVIEN | + | + | + (MABM)
+BOMON | - | - | + (SO_GV)
+•Quan 
+  hệ 
+•Thuộc 
+  tính | Tên quan hệ 
+Tên thuộc tính
+Tên quan hệ | Tên thuộc tính
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 38
+NHANVIEN | MANV, MADA | DEAN
+MANV=MA_NVIEN | MA_NVIEN, SODA | SODA=MADA
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 39
+R17 | Thêm | Xóa | Sửa
+NHANVIEN | - | - | + (MANV,PHG)
+DEAN | - | + | + (MADA,PHONG)
+PHANCONG | + | - | + (MA_NVIEN,SODA)
+CT_DDH | MAGH, MAMH | GIAOHANG
+MAMH = MAMH | SODDH, MAMH | SODDH=SODDH
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 42
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 43
+CREATE ASSERTION <Tên_assertion> CHECK (<Điều_kiện>)
+DROP ASSERTION <Tên_assertion>
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 44
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 45
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 46
+ALTER TABLE BOMON (
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 47
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 48
+ALTER TABLE GIAOVIEN ADD
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 49
+sửa | Biến | Thỏa | Tập hợp các lệnh
+trước | cố | Thỏa | Tập hợp các lệnh
+sau | Điều kiện | Thỏa | Tập hợp các lệnh
+giá trị mới | Điều kiện | Thỏa | Tập hợp các lệnh
+giá trị cũ | Điều kiện | Thỏa | Tập hợp các lệnh
+Không thỏa | row-level 
+statement-level
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 50
+CREATE TRIGGER <Tên_trigger> 
+AFTER|BEFORE     INSERT|UPDATE|DELETE    ON   <Tên_bảng> REFERENCING 
+	NEW   ROW|TABLE   AS   <Tên_1> 
+	OLD    ROW|TABLE   AS   <Tên_2> 
+FOR EACH ROW | FOR EACH STATEMENT 
+WHEN (<Điều kiện>) 
+ <Tập_lệnh_SQL>
+DROP TRIGGER <Tên_trigger>
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 51
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 52
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 56
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 57
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 58
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 60
+CREATE PROCEDURE <Tên_thủ_tục> <DS_tham_số> AS 
+	 Khai báo biến cục bộ 
+	 Thân chương trình 
+GO 
+EXEC <Tên_thủ_tục> <DS_ tham_số>
+AS | begin tran
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 62
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 63
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 64

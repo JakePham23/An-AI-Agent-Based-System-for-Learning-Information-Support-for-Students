@@ -1,0 +1,142 @@
+# COURSE: Toán học tổ hợp (MTH00050)
+
+## GENERAL INFORMATION
+- **Course ID**: MTH00050
+- **English Name**: Combinatorial Mathematics
+- **Vietnamese Name**: Toán học tổ hợp
+- **Responsible Person**: for the module: Dr. Lê Văn Luyện
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Chapter 1. Overview of Graphs
+- Introduction
+- Basic Concepts
+- Graph Representation
+- Graph Isomorphism
+- Paths, Cycles
+- Chapter 2. Trees
+- Definition and Properties
+- Minimum Spanning Tree
+- Rooted Trees
+- Tree Traversal
+- Chapter 3. Problems on Paths
+- Shortest Path
+- Euler Graph
+- Hamiltonian Graph
+- Chapter 4. Basic Combinatorics
+- Counting Principles
+- Combinations
+- Permutations with Repetition
+- Chapter 5. Generating Functions
+- Definition of Generating Functions
+- Generating Function Coefficients
+- Integer Partitions
+- Exponential Generating Functions
+- Midterm Exam
+- Summation Method
+- Solving Recurrence Relations Using Generating Functions
+- Chapter 6. Inclusion-Exclusion Principle
+- Venn Diagrams
+- Inclusion-Exclusion Principle
+- Rook Polynomial
+- Chapter 7. Advanced Counting
+- Catalan Numbers
+- Stirling Numbers of the Second Kind
+- Bell Numbers
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Applied Combinatorics 6th edition,Alan Tucker,2012,JohnWiley & Sons, Inc
+- [2]Toán rời rạc nâng cao,Trần Ngọc Danh,2001,NXB ĐHQG-TPHCM
+- [3]Introduction to Combinatorics,Walter D. Wallis, John C. George,2017,Chapman and Hall/CRC
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Explain the concepts of graphs and apply them to solve basic graph problems.
+- G2.Apply the learned algorithms to solve various tree-related problems.
+- G3.Explain and solve problems related to path finding on graphs.
+- G4.Use combinatorial theory to solve counting problems.
+- G5.Construct generating functions and use them to solve counting problems.
+- G6.Apply the principle of inclusion-exclusion and the polynomial of rooks to solve counting problems.
+- G7.Explain the definitions of some advanced counting principles.
+• Content:
+- Chapter 1. Overview of Graphs
+- Introduction
+- Basic Concepts
+- Graph Representation
+- Graph Isomorphism
+- Paths, Cycles
+- Chapter 2. Trees
+- Definition and Properties
+- Minimum Spanning Tree
+- Rooted Trees
+- Tree Traversal
+- Chapter 3. Problems on Paths
+- Shortest Path
+- Euler Graph
+- Hamiltonian Graph
+- Chapter 4. Basic Combinatorics
+- Counting Principles
+- Combinations
+- Permutations with Repetition
+- Chapter 5. Generating Functions
+- Definition of Generating Functions
+- Generating Function Coefficients
+- Integer Partitions
+- Exponential Generating Functions
+- Midterm Exam
+- Summation Method
+- Solving Recurrence Relations Using Generating Functions
+- Chapter 6. Inclusion-Exclusion Principle
+- Venn Diagrams
+- Inclusion-Exclusion Principle
+- Rook Polynomial
+- Chapter 7. Advanced Counting
+- Catalan Numbers
+- Stirling Numbers of the Second Kind
+- Bell Numbers
+• Examination forms: Final examination, Homework, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Applied Combinatorics 6th edition,Alan Tucker,2012,JohnWiley & Sons, Inc
+- [2]Toán rời rạc nâng cao,Trần Ngọc Danh,2001,NXB ĐHQG-TPHCM
+- [3]Introduction to Combinatorics,Walter D. Wallis, John C. George,2017,Chapman and Hall/CRC
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Applied Combinatorics 6th edition,Alan Tucker,2012,JohnWiley & Sons, Inc
+- [2]Toán rời rạc nâng cao,Trần Ngọc Danh,2001,NXB ĐHQG-TPHCM
+- [3]Introduction to Combinatorics,Walter D. Wallis, John C. George,2017,Chapman and Hall/CRC
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Applied Combinatorics 6th edition,Alan Tucker,2012,JohnWiley & Sons, Inc
+- [2]Toán rời rạc nâng cao,Trần Ngọc Danh,2001,NXB ĐHQG-TPHCM
+- [3]Introduction to Combinatorics,Walter D. Wallis, John C. George,2017,Chapman and Hall/CRC
+
+## READING MATERIALS
+- [1]Applied Combinatorics 6th edition,Alan Tucker,2012,JohnWiley & Sons, Inc
+- [2]Toán rời rạc nâng cao,Trần Ngọc Danh,2001,NXB ĐHQG-TPHCM
+- [3]Introduction to Combinatorics,Walter D. Wallis, John C. George,2017,Chapman and Hall/CRC

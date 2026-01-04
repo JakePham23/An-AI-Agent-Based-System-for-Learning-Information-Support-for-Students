@@ -1,0 +1,89 @@
+# COURSE: Khởi nghiệp (CSC10103)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10103
+- **English Name**: Entrepreneurship in IT
+- **Vietnamese Name**: Khởi nghiệp
+- **Responsible Person**: for the module: Dr. Đinh Bá Tiến
+- **Semester**: (s) in which the module is taught: 6
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 25 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 87.5 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- General Introduction to the Course
+- Starting a Business and Creating a Business Plan
+- Team Building & Human Resource Management
+- Rapid Product & Service Development Process
+- Product and Service Marketing Strategy
+- Fundraising and Seeking Investment Sources
+- Addressing Issues, Changing Strategies, or Ending
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Khởi nghiệp tinh gọn, Ries Eric, được dịch bởi,Nguyễn Dương Hiếu, Trịnh Hoàng Kim Phượng, và Đặng Nguyễn Hiếu,2013,Nhà xuất bản Thời đại, Hà Nội
+- [2]Khởi nghiệp thông minh : Bí quyết tối ưu hóa hệ thống vận hành từ khi khởi nghiệp = Smart Up,Ngô Công Trường,2016,NXB Đại học kinh tế quốc dân
+- [3]Mô Hình CMMI Một Cách Tiếp Cận Cải Tiến Quy Trình Phần Mềm,Đồng Thị Bích Thủy, Trần Đan Thư, Hoàng Vũ Quỳnh Hà,2007,
+- [4]Kỹ nghệ phần mềm, Tập 1, 2, 3,Roger S. Pressman, Bản dịch của Ngô Trung Việt,1999,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Establish a working group at an appropriate scale and assign tasks and responsibilities to team members.
+- G2.Explain basic concepts and terminology in both Vietnamese and English related to the field of Entrepreneurship.
+- G3.Write technical reports according to provided templates and present the results in front of audience.
+- G4.Understand the steps involved in the process of building an IT startup.
+- G5.Generate ideas, develop plans, and execute the implementation of a product at a prototype level.
+• Content:
+- General Introduction to the Course
+- Starting a Business and Creating a Business Plan
+- Team Building & Human Resource Management
+- Rapid Product & Service Development Process
+- Product and Service Marketing Strategy
+- Fundraising and Seeking Investment Sources
+- Addressing Issues, Changing Strategies, or Ending
+• Examination forms: Homework, Group Presentation, Research Project, Individual Presentation, Case Study
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Khởi nghiệp tinh gọn, Ries Eric, được dịch bởi,Nguyễn Dương Hiếu, Trịnh Hoàng Kim Phượng, và Đặng Nguyễn Hiếu,2013,Nhà xuất bản Thời đại, Hà Nội
+- [2]Khởi nghiệp thông minh : Bí quyết tối ưu hóa hệ thống vận hành từ khi khởi nghiệp = Smart Up,Ngô Công Trường,2016,NXB Đại học kinh tế quốc dân
+- [3]Mô Hình CMMI Một Cách Tiếp Cận Cải Tiến Quy Trình Phần Mềm,Đồng Thị Bích Thủy, Trần Đan Thư, Hoàng Vũ Quỳnh Hà,2007,
+- [4]Kỹ nghệ phần mềm, Tập 1, 2, 3,Roger S. Pressman, Bản dịch của Ngô Trung Việt,1999,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Khởi nghiệp tinh gọn, Ries Eric, được dịch bởi,Nguyễn Dương Hiếu, Trịnh Hoàng Kim Phượng, và Đặng Nguyễn Hiếu,2013,Nhà xuất bản Thời đại, Hà Nội
+- [2]Khởi nghiệp thông minh : Bí quyết tối ưu hóa hệ thống vận hành từ khi khởi nghiệp = Smart Up,Ngô Công Trường,2016,NXB Đại học kinh tế quốc dân
+- [3]Mô Hình CMMI Một Cách Tiếp Cận Cải Tiến Quy Trình Phần Mềm,Đồng Thị Bích Thủy, Trần Đan Thư, Hoàng Vũ Quỳnh Hà,2007,
+- [4]Kỹ nghệ phần mềm, Tập 1, 2, 3,Roger S. Pressman, Bản dịch của Ngô Trung Việt,1999,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Khởi nghiệp tinh gọn, Ries Eric, được dịch bởi,Nguyễn Dương Hiếu, Trịnh Hoàng Kim Phượng, và Đặng Nguyễn Hiếu,2013,Nhà xuất bản Thời đại, Hà Nội
+- [2]Khởi nghiệp thông minh : Bí quyết tối ưu hóa hệ thống vận hành từ khi khởi nghiệp = Smart Up,Ngô Công Trường,2016,NXB Đại học kinh tế quốc dân
+- [3]Mô Hình CMMI Một Cách Tiếp Cận Cải Tiến Quy Trình Phần Mềm,Đồng Thị Bích Thủy, Trần Đan Thư, Hoàng Vũ Quỳnh Hà,2007,
+- [4]Kỹ nghệ phần mềm, Tập 1, 2, 3,Roger S. Pressman, Bản dịch của Ngô Trung Việt,1999,
+
+## READING MATERIALS
+- [1]Khởi nghiệp tinh gọn, Ries Eric, được dịch bởi,Nguyễn Dương Hiếu, Trịnh Hoàng Kim Phượng, và Đặng Nguyễn Hiếu,2013,Nhà xuất bản Thời đại, Hà Nội
+- [2]Khởi nghiệp thông minh : Bí quyết tối ưu hóa hệ thống vận hành từ khi khởi nghiệp = Smart Up,Ngô Công Trường,2016,NXB Đại học kinh tế quốc dân
+- [3]Mô Hình CMMI Một Cách Tiếp Cận Cải Tiến Quy Trình Phần Mềm,Đồng Thị Bích Thủy, Trần Đan Thư, Hoàng Vũ Quỳnh Hà,2007,
+- [4]Kỹ nghệ phần mềm, Tập 1, 2, 3,Roger S. Pressman, Bản dịch của Ngô Trung Việt,1999,

@@ -1,0 +1,139 @@
+# COURSE: Thống kê máy tính và ứng dụng (CSC15007)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC15007
+- **English Name**: Computer Statistics and Applications
+- **Vietnamese Name**: Thống kê máy tính và ứng dụng
+- **Responsible Person**: for the module: Vũ Quốc Hoàng
+- **Semester**: (s) in which the module is taught: 6
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Review of Basic Probability and Introduction to Computational Statistics
+- The birthday problem
+- Review of basic probability
+- Probabilistic approximation by simulation
+- The Monty Hall problem
+- Review of conditional probability
+- Review of Random Variables and
+- Introduction to Computational Statistics
+- The coupon collector’s problem
+- Review of random variables
+- Zipf’s law and Truyen Kieu - Nguyen Du
+- Limit theorems
+- Distribution approximation by simulation
+- Random number generation
+- Introduction
+- Pseudo random number generators
+- Discrete distributions
+- The inverse transform method
+- Rejection sampling
+- Transformation of random variables
+- Special-purpose methods
+- Monte Carlo methods
+- Introduction
+- Monte Carlo method
+- Monte Carlo estimate
+- Variance reduction methods
+- Applications to statistical inference
+- Computational Bayesian Statistics
+- Bayesian inference
+- Binomial model
+- Conjugate priors
+- Markov chain Monte Carlo
+- Probabilistic programming
+- Generalized linear model
+- Resampling
+- Introduction
+- Permutation resampling
+- Bootstrapping
+- Cross-validation
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Thống Kê Máy Tính,Nguyễn Đình Thúc - Đặng Hải Vân - Lê Phong,2010,NXBKHKT
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply team work and individual work skills
+- G2.Explain terminologies in statistics/data science.
+- G3.Explain terminologies in computer science.
+- G4.Use applied mathematical problems.
+- G5.Apply math knowledge to solve problems.
+- G6.Apply Python programming.
+• Content:
+- Review of Basic Probability and Introduction to Computational Statistics
+- The birthday problem
+- Review of basic probability
+- Probabilistic approximation by simulation
+- The Monty Hall problem
+- Review of conditional probability
+- Review of Random Variables and
+- Introduction to Computational Statistics
+- The coupon collector’s problem
+- Review of random variables
+- Zipf’s law and Truyen Kieu - Nguyen Du
+- Limit theorems
+- Distribution approximation by simulation
+- Random number generation
+- Introduction
+- Pseudo random number generators
+- Discrete distributions
+- The inverse transform method
+- Rejection sampling
+- Transformation of random variables
+- Special-purpose methods
+- Monte Carlo methods
+- Introduction
+- Monte Carlo method
+- Monte Carlo estimate
+- Variance reduction methods
+- Applications to statistical inference
+- Computational Bayesian Statistics
+- Bayesian inference
+- Binomial model
+- Conjugate priors
+- Markov chain Monte Carlo
+- Probabilistic programming
+- Generalized linear model
+- Resampling
+- Introduction
+- Permutation resampling
+- Bootstrapping
+- Cross-validation
+• Examination forms: Final examination, Excercise
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Thống Kê Máy Tính,Nguyễn Đình Thúc - Đặng Hải Vân - Lê Phong,2010,NXBKHKT
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Thống Kê Máy Tính,Nguyễn Đình Thúc - Đặng Hải Vân - Lê Phong,2010,NXBKHKT
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Thống Kê Máy Tính,Nguyễn Đình Thúc - Đặng Hải Vân - Lê Phong,2010,NXBKHKT
+
+## READING MATERIALS
+- [1]Thống Kê Máy Tính,Nguyễn Đình Thúc - Đặng Hải Vân - Lê Phong,2010,NXBKHKT

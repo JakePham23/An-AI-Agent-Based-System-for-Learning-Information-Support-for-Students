@@ -1,0 +1,1630 @@
+TÀI LIỆU: CTDT_CNTT_CLC_K2020_V2
+TỔNG SỐ TRANG: 36
+==================================================
+
+--- Trang 1 ---
+ĐẠI HỌC QUOC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập — Tự do - Hạnh phúc
+
+CHƯƠNG TRÌNH ĐÀO TẠO
+CHUONG TRÌNH CHAT LƯỢNG CAO
+VỚI HỌC PHÍ TƯƠNG ỨNG NGÀNH CÔNG NGHỆ THÔNG TIN
+(Ban hành kèm theo OD số...........................----....- /QĐ-KHTN ngày......................-.....
+của Hiệu trưởng
+
+Trường Đại học Khoa học Tự nhiên ĐHQG-HCM)
+
+Tên chương trình : Chất lượng cao với học phí tương ứng ngành Công nghệ thông tin
+
+Trình độ đào tạo : Đại học
+Ngành đảo tạo : Công nghệ thông tin
+Mã ngành : 7480201_CLC
+
+Hình thức dao tạo  : Chính quy
+Khóa tuyên :2020
+
+1. MỤC TIEU ĐÀO TẠO
+
+1.1. MỤC TIÊU CHUNG
+
+Mục tiêu của chương trình đào tạo nhằm đào tạo ra các sinh viên tốt nghiệp:
+
+Có kiến thức kỹ thuật vững chắc; hiểu được các trách nhiệm và đạo đức nghề nghiệp dé áp
+dụng các công nghệ, kỹ thuật mới nhất của ngành công nghệ thông tin (CNTT) vào việc giải
+quyết các vấn đề trên thực tế; có thể áp dụng các phương pháp khoa học trong việc thực hiện
+các nghiên cứu trong lĩnh vực CNTT.
+
+Trang bị cho sinh viên những kỹ năng cá nhân, kỹ năng nhóm/giao tiếp và kỹ năng CDIO
+(Conceive, Design, Implement, Operate) dé nhận biết và giải quyết các van đề thực tế một
+cách có hệ thống, có logic và sáng tạo.
+
+Sinh viên được trang bị day đủ dé có thê hình thành van đề, phân tích, thiết kế, giải quyết van
+đề và vận hành hệ thống CNTT.
+
+1.2. MỤC TIEU CỤ THẺ - CHUAN ĐẦU RA CUA CHƯƠNG TRÌNH ĐÀO TẠO
+1.2.1 Mục tiêu cụ thé
+
+Biết được trách nhiệm, đạo đức nghề nghiệp, và hiện trạng kinh tế, môi trường và xã hội.
+
+Có đầy đủ các kỹ năng cá nhân, kỹ năng nhóm/ giao tiếp và kỹ năng CDIO.
+
+Có khả năng kế thừa và phát triển các kiến thức, kỹ năng chuyên môn.
+
+Có khả năng áp dụng các kiến thức chuyên môn trong quá trình giải quyết các vấn đề thực tế
+hay nghiên cứu.
+
+Có khả năng hình thành ý tưởng, phân tích, thiết kế, giải quyết và vận hành các hệ thống
+CNTT.
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 1/36
+
+--- Trang 2 ---
+— __ Có khả năng sử dụng các công cụ, phương pháp, quy trình, kỹ thuật, ... dé hỗ trợ quá trình giải
+quyết các bài toán CNTT.
+
+1.2.2 Chuẩn đầu ra của chương trình đào tạo
+
+% Kiến thức
+
+— Kiến thức nền tảng về Khoa học
+© Khối kiến thức về Toán
+© Khối kiến thức về Vật lý
+e_ Khối kiến thức về Điện — Điện tử
+
+— Kiến thức nền tảng của lĩnh vực CNTT
+¢ Khối kiến thức về lập trình
+© Kiến thức tổng quát về lĩnh vực CNTT
+
+— Kiến thức kỹ thuật nâng cao, các công cụ và phương pháp trong ngành CNTT
+e_ Khối kiến thức cấu trúc dữ liệu và giải thuật
+¢ Khối kiến thức về hệ điều hành máy tính
+
+e Khôi kiên thức kiên trúc máy tinh
+
+K
+© Khối kiến thức mạng máy tính
+
+© Khối kiến thức cơ sở dữ liệu
+e_ Khối kiến thức về an ninh, bảo mật và tính riêng tư
+e Các công cụ, phương pháp và công nghệ hỗ trợ trong ngành CNTT
+— Các kiến thức nâng cao của HTTT
+e_ Kiến thức về dữ liệu và khai thác dữ liệu
+© Kién thức về Hệ thống thông tin
+e Kiến thức về các loại ứng dụng HTTT
+— Các kiến thức nâng cao của CNPM
+© Ước lượng chi phí xây dựng hệ thống phần mềm
+e_ Tiến trình và phương pháp phát triển phần mềm
+© Thiết kế kiến trúc phần mềm
+© Các công nghệ hiện đại va nâng cao trong phát triển phần mềm
+— Các kiến thức nâng cao của MMT
+e Lập trình mạng
+e Quan trị, kiểm soát và bảo trì mạng
+e Anninh mạng
+e Điện toán đám mây
+e Các công nghệ mạng hiện đại và mạng tương lai
+— Các kiến thức nâng cao của KHMT
+© Các kiến thức nâng cao chung của chuyên ngành Khoa học máy tinh
+© Các kiến thức nâng cao chuyên ngành Công nghệ tri thức
+© Các kiến thức nâng cao chuyên ngành Khoa học máy tính
+© Các kiến thức nâng cao chuyên ngành Thị giác máy tính và Robot
++* Kỹ năng mềm
+— Kỹ năng và tính cách cá nhân
+
+e Độc lập
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 2/36
+
+--- Trang 3 ---
+© Tự tin trong môi trường nghề nghiệp
+e San sàng ra quyết định
+e Cách nghĩ sáng tạo
+e_ Cách nghĩ mang tinh phản biện
+e Thích nghi vào môi trường mới
+© Quản lý tài nguyên cá nhân (thời gian, tiền bạc...)
+© Học và tự học suốt đời
+e Quan trị dự án
+— Kỹ năng nhóm
+e Thành lập nhóm
+e Hoạt động trong nhóm
+e Lãnh đạo nhóm
+© Phát triển nhóm
+— Kỹ năng giao tiếp
+e_ Kỹ năng giao tiếp nghe, nói, đọc, viết
+e Kỹ năng trình bày
+e Kỹ năng dam phán
+© Kỹ năng phát triển các mối quan hệ xã hội
+— Kỹ năng ngoại ngữ
+e Kỹ năng nói tiếng Anh
+e Kỹ năng nghe tiếng Anh
+© Kỹ năng đọc tiếng Anh
+e Kỹ năng viết tiếng Anh
+e Sử dụng các thuật ngữ chuyên ngành
+
+Kỹ năng lãnh đạo
+e Thái độ lãnh đạo
+© Nhận biết các vấn dé, sự cố và nghịch lý
+© Đề xuất và sáng tạo trong việc giải quyết các van dé, sự có
+e_ Xây dựng và dẫn dắt một tô chức
+e Lên kế hoạch và dẫn dắt dự án đến thành công
+
+Kỹ năng khởi nghiệp
+© Thành lập công ty, tô chức công ty và quản trị
+e Viết kế hoạch kinh doanh
+e Tài chính công ty
+©_ Hình thành ý tưởng sản phẩm, dich vụ dựa trên công nghệ
+© Sáng tạo trong sản phẩm/ dịch vụ, quảng bá
+Ngũ cảnh, trách nhiệm và đạo đức
+— Ngữ cảnh bên ngoài, xã hội, kinh tế và môi trường
+© Cac vấn đề và giá trị của xã hội, kinh tế và môi trường đương đại
+e Vai trò và trách nhiệm
+e Ngữ cảnh văn hóa, lịch sử
+
+e Luật lệ và quy định của xã hội
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 3/36
+
+--- Trang 4 ---
+— Ngữ cảnh công ty và doanh nghiệp
+©_ Ngữ cảnh và văn hóa của công ty, tổ chức
+© Các bên liên quan, mục tiêu và chiến lược của công ty/ doanh nghiệp
+e Luật lệ và quy định của công ty/ doanh nghiệp
+— Đạo đức, trách nhiệm và các giá trị cá nhân cốt lõi
+© Các chuẩn mực và nguyên tắc đạo đức
+e Trách nhiệm và cách hành xử chuyên nghiệp
+© Sự cam kết
+e Trung thực, uy tín và trung thành
+Phương pháp khoa hoc và nghiên cứu
+— Suy luận có phân tích và giải quyết vấn đề
+©_ Xác định và hình thành vấn đề
+¢ Mô hình hóa và phân tích
+© Suy luận & giải quyết
+© Đánh giá giải pháp và đề xuất
+— Thực nghiệm, điều tra và khám phá tri thức
+e Hình thành giả thuyết
+e Khảo sát trên tài liệu
+e Khảo sát trên thực tế
+e Kiếm chứng và bảo vệ giả thuyết
+— Suy nghĩ tầm mức hệ thống
+e Suy nghĩ toàn cục
+© Sự tương tác giữa các thành phan trong hệ thống
+e Xác định độ ưu tiên và quan trọng
+¢ Đánh giá hệ thống
+“> Hình thành ý tướng, thiết kế và hiện thực hóa hệ thong CNTT
+— Hình thành ý tưởng/ bài toán/ dự án
+e Xác định mục tiêu của bài toán/ dự án và thu thập yêu cầu
+e Phân tích và nghiên cứu tính khả thi của bài toán/ dự án
+e Đặc tả mục tiêu, yêu cầu của bài toán/ dự án
+— Thiết kế hệ thống CNTT (giải pháp, sản phẩm, ...)
+e_ Tiến trình và phương pháp thiết kế
+e Thiết kế kiến trúc và các thành phần của hệ thống CNTT (chức năng,
+CSDL, ...)
+e Thiết kế đa ngành, đa mục tiêu
+— Hiện thực hóa (implementation)
+© Các tiến trình và phương pháp hiện thực hóa
+© Hiện thực hóa hệ thống dựa trên thiết kế
+e Tích hợp các thành phan trong hệ thống
+* Kiểm chứng, vận hành, bảo trì và phát triển hệ thống CNTT
+— Kiểm chứng
+
+¢ Tiến trình và phương pháp kiểm chứng
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 4/36
+
+--- Trang 5 ---
+© Kiếm chứng các yêu cầu
+© Kiếm chứng các thành phần hay toàn bộ hệ thống
+— Vận hành và bảo trì
+e Huấn luyện và vận hành
+e Quản lý việc vận hành
+¢ Bảo trì hệ thống
+— Cải tiến và kết thúc
+© Cải tiến hệ thống
+e Kết thúc và hủy bỏ hệ thống
+1.3. CƠ HỘI NGHẺ NGHIỆP
+
+Sinh viên sau khi tốt nghiệp có thé có các cơ hội nghề nghiệp sau:
+
+— Các vị trí thuộc nhóm Phát triển hệ thống phần mềm: phân tích phần mềm, thiết kế phần mềm,
+lập trình phần mềm, kiểm thử phần mềm, triển khai và vận hành hệ thống, quản lý dự án, tư
+van giải pháp,...
+
+— Các vị trí thuộc nhóm Hệ thống thông tin: thiết kế và quản trị cơ sở dữ liệu, quản trị hệ thống
+CNTT cho doanh nghiệp, tư vấn hệ thông CNTT, quan trị thông tin, quan tri an ninh/bao
+mật,...
+
+— Các vị trí thuộc nhóm Mang máy tính và viễn thông: quản trị mạng, quản trị hệ thống CNTT,
+an ninh va bao mat hé théng mang...
+
+— Các vị trí thuộc nhóm Nghiên cứu va triển khai giải pháp tại các viện, trường đại học, phòng
+thí nghiệm, các công ty phần mềm: trí tuệ nhân tạo, máy học, khai thác dữ liệu, xử lý ngôn
+ngữ,...
+
+— Các vị trí thuộc nhóm Giảng dạy: trợ giảng, giáo viên, giảng viên các cấp phổ thông, trung
+tâm đào tạo, cao đăng, đại hoc,...
+
+— Các vị trí khác: tư vấn, huấn luyện về các hệ thống, giải pháp CNTT,...
+2. THỜI GIAN ĐÀO TẠO: 4 năm
+3. KHÓI LƯỢNG KIÊN THỨC: 138 tín chi
+4. DOI TƯỢNG TUYẾN SINH
+Theo Quy chế tuyển sinh đại học, cao đẳng hệ chính quy của Bộ Giáo dục và Đào tạo và quy định
+của chương trình chất lượng cao với học phí tương ứng ngành công nghệ thông tin.
+5. QUY TRÌNH ĐÀO TẠO, DIEU KIỆN TOT NGHIỆP
+5.1. QUY TRÌNH ĐÀO TẠO
+Căn cứ Quy chế học vụ Đào tạo đại học và cao đẳng hệ chính quy theo Hệ thống tín chỉ ban hành
+kèm theo Quyết định số 1227/QĐ-KHTN ngày 12 tháng 07 năm 2018 của Hiệu trưởng Trường Đại
+học Khoa học Tự nhiên, Đại học Quốc gia Tp. Hồ Chí Minh.
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 5/36
+
+--- Trang 6 ---
+5.2. DIEU KIỆN TOT NGHIỆP
+
+Tích lũy đủ ít nhất 138 tin chỉ của khối kiến thức giáo duc đại cương và giáo dục chuyên nghiệp như
+đã mô tả ở mục 6. CÁU TRÚC CHƯƠNG TRÌNH và mục 7. NỘI DUNG CHƯƠNG TRÌNH của
+chương trình đào tạo nay, đồng thời thỏa các điều kiện theo Điều 28 trong Qui chế Đào tạo đại học
+và cao đẳng hệ chính quy theo Hệ thống tin chỉ, ban hành kèm theo Quyết định số 1227/QD-KHTN
+ngày 12 tháng 07 năm 2018 của Hiệu trưởng Trường Đại học Khoa học Tự nhiên. Ngoài ra, sinh viên
+phải đạt yêu cầu về chuẩn đầu ra ngoại ngữ quy định đối với chương trình chất lượng cao với học phí
+tương ứng.
+
+6. CẤU TRÚC CHUONG TRÌNH
+
+Cấu trúc chung của nội dung chương trình đào tạo được trình bay trong bảng dưới đây:
+
+SO TÍN CHÍ (TC) Tổng số TC
+STT KHOI KIEN THỨC Bắt | Tự | TW Tổng | ih = Kul
+buộc | chọn chon cong tobngnitp
+J . tu do : (1+2+3+4)
+Giáo dục đại cương (1)
+} (không kê GDTC và GDQP) ae a 0 SỐ
+Giáo Cơ sở ngành (2) 38 0 0 38 lầu
+5 _— Ngành/ chuyên ngành (3) 16 8 10 34
+nghiệp | Tốt nghiệp (4) 0 10 0 10
+
+7. NOI DUNG CHUONG TRÌNH
+
+7.1. KIÊN THUC GIAO DỤC DAI CUONG
+Tích lũy tông cộng 56 tin chỉ (không kể Giáo dục thé chat và Giáo dục quốc phòng):
+
+7.1.1. Lý luận chính trị
+
+MÃ HỌC R . sÓ| SOTIET |LOAI| Gur
+
+SET) way TEN HOC PHAN TC lov aalerl HP | cú
+1 | BAA00101 |Triết học Mác - Lênin 3 145 |0 |0 | BB
+2 | BAA00102 | Kinh tế chính trị Mác - Lênin 2 1300 |0 | BB
+3| BAA00103 | Chủ nghĩa xã hội khoa học 2 130 0 |0 | BB
+4 | BAA00104 | Lịch sử Đảng Cộng sản Việt Nam 2 130 0 |0 | BB
+5 | BAA00003 | Tư tưởng Hồ Chi Minh 2 130 0 |0 | BB
+
+TỎNG CỘNG 11
+
+7.1.2. Khoa học xã hội - Kinh tế - Kỹ năng
+
+MÃ HỌC ˆ . so SÓ TIẾT |LOẠI| GHI
+STT Bà TEN HỌC PHAN . ‘
+
+PHAN , TC | LT | TH | BT | HP | CHU
+1 | BAA00004 | Pháp luật đại cương 3 1450 |0 | BB
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 6/36
+
+--- Trang 7 ---
+2 | Chọn 01 học phan (02 tín chi) trong các học phan sau:
+
+BAA00005 | Kinh tế đại cương 2 130 | 0 TC
+BAA00006 | Tâm lý đại cương 2 |30 | 0 | 0 | TC
+BAA00007 | Phương pháp luận sáng tạo 2 | 30} 0 0 TC
+TONG CONG 5
+7.1.3. Toán - Tin học - Khoa hoc tự nhiên - Công nghệ - Môi trường
+STT ae TEN HOC PHAN ae tr lan et K1 cho
+1 |MTH00005 | Vi tích phân 1 4 |45 |30 | 0 | BB
+2_ |MTH00006 | Vi tích phân 2 4 |45 |30 | 0 | BB
+3_ |MTH00007 |Xác suất thống kê 4 | 45 |30 | 0 | BB
+4 |MTH00008 |Dai số tuyến tính 4 | 45 |30 | 0 | BB
+5 |MTH00009 |Toán rời rac 4 |45 |30 | 0 | BB
+6 |MTH00050 |Toán học tổ hợp 4 |45 |30 | 0 | BB
+7 |CSC00004 |Nhập môn Công nghệ thông tin 4 |45 |30 | 0 | BB
+§__ |Chọn 01 học phần (04 tín chi) từ các học phần toán học sau:
+MTH00051 |Toán ứng dụng và thống kê 4 |} 45 | 30) 0 TC
+MTH00052 |Phuong pháp tính 4 |45 |30 | 0 | TC
+MTH00053 |Lý thuyết số 4 |45 | 30 | 0 | TC
+MTH00054 |Phép tính vị từ 4 |45 | 30 | 0 | TC
+9 |Chọn 08 tín chỉ từ các học phần sau:
+CHE00001 |Hóa đại cương 1 3 130 | 0 |30 | TC
+CHE00002 |Hóa đại cương 2 3 130 | 0 |30 | TC
+CHE00081 | Thực hành Hóa ĐC 1 2 |0 |60| 0 |TC
+CHE00082 | Thực hành Hóa DC 2 2 |0 |60| 0 | Tc
+BIO00001 |Sinh đại cương 1 3 |45| 0 |0 |TC
+BIO00002 |Sinh đại cương 2 3 |45| 0 |0 |TC
+BIO00081 |Thực tập sinh đại cương 1 1 |0 | 30} 0 | TC
+BIO00082 |Thuc tập sinh đại cương 2 1 30 0 TC
+PHY00005 | Vật ly đại cương 1 4 |45 |30 | 0 | TC
+PHY00006 | Vật lý đại cương 2 4 |45 | 30 | 0 | TC
+GEO00002 |Khoa học trái đất 2 |30 |0 |0 |TC
+ENV00001 |Môi trường đại cương 2 |30 |0 |0 |TC
+ENV00003 |Con người và môi trường 2 130 |0 |0 |TC
+TỎNG CỘNG 40
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 7/36
+
+--- Trang 8 ---
+7.1.4. Giáo dục thé chat
+
+STT cn te TEN HOC PHAN ae ane F5 Chu
+
+1 | BAA00021 |Thế duc 1 2 | 15 |30 | 0 | BB
+
+2 | BAA00022 |Thé dục 2 2 | 15 |30 | 0 | BB
+TỎNG CỘNG 4
+
+7.1.5. Giáo dục quốc phòng — an ninh
+
+MÃ HỌC Ạ x SỐ SÓ TIẾT LOẠI| GHI
+STT PHẢN TÊN HỌC PHÁN TC [LTITHIBT| HP | CHỦ
+1 | BAA00030 |Giáo dục quốc phòng 4 | BB
+TONG CONG 4
+
+7.2. KIEN THUC GIAO DUC CHUYEN NGHIEP
+Khối kiến thức nay tổng cộng 82 tin chỉ, bao gồm: kiến thức co sở ngành (38 TC), kiến thức chuyên
+nghiệp phần bắt buộc (16 TC), phần tự chọn (18 TC), và kiến thức tốt nghiệp (10 TC).
+
+7.2.1. Kiến thức cơ sở ngành
+
+MÃ HỌC SÓ| SÓTIẾT |LOẠI GHI
+
+STT PHÀN TEN HỌC PHAN TC: cpl |er| BP CHU
+1 | CSC10001 |Nhập môn lập trình 4 |45|30| 0 | BB
+2 | CSC10002 |Kỹ thuật lập trình 4 | 45 | 30 | 0 | BB
+
+3 | CSC10003 |Phương pháp lập trình hướng đối tượng | 4 | 45 | 30 | 0 | BB
+
+4 | CSC10004 |Cấu trúc dữ liệu và giải thuật 4 |45|30| 0 | BB
+5| CSC10006 |Cơ sở dữ liệu 4 |45|30| 0 | BB
+6 | CSC10007 |Hệ điều hành 4 |45|30| 0 | BB
+7 | CSC10008 |Mạng máy tính 4 145/30] 0 | BB
+8 | CSC10009 |Hệ thống máy tính 2 J30|0 |0 | BB
+9 | CSC13002 [Nhập môn công nghệ phần mềm 4 |45|30| 0 | BB
+10 | CSC14003 |Cơ sở trí tuệ nhân tạo 4 |45|30| 0 | BB
+TONG CỘNG 38
+
+7.2.2. Kiến thức ngành/ chuyên ngành
+
+Sinh viên có thể chọn học theo 01 trong các ngành/ chuyên ngành sau:
+e _ Chuyên ngành Mang máy tính và Viễn thông.
+e _ Ngành Hệ thống thông tin.
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 8/36
+
+--- Trang 9 ---
+e _ Ngành Kỹ thuật phần mềm.
+
+e Ngành Khoa học máy tính.
+
+e _ Chuyên ngành Công nghệ tri thức (thuộc ngành Khoa học máy tính).
+
+e Chuyên ngành Thị giác máy tính (thuộc ngành Khoa học máy tính).
+
+e _ Chuyên ngành An toàn thông tin (thuộc ngành Khoa học máy tính).
+
+e Chuyên ngành Khoa học dữ liệu (thuộc ngành Khoa học máy tính).
+
+e Chuyên ngành Công nghệ Thông tin.
+Phần kiến thức này gồm các kiến thức bắt buộc, tự chọn và tự chọn tự do (tông cộng 34 tín chỉ).
+7.2.2.1 Chuyên ngành Mạng máy tính và Viễn thông
+7.2.2.1.1 Kiến thức bắt buộc chuyên ngành
+
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N1 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+danh sách học phan sau đây:
+
+STT MÃ HỌC TEN HỌC PHAN so = oT ee ait
+1 |CSC11002 |Hệ thống viễn thông 4 45 | 30] 0 | TC
+2 |CSC11003 |Lập trình mang 4 45 | 30] 0 | TC
+3 |CSC11004 |Mạng máy tính nâng cao 4 45 | 30] 0 TẾ
+4 |CSC11005 |Thực tập mang máy tinh 4 45 | 30} 0 | TC
+5 |CSC15001 |An ninh máy tính 4 45 | 30] 0 | TC
+TỎNG CỘNG 16
+
+7.2.2.1.2 Kiến thức tự chọn chuyên ngành
+
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M1 học phan > 02), sao cho tối thiểu 08 tín chỉ, bằng
+
+cách chọn tùy ý trong danh sách các học phần thuộc các mục sau đây:
+
+gar MA os] a ph: so SOTIET | LOAT GHI
+
+PHAN Ì TC | LT [TH |BT| HP | CHÚ
+1 | CSC10104 | Quy hoạch tuyến tính 4 |45|30| 0 | TC
+2 | CSC10105 | Nhập môn tư duy thuật toán 4 |45|30|0 | TC
+3 | CSC10106 | Thuật toán tô hợp và ứng dụng 4 45 | 30 | 0 TC
+4 | CSC10107 | Thực tập thực tế 4 |30]60]0 | TC
+5 | CSC11103 | Thiết kế mạng 4 |45 |30 | 0 | TC
+6 | CSC11106 | Truyền thông không dây 4 |45|30 |0 | TC
+7 | CSC11107 | Truyền thông kỹ thuật số 4 |45|30|0 | TC
+8 CSC11113 | Quản trị dịch vụ mang 4 45 | 30 | 0 TC
+9 | CSC14001 | Automata và ngôn ngữ hình thức 4 45 | 30 | 0 TC
+10 | CSC14005 | Nhập môn học máy 4 |45|30|0 | TC
+11 | CSC15003 | Mã hóa ứng dụng 4 |45|30]0 | TC
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 9/36
+
+--- Trang 10 ---
+12 | CSC15005 | Nhập môn mã hóa — mật mã 4 | 45 13010 TC
+
+13 | CSC15006 | Nhập môn xử lý ngôn ngữ tự nhiên | 4 4513010 TC
+
+14 | CSC16005 | Xử lý ảnh sô và video sô 4 | 45 13010 TC
+TONG CONG 8
+
+Hoặc các học phần thuộc các mục sau đây:
+
+mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa học máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tính,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dit liệu;
+
+mục 7.2.3 Kiến thức tốt nghiệp, không kế các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tốt nghiệp và CSC10204 - Thực tập dự án tốt nghiệp.
+
+7.2.2.1.3 Kiến thức tự chọn tự do
+
+Nếu số tín chỉ của (N1+M1) học phần nói trên chưa đủ 34 tín chỉ thì sinh viên tích lãy đủ ít nhất 34
+tín chỉ cho phần kiến thức ngành/ chuyên ngành của khối kiến thức giáo dục chuyên nghiệp, bằng
+
+cách chọn tùy ý trong danh sách các học phần thuộc các mục sau đây:
+
+mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa học máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tính,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+
+mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tot nghiệp và CSC 10204 - Thực tập dự án tot nghiệp.
+
+7.2.2.2 Ngành Hệ thống thông tin
+
+7.2.2.2.1 Kiến thức bat buộc ngành
+
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N2 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+
+danh sách học phan sau đây:
+
+MÃ HỌC Ñ A SỐ | SOTIET |LOAI| GHI
+STTÍ pHẦN TEN HỌC PHAN TC [TTTTH BT] HP | CHÚ
+1 _|CSC12001 An toàn và bảo mật dir liệu trong hệ thông 4 .l45l30l0 | TC
+thông tin
+2 |CSC12002|Cơ sở dữ liệu nâng cao 4 |45|30| 0 | TC
+3 |CSC12003|Hệ quản trị cơ sở dữ liệu 4 |45|30| 0 | TC
+4 |CSC12004|Phân tích thiết kế hệ thống thông tin 4 |45 130] 0 | TC
+5 ÍCSC12005 Phát triên ứng dụng hệ thông thông tin 4. l45l30l0 | TC
+hiện đại
+TỎNG CỘNG 16
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 10/36
+
+--- Trang 11 ---
+7.2.2.2.2 Kiến thức tự chọn ngành
+
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M2 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+
+danh sách học phần sau đây:
+
+STT VÀNG TÊN HOC PHAN ae os 7 Chu
+1 |CSC10101 |Kỹ năng mềm 3 |30|45|0 | TC
+2 |CSC10102 |Kiến tập nghề nghiệp 2 |15|30|0 | TC
+3 |CSC10103 |Khởi nghiệp 3 |30|30|0 | TC
+4 |CSC10104 |Quy hoạch tuyến tinh 4|45|30|10 TC
+5 |CSC10105 |Nhập môn tư duy thuật toán 4|45|30|0 | TC
+6 |CSC10106 |Thuật toán tổ hop và ứng dụng 4|45|30|0 | TC
+7 |CSC10107 |Thực tập thực tế 4 .|30|60|0 | TC
+8 |CSC10108 |Trực quan hóa dữ liệu 4|45|30|0 | TC
+9 |CSC12102 TH chọn lọc trong Hệ thông 4|45|30|0 | TC
+10 |CSC12103 Khu He NHẬT THÍ BƠ sisi leu 4|4s|30|0 | TC
+11 |CSC12105 |Thương mại điện tử 4|45|30|0 | TC
+12 |CSC12106 |Tương tác người - máy 4|45|30|0 | TC
+13 |CSC12109 |Hệ thống thông tin doanh nghiệp 4|45|30|0 | TC
+14 |CSC12110 |Phân tích dé liệu ứng dụng 4|45|30|0 | TC
+TONG CỘNG 8
+7.2.2.2.3 Kiến thức tự chọn tự do
+Nếu số tín chi của (N2+M2) học phan nói trên chưa đủ 34 tin chỉ thì sinh viên tiếp tục tích lũy đủ it
+
+nhất 34 tín chỉ cho phần kiến thức ngành của khối kiến thức giáo dục chuyên nghiệp, bằng cách chọn
+trong danh sách các học phân thuộc các mục sau đây:
+— mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa hoc máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tinh,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tôt nghiệp và CSC10204 - Thực tập dự án tôt nghiệp.
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 11/36
+
+--- Trang 12 ---
+7.2.2.3 Ngành Kỹ thuật phần mềm
+7.2.2.3.1 Kiến thức bat buộc ngành
+
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N3 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+danh sách học phần sau đây:
+STT THĂNG TÊN HỌC PHAN ae —- we ảnh
+LT |TH | BT
+1 |CSC13003 |Kiểm thử phan mềm 4 |45|30| 0 | TC
+2 |CSC13005 |Phân tích và quản lý yêu cầu phần mềm | 4 |45|30| 0 | TC
+3 |CSC13006 |Quản lý dự án phần mềm 4 |45|30| 0 | TC
+4 |CSC13007 |Phát triển game 4 |45|30| 0 | TC
+5 |CSC13008 |Phát triển ứng dụng web 4 | 45 | 30] 0 | TC
+6 |CSC13009 |Phat triển phần mềm cho thiết bị đi động | 4 | 45 | 30] 0 | TC
+7 |CSC13010 |Thiết kế phần mềm 4 |45|30| 0 | TC
+8 |CSC13106 |Kiến trúc phan mềm 4 |45|30| 0 | TC
+9 |CSC13112 |Thiết kế giao diện 4 |45|30| 0 | TC
+TỎNG CỘNG 16
+
+7.2.2.3.2 Kiến thức tự chọn ngành
+
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M3 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+danh sách học phần sau đây:
+STT k TÊN HỌC PHAN so a — Chú
+1 |CSC10101 |Kỹ năng mềm 3 | 30/45] 0 | TC
+2 |CSC10102 |Kiến tập nghề nghiệp 2 |15130| 0 | TC
+3 |CSC10103 |Khởi nghiệp 3 130|30| 0 | TC
+4 |CSC10104 |Quy hoạch tuyến tinh 4 |45|30| 0 | TC
+5 |CSC10105 |Nhập môn tư duy thuật toán 4 |45|30| 0 | TC
+6 |CSC10106 |Thuật toán tổ hợp và ứng dung 4 |45|30| 0 | TC
+7 |CSC10107 |Thực tập thực tế 4 | 30| 60} 0 | TC
+8 |CSC13001 |Lập trình Windows 4 | 45 | 30} 0 | TC
+9 |CSC13101 Nhàn mm nâng cao trong Công nghệ 4145/30) 0) TC
+10 |CSC13102 |Lập trình ứng dụng Java 4 |45|1301 0 | TC
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 12/36
+
+--- Trang 13 ---
+11 |CSC13103 |Công nghệ Java cho hệ thống phân tán 4 |45|130|1 0 | TC
+
+12 |CSCI3107 Mau thiết kê hướng đôi tượng và ứng
+
+dụng
+13 |CSC13108 |Mô hình hóa phan mềm 4 |45|30| 0 | TC
+14 |CSC14005 |Nhập môn học máy 4 |45|30| 0 | TC
+15 |CSCI6106 Nhập môn lập trình điêu khiên thiết bi 4 .l45l30l0 | TC
+
+thông minh
+TỎNG CỘNG 8
+
+7.2.2.3.3. Kiến thức tự chọn tự do
+Nếu số tín chỉ của (N3+M3) học phan nói trên chưa đủ 34 tín chỉ thì sinh viên tiếp tục tích liy đủ ít
+nhất 34 tín chỉ cho phần kiến thức ngành của khối kiến thức giáo dục chuyên nghiệp, bằng cách chọn
+trong danh sách các học phần thuộc các mục sau đây:
+— mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa hoc máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tinh,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tốt nghiệp và CSC10204 - Thực tập dự án tốt nghiệp.
+7.2.2.4 Ngành Khoa học máy tính
+7.2.2.4.1 Kiến thức bắt buộc ngành
+
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N4 học phần > 04), sao cho tối thiểu 16 tín chi, trong
+danh sách học phân sau đây:
+STT TH TÊN HỌC PHAN THƠ min ae atl
+1 |CSC14001 |Automata và ngôn ngữ hình thức 4 |45|30| 0 | TC
+2 |CSC14002 |Các hệ cơ sở tri thức 4 |45|130| 0 | TC
+3 |CSC14004 |Khai thác dữ liệu và ứng dụng 4 |45|30| 0 | TC
+4 |CSC14005 |Nhap môn học máy 4 |45|30| 0 | TC
+5 |CSC14006 [Nhận dang 4 | 45 | 30/0 | TC
+6 |CSC14101 |An dữ liệu và chia sẻ thông tin 4 | 45 | 30} 0 | TC
+7 |CSC14111 |Nhập môn thiết kế và phân tích giải thuật| 4 | 45 | 30] 0 | TC
+8 |CSC14120 |Lập trình song song 4 | 45 | 30| 0 | TC
+TONG CONG 16
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 13/36
+
+--- Trang 14 ---
+7.2.2.4.2 Kiến thức tự chọn ngành
+
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M4 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+danh sách học phần sau đây:
+
+1 |CSC10102 |Kiến tập nghề nghiệp 2 |15|30 |0] TC
+2 |CSC10103 |Khởi nghiệp 3 |30|30 |0 | TC
+3 |CSC10104 |Quy hoạch tuyến tinh 4 | 45 |30|0| TC
+4 |CSC10108 |Trực quan hóa dữ liệu 4 |45 |30 |0 | TC
+5 |CSC14008 |Phương pháp nghiên cứu khoa học 4 | 45 | 30 |0 TC
+6 |CSC14105 |Khoa học về web 4 | 45 |30 |0 TC
+7 |CSC14109 |Logic mo và ứng dụng 4 | 45 | 30 | 0 | TC
+8 |CSC14112 |Sinh trac hoc 4 | 45 | 30 |0| TC
+9 |CSC14113 |Trình biên dich 4 | 45 |30 |0 | TC
+10 |CSC14117 |Nhập môn lập trình kết nối van vật 4 | 45 |30 |0 | TC
+11 |CSC14118 |Nhập môn đữ liệu lớn 4 | 45 | 30 |0| TC
+12 |CSC14119 |Nhập môn khoa học dit liệu 4 | 45 | 30 |0| TC
+13 |CSC16005 |Xử ly ảnh sé và video số 4 | 45 |30|0| TC
+14 |CSC17001 |Phân tích dữ liệu thông minh 4 |45 130 |0| TC
+TỎNG CỘNG 8
+
+7.2.2.4.3 Kiến thức tự chon tự do
+Nếu số tín chỉ của (N4+M4) học phần nói trên chưa đủ 34 tín chỉ thì sinh viên tiếp tục tích lũy đủ ít
+nhât 34 tín chỉ cho phân kiên thức ngành/ chuyên ngành của khôi kiên thức giáo dục chuyên nghiệp,
+băng cách chọn tùy ý trong danh sách các học phân thuộc các mục sau đây:
+— mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa học máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tính,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tôt nghiệp và CSC10204 - Thực tập dự án tôt nghiệp.
+7.2.2.5 Chuyên ngành Công nghệ tri thức
+7.2.2.5.1 Kiến thức bắt buộc chuyên ngành
+
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N5 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+danh sách học phần sau đây:
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 14/36
+
+--- Trang 15 ---
+STT La TEN HỌC PHAN se Pa By Ăn BH
+1 |CSC14007 Nhập môn phân tích độ phức tạp thuật 4 .l4sl30l0 | TC
+toàn
+2 |CSCI5001 |An ninh máy tính 4 |45|30| 0 | TC
+3 |CSC15002 |Bảo mật cơ sở dữ liệu 4 |45|30| 0 | TC
+4 |CSCI5003 |Mã hóa ứng dụng 4 |45|30| 0 | TC
+5 |CSC15004 |Học thống kê 4 |45|30| 0 | TC
+6 |CSC15005 |Nhập môn mã hóa — mật mã 4 |45|30| 0 | TC
+7 |CSC15006 |Nhập môn xử lý ngôn ngữ tự nhiên 4 |45|130| 0 | TC
+8 |CSC15007 |Thống kê máy tinh và ứng dụng 4 |45|30| 0 | TC
+9 |CSC15008 |Xử lý ngôn ngữ tự nhiên ứng dụng 4 |45|30| 0 | TC
+10 |CSC15009 |Xử lý tín hiệu số 4 |45|30| 0 | TC
+I1 |CSCI5011 ame môn ngôn ngữ hoc thong kê va ứng 4 .l45l30l0 | TC
+TỎNG CỘNG 16
+7.2.2.5.2 Kiến thức tự chọn chuyên ngành
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M5 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+
+danh sách học phần sau đây:
+
+STT ar TEN HỌC PHAN ae ti TỶ E1 Chu
+1 |CSC10101 |Kỹ năng mềm 3 |30|45 |0 | TC
+2 |CSC10102 |Kiến tập nghề nghiệp 2 |15|30 |0] TC
+3 |CSC10103 |Khởi nghiệp 3 |30|30 |0 | TC
+4 |CSC10104 |Quy hoạch tuyến tính 4 | 45 | 30 | 0} TC
+5 |CSC10105 |Nhap môn tư duy thuật toán 4 | 45 | 30 |0| TC
+6 |CSC10106 |Thuat toán tổ hợp và ứng dụng 4 | 45 | 30 |0| TC
+7 |CSC10107 |Thực tập thực tế 4 |30 | 60 |0 | TC
+8 |CSC14101 |An đữ liệu và chia sẻ thông tin 4 | 45 | 30 | 0} TC
+9 |CSC14120 |Lập trình song song 4 | 45 | 30 | 0 | TC
+10 |CSC15102 |Phân tích mạng xã hội 4 | 45 | 30 |0| TC
+11 |CSC15103 |Tính toán tài chính 4 | 45 | 30 |0| TC
+a |PSGI6T8E tha maf lap trinh diéu khién thiét bi a | 4 |gelo| we
+
+TONG CONG 8
+
+Chương trình đào tạo — Chương trình Chat lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 15/36
+
+--- Trang 16 ---
+7.2.2.5.3. Kiến thức tự chọn tự do
+Nếu số tín chỉ của (N5+M5) học phan nói trên chưa đủ 34 tín chỉ thì sinh viên tiếp tục tích lũy đủ ít
+nhất 34 tín chỉ cho phần kiến thức ngành/ chuyên ngành của khối kiến thức giáo dục chuyên nghiệp,
+bằng cách chọn tùy ý trong danh sách các học phần thuộc các mục sau đây:
+— mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa hoc máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tinh,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tốt nghiệp và CSC10204 - Thực tập dự án tốt nghiệp.
+7.2.2.6 Chuyên ngành Thị giác máy tính
+7.2.2.6.1 Kiến thức bắt buộc chuyên ngành
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N6 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+danh sách học phan sau đây:
+
+n 4 | SO TIẾT
+STT oa TEN HỌC PHAN se Te atl
+LT | TH| BT
+1 |CSC16001 |Đồ họa máy tinh 4 | 45| 30] 0 | TC
+2 ÌCSC16002 Phuong pháp toán trong phân tích dữ liệu 4 .145l30l0 | TC
+thị giác
+
+3 |CSC16003 |Phân tích thống kê dữ liệu nhiều biến 4 |45| 30] 0 | TC
+
+4 |CSC16004 |Thị giác máy tinh 4 |45|30| 0 | TC
+
+5 |CSC16005 |Xử lý anh số và video số 4 |45|30| 0 | TC
+
+TỎNG CỘNG 16
+
+7.2.2.6.2. Kiến thức tự chọn chuyên ngành
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M6 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+
+danh sách học phần sau đây:
+
+STT MÃ HỌC TÊN HỌC PHAN so celal gr ae cn
+1 |CSC16101 |Đồ họa ứng dụng 4 | 45 | 30 | 0 | TC
+2 ÌCSC16102 nh thuật lập trình xử lý ảnh sô và video 4145/3010 | TC
+3 |CSC16104 |Thị giác robot 4 | 45 | 30 | 0 | TC
+4 |CSC16105 |Truy van thông tin thị giác 4 | 45 | 30] 0 | TC
+s |DSOIGTU6 Ho môn lập trình diéu khiến thiết bị a |8 |3ữ| Ø | Tơ
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 16/36
+
+--- Trang 17 ---
+6 |CSC16107 |Ứng dụng thị giác máy tinh 4 | 45 | 30] 0 | TC
+7 |CSC16109 |Ứng dụng xử ly ảnh số và video số 4 | 45 | 30] 0 | TC
+TỎNG CỘNG 8
+
+7.2.2.6.3 Kiến thức tự chọn tự do
+Nếu số tín chỉ của (N6+M6) học phan nói trên chưa đủ 34 tín chi thì sinh viên tiếp tục tích liy đủ
+
+ít nhất 34 tín chỉ cho phần kiến thức ngành/ chuyên ngành của khối kiến thức giáo dục chuyên nghiệp,
+
+bằng cách chọn tùy ý trong danh sách các học phần thuộc các mục sau đây:
+
+— mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+
+Khoa học máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tính,
+
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+
+mục 7.2.3 Kiến thức tốt nghiệp, không ké các học phần CSC10251 - Khóa luận tốt nghiệp,
+
+CSC10252 - Thực tập tốt nghiệp và CSC10204 - Thực tập dự án tốt nghiệp.
+
+7.2.2.7 Chuyên ngành An toàn thông tin
+7.2.2.7.1 Kiến thức bắt buộc chuyên ngành
+
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N7 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+
+danh sách học phần sau đây:
+
+STT MÃ HOC TEN HỌC PHAN ho _— a Chu
+1 |CSC15001  |Anninh máy tinh 4 |45|30|0 | TC
+2 |CSC15002 |Bảo mật cơ sở dữ liệu 4 |45|30|0 | TC
+3 |CSCI5003  |Mã hóa ứng dụng 4 |45|30|0 | TC
+4 |CSC15005  |Nhập môn mã hóa — mật mã 4 |45|30|0 | TC
+5 |CSC15010 |Blockchain và ứng dụng 4 |45|130|0 | TC
+TỎNG CỘNG 16
+
+7.2.2.7.2. Kiến thức tự chọn chuyên ngành
+
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M7 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+danh sách học phân sau đây:
+STT + TÊN HỌC PHAN ae ee E1 Chu
+
+1 |CSC10104 |Quy hoạch tuyến tinh 4 | 45 | 30| 0 | TC
+
+2 |CSC10107 |Thực tập thực tế 4 |30|60/ 0 | TC
+
+3 |CSC11004 |Mạng máy tính nâng cao 4 | 45] 30} 0 | TC
+
+Chương trình đào tạo — Chương trình Chat lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 17/36
+
+--- Trang 18 ---
+An toan và bảo mật dữ liệu trong hệ
+
+4 |CSC12001 thống thông tin 4 |45|30| 0 | TC
+5 |CSC14005_ [Nhập môn học máy 4 |45 130] 0 | TC
+6 ÌCSC14007 ee môn phân tích độ phức tap thuật 4 .l45l30l0 | TC
+7 |CSC14117 |Nhập môn lập trình kết nối vạn vật 4 |45|30| 0 | TC
+8 |CSCI4120 |Lập trình song song 4 | 45 | 30| 0 | TC
+9 |CSC15004 |Học thống kê 4 |45 130] 0 | TC
+10 |CSC15107 |Phân tích đữ liệu bảo toàn tính riêngtư | 4 | 45 |30 | 0 | TC
+
+Nhập môn lập trình điêu khién thiệt bi
+thông minh
+
+TỎNG CỘNG 8
+
+11 |CSC16106 4 | 45 | 30| 0 | TC
+
+7.2.2.7.3 Kiến thức tự chon tự do
+Nếu số tin chỉ của (N7+M7) học phần nói trên chưa đủ 34 tín chi thì sinh viên tiếp tục tích lũy đủ ít
+nhât 34 tín chỉ cho phân kiên thức chuyên ngành của khôi kiên thức giáo dục chuyên nghiệp, bắng
+cách chọn tùy ý trong danh sách các học phân thuộc các mục sau đây:
+— mục 7.2.2 Kiên thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa học may tính, chuyên nganh Công nghệ tri thức, chuyên ngành Thị giác máy tinh,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tot nghiệp và CSC10204 - Thực tập dự án tot nghiệp.
+7.2.2.8 Chuyên ngành Khoa học dữ liệu
+7.2.2.8.1 Kiến thức bắt buộc chuyên ngành
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N8 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+danh sách học phân sau đây:
+
+STT TH TÊN HỌC PHẢN mô ol at F35 Chu
+1 |CSC10108 |Trực quan hóa đữ liệu 4 |45|30|0 | TC
+2 |CSC14004 |Khai thác dit liệu và ứng dụng 4 |45|30|0 | TC
+3_ |CSC14005_ |Nhập môn học máy 4 |45|30|0 | TC
+4 |CSC14119 |Nhập môn khoa học dữ liệu 4 |45|30| 0 | TC
+5 _|CSC17001 |Phân tích dé liệu thông minh 4 |45|30| 0 | TC
+6 |CSCI7104 |Lập trình cho khoa học dữ liệu 4 |45|30|0 | TC
+TỎNG CỘNG 16
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 18/36
+
+--- Trang 19 ---
+7.2.2.8.2. Kiến thức tự chọn chuyên ngành
+
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M8 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+danh sách học phần sau đây:
+
+STT k— TÊN HỌC PHẢN Xe Là an let ea ni
+1 |CSC14117 |Nhập môn lập trình kết nối van vật 4 |J45|30 |0 | TC
+2 |CSC14118 |Nhập môn dữ liệu lớn 4 |45|30 |0 | TC
+3 |CSC14120 |Lập trình song song 4 |J451 30101 TC
+4 |CSCI5004 |Học thống kê 4 |45|30 |0 | TC
+5 |CSCI5007 |Thống kê máy tinh và ứng dụng 4 |45130 | 0 | TC
+6 |CSC15102 |Phân tích mang xã hội 4 |45|30 |0 | TC
+7 |CSC15103 |Tính toán tài chính 4 |45| 30 |0 | TC
+§ |CSC17101 |Hệ thống tư vấn 4 |45|30 |0 | TC
+9 |CSC17102 |Học sâu cho khoa hoc dit liệu 4 |45130 | 0) TC
+10 |CSC17103 |Khai thác dữ liệu đồ thị 4 |45|30 |0 | TC
+11 |CSC17105 |Nhập môn tư duy tính toán 4 |45|30 |0 | TC
+12 |CSC17106 |Xử lý phân tích dữ liệu trực tuyến 4 |45|30 |0 | TC
+
+TỎNG CỘNG 8
+
+7.2.2.8.3. Kiến thức tự chọn tự do
+Nếu số tín chỉ của (N8+M8) học phan nói trên chưa đủ 34 tín chỉ thì sinh viên tiếp tục tích liy đủ ít
+nhât 34 tín chỉ cho phân kiên thức chuyên ngành của khôi kiên thức giáo dục chuyên nghiệp, bắng
+cách chọn tùy ý trong danh sách các học phân thuộc các mục sau đây:
+— mục 7.2.2 Kiên thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa hoc máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tinh,
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+CSC10252 - Thực tập tốt nghiệp và CSC10204 - Thực tập dự án tốt nghiệp.
+7.2.2.9 Chuyên ngành Công nghệ thông tin
+7.2.2.9.1 Kiến thức bat buộc chuyên ngành
+Sinh viên tích lũy ít nhất 04 học phần (gọi là N9 học phần > 04), sao cho tối thiểu 16 tín chỉ, trong
+danh sách học phần sau đây:
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 19/36
+
+--- Trang 20 ---
+STT MÃ Học TEN HỌC PHAN » Somer s cn
+LT | TH | BT
+1 CSC11004 |Mang may tinh nang cao 4 | 45 | 30 | 0 TC
+2 | CSC15001 |An ninh máy tinh 4 | 45 | 30] 0 | TC
+3 | CSC12002 |Cơ sé dữ liệu nâng cao 4 |45 |30 | 0 | TC
+4 | CSC12004 |Phân tích thiết kế hệ thống thông tin 4 | 45 | 30] 0 | TC
+5 | CSC13003 |Kiém thử phan mềm 4 | 45 | 30] 0 | TC
+6 | CSC13106 |Kiến trúc phần mềm 4 | 45 | 30] 0 | TC
+7 | CSC14004 |Khai thác đữ liệu va ứng dụng 4 | 45 | 30] 0 | TC
+8 | CSC14005 |Nhập môn học máy 4 |45 |30 | 0 | TC
+9 | CSC14119 |Nhập môn khoa học dit liệu 4 |45 |30 | 0 | TC
+0 | CSC15004 |Học thống kê 4 |45 |30 | 0 | TC
+1 | CSC15007 |Thống kê máy tinh và ứng dụng 4 |45|30| 0 | TC
+12 | CSC15006 |Nhập môn xử lý ngôn ngữ tự nhiên 4 |45 |30 |0 | TC
+3 | CSCI5011 ioe môn ngôn ngữ hoc thông kê và ứng 4 .l45l30| 0 [TC
+4 | CSC15003 |Mã hóa ứng dụng 4 |45 |30 | 0 | TC
+5 | CSC15005 |Nhập môn mã hóa — mật mã 4 |45 |30 | 0 | TC
+6 | CSC16004 |Thị giác máy tinh 4 |45 |30 | 0 | TC
+7 | CSC16005 |Xử lý ảnh số và video số 4 | 45 | 30] 0 | TC
+TỎNG CỘNG 16
+
+7.2.2.9.2. Kiến thức tự chọn chuyên ngành
+Sinh viên tích lũy ít nhất 02 học phần (gọi là M9 học phần > 02), sao cho tối thiểu 08 tín chỉ, trong
+
+danh sách học phần sau đây:
+STT TÊN” TÊN HỌC PHAN ae oom = cn
+LT | TH| BT
+1 | CSC11003 | Lập trình mang 4 |45|30| 0 | TC
+2 |CSCI1005 | Thực tập Mang máy tinh 4 |45|30| 0 | TC
+3 | CSC11106 | Truyền thông không dây 4 |45|30| 0 | TC
+4 CSC11113 | Quản trị dịch vụ mang 4 1453010 TC
+5 | CSC10108 | Trực quan hóa dữ liệu 4 |45|30| 0 | TC
+6 |CSCI2105 | Thuong mại điện tử 4 |45|30| 0 | TC
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 20/36
+
+--- Trang 21 ---
+Ẫ 4 | SÓ TIẾT
+STT M HÀNG TEN HOC PHAN » Irlmmlm ie cn
+7 |CSC12109 | Hệ thống thông tin doanh nghiệp 4 |45|30| 0 | TC
+8 |CSC12110 | Phân tích dit liệu ứng dụng 4 |45|30| 0 | TC
+9 |CSC13006 | Quản lý dự án phần mềm 4 |45|30| 0 | TC
+10 | CSC13008 | Phát triển ứng dụng web 4 |45|30| 0 | TC
+11 | CSC13010 | Thiết kế phần mềm 4 |45|30| 0 | TC
+12_ |CSC13112 | Thiết kế giao diện 4 |45|30| 0 | TC
+13 |CSC14101 | An dữ liệu và chia sẻ thông tin 4 14530 0 | TC
+14 |CSC14111 | Nhập môn thiết kế và phân tích giải thuật| 4 | 45 |30| 0 | TC
+15 |CSC14120 | Lập trình song song 4 |45|30|10 TC
+16 | CSC14117 | Nhập môn lập trình kết nối vạn vật 4 |45|30| 0 | TC
+17 | CSC14118 | Nhập môn dữ liệu lớn 4 |45|30| 0 | TC
+18 | CSC17001 | Phân tích dé liệu thông minh 4 |45|30| 0 | TC
+19 |CSC17104 | Lập trình cho khoa học dir liệu 4 |45|30|1 0 TC
+20 |CSC15107 | Phân tích dữ liệu bảo toàn tính riéngtu | 4 | 45 | 30] 0 | TC
+21 |CSC15008 | Xử lý ngôn ngữ tự nhiên ứng dụng 4 |45|30| 0 | TC
+22 |CSC15002 | Bao mật cơ sở dữ liệu 4 |45|30| 0 | TC
+23. | CSC15010 | Blockchain và ứng dụng 4 |45|30|1 0 | TC
+24 |CSC12001 thẳng Bg tất dữ liga trang Hộ 4 |45|30| 0 | TC
+25 |CSC16003 | Phân tích thống kê dữ liệu nhiều biến 4 |45|30| 0 | TC
+26 |CSC16106 sie ant lập trình điều khiến thiết bị a | as |E8| o | ae
+27 |CSC16107 | Ung dung thị giác máy tính 4 |45|30|10 TC
+28 |CSC16109 | Ứng dụng xử lý ảnh số và video số 4 |45|30| 0 | TC
+TỎNG CỘNG 8
+
+7.2.2.9.3 Kiến thức tự chon tự do
+Nếu số tín chỉ của (N9+M9) học phần nói trên chưa đủ 34 tín chỉ thì sinh viên tiếp tục tích lũy đủ ít
+nhất 34 tín chỉ cho phần kiến thức ngành của khối kiến thức giáo dục chuyên nghiệp, bằng cách chọn
+trong danh sách các học phần được liệt kê sau đây:
+
+MÃ HỌC TÊN HOC HN SÓ | SOTIET |Loat| GHI
+PHAN : TC [[T|TH|pr| HP | CHU
+
+STT
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 21/36
+
+--- Trang 22 ---
+L |cscilll4|DfS đựng dịch vụdiệntoánđámây | + | ys |ag| g | r6
+cho doanh nghiệp
+
+2 | CSC12112 | Môi trường và công cụ cho tiếp thị số 4 |45 300 | TC
+
+3 |CS§C12113 Nhập môn quản trị môi quan hê khách 4 .l45l30Ì 0 | TC
+hàng - sản phâm
+
+4 |CSC13119 | Lập trình Web I 4 | 45 | 30] 0} TC
+
+5 | CSC13120 | Lập trình Web 2 4 |4513010 | TC
+
+6 |CSC13121 | Lập trình ứng dụng quản lý I 4 |4513010 | TC
+
+7 | CSC13122 | Lập trình ứng dụng quản lý 2 4 |4513010 | TC
+
+8 | CSC00008 | Lý thuyết đồ thị 4 |45|30| 0 | TC
+
+Hoặc các học phần thuộc các mục sau đây:
+
+— mục 7.2.2 Kiến thức ngành/ chuyên ngành của các ngành/ chuyên ngành sau: chuyên ngành
+
+Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+
+Khoa học máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tính,
+
+chuyên ngành An toàn thông tin, chuyên ngành Khoa học dữ liệu;
+
+— mục 7.2.3 Kiến thức tốt nghiệp, không kể các học phần CSC10251 - Khóa luận tốt nghiệp,
+
+CSC10252 - Thực tập tốt nghiệp và CSC10204 - Thực tập dự án tốt nghiệp.
+
+7.2.3. Kiến thức tốt nghiệp
+
+7.2.3.1 Chuyên ngành Mạng máy tính và Viễn thông
+
+STT ba TÊN HỌC PHAN An rT eos kê
+1 |Chọn 10 tín chi từ các học phần tốt nghiệp sau:
+CSC10251 |Khóa luận tốt nghiệp 10 | 0 |300| 0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 | 0 |300| 0 | TC
+CSC10204 |Thực tập dự án tốt nghiệp 6 | 0 |180| 0 | TC
+CSC11111 |Chuyên đề tốt nghiệp Mang máy tính 4 |45|30| 0 | TC
+CSC11112 |Chuyên dé Hệ thống phân tán 4 |45|30| 0 | TC
+CSC14117 |Nhập môn lập trình kết nối vạn vật 4 |45|301 0 | TC
+TONG CỘNG 10
+7.2.3.2 Ngành Hệ thống thông tin
+STT “+ TÊN HỌC PHAN he SO MET — ¿nh
+LTỊTH |BT
+
+Chọn 10 tín chỉ từ các học phần tốt nghiệp sau:
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 22/36
+
+--- Trang 23 ---
+CSC10251 |Khóa luận tốt nghiệp 10 |0 |300|0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 |0 |300|0 | TC
+CSC10204 | Thực tập dự án tốt nghiệp 6 0 |180|0 | TC
+Hệ thống thông tin phục vụ trí tuệ kinh
+CSC12107 4 |45130|0| TC
+doanh
+CSC12108 |Ứng dụng phân tán 4 |45130|0| TC
+CSC12111 |Quản trị cơ sở dữ liệu hiện đại 4 |45|30 |0 TC
+TỎNG CỘNG 10
+7.2.3.2 Ngành Kỹ thuật phần mềm
+MÃ HỌC 4 š sO | SÓ TIẾT |LOẠI| GHI
+STT Se TEN HOC PHAN ` P
+PHAN . TC |ILT/TH|BT| HP | CHU
+1 |Chọn 10 tín chi từ các hoc phan tốt nghiệp sau:
+CSC10251 [Khóa luận tốt nghiệp 10 |0 |300| 0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 |0 J300| 0 | TC
+CSC10204 |Thực tập dự án tốt nghiệp 6 |0 |180| 0 | TC
+CSC13114 [Phát triển ứng dụng web nâng cao 4 |45)30| 0} TC
+Ge bine Các công nghệ mới trong phát triển phan 4 l4s|aø| ø | ne
+mêm
+CSC13116 |Đồ án Công nghệ phần mềm 4 |45|30| 0 | TC
+CSC13117 [Phát triển game nâng cao 4 |45|30| 0} TC
+Phat trién ung dung cho thiết bị di động nâng
+CSC13118 4 |45|30|0 | TC
+cao
+TONG CONG 10
+7.2.3.4 Nganh Khoa hoc may tinh
+MÃ HỌC . . só | SOTIET |LOẠI| GHI
+STT a TEN HỌC PHAN . i
+PHAN TC |LT|THÍBT| HP | CHU
+1 |Chọn 10 tin chi từ các học phan tốt nghiệp sau:
+CSC10251 |Khóa luận tốt nghiệp 10 | 0 J300| 0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 | 0 J300| 0 | TC
+CSC10204 | Thực tập dự án tốt nghiệp 6 |0 |J180| 0 | TC
+CSC14114 |Ứng dụng dữ liệu lớn 4 |45|30|0 | TC
+CSC14115 |Khoa học dữ liệu ứng dụng 4 |45|1301 0 | TC
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 23/36
+
+--- Trang 24 ---
+STT MÃ HỌC TÊN HỌC PHAN sỐ | SỐ TET Loạt CHI
+PHAN . TC |LT|TH|Br| HP | CHU
+1 |Chọn 10 tín chi từ các học phan tốt nghiệp sau:
+CSC14116 | Lập trình song song ứng dung 4 |45|30| 0 | TC
+TONG CONG 10
+7.2.3.5 Chuyén nganh Cong nghé tri thire
+STT ee TEN HỌC PHAN ae oom s Chu
+LT |TH | BT
+1 |Chọn 10 tin chi từ các học phần tốt nghiệp sau:
+CSC10251 |Khóa luận tốt nghiệp 10 | 0 |300} 0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 | 0 |300} 0 | TC
+CSC10204 |Thực tập dự án tốt nghiệp 6 |0 {180} 0 | TC
+—— ee an Mã hoa ứng dụng và an ninh thông 6 |0 l1s0l 0 | tc
+CSC15202 |Đồ án Ngôn ngữ học tính toán 6 |0 |180| 0 | TC
+CSC15104 |An toàn và phục hồi dữ liệu 4 |45|30|0 | TC
+CSC15105 |Khai thác dữ liệu văn bản và ứng dụng 4 |J45|130|0 | TC
+CSC15106 |Seminar Công nghệ tri thức 4 |45|30|0 | TC
+TONG CỘNG 10
+7.2.3.6 Chuyên ngành Thị giác máy tính
+STT MÃ Học TÊN HỌC PHAN a4 o_ ea ni
+LT |TH | BT
+1 |Chọn 10 tin chi từ các hoc phần tốt nghiệp sau:
+CSC10251 |Khóa luận tốt nghiệp 10 | 0 |300} 0 | TC
+CSC10252 |Thuc tập tốt nghiệp 10 | 0 |300} 0 | TC
+CSC10204 | Thực tập dự án tốt nghiệp 6 |0 |180| 0 | TC
+CSC16110 |Chuyên dé Đồ họa máy tinh 4 |45|30|0 | TC
+CSC16111 |Chuyên đề Thị giác máy tính 4 |45|30|0 | TC
+CSC16112 |Chuyên đề Xử lý anh số và video số 4 |45|30|0 | TC
+TONG CỘNG 10
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 24/36
+
+--- Trang 25 ---
+7.2.3.7 Chuyên ngành An toàn thông tin
+
+STT TH HÀNG TEN HỌC PHAN A4 oO TIRE wet eat
+LT |TH | BT
+1 |Chon 10 tin chi từ các học phan tốt nghiệp sau:
+CSC10251 [Khóa luận tốt nghiệp 10 |0 |300} 0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 | 0 |300} 0 | TC
+CSC10204 |Thực tập dự án tốt nghiệp 6 |0 |180| 0 | TC
+Ci8/I3B0i os an Ma hoa tng dung va an ninh thong 6 |0 l1s0l 0 | tc
+CSC15104 |An toàn và phục hồi dữ liệu 4 |45|30|0 | TC
+TỎNG CỘNG 10
+7.2.3.8 Chuyên ngành Khoa học dữ liệu
+SP MÃ HỌC TÊN HỌC PHAN SỐ | SÓ TIẾT |LOẠI GHI
+PHÁN TC |LTỊTH |BT| HP | CHU
+1 |Chọn 10 tín chỉ từ các học phan tốt nghiệp sau:
+CSC10251 [Khóa luận tốt nghiệp 10 | 0 |300| 0 | TC
+CSC10252 |Thực tập tốt nghiệp 10 | 0 |300| 0} TC
+CSC10204 |Thực tập dự án tốt nghiệp 6 |0|180|0| TC
+CSC17107 |Ứng dụng phân tích dit liệu thông minh 4 J45|30|0| TC
+CSC14115 |Khoa học dữ liệu ứng dụng 4 |45130 |0] TC
+CSC14116 |Lập trình song song ứng dụng 4 |J45|30|0| TC
+TỎNG CỘNG 10
+
+7.2.3.9 Chuyên ngành Công nghệ thông tin
+
+Sinh viên tích lũy ít nhất 10 tín chỉ cho khối kiến thức tốt nghiệp, bằng cách chọn trong danh sách
+
+các học phần tốt nghiệp được liệt kê sau đây:
+
+MÃ HỌC A . SÓ|I SOTIET |LOẠI | GHI
+STT .. TEN HỌC PHAN ° „
+PHẢN . TC | LT [TH [BT| HP | CHÚ
+1 | CSC10251 | Khóa luận tốt nghiệp 10 300| 0 | TC
+2 | CSC10252 | Thực tập tốt nghiệp 10 300| 0 | TC
+3 | CSC10204 | Thực tập dự án tốt nghiệp 6 180] 0 | TC
+4 | CSC10202 | Chuyên đề Tổ chức dữ liệu 6 |60|60 |0 | TC
+Chuyên đề Thiết kế phần mềm nâng
+5_ | CSC10203 6 | 60} 60 | 0 | TC
+cao
+6 | CSC13123 | Đồ án Phan mềm 6 |60|60|0 | TC
+TỎNG CỘNG 10
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 25/36
+
+--- Trang 26 ---
+Hoặc các học phần thuộc mục 7.2.3 Kiến thức tốt nghiệp, của các ngành/ chuyên ngành sau: chuyên
+ngành Mạng máy tính và Viễn thông, ngành Hệ thống thông tin, ngành Kỹ thuật phần mềm, ngành
+Khoa học máy tính, chuyên ngành Công nghệ tri thức, chuyên ngành Thị giác máy tính, chuyên ngành
+An toàn thông tin, chuyên ngành Khoa học dữ liệu.
+
+8. KE HOẠCH GIẢNG DAY (dự kiến)
+
+8.1 Từ học kỳ 1 đến học kỳ 6
+
+Gồm các học phần thuộc khối kiến thức giáo dục đại cương và các học phần cơ sở ngành (thuộc
+
+khối kiến thức giáo dục chuyên nghiệp):
+
+A ˆ › ỗ SÓ TIẾT „
+STT “+ TÊN HỌC PHÀN oe ae im al ae GHI CHU
+HỌC KỲ 1
+1 |BAA00030 |Giáo dục quốc phòng BB 4 0 0 0
+2 |CSC00004 |Nhập môn Công nghệ thông tin BB 4 | 45 | 30] 0
+3 |CSC10001 |Nhập môn lập trình BB | 4 |45|30| 0
+4 |CSC10101 |Kỹ năng mềm TC | 3 |30|45| 0
+5 |MTH00009 |Toán rời rac BB | 4 |45|30| 0
+6 |BAA00005 |Kinh tế đại cương TC | 2 |J30|0 |0
+7 |BAA00006 |Tâm lý đại cương tc | 2 |30|0|0 ee me
+8 |BAA00007 |Phương pháp luận sáng tao TC 2 |30|1 0 0
+HỌC KỲ 2
+1 |BAA00101 |Triết học Mác - Lénin BB | 3 |45|0 | 0
+2 |BAA00102 |Kinh tế chính tri Mác - Lênin BB 2 30 0
+3 |CSC10002 |Kỹ thuật lập trình BB | 4 |45|30| 0
+4 |MTH00005 | Vi tích phan 1 BB | 4 | 45 | 30 | 0
+6 |PHY00005 | Vật lý đại cương 1 TC | 4 | 45 | 30 | 0 |Chọn 8 TC”
+HỌC KỲ 3
+1 |BAA00103 |Chủ nghĩa xã hội khoa học BB 2 30 | 0 0
+2 |CSC10004 |Cấu trúc dé liệu và giải thuật BB | 4 |45|30| 0
+3 |MTH00006 | Vi tích phân 2 BB | 4 | 45 | 30 | 0
+4 |MTH00008 |Dai số tuyến tinh BB | 4 | 45 | 30] 0
+5 |BIO00001 |Sinh đại cương 1 TC | 3 |45|0 10 | ,„ -
+Nêu © chưa đủ
+6 |BIO00081 |Thực tập sinh đại cương l TC 1 0 130 | 0 |$7C thì chọn
+7 |CHE00001 |Hóa đại cương | TC | 3 | 30 | 0 | 30 |/hên học phan
+8 |CHE00081 |Thực hành Hóa DC 1 TC |2 |0 |ø0| o |“947C
+HỌC KỲ 4
+1 |BAA00003 |Tư tưởng Hồ Chí Minh BB | 2 |30|0 | 0
+2 |BAA00021 |Thé dục 1 BB | 2 | 15 | 30} 0
+3 |CSC10003 |Phuong pháp lập trình hướng đối tượng BB 4 | 45 | 30] 0
+4 |CSC10009 |Các hệ thống máy tính BB | 2 | 30] 0 | 0
+5 |MTH00050 |Toán học tổ hợp BB | 4 |45|30| 0
+6 |BIO00002 |Sinh đại cương 2 TC 3 | 45 | 0 0 |Nếu!2 chua đủ
+7 |BIO00082 |Thực tập sinh đại cương 2 TC 1 0 | 30 | 0 |8ZC thi chon
+
+Chương trình đào tạo — Chương trình Chat lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 26/36
+
+--- Trang 27 ---
+CHE00002 |Hóa đại cương 2 TC | 3 |30| 0 | 30 |tém hoc phan
+R R cho đủ 8TC
+CHE00082 |Thực hành Hóa DC 2 TC 2 0 60 0
+HỌC KỲ 5
+1 |BAA00022 |Thé duc 2 BB 2 15 | 30 0
+2 |BAA00104 |Lich sử Dang Cộng sản Việt Nam BB 2 30 | 0 0
+3 |CSC10007 |Hệ điều hành BB 4 45 | 30 |] 0
+4 |CSC10008 |Mang máy tinh BB 4 | 45 | 30] 0
+5 |MTH00007 |Xác suất thống kê BB | 4 | 45 | 30 | 0
+6 |ENV00001 |Môi trường đại cương TC | 2 |30 | 0 | 0 |Nếu”) chưa du
+NA AT ` 8TC thì chọn
+7 |ENV00003 |Con người và môi trường TC 2 13010 0 5 3
+= thém hoc phan
+8 |GEO00002 |Khoa hoc trai dat TC 2 30 | 0 0 |cho đủ 8TC
+HỌC KỲ 6
+1 |BAA00004 |Pháp luật đại cương BB 3 45 0 0
+2 |CSC10006 |Cơ sở dữ liệu BB 4 | 45 13010
+3 |CSC14003 |Cơ sở trí tuệ nhân tạo BB 4 | 45 | 30] 0
+4 |MTH00051 |Toán ứng dung và thống kê TC 4 | 45 | 30] 0
+5 |CSC10105 |Nhập môn tư duy thuật toán TC | 4 |45|30| 0 lấn me chon
+
+8.2 Tir hoc ky 7 dén hoc ky 12
+
+Gồm các học phan thuộc khối kiến thức nganh/ chuyên ngành (t
+
+chuyên nghiệp) và kiến thức tốt nghiệp.
+
+8.2.1 Chuyên ngành Mạng máy tính và Viễn thông
+
+huộc khôi kiên thức giáo dục
+
+STT ee TEN HOC PHAN con se na GHI CHU
+
+Học kỳ 7
+
+1 |CSC13002 _ |Nhập môn công nghệ phần mềm BB | 4 |45|30|0
+
+2_|MTH0005I |Toán ứng dụng và thông kê TC 4 | 45 | 30 | 0
+
+3 |CSC11004 |Mạng máy tính nâng cao TC 4 | 45 | 30 | 0
+
+4 |CSCI5005_ |Nhập môn mã hóa — mật mã TC | 4 | 45 | 30] 0
+
+5_ |CSCI5006 _ |Nhập môn xử lý ngôn ngữ tự nhiên TC | 4 | 45 |30| 0
+
+6 _|CSCI6005 |Xử lý ảnh số và video số TC | 4 | 45 |30 | 0
+
+7 |PHY00006 |Vật lý đại cương 2 TC | 4 | 45 |30| 0
+Học kỳ 8
+
+1 |CSC10102 |Kiến tập nghề nghiệp TC | 2 | 15 | 30} 0 lâu ne chon
+
+2 |CSC10104 |Quy hoạch tuyến tính TC | 4 |45 |30| 0 lậu ks chon
+
+3 |CSC10106 [Thuật toán tổ hợp va ứng dụng TC | 4 | 45 | 30 | 0 lấn ne chon
+
+4 |CSC11002 |Hệ thống viễn thông TC | 4 |45 |30 | 0
+
+5 |CSCI1103 |Thiết kế mang TC | 4 | 45 | 30 | 0
+
+6 }CSC11113 |Quản trị dịch vụ mạng TC 4 45 | 30 | 0
+
+7 |CSCI5001 |An ninh máy tính TC 4 45 | 30 | 0
+
+8 |CSC14001 |Automata và ngôn ngữ hình thức TC 4 | 45 | 30 | 0
+
+9 |CSC14005 [Nhập môn hoc may TC 45 | 30] 0
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 27/36
+
+--- Trang 28 ---
+10 |CSC15003 |Mã hóa ứng dụng TC | 4 | 45 | 30 | 0
+Hoc ky 9
+1 |CSCI0107 |Thực tập thực tế TC | 4 |30 |60 | 0 | chọn
+2 |CSC10103 |Khởi nghiệp TC | 3 | 30 |30 | 0 |ehung
+Học kỳ 10
+1 |CSCI0204 |Thực tập dự án tốt nghiệp TC 6 0 |180| 0
+2 |CSC11112 |Chuyên dé Hệ thống phân tán TC | 4 | 45 | 30 | 0 Chon OI hinh
+5 R thức tot nghiệp
+3 JCSCI025I |Khóa luận tot nghiệp TC 10 300 | 9 |¿707C)22
+4 |CSC10252 |Thực tập tot nghiệp TẾ 10 300 | 0
+5 |CSC11003 |Lập trình mạng TC 4 45 | 30 | 0
+6 |CSC11005 [Thực tập mang máy tinh TC 4 45 | 30 | 0
+Hoc ky 11
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 |180| 0 |Nếu 2? chưa
+2 |CSCIIIII |Chuyên đề tốt nghiệp Mạng máy tính TC | 4 | 45 |30 | 0 |đ¿/10TCì
+: B chọn thêm học
+3 |CSC10251 |Khóa luận tot nghiệp TC 10 300| 0 phan cho đủ
+4 |CSC10252 |Thực tập tốt nghiệp TC | 10 300| 0 |107C
+5 /CSC11106 |Truyền thông không dây TC | 4 |45 |30 | 0
+6 |CSCI1107 |Truyền thông kỹ thuật số TC | 4 | 45 |30| 0
+Học kỳ 12
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC | 6 180 | 0 |Mếu”” chưa
+2 _|CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 Lia ne óc
+3 |CSC10252 |Thực tập tốt nghiệp TC | 10 | 0 |300| 0 phan cho ai
+8.2.2. Ngành Hệ thống thông tin
+STT .. TÊN HỌC PHÀN —_ Si Trả m GHI CHÚ
+Học kỳ 7
+1 | MTH00051 |Toán ứng dụng và thống kê TC 4 | 45 | 30 | 0
+2 | CSC13002 |Nhập môn công nghệ phan mềm BB 4 | 45 | 30 | 0
+3 | PHY00006 | Vat ly đại cương 2 TC | 4 | 45 | 30] 0
+4 | CSC12002 |Cơ sở dữ liệu nâng cao TC 4 | 45 |301 0
+5 | CSC12003 |Hệ quan trị co sở dữ liệu TC 4 | 45 | 30 0
+Hoc ky 8
+1 | CSC10102 |Kiến tập nghề nghiệp te |2 | 1s | 30] 0 lấn i chon
+2 | CSC10104 |Quy hoạch tuyến tinh TC |4 |4s|30| 0 lấn mn hon
+3 | CSC10106 |Thuật toán tổ hợp và ứng dụng TC | 4 | 45 | 30 | 0 lu kủ chọn
+4 | CSC12001 Riiiinrin tất đH-u Mong Hộ TC | 4 | 45 | 30] 0
+5 | CSC12004 |Phân tích thiết kế hệ thống thông tin TC | 4 | 45 | 30 |] 0
+6 | CSC12103 ch ng Hệ quân BH] cơ sở dit liệu TC | 4 | 45 | 30 | 0
+7 | CSC12109 |Hệ thống thông tin doanh nghiệp TC 4 |45 | 30 | 0
+
+Chương trình đào tạo — Chương trình Chat lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 28/36
+
+--- Trang 29 ---
+Học kỳ 9
+1 | CSC10107 |Thực tập thực tế TC 4 30 | 60 0 |HP tw chon
+2 | CSC10103 |Khởi nghiệp TC | 3 | 30 | 30 | 0 |chung
+Hoc ky 10
+1 CSC10204 |Thực tập dự an tốt nghiệp TC 6 0 |180| 0
+2 | CSC12107 oH thong thông tin phục vu trí tuệ kinh TC 4 | 45 | 30 0 Chon ol hình
+oanh thức tot nghiệp
+3 | CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 |070Ẻ”
+4 | CSC10252 |Thực tập tốt nghiệp TC | 10 300| 0
+5 | CS§C12005 Phát triên ứng dụng hệ thông thông tin TC 4.145 30] 0
+hiện đại
+6 | CSC12105 |Thương mại điện tử TC 4 45 | 30 0
+7 | CSC12106 |Tương tác người — máy TC 4 | 45 | 30 | 0
+8 | CSC12110 |Phân tích dữ liệu ứng dụng TC 4 | 45 | 30} 0
+Hoc ky 11
+1 | CSC10108 |Truc quan hoa dữ liệu TC 4 | 45 | 30 0
+2 | esci2102 Chuyên dé chọn lọc trong Hệ thong TC 4 l4sl30l 0
+thông tin
+3 | CSC10204 |Thực tập dự án tốt nghiệp TC |6 | 0 |J180| 0 |,
+4 | CSC12111 |Quản trị cơ sở đữ liệu hiện đại TC | 4 | 45 |30 | 0 |Neul? cua
+Quản ri cơ sở dữ liệu hiện đại đủ OTC thì
+5 | CSC12108 |Ung dụng phân tán TG 4 | 45 | 30 0 |chọn thêm học
+6 | CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 mm đủ
+7 | CSC10252 |Thực tập tốt nghiệp TC | 10 300| 0
+Học kỳ 12
+1 | CSC10204 |Thực tập dự án tốt nghiệp TC | 6 180 | 0 Nếu Hà
+—. = lì 10TC thì
+2 | CSC10251 |Khóa luận tốt nghiệp TC 10 300 chọn thêm học
+3| CSC10252 |Thực tập tốt nghiệp TC |10| 0 |300| 0 | hệ cho du
+8.2.3 Ngành Kỹ thuật phan mềm
+MÃ HỌC : , LOẠI | SÓ |__ SO TIẾT ;
+STT PHAN TEN HOC PHAN HP |TC| Lr] THI BT GHI CHU
+Hoc ky 7
+1 |CSC13002 |Nhập môn công nghệ phần mềm BB 4 45 | 30 0
+2 |MTHO00051 |Toán ứng dụng và thống kê TC 4 45 | 30 0
+3 |PHY00006 | Vật lý đại cương 2 TC 4 45 30 0
+4 |CSC13008 |Phát triển ứng dụng web TC 4 45 | 30 0
+5 |CSC13102 |Lập trình ứng dụng Java TC 4 45 | 30 0
+Hoc ky 8
+1 |CSC10102 |Kiến tập nghề nghiệp TC | 2 | 15 |30 | 0 ly nh Siợn
+2 _|CSC10104 |Quy hoạch tuyến tính TC | 4 | 45 |30 | 0 ly ng chon
+3 |1CSC10106 |Thuật toán tổ hợp và ứng dung TC |4 | 45 | 30 |0 | chọn
+4 |CSC13005 |Phân tích và quan lý yêu cầu phần mềm | TC | 4 | 45 | 30 | 0
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 29/36
+
+--- Trang 30 ---
++: Ìg#@fRöjö Hà triển phần mềm cho thiết bị di TC | 4 |l4sl30 |0
+CSCI3001 |Lập trình Windows TC 4 45 | 30
+CSC13010 |Thiết kế phần mềm TC | 4 | 45 | 30
+8 |CSC14005 [Nhập môn học máy TC | 4 | 45 | 30 | 0 el
+9 |CSC16106 đinh trình điêu khiên thiệt bi TC 4 45 30 0 TH
+Học kỳ 9
+CSC10107 |Thực tập thực tế TC | 4 | 30 | 60 | 0 |p uechon
+2 |CSC10103 |Khởi nghiệp TC | 3 | 30 |30 | 0 |ehung
+Học kỳ 10
+I1 |CSCI0204 |Thực tập dự án tốt nghiệp TC 6 0 180 | 0
+2 ÍCSC13118 Phát trién ứng dụng cho thiệt bị di động TC 4 45 | 30 0 chon hinh
+nang cao _
+3 |CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 ea
+4 |CSC10252 |Thực tập tốt nghiệp TC | 10 300 | 0
+5 |CSC13003 |Kiểm thử phan mềm TC | 4 | 45 | 30 | 0
+6 |CSC13006 |Quản lý dự án phần mềm TC | 4 | 45 |30 | 0
+7 |CSC13007 |Phát triển game TC | 4 | 45 | 30 | 0
+8 JCSC13103 |Công nghệ Java cho hệ thống phân tán TC 4 45 | 30 0
+9 |CSC13106 |Kién trúc phan mềm TC | 4 | 45 | 30 | 0
+10 |CSC13107 i kê hướng đôi tượng và ứng TC 4 45 | 30 0
+11 |CSC13108 |Mô hình hóa phần mềm TC | 4 | 45 | 30 | 0
+12 |CSC13112 |Thiết kế giao diện TC | 4 | 45 |30 | 0
+Học kỳ 11
+1 |CSC13101 Cio eb đề nâng cao trong Công nghệ TC 4 45 | 30 0
+2 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 180 | 0
+3 ICSCI3115 Cac cong nghé mdi trong phat trién TC 4 45 | 30 0
+phân mêm 'Nếu #9 aluyg
+4 |CSCI3l116 |Do án Công nghệ phân mêm TC 4 45 | 30 0 |du 107C thì
+5 |CSC131I17 |Phát triển game nâng cao TC | 4 | 45 | 30 | 0 Ph, ten al
+6 |CSC13114  |Phát trién ứng dung web nâng cao TC 4 45 30 0 [707C
+7 |CSC10251 |Khóa luận tốt nghiệp TC 10 0 | 300) 0
+8 |CSC10252 |Thực tập tốt nghiệp TC |10 | 0 |300| 0
+Học kỳ 12
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC | 6 180 | 0 |New? chia
+2 |CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 [en
+3 |csc10252 |Thực tập tốt nghiệp TC |10| 0 | 300] 0 ree ae
+8.2.4 Ngành Khoa hoc máy tính
+STT xo TÊN HỌC PHÀN ie <0 a ea GHI CHU
+Hoc ky 7
+
+Chương trình đào tạo — Chương trình Chat lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 30/36
+
+--- Trang 31 ---
+1 | CSC13002 |Nhập môn công nghệ phần mềm BB | 4 |45 |30 | 0
+2 |MTH00051 |Toán ứng dụng và thống kê TC 4 45 | 30 0
+3 | PHY00006 |Vật lý đại cương 2 TC 4 45 30 0
+4 | CSC14004 |Khai thác dữ liệu và ứng dụng TC 4 45 | 30 0
+5 | CS§CI4111 Nhập môn thiết kê và phân tích giải TC 4 45 | 30 0
+thuat
+Hoc ky 8
+1 | CSC10102 |Kién tập nghề nghiệp TC | 2 | 15 | 30 | 0 JP chọn
+2 | CSC10104 |Quy hoạch tuyến tính TC | 4 | 45 | 30 | 0 |chung
+3 | CSC10108 |Trực quan hóa dữ liệu TC 4 45 | 30 0
+4 | CSC14001 |Automata và ngôn ngữ hình thức TC 4 45 | 30 0
+5 CSC14006 |Nhan dang TC 4 45 30 0
+6 | CSC14008 |Phuong pháp nghiên cứu khoa học TC 4 45 | 30 0
+7 | CSC14118 |Nhập môn dữ liệu lớn TC 4 45 30 0
+8 | CSC14005 |Nhập môn học máy TC 4 45 | 30 0
+9 | CSC16005 |Xử ly ảnh sé và video số TC | 4 | 45 | 30 | 0
+Hoc ky 9
+1 | CSC10107 |Thực tập thực tế TC | 4 | 30 | 60 | 0 Jap nechon
+2 | CSC10103 |Khởi nghiệp TC | 3 | 30 | 30 | 0 |chung
+Học kỳ 10
+1 | CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 180 | 0 |Chọn 0T hình
+3 | CSC10251 |Khóa luận tốt nghiệp TC | 10| 0 |300| 0 me me
+4 | CSC10252 |Thực tập tốt nghiệp TC | 10 | 0 |300| 0 |/7/7C#?
+5 | CSC14109 |Logic mờ và ứng dụng TC 4 45 | 30 0
+6 | CSC14119 |Nhập môn khoa học dữ liệu TC 4 45 | 30 0
+7 | CSC14120 |Lập trình song song TC 4 45 | 30 0
+8 | CSC14112 |Sinh trắc học TC | 4 | 45 | 30 | 0
+9 | CSC17001 |Phân tích dữ liệu thông minh TC 4 45 | 30 0
+Hoc ky 11
+1 CSC14002 |Các hệ cơ sở tri thức TC 4 45 30 0
+2 | CSC14101 |An dữ liệu và chia sẻ thông tin TC 4 45 | 30 0
+3 | CSC14105 |Khoa học về web TC 4 45 | 30 0
+4 | CSC14113 |Trình biên dịch TC 4 | 45 | 30 0
+5 | CSC14117 |Nhập môn lập trình kết nối van vật TC | 4 | 45 |30 | 0
+6 | CSC10204 |Thực tập dự án tốt nghiệp TC | 6 | 0 |180| 0 [Neu ©” chưa
+7_| CSC14114 |Ứng dụng dữ liệu lớn TC | 4 | 45 |30 |0 em
+8 | CSC10251 |Khóa luận tôt nghiệp TC 10 0 |300| 0 học phan cho
+9 | CSC10252 |Thực tập tốt nghiệp TC |10| 0 |300| ọ |
+Học kỳ 12
+1 | CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 |180| 0 ¬
+2_| CSC14115 |Khoa học dữ liệu ứng dụng TC | 4 | 45 |30 | 0 [ng
+3 | CSC14116 |Lập trình song song ứng dụng TC 4 45 | 30 0 |chon thêm
+4 | CSC10251 |Khóa luận tốt nghiệp TC | 10] 0 |300| 0 oe cho
+5 | CSC10252 |Thực tập tốt nghiệp Tc |10 | 0 |300| 0
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 31/36
+
+--- Trang 32 ---
+8.2.5 Chuyên ngành Công nghệ tri thức
+
+MÃ HỌC ^ . LOAI| SO SO TIET „
+STT PHẢN TEN HỌC PHAN HP |tc| LT [TH | BT GHI CHU
+Học kỳ 7
+1 |CSC13002 |Nhập môn công nghệ phần mềm BB | 4 | 45 | 30 | 0
+2 |MTH00051 |Toán ứng dụng va thống kê TC 4 | 45 | 30 0
+3 |PHY00006 | Vat ly đại cương 2 TC 4 45 30 0
+4 |csc14007 id môn phân tích độ phức tap thuật TC 4 | 45 | 30 0
+5 |CSC15005 |Nhập môn mã hóa — mat mã TC 4 45 | 30 0
+6 |CSC15006 |Nhập môn xử lý ngôn ngữ tự nhiên TC 4 | 45 | 30 0
+Học kỳ 8
+1 |CSC10102. |Kiến tập nghề nghiệp TC |2 |15|30 | 0 JP i eho
+2 |csc10104 |Quy hoạch tuyến tính TC | 4 | 45 | 30 | 0 lấn me chon
+3 |CSC10106 |Thuật toán tổ hop và ứng dung TC | 4 | 45 | 30 | 0 JP ks chạm
+4 |CSC15002 |Bảo mật cơ sở dữ liệu TC 4 45 | 30 0
+5 |CSCI5003 |Mã hóa ứng dụng TC 4 | 45 | 30 0
+6 |CSC15007 |Thống kê máy tinh và ứng dụng TC 4 | 45 | 30 0
+7 |CSCI5008 |Xử lý ngôn ngữ tự nhiên ứng dụng TC 4 | 45 | 30 0
+8 |CSC15004 |Học thống kê TC | 4 | 45 |30 | 0
+9_|CSCI5I05 |Khai thác dữ liệu văn bản va ứng dụng TC 4 | 45 | 30 0
+Học kỳ 9
+1 |CSC10107 |Thực tập thực tế TC | 4 | 30 | 60 | 0 |xpnechon
+2 |CSC10103 |Khởi nghiệp TC | 3 | 30 | 30 | 0 [chung
+Học kỳ 10
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC | 6 | 0 |180| 0
+2 |CSC15104 |An toàn và phục hồi dữ liệu TC 45 | 30 0 | Chọn 01 hình
+3 |CSC15106 |Seminar Công nghệ tri thức TC | 4 | 45 | 30 | 0 =_— ¬
+4 |CSC10251 |Khóa luận tốt nghiệp TC |10 | 0 |300| 0 |/07@
+5 |CSC10252 |Thực tập tốt nghiệp TC |10| 0 |300| 0
+6 |CSCI5001 |An ninh máy tính TC 4 | 45 | 30 0
+7 |CSC14120 |Lập trình song song TC 4 | 45 | 30 0
+8 |CSC15102 |Phân tích mang xã hội TC 4 45 30 0
+9 |CSCI6106 Nhập môn lập trình điêu khiên thiệt bị TC 4 45 | 30 0
+thông minh
+10 | cscisoi1 |Nhập môn ngôn ngữ học thông kê | t | 4 | 45 | 30 | 0
+và ứng dụng
+Học kỳ 11
+1 |CSC15009 |Xử lý tín hiệu số T1 4 | 45 | 30 0
+2 |CSC14101 |An đữ liệu va chia sẻ thông tin TC 4 | 45 | 30 0
+3 |CSCI5103 |Tính toán tai chính TC 4 45 | 30 0
+4 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 | 180) 0 |Néu ©? chưa
+Đồ án Mã hóa ứng dụng và an ninh đủ 10TC thì
+5 |CSCIS201 lan tin BÓN TC | 6 | 0 |180| 0 loan thém
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 32/36
+
+--- Trang 33 ---
+CSC15202 |Đồ án Ngôn ngữ học tính toán TC | 6 | 0 | 180 học phân cho
+CSC10251 |Khóa luận tốt nghiệp TC |10 | 0 |300 nhang
+CSC10252_ |Thực tập tốt nghiệp TC |10 | 0 |300
+Học kỳ 12
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC | 6 | 0 |180 New t9 chưa
+2 |CSC10251 |Khóa luận tốtnghiệp TC |10| 0 | 300 ky cha
+3 |CSC10252 |Thực tập tốt nghiệp tc |10| 0 |300| 0 oa cho
+8.2.6 Chuyên ngành Thi giác máy tính
+MÃ HỌC a x LOẠI | SO SỐ TIẾT “
+STT| ` pHẦN TEN HỌC PHAN nỉ b C[IrITHIBr | GHI CHÚ
+Học kỳ 7
+1 |CSC13002 |Nhập môn công nghệ phần mềm BB 4 45 | 30 0
+2 |MTHO00051 |Toán ứng dụng và thống kê TC 4 45 | 30 0
+3 |CSC16001 |Đồ họa máy tinh TC | 4 | 45 | 30 | 0
+4 |CSC16005 |Xử lý ảnh số va video số TC | 4 | 45 |30 | 0
+5 |PHY00006 | Vật ly đại cương 2 TC | 4 | 45 | 30 | 0
+Học kỳ 8
+1 |CSC16003 |Phân tích thống kê dữ liệu nhiều biến Tc | 4 | 45 | 30 | 0
+2 |CSC16004 |Thị giác máy tính TC 4 45 | 30 0
+3 |CSC16101 |Đồ hoa ứng dụng TC | 4 |45 | 30 | 0
+4 |CSC16109 |Ung dụng xử lý ảnh số và video số TC | 4 | 45 | 30 | 0
+Học kỳ 9
+1 |CSCI0107 |Thực tập thực tế TC | 4 | 30 | 60 | 0 [xP uechon
+2 |CSC10103 |Khởi nghiệp TC | 3 | 30 | 30 | 0 |chung
+Học kỳ 10
+1 |CSC16002 ete toán trong phân tích dữ TC 4 | 45 | 30 0
+2 ÌCSC16102 a thuật lập trình xử lý ảnh số và video TC 4 | 45 | 30 0
+3 |CSC16104 |Thị giác robot TC 4 45 | 30 0
+4 |1CSC16106 Nhap môn ập trình điêu khiên thiết bị TC 4 45 | 30 0
+thông minh
+5 |CSC16107 |Ung dung thị giác máy tính TC | 4 | 45 | 30 | 0
+6 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 180 | 0 |Chọn 01 hình
+7 |CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 sa a
+8 |CSC10252 |Thực tap tot nghiệp TC 10 300 | 0 |/707077
+Học kỳ 11
+1 |CSC16105 |Truy vấn thông tin thị giác TC 4 45 | 30 0
+2 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 |180| 0 _
+3 ICSC16110 |Chuyên đề Đề họa máy tính TC | 4 |45 | 30 | 0 [Mur chia
+= i I0TC thì
+4 |CSC16111 |Chuyén dé Thị giác máy tinh TC 4 45 | 30 0 |chon thêm
+5 |csc10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 oe cho
+6 |CSC10252 |Thuc tap tot nghiệp TC 10 300 | 0
+
+Chương trình đào tạo — Chương trình Chat lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 33/36
+
+--- Trang 34 ---
+Học kỳ 12
+1 |CSC10204 |Thuc tập dự án tốt nghiệp TC 6 0 180 | 0 |Nếu 72 chưa
+2 |CSC16112 |Chuyên dé Xử lý ảnh số va video số TC | 4 | 45 |30 | 0 re am cu
+3 |CSC10251 |Khóa luận tot nghiệp TC 10 | 0 |300| 0 |noe phan cho
+4 |CSC10252 |Thực tập tốt nghiệp TC | 10 | 0 |300| 0 |đ¿107C
+8.2.7 Chuyên ngành An toàn thông tin
+STT Hg. TÊN HỌC PHÀN Eà n alan ls GHI CHU
+Học kỳ 7
+1 |CSC13002 |Nhập môn công nghệ phần mềm BB | 4 | 45 | 30 | 0
+2 |MTH00051 |Toán ứng dụng và thống kê TC 4 | 45 | 30 0
+3 |PHY00006 | Vật lý đại cương 2 TC | 4 | 45 |30 | 0
+4 |CSCI5005 |Nhập môn mã hóa — mật mã TC 4 45 | 30 0
+Š_ |CSCII004 |Mạng máy tính nâng cao TC 45 | 30 0
+6 |csc14007 Nhap môn phân tích độ phức tap thuật TC j 45 | 30 0
+toan
+Hoc ky 8
+1 |CSC10104 |Quy hoạch tuyến tinh TƠ | 4 | 4ð | Sứ | 0 [5408
+2 |CSC15002 |Bảo mật cơ sở dữ liệu TC | 4 |45 |30 | 0
+3 |CSCI5003 |Mã hóa ứng dụng TC 4 45 | 30 0
+4 |CSC12001 tbo (hông fi mật đữ liệu trong hệ tc | 4 | 45 | 30 | 0
+5  |CSC14005 |Nhập môn học may TC 4 45 | 30 0
+6 |CSC15004 |Học thống kê TC 45 | 30 | 0
+Học kỳ 9
+1 |CSC10107 |Thực tập thực tế TC | 4 | 30 | 60 HP tự chọn
+2 |CSC10103 |Khởi nghiệp TC 3 | 30 | 30 chung
+Học kỳ 10
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 180 | 0 |Chọn 01 hình
+2 |CSC10251 |Khóa luận tốt nghiệp TC | 10 300 | 0 a a
+3 |CSC10252 |Thực tập tot nghiệp TC 10 300 | 0 |/107Œ*
+4 |CSCI5107 |Phân tích dữ liệu bảo toàn tính riêng tư | TC 4 | 45 | 30 0
+5 |CSC16106 Đón ee trinh diéu khién thiét bi TC 4 45 | 30 0
+6 |CSC14120 |Lập trình song song TC 4 | 45 | 30 0
+Hoc ky 11
+1 |CSCI5001 |An ninh máy tính TC 4 45 | 30 0
+2 |CSC15010 |Blockchain và ứng dụng TC 4 | 45 | 30 0
+3 |CSC14117 |Nhập môn lập trình kết nối van vật TC | 4 | 45 |30 | 0
+4 |CSC10204 |Thực tập dự án tốt nghiệp TC | 6 | 0 |180| 0 |Néu 6% chưa
+5 |CSCI5104  |An toàn và phục hồi dữ liệu Tc | 4 | 45 | 30 | 0 |#10TC”ì
+: R chọn thêm học
+6 |CSC10251 |Khóa luận tốt nghiệp TC | 10 | 0 |300| 0 [nản cho đủ
+7 |CSC10252 |Thực tập tốt nghiệp TC | 10 | 0 |300] 0 |12C
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 34/36
+
+--- Trang 35 ---
+Học kỳ 12
+1 |CSC10204 Thực tập dự án tốt nghiệp TC 6 0 180 | 0 Nếu ®® chưa
+2 |CSC15201 Từ si HSS Gunes HỤ,TỤHH TC | 6 | 0 | 180) 0 eee ac
+3 |CSC10251 |Khóa luận tốt nghiệp TC | 10 | 0 |300| 0 tiết dấu đi
+4 |CSC10252_ |Thực tập tot nghiệp TC 10 300 | 0
+8.2.8 Chuyên ngành Khoa học dữ liệu
+STT CN TÊN HỌC PHÀN a ce = THÍ GHI CHÚ
+Học kỳ 7
+1 |CSC13002 |Nhập môn công nghệ phan mềm BB 4 45 | 30 | 0
+2 |MTH00051 |Toán ứng dung và thống kê TC 4 45 |30|1 0
+3 |PHY00006 | Vật ly dai cương 2 TC 4 45 30 0
+4 |CSC14119 |Nhập môn khoa hoc dữ liệu TC 4 45 30 | 0
+5 |CSC17104 |Lập trình cho khoa học dữ liệu TC 4 45 30 | 0
+Học kỳ 8
+1 |CSCI0108 [Trực quan hóa dữ liệu TC 4 45 30 | 0
+2 |CSC14005_ |Nhập môn học may TC 4 45 | 30] 0
+3 |CSC15007 |Thống kê máy tính va ứng dụng TC 4 45 | 30 | 0
+4 |CSC14004 |Khai thác dữ liệu và ứng dụng TC 4 45 |30|1 0
+5 |CSC15004 |Học thống kê TC | 4 | 45 | 30] 0
+Học kỳ 9
+1 |CSCI0107 |Thực tập thực tế TC | 4 | 30 |60 | 0 |HPuechon
+2 |CSC10103 |Khởi nghiệp TC | 3 | 30 | 30] 0 |chung
+Học kỳ 10
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 180] 0 | Chọn 01 hình
+2 _|CSC10251 |Khóa luận tốt nghiệp TC |10| 0 |300| 0 nh “i
+3 |CSC10252 |Thực tập tốt nghiệp TC |10| 0 |300| 0 |/07Ó@%%
+4 |CSC14118 |Nhập môn dữ liệu lớn TC 4 45 | 30 | 0
+5 |CSC17001 |Phân tích dữ liệu thông minh TC 4 45 | 30 | 0
+6 |CSC14117 |Nhập môn lập trình kết nối van vật TC | 4 | 45 | 30] 0
+7 |CSC14120 |Lập trình song song TC 4 45 | 30] 0
+8 |CSCI5102 |Phân tích mang xã hội TC 4 45 30 | 0
+Hoc ky 11
+1 |CSCI7102_ |Học sâu cho khoa hoc đữ liệu TC 4 45 30 | 0
+2 |CSCI7I03 |Khai thác dữ liệu đồ thị TE 4 45 30 0
+3 |CSC17105 |Nhập môn tư duy tinh toán TC 4 45 | 30] 0
+4 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 180| 0 „
+5 |CSCI4115_ |Khoa học dữ liệu ứng dung TC | 4 | 45 |30| 0 |lế chư
+_ đủ thì
+6 |CSC17107 |Ứng dụng phân tích dữ liệu thông minh | TC 4 45130 | 0 |chon thêm học
+7 |CSC10251 |Khóa luận tốt nghiệp TC |10| 0 |300| 0 ae a đủ
+8 |CSC10252 |Thực tập tốt nghiệp TC |10| 0 |300| 0
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phí tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 35/36
+
+--- Trang 36 ---
+Học kỳ 12
+
+1 |CSC10204 |Thực tập dự án tốt nghiệp TC 6 0 180 0 |Néu ©? chưa
+2 |CSC14116 |Lập trình song song ứng dụng TC 4 45 130 | 0 [au 10TC thi
+- —~ — chọn thêm học
+3 |CSC10251 |Khóa luận tot nghiệp TC 10 0 |300| 0 phan cho đủ
+4 |CSC10252 |Thực tập tốt nghiệp TC |10| 0 |300| 0 |1C
+5 |CSC15103 |Tính toán tài chính TC 4 45 | 30] 0
+6 |CSC17101 |Hệ thống tư vấn TC | 4 | 45 | 30] 0
+7 |CSC17106 |Xử lý phân tích dữ liệu trực tuyến TC 4 45 | 30} 0
+HIEU TRUONG TRUONG PHONG DAO TAO TRUONG KHOA
+
+Chương trình đào tạo — Chương trình Chất lượng cao với học phi tương ứng ngành CNTT - Khóa tuyển 2020 - Trang 36/36
+

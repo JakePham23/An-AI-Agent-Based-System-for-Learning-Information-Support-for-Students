@@ -1,0 +1,92 @@
+# COURSE: Hệ quản trị cơ sở dữ liệu (CSC12003)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC12003
+- **English Name**: Database Management Systems
+- **Vietnamese Name**: Hệ quản trị cơ sở dữ liệu
+- **Responsible Person**: for the module: Dr. Phạm Thị Bạch Huệ
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Data Models: Entity Relationship Model
+- Data models: Enhanced Entity Relationship Model Relational Data Model
+- Conceptual Database Design (part 1)
+- Conceptual Database Design (part 2)
+- Data Dependency & Normal Form
+- Logic Database Design
+- Physical Database Design (part 1)
+- Physical Database Design (part 2)
+- Advanced Topics
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Fundamentals of database systems,Elmasri & Navathe,2017,Pearson Education Inc.
+- [2]Database systems: The complete book,Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom,2013,Pearson
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply soft skills independently or in group to apply principles of
+RDBMSs
+- G2.Practice the reading comprehension skills, present and write simple reports in English
+- G3.Use the functions of a RDBMS, analysis and design to solve real-world information systems
+- G4.Describe the general architecture of a DBMS
+- G5.Operate  on  a  relational  database  consistently  using transaction processing concepts and theory
+- G6.Use concurrency control techniques provided by DBMSs
+- G7.Explain the techniques used in DBMSs for database recovery from failures
+- G8.Applyi security mechanisms provided by DBMSs in real- world applications
+- G9.Demonstrate the way data is stored or retrieved on storage devices
+- G10.Use the query processing algorithms and query optimization methods
+- G11.Apply functions provided by SQL Server together with a programming language in  real-world information systems
+• Content:
+- Data Models: Entity Relationship Model
+- Data models: Enhanced Entity Relationship Model Relational Data Model
+- Conceptual Database Design (part 1)
+- Conceptual Database Design (part 2)
+- Data Dependency & Normal Form
+- Logic Database Design
+- Physical Database Design (part 1)
+- Physical Database Design (part 2)
+- Advanced Topics
+- Review
+• Examination forms: Open Test, Final examination, Lab Report, Case Study, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Fundamentals of database systems,Elmasri & Navathe,2017,Pearson Education Inc.
+- [2]Database systems: The complete book,Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom,2013,Pearson
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Fundamentals of database systems,Elmasri & Navathe,2017,Pearson Education Inc.
+- [2]Database systems: The complete book,Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom,2013,Pearson
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Fundamentals of database systems,Elmasri & Navathe,2017,Pearson Education Inc.
+- [2]Database systems: The complete book,Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom,2013,Pearson
+
+## READING MATERIALS
+- [1]Fundamentals of database systems,Elmasri & Navathe,2017,Pearson Education Inc.
+- [2]Database systems: The complete book,Hector Garcia-Molina, Jeff Ullman, and Jennifer Widom,2013,Pearson

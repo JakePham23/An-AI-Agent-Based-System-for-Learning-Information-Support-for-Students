@@ -1,0 +1,119 @@
+# COURSE: Phát triển ứng dụng web (CSC13008)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC13008
+- **English Name**: Web Application Development
+- **Vietnamese Name**: Phát triển ứng dụng web
+- **Responsible Person**: for the module: Trần Thị Bích Hạnh
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Course Introduction: Course Objectives, Course Information, Exercises, Project and Grading System
+- Introduction to Web & Internet
+- Web Design Overview
+- Building webpages using HTML
+- Building Web Forms using HTML Form
+- Adding styles to website using CSS
+- Building webpages using CSS Layout
+- Client-side programming using JavaScript
+- DOM & AJAX
+- Introduction to NodeJS
+- Server-side programming with NodeJS Express
+- Working with Template Engine
+- Working with Database: Building basic functions with database: Create, Read, Update & Delete
+- Working with Database: Building advanced functinos with database: Browse, Filter, Pagination
+- State Management
+- Other web technologies
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]The Express Handbook,Flavio Copes,2015,Flavio Copes
+- [2]The CSS Handbook,Flavio Copes,2015,Flavio Copes
+- [3]https://www.w3schools.com/,,,
+- [4]Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition,Jennifer Robbins,2018,O'Reilly Media
+- [5]Web Development with Node and Express: Leveraging the JavaScript Stack 2nd Edition,Ethan Brown,2019,O'Reilly Media
+- [6]Secure Your Node.js Web Application: Keep Attackers Out and Users Happy 1st Edition,Karl Duuna,2016,Pragmatic Bookshelf
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply personal skills or teamwork skills to develop a real web application
+- G2.Practice self-learning, reading comprehension English document and making presentation about web development subjects
+- G3.Conduct a presentation about the overview of the operation mechanism of web applications, web application models and related technologies
+- G4.Practice analyzing, developing and deploying a complete small to medium-sized web application
+- G5.Design static web interfaces using HTML & CSS
+- G6.Practice programming Client-side processing using JavaScript
+- G7.Explain and practice designing and developing dynamic web applications with database connection using NodeJS
+- G8.Use supporting tools for web development
+• Content:
+- Introduction to Web & Internet
+- Web Design Overview
+- Building webpages using HTML
+- Building Web Forms using HTML Form
+- Adding styles to website using CSS
+- Building webpages using CSS Layout
+- Client-side programming using JavaScript
+- DOM & AJAX
+- Introduction to NodeJS
+- Server-side programming with NodeJS Express
+- Working with Template Engine
+- Working with Database: Building basic functions with database: Create, Read, Update & Delete
+- Working with Database: Building advanced functinos with database: Browse, Filter, Pagination
+- State Management
+- Other web technologies
+• Examination forms: Lab Report, Homework, Group Presentation, Quiz, quick test, Research Project, Individual Presentation, Excercise
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The Express Handbook,Flavio Copes,2015,Flavio Copes
+- [2]The CSS Handbook,Flavio Copes,2015,Flavio Copes
+- [3]https://www.w3schools.com/,,,
+- [4]Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition,Jennifer Robbins,2018,O'Reilly Media
+- [5]Web Development with Node and Express: Leveraging the JavaScript Stack 2nd Edition,Ethan Brown,2019,O'Reilly Media
+- [6]Secure Your Node.js Web Application: Keep Attackers Out and Users Happy 1st Edition,Karl Duuna,2016,Pragmatic Bookshelf
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The Express Handbook,Flavio Copes,2015,Flavio Copes
+- [2]The CSS Handbook,Flavio Copes,2015,Flavio Copes
+- [3]https://www.w3schools.com/,,,
+- [4]Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition,Jennifer Robbins,2018,O'Reilly Media
+- [5]Web Development with Node and Express: Leveraging the JavaScript Stack 2nd Edition,Ethan Brown,2019,O'Reilly Media
+- [6]Secure Your Node.js Web Application: Keep Attackers Out and Users Happy 1st Edition,Karl Duuna,2016,Pragmatic Bookshelf
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The Express Handbook,Flavio Copes,2015,Flavio Copes
+- [2]The CSS Handbook,Flavio Copes,2015,Flavio Copes
+- [3]https://www.w3schools.com/,,,
+- [4]Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition,Jennifer Robbins,2018,O'Reilly Media
+- [5]Web Development with Node and Express: Leveraging the JavaScript Stack 2nd Edition,Ethan Brown,2019,O'Reilly Media
+- [6]Secure Your Node.js Web Application: Keep Attackers Out and Users Happy 1st Edition,Karl Duuna,2016,Pragmatic Bookshelf
+
+## READING MATERIALS
+- [1]The Express Handbook,Flavio Copes,2015,Flavio Copes
+- [2]The CSS Handbook,Flavio Copes,2015,Flavio Copes
+- [3]https://www.w3schools.com/,,,
+- [4]Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics 5th Edition,Jennifer Robbins,2018,O'Reilly Media
+- [5]Web Development with Node and Express: Leveraging the JavaScript Stack 2nd Edition,Ethan Brown,2019,O'Reilly Media
+- [6]Secure Your Node.js Web Application: Keep Attackers Out and Users Happy 1st Edition,Karl Duuna,2016,Pragmatic Bookshelf

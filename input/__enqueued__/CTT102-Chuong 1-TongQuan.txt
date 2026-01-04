@@ -1,0 +1,2833 @@
+CHƯƠNG 
+  1 
+Tổng 
+  quan 
+  về 
+  Cơ 
+  sở 
+  dữ 
+  liệu
+Slide 
+  bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin §Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Các 
+  vai 
+  trò 
+  trong 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL §Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Giới 
+  thiệu
+Làm 
+  sao 
+  máy 
+  tính 
+  có 
+thể 
+  hiểu 
+  lãnh 
+  vực 
+  thế 
+giới 
+  thực 
+  để 
+  hỗ 
+  trợ 
+  tự 
+động 
+  hóa 
+  ? 
+3 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	3 
+Giới 
+  thiệu 
+§Dữ 
+  liệu 
+  (Data) 
+	-Dữ 
+  liệu 
+  là 
+  những 
+  số 
+  liệu 
+  rời 
+  rạc 
+  mô 
+  tả 
+  về 
+  sự 
+  kiện, 
+  sự 
+  vật, 
+  hiện 		tượng 
+  được 
+  chọn 
+  lọc 
+  để 
+  lưu 
+  trữ 
+  với 
+  một 
+  mục 
+  đích 
+  nào 
+  đó. 
+-Ví 
+  dụ: 
+l“Nguyễn 
+  Văn 
+  A” 
+  là 
+  tên 
+  của 
+  sinh 
+  viên 
+l“11.12.008 
+  ” 
+  là 
+  mã 
+  số 
+  một 
+  sinh 
+  viên 
+l“09-­‐01-­‐2013” 
+  là 
+  ngày 
+  Tết 
+  âm 
+  lịch 
+  năm 
+  2013 
+Giới 
+  thiệu 
+  (>) 
+§Cơ 
+  sở 
+  dữ 
+  liệu 
+  (Database) 
+-Định 
+  nghĩa: 
+  “tập 
+  dữ 
+  liệu 
+  có 
+  liên 
+  quan 
+  với 
+  nhau 
+  gắn 
+  với 
+  một 	ngữ 
+  nghĩa” 
+-Ví 
+  dụ: 
+lDanh 
+  sách 
+  sinh 
+  viên 
+  à 
+  tập 
+  dữ 
+  liệu 
+  về 
+  sinh 
+  viên 
+lDanh 
+  mục 
+  lớp 
+  học 
+  à 
+  tập 
+  dữ 
+  liệu 
+  về 
+  lớp 
+  học 
+lDanh 
+  mục 
+  các 
+  đề 
+  án, 
+  Danh 
+  mục 
+  nhân 
+  viên, 
+  danh 
+  mục 
+  phòng 	ban, 
+  v.v… 
+§Đặc 
+  trưng 
+  CSDL 
+-Một 
+  CSDL 
+  biểu 
+  diễn 
+  một 
+  phần 
+  của 
+  thế 
+  giới 
+  thực 
+  (thế 
+  giới 
+  thu 	nhỏ) 
+-CSDL 
+  được 
+  thiết 
+  kế, 
+  xây 
+  dựng, 
+  và 
+  lưu 
+  trữ 
+  với 
+  một 
+  mục 
+  đích 
+  xác 	định, 
+  phục 
+  vụ 
+  cho 
+  một 
+  số 
+  ứng 
+  dụng 
+  và 
+  người 
+  dùng 
+Giới 
+  thiệu 
+  (>) 
+	￭Ví 
+  dụ 
+  về 
+  CSDL
+Giới 
+  thiệu 
+  (>) 
+§Hệ 
+  quản 
+  trị 
+  CSDL 
+  (Database 
+  Management 
+  System) 
+	-“Tập 
+  hợp 
+  các 
+  chương 
+  trình 
+  cho 
+  phép 
+  người 
+  dùng 
+  tạo 
+  và 
+  duy 		trì 
+  CSDL” 
+	-Chức 
+  năng 
+  cơ 
+  bản 
+  của 
+  hệ 
+  quản 
+  trị 
+  CSDL: 
+			lĐịnh 
+  nghĩa 
+  – 
+  khai 
+  báo 
+  bộ 
+  khung 
+  dữ 
+  liệu 
+  cùng 
+  với 
+  các 
+  mô 
+  tả 				chi 
+  tiết 
+  về 
+  dữ 
+  liệu 
+			lXây 
+  dựng 
+  – 
+  lưu 
+  trữ 
+  dữ 
+  liệu 
+  lên 
+  các 
+  phương 
+  tiện 
+  lưu 
+  trữ 			lXử 
+  lý 
+  – 
+  truy 
+  vấn, 
+  cập 
+  nhật 
+  và 
+  phát 
+  sinh 
+  báo 
+  cáo 
+			lChia 
+  sẽ 
+  -­‐ 
+  cho 
+  phép 
+  nhiều 
+  người 
+  dùng 
+  và 
+  chương 
+  trình 
+  truy 				cập 
+  đồng 
+  thời 
+  CSDL 
+			lBảo 
+  vệ 
+  -­‐ 
+  đảm 
+  bảo 
+  dữ 
+  liệu 
+  được 
+  lưu 
+  trữ 
+  an 
+  toàn 
+  từ 
+  các 
+  sự 
+  cố, 				ngăn 
+  cản 
+  truy 
+  cập 
+  không 
+  được 
+  phép… 
+	(1): Fundamentals of Database Systems, Fourth edition, Ramez Elmasri and Shamkant B. Navathe, 2003 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	7 
+Giới 
+  thiệu 
+  (>) 
+§Môi 
+  trường 
+  hệ 
+  CSDL 
+  đơn 
+  giản 
+Người dùng/lập trình viên 
+Chương trình ứng dụng/ Truy vấn 
+Hệ QT 
+CSDL 	Phần mềm xử lý truy vấn/ Chương 
+			trình 
+Phần mềm truy cập dữ liệu 
+CSDL
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	8 
+Giới 
+  thiệu 
+  (>) 
+	qVí 
+  dụ 
+  -­‐ 
+  CSDL 
+  “Quản 
+  lý 
+  đề 
+  án” 
+  của 
+  một 
+  công 
+  ty 
+Một 
+  ví 
+  dụ 
+  về 
+  CSDL 
+  (>) 
+§CSDL 
+  “Quản 
+  lý 
+  đề 
+  án” 
+  của 
+  một 
+  công 
+  ty 
+	-Định 
+  nghĩa 
+  CSDL 
+		lĐịnh 
+  nghĩa 
+  cấu 
+  trúc 
+  cho: 
+  NHANVIEN, 
+  DEAN 
+  và 
+  PHANCONG 	-Xây 
+  dựng 
+  CSDL 
+		lĐưa 
+  dữ 
+  liệu 
+  vào 
+  các 
+  bảng 
+	-Xử 
+  lý 
+  CSDL 
+		lThực 
+  hiện 
+  các 
+  truy 
+  vấn: 
+  “Cho 
+  biết 
+  những 
+  nhân 
+  viên 
+  thuộc 			phòng 
+  5”
+		lThực 
+  hiện 
+  các 
+  phép 
+  cập 
+  nhật: 
+  “Chuyển 
+  nhân 
+  viên 
+  Nguyễn 			Thanh 
+  Tùng 
+  sang 
+  phòng 
+  số 
+  1”
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Các 
+  vai 
+  trò 
+  trong 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  8n 	§Tiếp 
+  cận 
+  tập 
+  tin 
+  (File) 
+Chương trình ứng dụng 1 
+Tin 
+àChương trình khai báo cấu trúc CSDL
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	12 
+Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  8n
+§Tiếp 
+  cận 
+  tập 
+  tin 
+  – 
+  Ví 
+  dụ:
+… 
+ struct SINHVIEN 
+ };   
+… 
+<12345, Nguyen Van X> 
+<54321, Tran Van Y> 
+<21345, Vo Van Z> 
+Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  8n 
+  (>) 
+§Tiếp 
+  cận 
+  tập 
+  tin 
+	-Hạn 
+  chế 
+		lKhó 
+  kiểm 
+  soát 
+  trùng 
+  lắp 
+  và 
+  dư 
+  thừa 
+  dữ 
+  liệu 		lKhó 
+  đảm 
+  bảo 
+  tính 
+  nhất 
+  quán 
+  giữa 
+  các 
+  dữ 
+  liệu 		lKhó 
+  khăn 
+  trong 
+  việc 
+  truy 
+  xuất 
+		lViệc 
+  chia 
+  sẻ 
+  dữ 
+  liệu 
+  bị 
+  hạn 
+  chế 
+		lKhó 
+  khôi 
+  phục 
+Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  8n 
+  (>) 	§Tiếp 
+  cận 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+  (Database) 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+-Tính 
+  tự 
+  mô 
+  tả 
+-Tính 
+  cô 
+  lập 
+  giữa 
+  chương 
+  trình 
+  và 
+  dữ 
+  liệu 
+-Tính 
+  trừu 
+  tượng 
+  hóa 
+  dữ 
+  liệu 
+-Hỗ 
+  trợ 
+  nhiều 
+  khung 
+  nhìn 
+  dữ 
+  liệu §Các 
+  vai 
+  trò 
+  trong 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	16 
+Tính 
+  tự 
+  mô 
+  tả 
+	§Hệ 
+  CSDL 
+  không 
+  chỉ 
+  chứa 
+  bản 
+  thân 
+  CSDL 
+  mà 
+  còn 
+  chứa 
+  thông 		tin 
+  định 
+  nghĩa 
+  đầy 
+  đủ 
+  (mô 
+  tả 
+  catalog) 
+  của 
+  CSDL 
+	§Các 
+  định 
+  nghĩa 
+  được 
+  lưu 
+  trữ 
+  trong 
+  catalog 
+  gọi 
+  là 
+  metadata 			-Chứa 
+  các 
+  thông 
+  tin 
+  về 
+  cấu 
+  trúc 
+  tập 
+  tin, 
+  kiểu 
+  và 
+  dạng 
+  thức 
+  lưu 				trữ 
+  của 
+  mỗi 
+  thành 
+  phần 
+  dữ 
+  liệu 
+  và 
+  những 
+  ràng 
+  buộc 
+  dữ 
+  liệu 
+§Các 
+  CTƯD 
+  có 
+  thể 
+  truy 
+  xuất 
+  đến 
+  nhiều 
+  CSDL 
+  nhờ 
+  thông 
+  tin cấu 
+  trúc 
+  được 
+  lưu 
+  trữ 
+  trong 
+  catalog 
+  về 
+  những 
+  CSDL 
+  đó. 
+Catalog (Metadata) 
+Mô tả về 
+CSDL 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	17 
+Cô 
+  lập 
+  giữa 
+  chương 
+  trình 
+  và 
+  dữ 
+  liệu 
+	§CSDL 
+  và 
+  mô 
+  tả 
+  của 
+  nó 
+  (catalog) 
+  được 
+  quản 
+  lý 
+  chung 
+  àquản 		lý 
+  CSDL 
+  độc 
+  lập 
+  tương 
+  đối 
+  với 
+  chương 
+  trình 
+  ứng 
+  dụng 
+Định nghĩa về dữ liệu 
+Dữ liệu 
+Trừu 
+  tượng 
+  hóa 
+  dữ 
+  liệu 
+  (data 
+  abstrac8on) 
+§Hệ 
+  CSDL 
+  cho 
+  phép 
+  trình 
+  bày 
+  dữ 
+  liệu 
+  ở 
+  một 
+  mức 
+  trừu 
+  tượng (gần 
+  với 
+  lãnh 
+  vực 
+  ứng 
+  dụng) 
+  nhằm 
+  che 
+  bớt 
+  những 
+  chi 
+  tiết lưu 
+  trữ 
+   
+  và 
+  cài 
+  đặt 
+  của 
+  dữ 
+  liệu 
+-Người 
+  dùng 
+  và 
+  chương 
+  trình 
+  truy 
+  xuất 
+  đến 
+  các 
+  “thành 
+  phần” 	trừu 
+  tượng 
+  thay 
+  vì 
+  các 
+  chi 
+  tiết 
+  vật 
+  lý. 
+§Trừu 
+  tượng 
+  hóa 
+  dữ 
+  liệu 
+  thông 
+  qua 
+  mô 
+  hình 
+  dữ 
+  liệu: 
+-Cho 
+  phép 
+  mô 
+  tả 
+  dữ 
+  liệu 
+  dùng 
+  các 
+  khái 
+  niệm 
+  luận 
+  lý 
+  như: 
+lĐối 
+  tượng 
+lThuộc 
+  tính 
+lLiên 
+  kết 
+Hỗ 
+  trợ 
+  nhiều 
+  khung 
+  nhìn 
+  dữ 
+  liệu 
+	§Hỗ 
+  trợ 
+  định 
+  nghĩa 
+  nhiều 
+  khung 
+  nhìn 
+  (view) 
+  khác 
+  nhau 
+  về 		cùng 
+  một 
+  dữ 
+  liệu 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Các 
+  vai 
+  trò 
+  trong 
+  CSDL 
+-Quản 
+  trị 
+  viên 
+  (Database 
+  Administrator 
+  -­‐ 
+  DBA) 
+-Thiết 
+  kế 
+  viên 
+  (Database 
+  Designer) 
+-Lập 
+  trình 
+  viên 
+  CSDL 
+  (database 
+  programmer) 
+-Người 
+  dùng 
+  cuối 
+  (End 
+  User) 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	21 
+Vai 
+  trò 
+  trong 
+  CSDL 
+§Quản 
+  trị 
+  viên 
+  CSDL 
+  (DBA 
+  – 
+  Database 
+  Administrator) 	-Có 
+  trách 
+  nhiệm 
+  quản 
+  lý 
+  hệ 
+  CSDL 
+			lCấp 
+  quyền 
+  truy 
+  cập 
+  CSDL 
+			lĐiều 
+  phối 
+  và 
+  giám 
+  sát 
+  việc 
+  sử 
+  dụng 
+  CSDL 
+§Thiết 
+  kế 
+  viên 
+  CSDL 
+	-Chịu 
+  trách 
+  nhiệm 
+  về 
+			lLựa 
+  chọn 
+  cấu 
+  trúc 
+  phù 
+  hợp 
+  để 
+  lưu 
+  trữ 
+  dữ 
+  liệu 
+			lQuyết 
+  định 
+  những 
+  dữ 
+  liệu 
+  nào 
+  cần 
+  được 
+  lưu 
+  trữ 
+	-Liên 
+  hệ 
+  với 
+  người 
+  dùng 
+  để 
+  nắm 
+  bắt 
+  được 
+  những 
+  yêu 
+  cầu 
+  và 		đưa 
+  ra 
+  một 
+  thiết 
+  kế 
+  CSDL 
+  thỏa 
+  yêu 
+  cầu 
+  này 
+§Lập 
+  trình 
+  viên 
+  CSDL 
+	-Lập 
+  trình 
+  các 
+  chức 
+  năng 
+  nhằm 
+  quản 
+  lý 
+  và 
+  khai 
+  thác 
+  CSDL 
+Vai 
+  trò 
+  trong 
+  CSDL 
+   
+  (>) 
+§Người 
+  dùng 
+  cuối 
+	-Người 
+  ít 
+  sử 
+  dụng 
+		lÍt 
+  khi 
+  truy 
+  cập 
+  CSDL, 
+  nhưng 
+  cần 
+  những 
+  thông 
+  tin 
+  khác 
+  nhau 			trong 
+  mỗi 
+  lần 
+  truy 
+  cập 
+  và 
+  dùng 
+  những 
+  câu 
+  truy 
+  vấn 
+  phức 			tạp 
+		lNgười 
+  quản 
+  lý 
+	-Người 
+  sử 
+  dụng 
+  thường 
+  xuyên 
+		lThường 
+  xuyên 
+  truy 
+  vấn 
+  và 
+  cập 
+  nhật 
+  CSDL 
+  nhờ 
+  vào 
+  một 
+  số 			các 
+  chức 
+  năng 
+  đã 
+  được 
+  xây 
+  dựng 
+  sẵn 
+		lNhân 
+  viên 
+	-Người 
+  sử 
+  dụng 
+  đặc 
+  biệt 
+		lThông 
+  thạo 
+  về 
+  HQT 
+  CSDL, 
+  tự 
+  xây 
+  dựng 
+  những 
+  truy 
+  vấn 
+			phức 
+  tạp 
+  cho 
+  công 
+  việc 
+		lKỹ 
+  sư, 
+  nhà 
+  khoa 
+  học, 
+  người 
+  phân 
+  tích 
+  kinh 
+  doanh,… 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 23 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Các 
+  vai 
+  trò 
+  trong 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Các 
+  [nh 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Kiểm 
+  soát 
+  được 
+  tính 
+  dư 
+  thừa 
+  của 
+  dữ 
+  liệu 
+-Tích 
+  hợp 
+  các 
+  nhu 
+  cầu 
+  dữ 
+  liệu 
+  của 
+  người 
+  dùng 
+  để 
+  xây 
+  dựng 
+  một 	CSDL 
+  thống 
+  nhất 
+§Chia 
+  sẻ 
+  dữ 
+  liệu 
+-Trong 
+  môi 
+  trường 
+  đa 
+  người 
+  dùng, 
+  các 
+  HQT 
+  phải 
+  cho 
+  phép 
+  truy 	xuất 
+  dữ 
+  liệu 
+  đồng 
+  thời 
+§Hạn 
+  chế 
+  những 
+  truy 
+  cập 
+  không 
+  cho 
+  phép 
+-Từng 
+  người 
+  dùng 
+  và 
+  nhóm 
+  người 
+  dùng 
+  có 
+  một 
+  tài 
+  khoản 
+  và 	mật 
+  mã 
+  để 
+  truy 
+  xuất 
+  dữ 
+  liệu 
+§Cung 
+  cấp 
+  nhiều 
+  giao 
+  diện 
+-HQT 
+  cung 
+  cấp 
+  ngôn 
+  ngữ 
+  giữa 
+  CSDL 
+  và 
+  người 
+  dùng 
+Các 
+  [nh 
+  năng 
+  của 
+  HQT 
+  CSDL 
+  (>) 
+§Đảm 
+  bảo 
+  các 
+  ràng 
+  buộc 
+  toàn 
+  vẹn 
+-RBTV 
+  (Integrity 
+  Constraints) 
+  là 
+  những 
+  qui 
+  định 
+  cần 
+  được 
+  thỏa mãn 
+  để 
+  đảm 
+  bảo 
+  dữ 
+  liệu 
+  luôn 
+  phản 
+  ánh 
+  đúng 
+  ngữ 
+  nghĩa 
+  của thế 
+  giới 
+  thực 
+-Một 
+  số 
+  RB 
+  có 
+  thể 
+  được 
+  khai 
+  báo 
+  với 
+  HQT 
+  và 
+  HQT 
+  sẽ 
+  tự 
+  động 	kiểm 
+  tra. 
+  Một 
+  số 
+  RB 
+  khác 
+  được 
+  kiểm 
+  tra 
+  nhờ 
+  CTƯD 
+§Khả 
+  năng 
+  sao 
+  lưu 
+  dự 
+  phòng 
+  khi 
+  gặp 
+  sự 
+  cố 
+-Có 
+  khả 
+  năng 
+  khôi 
+  phục 
+  dữ 
+  liệu 
+  khi 
+  có 
+  sự 
+  hư 
+  hỏng 
+  về 
+  phần 	cứng 
+  hoặc 
+  phần 
+  mềm 
+Các 
+  [nh 
+  năng 
+  của 
+  HQT 
+  CSDL 
+  (>) 
+§Các 
+  tính 
+  năng 
+  khác 
+	-Chuẩn 
+  hóa 
+		lCho 
+  phép 
+  DBA 
+  định 
+  nghĩa 
+  và 
+  bắt 
+  buộc 
+  áp 
+  dụng 
+  một 
+  chuẩn 			thống 
+  nhất 
+  cho 
+  mọi 
+  người 
+  dùng 
+	-Uyển 
+  chuyển 
+		lKhi 
+  nhu 
+  cầu 
+  công 
+  việc 
+  thay 
+  đổi, 
+  cấu 
+  trúc 
+  CSDL 
+  rất 
+  có 
+  thể 			thay 
+  đổi, 
+  HQT 
+  cho 
+  phép 
+  thêm 
+  hoặc 
+  mở 
+  rộng 
+  cấu 
+  trúc 
+  mà 			không 
+  làm 
+  ảnh 
+  hưởng 
+  đến 
+  CTƯD 
+	-Giảm 
+  thời 
+  gian 
+  phát 
+  triển 
+  ứng 
+  dụng 
+	-Tính 
+  khả 
+  dụng 
+		lKhi 
+  có 
+  một 
+  sự 
+  thay 
+  đổi 
+  lên 
+  CSDL, 
+  tất 
+  cả 
+  người 
+  dùng 
+  đều 			thấy 
+  được 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Người 
+  sử 
+  dụng 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+-Mô 
+  hình 
+  dữ 
+  liệu 
+-Lược 
+  đồ 
+-Thể 
+  hiện 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL
+	§Liên 
+  hệ 
+  giữa 
+  các 
+  khái 
+  niệm 
+  biểu 
+  diễn 
+  CSDL
+Mô hình (data model) 
+Được mô tả bởi 
+Được mô tả bởi 
+Thể hiện (database 
+instance) 
+Mô 
+  hình 
+  dữ 
+  liệu 
+	§Mô 
+  hình 
+  dữ 
+  liệu 
+  (Data 
+  model) 
+  bao 
+  gồm 
+		-Cung 
+  cấp 
+  tập 
+  khái 
+  niệm 
+  dùng 
+  mô 
+  tả 
+  CSDL 			lKý 
+  hiệu, 
+  kiểu 
+  dữ 
+  liệu, 
+  quan 
+  hệ, 
+  ràng 
+  buộc… 		-Cung 
+  cấp 
+  các 
+  phép 
+  toán 
+  xử 
+  cơ 
+  bản 
+  lý 
+  dữ 
+  liệu: 			lTruy 
+  vấn 
+  và 
+  cập 
+  nhật 
+  CSDL 
+Mô 
+  hình 
+  dữ 
+  liệu 
+  (>) 
+§Các 
+  loại 
+  mô 
+  hình 
+  dữ 
+  liệu 
+	-Mô 
+  hình 
+  mức 
+  cao 
+  hoặc 
+  mô 
+  hình 
+  dữ 
+  liệu 
+  quan 
+  niệm 
+		lCung 
+  cấp 
+  tập 
+  các 
+  khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+  gần 
+  gũi 
+  với 
+  người 			dùng 
+		lTự 
+  nhiên 
+  và 
+  giàu 
+  ngữ 
+  nghĩa 
+		lVD: 
+  mô 
+  hình 
+  thực 
+  thể 
+  kết 
+  hợp 
+  (ER), 
+  mô 
+  hình 
+  đối 
+  tượng… 	-Mô 
+  hình 
+  cài 
+  đặt 
+		lCung 
+  cấp 
+  tập 
+  các 
+  khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+  mà 
+  người 
+  dùng 
+  có 			thể 
+  hiểu 
+  được 
+  nhưng 
+  không 
+  quá 
+  xa 
+  với 
+  cách 
+  dữ 
+  liệu 
+  được 
+  tổ 			chức 
+  thật 
+  sự 
+  trên 
+  máy 
+  tính 
+		lVD: 
+  mô 
+  hình 
+  quan 
+  hệ, 
+  mô 
+  hình 
+  mạng, 
+  mô 
+  hình 
+  phân 
+  cấp 	-Mô 
+  hình 
+  mức 
+  thấp 
+  (mô 
+  hình 
+  vật 
+  lý) 
+		lCung 
+  cấp 
+  tập 
+  các 
+  khái 
+  niệm 
+  mô 
+  tả 
+  chi 
+  tiết 
+  về 
+  cách 
+  thức 
+Mô 
+  hình 
+  dữ 
+  liệu 
+  (>)
+	§Ví 
+  dụ 
+  1 
+  – 
+  Mô 
+  hình 
+  thực 
+  thể 
+  kết 
+  hợp 
+  (ER) 		-Một 
+  số 
+  khái 
+  niệm: 
+§Mô 
+  hình 
+  mạng 
+	-Một 
+  số 
+  khái 
+  niệm: 
+Lược 
+  đồ 
+	§Lược 
+  đồ 
+  CSDL 
+  (Database 
+  Schema) 
+		-Là 
+  các 
+  mô 
+  tả 
+  về 
+  cấu 
+  trúc 
+  và 
+  ràng 
+  buộc 
+  trên 
+  CSDL 
+Ví 
+  dụ 
+  lược 
+  đồ 
+  ER 
+Học
+Ví 
+  dụ 
+  lược 
+  đồ 
+  mạng 
+MÔNHỌC_SAU 
+MÔNHỌC_MỞ 
+MÔNHỌC_TRƯỚC 
+SINHVIÊN_ĐIỂM 
+KẾTQUẢ_HỌCPHẦN 
+KẾTQUẢ 
+Ví 
+  dụ 
+  lược 
+  đồ 
+  phân 
+  cấp 
+PHÒNGBAN 
+Thể 
+  hiện 
+	§Thể 
+  hiện 
+  CSDL 
+  (Database 
+  Instance 
+  hoặc 
+  Database 
+  Status) 		-Là 
+  dữ 
+  liệu 
+  hiện 
+  thời 
+  được 
+  lưu 
+  trữ 
+  trong 
+  CSDL 
+  ở 
+  một 
+  thời 
+  điểm 			nào 
+  đó 
+		-Tình 
+  trạng 
+  của 
+  CSDL 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	37 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Người 
+  sử 
+  dụng 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+  của 
+  hệ 
+  CSDL 
+Ánh xạ ngoài/ 
+Ánh xạ luận lý 
+Mức luận lý 	Lược đồ luận lý 
+Ánh xạ luận lý/ 
+Ánh xạ trong 
+Lược đồ trong 
+Mức trong 
+Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+  của 
+  hệ 
+  CSDL 
+  (>) 
+§Mức 
+  trong 
+  (lược 
+  đồ 
+  trong) 
+	-Mô 
+  tả 
+  cấu 
+  trúc 
+  lưu 
+  trữ 
+  vật 
+  lý 
+  CSDL 
+§Mức 
+  luận 
+  lý 
+  (lược 
+  đồ 
+  quan 
+  niệm) 
+	-Mô 
+  tả 
+  cấu 
+  trúc 
+  của 
+  toàn 
+  thể 
+  CSDL 
+  cho 
+  1 
+  cộng 
+  đồng 
+  người 
+  sử 		dụng, 
+  gồm 
+  thực 
+  thể, 
+  kiểu 
+  dữ 
+  liệu, 
+  mối 
+  liên 
+  hệ 
+  và 
+  ràng 
+  buộc 	-Che 
+  bớt 
+  các 
+  chi 
+  tiết 
+  của 
+  cấu 
+  trúc 
+  lưu 
+  trữ 
+  vật 
+  lý 
+§Mức 
+  ngoài 
+  (lược 
+  đồ 
+  ngoài) 
+	-Còn 
+  gọi 
+  là 
+  mức 
+  khung 
+  nhìn 
+  (view) 
+	-Mô 
+  tả 
+  một 
+  phần 
+  của 
+  CSDL 
+  mà 
+  1 
+  nhóm 
+  người 
+  dùng 
+  quan 
+  tâm 		đến 
+  và 
+  che 
+  dấu 
+  phần 
+  còn 
+  lại 
+  của 
+  CSDL 
+  đối 
+  với 
+  nhóm 
+  người 		dùng 
+  đó 
+Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+  của 
+  hệ 
+  CSDL 
+  (>) 
+§Độc 
+  lập 
+  dữ 
+  liệu 
+	-Độc 
+  lập 
+  logic 
+		lKhả 
+  năng 
+  thay 
+  đổi 
+  lược 
+  đồ 
+  luận 
+  lý 
+  mà 
+  không 
+  thay 
+  đổi 
+  lược 			đồ 
+  ngoài 
+  hoặc 
+  các 
+  CTƯD 
+	-Độc 
+  lập 
+  vật 
+  lý 
+		lKhả 
+  năng 
+  thay 
+  đổi 
+  lược 
+  đồ 
+  trong 
+  mà 
+  không 
+  làm 
+  thay 
+  đổi 			lược 
+  đồ 
+  luận 
+  lý 
+  cũng 
+  như 
+  lược 
+  đồ 
+  ngoài 
+Nội 
+  dung 
+  chi 
+  8ết 
+§Giới 
+  thiệu 
+§Tiếp 
+  cận 
+  CSDL 
+  so 
+  với 
+  tập 
+  tin 
+§Một 
+  số 
+  đặc 
+  tính 
+  của 
+  CSDL 
+§Người 
+  sử 
+  dụng 
+  CSDL 
+§Các 
+  tính 
+  năng 
+  của 
+  HQT 
+  CSDL 
+§Khái 
+  niệm 
+  mô 
+  tả 
+  CSDL 
+§Kiến 
+  trúc 
+  ba 
+  lược 
+  đồ 
+§Ngôn 
+  ngữ 
+  CSDL 
+Ngôn 
+  ngữ 
+  CSDL 
+§Ngôn 
+  ngữ 
+  định 
+  nghĩa 
+  dữ 
+  liệu 
+  (DDL 
+  – 
+  Data 
+  De inition 
+	Language) 
+		-Ngôn 
+  ngữ 
+  lưu 
+  trữ 
+  dữ 
+  liệu 
+  (SDL): 
+   
+  Ngôn 
+  ngữ 
+  định 
+  nghĩa 
+  lược 
+  đồ 			trong 
+  (cấu 
+  trúc 
+  lưu 
+  trữ 
+  và 
+  kiểu 
+  dữ 
+  liệu) 
+		-Ngôn 
+  ngữ 
+  định 
+  nghĩa 
+  khung 
+  nhìn 
+  (VDL): 
+  Ngôn 
+  ngữ 
+  định 
+  nghĩa 			lược 
+  đồ 
+  ngoài 
+§Ngôn 
+  ngữ 
+  thao 
+  tác 
+  dữ 
+  liệu 
+  (DML 
+  – 
+  Data 
+  Manipulation 
+	Language) 
+		-Cho 
+  phép 
+  truy 
+  xuất, 
+  thêm, 
+  xóa, 
+  sửa 
+  dữ 
+  liệu 
+Bài 
+  tập 
+	§Yêu 
+  cầu: 
+  Xác 
+  định 
+  các 
+  thông 
+  tin 
+  cần 
+  lưu 
+  trữ 
+  của 
+  hệ 
+  thống 
+  sau: 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 2
+Thế 
+  giới 
+  thực 
+  – 
+  lãnh 
+  vực áp 
+  dụng | Quản 
+  trị, 
+  kinh 
+  doanh, 
+  ngân 
+  hàng, 
+  giáo 
+  dục, 
+  giải 
+  trí, 
+  xã hội, 
+  … 
+   
+  àphức 
+  tạp, 
+  giàu 
+  ngữ 
+  nghĩa
+Máy tính
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 4
+(1): Fundamentals of Database Systems, Fourth edition, Ramez Elmasri and Shamkant B. Navathe, 2003 -Tập 
+  ngẫu 
+  nhiên 
+  của 
+  các 
+  dữ 
+  liệu 
+  không 
+  thể 
+  xem 
+  là 
+  một 
+  CSDL 
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 5
+NHANVIEN | HONV | TENLOT | TENNV | MANV | NGSINH | MA_NQL | PHG
+Tran | Hong | Quang | 987987987 | 03/09/1969 | 987654321 | 4
+Nguyen | Thanh | Tung | 333445555 | 12/08/1955 | 888665555 | 5
+Nguyen | Manh | Hung | 666884444 | 09/15/1962 | 333445555 | 5
+Tran | Thanh | Tam | 453453453 | 07/31/1972 | 333445555 | 5
+DEAN | TENDA | MADA | DDIEM_DA | PHONG
+San pham X | 1 | VUNG TAU | 5
+San pham Y | 2 | NHA TRANG | 5
+San pham Z | 3 | TP HCM | 5
+Tin hoc hoa | 10 | HA NOI | 4
+PHANCONG | MA_NVIEN | SODA | THOIGIAN
+123456789 | 1 | 32.5
+123456789 | 2 | 7.5
+666884444 | 3 | 40.0
+453453453 | 1 | 20.0
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 10
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 11
+Quản lý dữ liệu | Hệ | Tập | Tập
+Chương trình ứng dụng 2 | Hệ | tin | Tập
+Chương trình ứng dụng 2 | Thống | tin | Tập
+Chương trình ứng dụng 2 | Quản | tin | Tập
+Quản lý dữ liệu | Lý | tin | Tập
+Quản lý dữ liệu | Lý | tin | tin
+Quản lý dữ liệu | Tập | tin | tin
+Chương trình ứng dụng 3 | Tập | Dữ liệu
+Quản lý dữ liệu | Tập | Dữ liệu
+Quản lý dữ liệu | tin | Dữ liệu
+Chương trình | { | char[10] masv;
+Chương trình | { | char[100] hoten;
+Tập tin dữ liệu | … | 13
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 13
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 14
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 15
+Chương trình | Chương trình
+Dữ liệu | Định nghĩa dữ liệu
+Hệ thống xử lý tập tin: | Hệ CSDL: | 18
+Hệ thống xử lý tập tin: | à Hệ QT CSDL chứa dữ liệu và mô | 18
+àChương chứa mô tả về dữ liệu à tạo | à Hệ QT CSDL chứa dữ liệu và mô | 18
+àChương chứa mô tả về dữ liệu à tạo | tả về dữ liệu à tạo ra sự độc lập | 18
+ra sự phụ thuộc giữa chương trình và dữ | tả về dữ liệu à tạo ra sự độc lập | 18
+ra sự phụ thuộc giữa chương trình và dữ | giữa chương trình và dữ liệu mà nó | 18
+liệu mà nó sử dụng | giữa chương trình và dữ liệu mà nó | 18
+liệu mà nó sử dụng | sử dụng | 18
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | sử dụng | 18
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 19
+Khung nhìn | SV-CHINHQUI | SV-HOANCHINH
+Dữ liệu | SINHVIEN
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 20
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 22
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 24
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 25
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 26
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 27
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 28
+Lãnh vực 
+cụ thể | Lược đồ (database schema)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 29
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 30
+CSDL 
+  được 
+  lưu 
+  trữ 
+  trong 
+  máy 
+  tính Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 31
+Thuộc tính | Kết hợp
+Loại kết hợp 1:N | 32
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | Loại kết hợp 1:N | 32
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 33
+(0,n) | Điều_Kiện | (0,n) | GIÁOVIÊN | HỌCKỲ | NĂM | MÃHP
+MÃMH | MÔNHỌC | MÔNHỌC | (0,1) | Mở | (1,1) | HỌCPHẦN | ĐIỂM
+MÃMH | KHOA | TÊNMH | TINCHI | Mở | (1,1) | (0,n) | ĐIỂM
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | NGÀNH | SINHVIÊN | TẾNV | MÃSV | 34
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | LỚP | SINHVIÊN | TẾNV | MÃSV | 34
+SINHVIÊN | MÔNHỌC
+HỌCPHẦN | ĐIỀUKIỆN
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 35
+Mức 1: | TÊN | TÊNPHG | TÊNPHG | MÃPHG | TRPHG | NG_NHẬNCHỨC | NG_NHẬNCHỨC | NG_NHẬNCHỨC
+Mức 2: | TÊN | NHÂNVIÊN | NHÂNVIÊN | ĐCHỈ | TRPHG | ĐỀÁN | ĐỀÁN | ĐỀÁN
+Mức 2: | TÊN | MÃNV | NGSINH | ĐCHỈ | TRPHG | TÊNĐA | MÃĐA | ĐĐIỂM_ĐA
+Mức 3: | THÂNNHÂN | NGƯỜIQUẢNLÝ | NGƯỜIQUẢNLÝ | NHÂNCÔNG | NHÂNCÔNG | NHÂNCÔNG
+Mức 3: | THÂNNHÂN | NGƯỜIQUẢNLÝ | NGƯỜIQUẢNLÝ | TÊN | MÃNV | THỜI
+Mức 3: | TÊNTN PHÁI NGSINH | TÊN_NQL | MÃNV | TÊN | MÃNV | GIAN
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 36
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 38
+Mức ngoài | Người dùng | Người dùng
+Lược đồ ngoài 1 | … | Lược đồ ngoài n
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 39
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 40
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 41
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 42
+-Mức 
+  cao 
+  (phi 
+  thủ 
+  tục) | 43
+-Mức 
+  thấp 
+  (thủ 
+  tục) | 43
+Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 43
+QUẢN 
+  LÝ 
+  ĐỀ 
+  ÁN: 
+CSDL 
+  đề 
+  án 
+  của 
+  một 
+  công 
+  ty 
+  theo 
+  dõi 
+  các 
+  thông 
+  tin 
+  liên 
+  quan 
+  đến 
+  nhân 
+  viên, 
+  phòng 
+  ban và 
+  đề 
+  án 
+•Cty 
+  có 
+  nhiều 
+  phòng 
+  ban, 
+  mỗi 
+  phòng 
+  ban 
+  có 
+  tên 
+  duy 
+  nhất, 
+  mã 
+  phòng 
+  duy 
+  nhất, 
+  một trưởng 
+  phòng 
+  và 
+  ngày 
+  nhận 
+  chức. 
+  Mỗi 
+  phòng 
+  ban 
+  có 
+  thể 
+  ở 
+  nhiều 
+  địa 
+  điểm 
+  khác 
+  nhau. •Đề 
+  án 
+  có 
+  tên 
+  duy 
+  nhất, 
+  mã 
+  duy 
+  nhất, 
+  do 
+  1 
+  một 
+  phòng 
+  ban 
+  chủ 
+  trì 
+  và 
+  được 
+  triển 
+  khai 
+  ở 
+  1 địa 
+  điểm. 
+•Nhân 
+  viên 
+  có 
+  mã 
+  số, 
+  tên, 
+  địa 
+  chỉ, 
+  ngày 
+  sinh, 
+  phái 
+  và 
+  lương. 
+  Mỗi 
+  nhân 
+  viên 
+  làm 
+  việc 
+  ở 
+  1 phòng 
+  ban, 
+  tham 
+  gia 
+  vào 
+  các 
+  đề 
+  án 
+  với 
+  số 
+  giờ 
+  làm 
+  việc 
+  khác 
+  nhau. 
+  Mỗi 
+  nhân 
+  viên 
+  đều 
+  có một 
+  người 
+  quản 
+  lý 
+  trực 
+  tiếp. 
+•Một 
+  nhân 
+  viên 
+  có 
+  thể 
+  có 
+  nhiều 
+  thân 
+  nhân. 
+  Mỗi 
+  thân 
+  nhân 
+  có 
+  tên, 
+  phái, 
+  ngày 
+  sinh 
+  và 
+  mối
+Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 45

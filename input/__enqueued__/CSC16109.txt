@@ -1,0 +1,98 @@
+# COURSE: Ứng dụng xử lý ảnh số và video số (CSC16109)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC16109
+- **English Name**: Applications in Digital Image and Video Processing
+- **Vietnamese Name**: Ứng dụng xử lý ảnh số và video số
+- **Responsible Person**: for the module: Assoc. Prof. Lý Quốc Ngọc
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+This course is an urgent bridge from basic knowledge in Digital Image and Video Processing, Computer Vision and Computer Graphics to practical applications that society needs, in line with the training process according to the 4th technology revolution.
+This course is intended to provide students with practical experience in designing the applications related to image & video. The content includes the main parts such as applications in the fields of digital marketing and e-commerce; smart city construction;  self-driving devices such as Mobile Robot and Drone devices; 3D object reconstruction for 3D printing technology; Human-machine interaction; Medical image processing; Intelligent Agriculture.
+• COURSE TOPICS:
+- Introduction  to Applied  DIP
+- The role of DIP in digital marketing and e-commerce
+- Product sample Recognition, Retrieval
+- The role of DIP in smart city
+- Object Retrieval VQA on security monitoring
+- Abnormal Event Detection VQA on security monitoring
+- Role of DIP in Self-Driving Devices
+- Video Stabilization on Mobile Robot, Drone
+- Locolization and 3D Scene Reconstruction on Mobile robot, Drone
+- Role of 3D Object Reconstruction
+- 3D Object Reconstruction based on Depth-Color Images Sequence
+- Role of  DIP in Human-Machine Interaction
+- Face Detection & Recognition based on Facial Attributes
+- Human Activity Recognition
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Digital Image Processing 4th Edition,Rafael C. gonzalez, Richard E. Woods,2019,Springer
+- [2]Learning Image Processing with OpenCV,Gloria Bueno García Oscar Deniz Suarez José Luis Espinosa Aranda Jesus Salido Tercero Ismael Serrano Gracia Noelia Vállez Enano, Packt Publishing,2015,Packt Publishing
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice the roles of individuals and groups in group activities in response to learning about applied digital image and video processing (Applied DIP).
+- G2.Practice English documents and Presentation in English about Applied   DIP.
+- G3.Analyze analytical and problem-solving methods related to the Applied DIP.
+- G4.Analyze process of designing and implementing application in digital marketing and e-commerce..
+- G5.Analyze process of designing and implementing application  in smart city construction.
+- G6.Analyze process of designing and implementing application  in self-driving devices.
+- G7.Analyze process of designing and implementing application  in 3D printing technology.
+- G8.Analyze a simple process of designing and implementing application  in human-machine interaction.
+• Content:
+- Introduction  to Applied  DIP
+- The role of DIP in digital marketing and e-commerce
+- Product sample Recognition, Retrieval
+- The role of DIP in smart city
+- Object Retrieval VQA on security monitoring
+- Abnormal Event Detection VQA on security monitoring
+- Role of DIP in Self-Driving Devices
+- Video Stabilization on Mobile Robot, Drone
+- Locolization and 3D Scene Reconstruction on Mobile robot, Drone
+- Role of 3D Object Reconstruction
+- 3D Object Reconstruction based on Depth-Color Images Sequence
+- Role of  DIP in Human-Machine Interaction
+- Face Detection & Recognition based on Facial Attributes
+- Human Activity Recognition
+• Examination forms: Final examination, Lab mid-term exam, Lab final exam, Homework, Research Project, Case Study, Essay, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Digital Image Processing 4th Edition,Rafael C. gonzalez, Richard E. Woods,2019,Springer
+- [2]Learning Image Processing with OpenCV,Gloria Bueno García Oscar Deniz Suarez José Luis Espinosa Aranda Jesus Salido Tercero Ismael Serrano Gracia Noelia Vállez Enano, Packt Publishing,2015,Packt Publishing
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Digital Image Processing 4th Edition,Rafael C. gonzalez, Richard E. Woods,2019,Springer
+- [2]Learning Image Processing with OpenCV,Gloria Bueno García Oscar Deniz Suarez José Luis Espinosa Aranda Jesus Salido Tercero Ismael Serrano Gracia Noelia Vállez Enano, Packt Publishing,2015,Packt Publishing
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Digital Image Processing 4th Edition,Rafael C. gonzalez, Richard E. Woods,2019,Springer
+- [2]Learning Image Processing with OpenCV,Gloria Bueno García Oscar Deniz Suarez José Luis Espinosa Aranda Jesus Salido Tercero Ismael Serrano Gracia Noelia Vállez Enano, Packt Publishing,2015,Packt Publishing
+
+## READING MATERIALS
+- [1]Digital Image Processing 4th Edition,Rafael C. gonzalez, Richard E. Woods,2019,Springer
+- [2]Learning Image Processing with OpenCV,Gloria Bueno García Oscar Deniz Suarez José Luis Espinosa Aranda Jesus Salido Tercero Ismael Serrano Gracia Noelia Vállez Enano, Packt Publishing,2015,Packt Publishing

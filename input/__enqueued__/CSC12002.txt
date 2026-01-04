@@ -1,0 +1,86 @@
+# COURSE: Cơ sở dữ liệu nâng cao (CSC12002)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC12002
+- **English Name**: Advanced Database Systems
+- **Vietnamese Name**: Cơ sở dữ liệu nâng cao
+- **Responsible Person**: for the module: Dr. Nguyễn Trần Minh Thư
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Overview of Relational Database Design
+- Data Models: Entity Relationship Model
+- Data models: Enhanced Entity Relationship Model Relational Data Model
+- Conceptual Database Design (part 1)
+- Conceptual Database Design (part 2)
+- Data Dependency & Normal Form
+- Logic Database Design
+- Physical Database Design (part 1)
+- Physical Database Design (part 2)
+- Advanced Topics
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Modern Database System, 12th edition,Jeff Hoffer, Ramesh Venkataraman,2016,Pearson Education
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice teamwork skills
+- G2.Practice reading English documents related to relational database design.
+- G3.Practice critical and creative thinking in relational database design.
+- G4.Explain the meaning and importance of relational databases design
+- G5.Practice and applying the basic knowledge for the relational database design phases such as data models, functional dependency, normal form, ...
+- G6.Apply some techniques to get user requirements
+- G7.Execute the tasks in the conceptual and logical database design.
+- G8.Execute the tasks in the physical design phases
+- G9.List some modern popular databases currently
+• Content:
+- Overview of Relational Database Design
+- Data Models: Entity Relationship Model
+- Data models: Enhanced Entity Relationship Model Relational Data Model
+- Conceptual Database Design (part 1)
+- Conceptual Database Design (part 2)
+- Data Dependency & Normal Form
+- Logic Database Design
+- Physical Database Design (part 1)
+- Physical Database Design (part 2)
+- Advanced Topics
+- Review
+• Examination forms: Close Test, Final examination, Lab final exam, Lab Report, Homework, Case Study, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Modern Database System, 12th edition,Jeff Hoffer, Ramesh Venkataraman,2016,Pearson Education
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Modern Database System, 12th edition,Jeff Hoffer, Ramesh Venkataraman,2016,Pearson Education
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Modern Database System, 12th edition,Jeff Hoffer, Ramesh Venkataraman,2016,Pearson Education
+
+## READING MATERIALS
+- [1]Modern Database System, 12th edition,Jeff Hoffer, Ramesh Venkataraman,2016,Pearson Education

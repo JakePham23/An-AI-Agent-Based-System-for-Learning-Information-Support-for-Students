@@ -1,0 +1,133 @@
+# COURSE: Nhập môn mã hóa – mật mã (CSC15005)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC15005
+- **English Name**: Introduction to Cryptography
+- **Vietnamese Name**: Nhập môn mã hóa – mật mã
+- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Đình Thúc
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to cryptosystems
+- . Symmetric cryptosystems.
+- . Asymmetric cryptosystems.
+- . Cryptographic hash functions.
+- RSA-cryptosystem: Ring Zn
+- . Introduction to ring Zn
+- . Basic algorithms
+- RSA-cryptosystem: RSA theorem
+- . RSA theorem
+- . Proving the RSA theorem.
+- RSA-cryptosystem: RSA implementation.
+- . Big integers
+- . Primes
+- . Security issues.
+- DLP-based cryptosystem: Key exchange
+- . Group-Ring-Field
+- . Discrete Logarithm Problem – DLP.
+- . Diffie-Hellman key exchange protocol
+- . ElGamal cryptosystem
+- DLP-based cryptosystem: implementation
+- . Implementation
+- . Security issues
+- Symmetric cryptosystems
+- . Feistel network
+- . Modes
+- . Block and stream ciphers
+- Applied crypt 1
+- . Cryptographic hash functions.
+- . Messenger Authentication Code - MAC
+- . Digital signature
+- Applied crypt 2
+- . Database security
+- . Threshold scheme
+- Advanced topic
+- . ECC
+- . Homomorphic cryptography
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Cơ sở Lí thuyết số trong An toàn - Bảo mật Thông tin,Bùi Doãn Khanh - Nguyễn Đình Thúc - Trần Đan Thư,2007,NXBGD
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Understand fundamental knowledge in cryptography
+- G2.Apply knowledge from multiple fields
+- G3.Read and understand academic literature
+- G4.Apply cryptography to practical applications
+• Content:
+- Introduction to cryptosystems
+- . Symmetric cryptosystems.
+- . Asymmetric cryptosystems.
+- . Cryptographic hash functions.
+- RSA-cryptosystem: Ring Zn
+- . Introduction to ring Zn
+- . Basic algorithms
+- RSA-cryptosystem: RSA theorem
+- . RSA theorem
+- . Proving the RSA theorem.
+- RSA-cryptosystem: RSA implementation.
+- . Big integers
+- . Primes
+- . Security issues.
+- DLP-based cryptosystem: Key exchange
+- . Group-Ring-Field
+- . Discrete Logarithm Problem – DLP.
+- . Diffie-Hellman key exchange protocol
+- . ElGamal cryptosystem
+- DLP-based cryptosystem: implementation
+- . Implementation
+- . Security issues
+- Symmetric cryptosystems
+- . Feistel network
+- . Modes
+- . Block and stream ciphers
+- Applied crypt 1
+- . Cryptographic hash functions.
+- . Messenger Authentication Code - MAC
+- . Digital signature
+- Applied crypt 2
+- . Database security
+- . Threshold scheme
+- Advanced topic
+- . ECC
+- . Homomorphic cryptography
+- Review
+• Examination forms: Final examination, Homework, Mid-term examination, Project
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Cơ sở Lí thuyết số trong An toàn - Bảo mật Thông tin,Bùi Doãn Khanh - Nguyễn Đình Thúc - Trần Đan Thư,2007,NXBGD
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Cơ sở Lí thuyết số trong An toàn - Bảo mật Thông tin,Bùi Doãn Khanh - Nguyễn Đình Thúc - Trần Đan Thư,2007,NXBGD
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Cơ sở Lí thuyết số trong An toàn - Bảo mật Thông tin,Bùi Doãn Khanh - Nguyễn Đình Thúc - Trần Đan Thư,2007,NXBGD
+
+## READING MATERIALS
+- [1]Cơ sở Lí thuyết số trong An toàn - Bảo mật Thông tin,Bùi Doãn Khanh - Nguyễn Đình Thúc - Trần Đan Thư,2007,NXBGD

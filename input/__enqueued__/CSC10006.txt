@@ -1,0 +1,91 @@
+# COURSE: Cơ sở dữ liệu (CSC10006)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10006
+- **English Name**: Introduction to Databases
+- **Vietnamese Name**: Cơ sở dữ liệu
+- **Responsible Person**: for the module: Dr. Phạm Thị Bạch Huệ
+- **Semester**: (s) in which the module is taught: 4
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- An overview of database systems
+- Entity relationship model
+- Relational data model
+- Relational algebra
+- Structured Query Language (SQL)
+- Relational Calculus
+- Functional dependency and Normal forms
+- Functional dependency and Normal forms (cont.)
+- Integrity constraints
+- Integrity constraints (cont)
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Database Systems: The Complete Book (2nd Edition),Hector Garcia-Molina,Jeffrey D. Ullman, Jennifer Widom,2008,Prentice Hall
+- [2]Fundamentals of Database Systems (7th Edition),Ramez Elmasri, Shamkant B.,2017,Addison Wesley
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply soft skills to work independently or in groups to solve issues in the database systems
+- G2.Practice English reading comprehension skills to read textbooks and other documents related to database systems
+- G3.Explain basic concepts and characteristics of the database and database systems
+- G4.Apply the Entity-Relationship Model and Relational Data Model for data modeling
+- G5.Use database languages to manipulate the databases
+- G6.Discover the quality of a given database scheme and practice the methods to normalize a database scheme
+- G7.Describe and define integrity constraints in a database
+- G8.Describe the future trends in database systems research
+- G9.Set up and manipulate the database using a relational database management system
+• Content:
+- An overview of database systems
+- Entity relationship model
+- Relational data model
+- Relational algebra
+- Structured Query Language (SQL)
+- Relational Calculus
+- Functional dependency and Normal forms
+- Functional dependency and Normal forms (cont.)
+- Integrity constraints
+- Integrity constraints (cont)
+- Review
+• Examination forms: Close Test, Final examination, Lab midterm exam, Lab final exam, Lab Report, Homework, Quiz, quick test
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Database Systems: The Complete Book (2nd Edition),Hector Garcia-Molina,Jeffrey D. Ullman, Jennifer Widom,2008,Prentice Hall
+- [2]Fundamentals of Database Systems (7th Edition),Ramez Elmasri, Shamkant B.,2017,Addison Wesley
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Database Systems: The Complete Book (2nd Edition),Hector Garcia-Molina,Jeffrey D. Ullman, Jennifer Widom,2008,Prentice Hall
+- [2]Fundamentals of Database Systems (7th Edition),Ramez Elmasri, Shamkant B.,2017,Addison Wesley
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Database Systems: The Complete Book (2nd Edition),Hector Garcia-Molina,Jeffrey D. Ullman, Jennifer Widom,2008,Prentice Hall
+- [2]Fundamentals of Database Systems (7th Edition),Ramez Elmasri, Shamkant B.,2017,Addison Wesley
+
+## READING MATERIALS
+- [1]Database Systems: The Complete Book (2nd Edition),Hector Garcia-Molina,Jeffrey D. Ullman, Jennifer Widom,2008,Prentice Hall
+- [2]Fundamentals of Database Systems (7th Edition),Ramez Elmasri, Shamkant B.,2017,Addison Wesley

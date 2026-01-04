@@ -1,0 +1,158 @@
+TÀI LIỆU: CTDT_CNTT_CD_K2009-K2010
+TỔNG SỐ TRANG: 3
+==================================================
+
+--- Trang 1 ---
+ĐẠI HỌC QUÓC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN _ Độc lập - Tự do — Hanh phúc
+
+CHƯƠNG TRÌNH ĐÀO TẠO
+HỆ CAO ĐĂNG - Ngành Công nghệ thông tin
+(Cập nhật theo chương trình 140 tín chỉ của Hệ đại học chính qui từ Khóa 2008)
+
+Chương trình đào tạo Cao đẳng Công nghệ thông tin tổng cộng gồm 108 tín chỉ chưa ké các học phần
+Giáo dục quốc phòng và Giáo dục thể chất.
+
+A. KIÊN THỨC GIÁO DỤC ĐẠI CƯƠNG
+
+Phần này gần như tương đương với khối kiến thức đại cương của chương trình đại học chính qui.
+Tổng cộng 48 tín chỉ (chưa kế các chứng chỉ Giáo đực quốc phòng và Giáo dục thể chất).
+
+- SÓ TÍN CHỈ Tính chất
+STT TÊN HỌC PHÀN K. a Thue |.
+Số TC ., |Bắt buộc| Tự chọn
+enti hanh a in
+
+Kiến thức Toán học
+1. |Giải tích BI TTH026 3 3 X
+2. |Giải tích B2 TTH027 3 3 X
+3. [Toán rời rac TTH063 4 4 X i
+4. Đại số BI TTH003 3 3 X
+
+Kiến thức Điện tử & Vật lí
+5. |Dién tử căn bản DTV001 3 5 X
+6. Điện từ, Quang - Lượng tử - Nguyên tử VLH023 4 4 X
+
+Kiến thức khoa học xã hội và ngoại ngữ
+7. Nhing nguyén ly co bản của chủ nghĩa CTH001 5 5 x
+
+|Mác — Lênin
+
+§. Đường lối cách mạng của ĐCSVN CTH002 3 5 X
+9. Tư tưởng HCM CTH003 2 2 X
+10. |Anh văn 1 NNA001 3 3 X
+11. Anh van 2 NNA002 3 3 | x
+
+Kiến thức công nghệ thông tin
+12. [Tin học cơ sở 4 3 ] X
+13. Nhập môn lập trình CTT003 4 3 1 X
+14. [Phương pháp lập trình hướng đối tượng CTT006 4 3 1 X
+
+B. KIÊN THỨC GIÁO DỤC CHUYÊN NGHIỆP
+
+Sinh viên cần tích lũy đủ 60 tín chỉ thuộc về khối kiến thức giáo dục nghề nghiệp. Danh sách các
+học phân chi tiét như sau.
+
+Trường ĐH KHTN - Dai học QG Tp.HCM Chương trình Cao đăng Công nghệ thông tin / Trang 1
+
+a
+
+--- Trang 2 ---
+Số ti Tính chất
+STT | _ Tên học phan, Mã học phan ony Bắt | Tw Ghi chú
+buộc | chọn
+BI - Kiến thức cơ sở nhóm ngành công nghệ thông tin Tổng cộng 20TC
+1 Kiên trúc máy tính và hợp CTT104 4 X
+ngữ
+2 | Cấu trúc dữ liệu và Giải thuật | CTT101 4 X Số tiết mỗi học
+as in phan:
+3 Mantas tinh CTT105 4 Xx 45 LT +30 TH
+4 | Hé diéu hanh CTT103 4 X
+5 | Cơ sở dữ liệu CTT102 4 X
+B2 — Kiến thức ngành 50 at hợp
+Sinh viên tích lũy 5 học phần (20 tín chi) từ danh sách các học phan sau đây 45 xƑ + 30 TH
+
+© | tay và làm việc nhóm [CTI7OL] 4
+
+7 | Quản trị cơ sở dữ liệu CTT702 x
+
+8 | Lap trình Webl | CTT703 4 x
+
+: Lập trình Windows CTT501 Ậ s Chọn 01 trong 02
+Quản trị Windows Server CTT704 học phân
+
+lữ Lập trình ứng dụng quản ly 1 | CTT705 F s Chọn 01 trong 02
+Hệ điều hành Linux căn bản | CTT706 | hoe phan
+
+B3 — Tự chon theo định hướng
+Sinh viên tích lñy 5 học phần (20 tín chi) từ danh
+tùy theo kê hoạch mở học phân của Khoa.
+
+chuyên ngành
+
+sách các
+
+học phần sau đây
+
+Số tiết mỗi học
+phân:
+45 LT + 30 TH
+
+z SÃ og 2 “ xX
+1 Phát triên ứng dụng cơ sở dữ CTT721 4
+liệu 1
+2 Phat triên ứng dụng co sở dữ CTT722 4 x
+liệu 2
+13 | Triển khai ứng dụng mạng CTT723 4 X
+14 | Triển khai hệ thống mang CTT724 4 Xx
+15 Cac dich vu trén Hé diéu CTT725 4 X
+hành Linux
+16 | Công cụ bảo mật mạng CTT726 4 x
+7 Các thuật toán thông minh CTT727 4 X
+nhân tạo và ứng dụng
+
+Trường ĐH KHTN - Đại học QG Tp.HCM
+
+Chương trình Cao đẳng Công nghệ thông tin / Trang 2
+
+--- Trang 3 ---
+- Tinh chat
+STT Tén hoc phan, Ma hoc phan a Bat | Ty Ghi cha
+buộc | chon
+18 | Khai thác dữ liệu trên Web CTT728 4 X
+19 | Lắp ráp và cài dat may tinh | CTT729| 4 X
+20 Công cụ kiêm chứng phân CTT730 4 X
+mem
+21 | Lập trình Web2 C11731 4 Xx
+22 | Lap trinh tmg dung quan ly 2 | CTT732 4 Xx
+23 Kỹ thuật bảo mật mạng CTT733 4 X
+Windows
+
+C. TÓT NGHIỆP
+Điều kiện tốt nghiệp:
+
+- _ Sinh viên tích lũy đủ số tín chỉ như đã qui định trong các phần A và B;
+
+- _ Thỏa mãn các yêu cầu về: Giáo dục quốc phòng và Giáo dục thể chất;
+
+- Khong có thi tốt nghiệp, không làm khóa luận tốt nghiệp đối với sinh viên hệ cao đẳng.
+
+Trường ĐH KHTN - Đại học QG Tp.HCM
+
+Tp. Hồ Chí Minh, ngay-24thang Ÿ năm 424
+z- Hiệu trưởng
+
+|
+on
+
+GIA >
+EL ili <b
+S/ TRƯỜNG \
+BAI HOC)
+KHOA HỌC |
+S\ TU NHIER
+
+ở
+
+Chương trình Cao đăng Công nghệ thông tin / Trang 3
+

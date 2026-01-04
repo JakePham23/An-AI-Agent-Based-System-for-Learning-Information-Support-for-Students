@@ -1,0 +1,157 @@
+TÀI LIỆU: CTDT_CNTT_CD_K2004-K2008
+TỔNG SỐ TRANG: 3
+==================================================
+
+--- Trang 1 ---
+ĐẠI HỌC QUỐC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập — Tự do — Hạnh phúc
+
+_ CHƯƠNG TRÌNH ĐÀO TẠO
+HỆ CAO DANG — Ngành Công nghệ thông tin
+( Ap dụng từ Khóa 2004)
+Chương trình đào tạo Cao đẳng công nghệ thông tin tổng cộng gồm 170 tín chỉ chưa kẻ các học phần
+Giáo duc quốc phòng và Giáo duc thé chát.
+A. KIÊN THỨC GIÁO DỤC ĐẠI CƯƠNG
+
+- Phần này gần như tương đương với khối kiến thức đại cương của chương trình đại học chính qui.
+Tông cộng 91 tín chỉ (chưa kê các chứng chỉ Anh văn, Giáo duc quốc phòng và Giáo duc thé chát).
+
+SÓ TÍN CHÍ
+
+Lý | Thực
+thuyết| hành
+
+Tính chất
+
+STT TÊN HỌC PHÀN -
+Bắt buộc | Tự chọn
+
+ién thức Toán học
+
+oán Cao cấp AI (Vi tích phân)
+
+5
+4
+4
+
+ién thức Điện tứ & Vật lí
+
+at lý đại cương Al (Điện - từ) 3
+6. |Vật lý đại cương A2 3
+
+hực tập VL đại cương
+
+Kiến thức khoa học xã hội và ngoại ngữ
+
+riết học Mac-Lênin
+
+mn
+
+| 11 Chủ nghĩa xã hội khoahọ |
+
+| 14)
+
+| l6lAnhvă |
+Kiến thức công nghệ thông tin
+
+hap môn lập trình 6 3 3
+
+4
+3
+6
+6
+
+| | OS | OS | OX | OS | OX | OS |
+
+Chương trình Cao đăng Công nghệ thông tin / Trang 1
+
+--- Trang 2 ---
+TÊN HỌC PHÀN
+
+ý Mã HP
+Lý Tự chọn
+TH030
+
+B. KIÊN THỨC GIÁO DUC NGHÈ NGHIỆP
+
+Sinh viên cần tích lũy đủ 69 tín chỉ thuộc về khối kiến thức giáo dục nghề nghiệp. Danh sách các
+
+học phan.chi tiét nhu sau.
+
+sé | Tính chất
+STT Tên học phần tín | Bat | Tư Mã HP Ghi chú
+chỉ | buộc | chọn
++
+B1- Kiên thức cơ sở nhóm ngành công nghệ Tổng cộng 27 TC
+thông tin
+1 | Kiến trúc máy tính TH018 45 tiết LT
+
+3 | X
+2 | Cấu trúc dữ liệu 6 | X TH028
+3 | Mạng máy tính 6 X TH117
+4 | Cơ sở dữ liệu 6 | x TH026
+5 | Hệ điều hành 6 | X THII9
+
+Số tiết mỗi học phan:
+45LT +45 TH
+
+B2 - Bắt buộc ngành
+Sinh viên tích lũy 6 học phần (36 tín chỉ) từ danh sách
+các học phân sau đây
+
+l
+
+Số tiết mỗi học phần:
+45LT +45 TH
+
+6 | Quan trị cơ sở dữ liệu 6 X
+
+7 | Lập trình Webl 6 xX
+
+8 | Lap trình trên Windows 6 X
+
+9 | Đồhọa 6 | x TH320
+
+10| Trí tuệ nhân tạo 6 | x TH220 |
+1 mỉ trình ứng dụng quản 6 X TH222
+
+B3 — Tự chon theo định hướng chuyên ngành
+Sinh viên tích lũy 1 trong 2 học phần (6 tín chỉ) từ danh
+sách các học phân sau đây tùy theo kê hoạch mở học
+phân của Khoa.
+
+|__ 12] 14 trình WEB2 6 x
+
+TH324
+
+Số tiết mỗi học phan:
+45LT+45TH
+
+Chương trình Cao đăng Công nghệ thông tin / Trang 2
+
+--- Trang 3 ---
+Tính chất
+
+Tên học phần Bắt | Tư
+buộc | chọn
+
+X
+
+het trinh ung dung quan TH326
+
+C. TOT NGHIỆP
+
+Điều kiện tốt nghiệp:
+-__ Sinh viên tích lũy đủ số tín chỉ như đã qui định trong các phan A và B;
+- Thoda mãn các yêu cầu về: Giáo dục quốc phòng và Giáo dục thé chat;
+
+- Thi tốt nghiệp (10 tin chỉ).
+
+Tp. Hồ Chí Minh, ngay2é tháng © năm.$œo4
+
+Chương trình Cao dang Công nghệ thông tin / Trang 3
+
+—m⁄ +4 `» .%
+
+Yb a a
+

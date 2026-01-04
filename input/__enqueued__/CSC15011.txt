@@ -1,0 +1,146 @@
+# COURSE: Nhập môn ngôn ngữ học thống kê và ứng dụng (CSC15011)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC15011
+- **English Name**: Introduction to Statistics Linguistics and Applications
+- **Vietnamese Name**: Nhập môn ngôn ngữ học thống kê và ứng dụng
+- **Responsible Person**: for the module: Assoc. Prof. Đinh Điền - Nguyễn Hồng Bửu Long
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- An overview of statistical linguistics:
+- Probability theory
+- Random variables, probability distribution
+- Statistical linguistics
+- Parameter estimation and statistical hypothesis testing
+- Correlation and regression
+- Frequency dictionary
+- Quantitative learning style
+- Quantitative organization of vocabulary
+- Diversity of vocabulary
+- Introduction to linguistics:
+- Introduction
+- History of corpus research
+- Linguistic theory
+- Building a corpus:
+- Planning to build a corpus
+- Criteria for selecting a corpus
+- Types of a corpus
+- Building a corpus (continued):
+- Collect data
+- Building a monolingual corpus (Vietnamese)
+- Building a bilingual corpus (English-Vietnamese)
+- Processing a corpus:
+- Pre-processing of a corpus
+- Language labeling
+- Formalization of language labels
+- Processing the corpus (continued):
+- Language labeling for a monolingual corpus (Vietnamese)
+- Language labeling for a bilingual corpus (English-Vietnamese)
+- Designing a bilingual corpus (English-Vietnamese)
+- Processing a corpus (continued):
+- Corpus marking
+- Metadata
+- Spoken text corpus
+- Applications:
+- In computational linguistics
+- In language research
+- In language teaching
+- In other language-related applications
+- Seminar
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Ngôn ngữ học Ngữ liệu,Đinh Điền,2018,NXB ĐHQG-HCM
+- [2]Corpus Linguistics and Linguistically Annotated Corpora,Sandra Kuebler, Heike Zinsmeister,2015,Bloomsbury Academic
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply team work and individual work skills to research, construct, and exploit corpora
+- G2.Understand and apply at a basic level statistical methods, evaluating on real data
+- G3.Know the basic concepts of corpus, classification of corpus; criteria for building corpus, processing and exploiting corpus
+- G4.Identify, describe, analyze, and evaluate the structure and quality of a particular corpus
+- G6.Recognize the role and importance of statistical linguistics in preparing corpora
+- G5.Know and apply the criteria when collecting corpus (corpus balancing, representativeness, corpus sampling); corpus processing: language labeling at different linguistic levels and at different language levels; corpus mining
+• Content:
+- An overview of statistical linguistics:
+- Probability theory
+- Random variables, probability distribution
+- Statistical linguistics
+- Parameter estimation and statistical hypothesis testing
+- Correlation and regression
+- Frequency dictionary
+- Quantitative learning style
+- Quantitative organization of vocabulary
+- Diversity of vocabulary
+- Introduction to linguistics:
+- Introduction
+- History of corpus research
+- Linguistic theory
+- Building a corpus:
+- Planning to build a corpus
+- Criteria for selecting a corpus
+- Types of a corpus
+- Building a corpus (continued):
+- Collect data
+- Building a monolingual corpus (Vietnamese)
+- Building a bilingual corpus (English-Vietnamese)
+- Processing a corpus:
+- Pre-processing of a corpus
+- Language labeling
+- Formalization of language labels
+- Processing the corpus (continued):
+- Language labeling for a monolingual corpus (Vietnamese)
+- Language labeling for a bilingual corpus (English-Vietnamese)
+- Designing a bilingual corpus (English-Vietnamese)
+- Processing a corpus (continued):
+- Corpus marking
+- Metadata
+- Spoken text corpus
+- Applications:
+- In computational linguistics
+- In language research
+- In language teaching
+- In other language-related applications
+- Seminar
+• Examination forms: Written Report, Homework, Quiz, quick test
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Ngôn ngữ học Ngữ liệu,Đinh Điền,2018,NXB ĐHQG-HCM
+- [2]Corpus Linguistics and Linguistically Annotated Corpora,Sandra Kuebler, Heike Zinsmeister,2015,Bloomsbury Academic
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Ngôn ngữ học Ngữ liệu,Đinh Điền,2018,NXB ĐHQG-HCM
+- [2]Corpus Linguistics and Linguistically Annotated Corpora,Sandra Kuebler, Heike Zinsmeister,2015,Bloomsbury Academic
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Ngôn ngữ học Ngữ liệu,Đinh Điền,2018,NXB ĐHQG-HCM
+- [2]Corpus Linguistics and Linguistically Annotated Corpora,Sandra Kuebler, Heike Zinsmeister,2015,Bloomsbury Academic
+
+## READING MATERIALS
+- [1]Ngôn ngữ học Ngữ liệu,Đinh Điền,2018,NXB ĐHQG-HCM
+- [2]Corpus Linguistics and Linguistically Annotated Corpora,Sandra Kuebler, Heike Zinsmeister,2015,Bloomsbury Academic

@@ -1,0 +1,144 @@
+--- THÔNG TIN CHƯƠNG TRÌNH ĐÀO TẠO ---
+Khoa: Công nghệ thông tin
+Ngành đào tạo: Trí tuệ nhân tạo
+Chương trình: Chương trình chuẩn (Đại trà)
+
+--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (BẮT BUỘC) ---
+Các môn học sau đây thuộc khối "Kiến thức giáo dục đại cương" nhóm bắt buộc của ngành Trí tuệ nhân tạo:
+1. Môn học BAA00003: Tư tưởng Hồ Chí Minh.
+2. Môn học BAA00004: Pháp luật đại cương.
+3. Môn học BAA00011: Anh văn 1.
+4. Môn học BAA00012: Anh văn 2.
+5. Môn học BAA00013: Anh văn 3.
+6. Môn học BAA00014: Anh văn 4.
+7. Môn học BAA00021: Thể dục 1.
+8. Môn học BAA00022: Thể dục 2.
+9. Môn học BAA00101: Triết học Mác - Lênin.
+10. Môn học BAA00102: Kinh tế chính trị Mác - Lênin.
+11. Môn học BAA00103: Chủ nghĩa xã hội khoa học.
+12. Môn học BAA00104: Lịch sử Đảng Cộng sản Việt Nam.
+13. Môn học CSC00004: Nhập môn công nghệ thông tin.
+14. Môn học MTH00021: Vi tích phân 1.
+15. Môn học MTH00022: Vi tích phân 2.
+16. Môn học MTH00035: Đại số tuyến tính.
+17. Môn học MTH00044: Xác suất thống kê.
+18. Môn học MTH00045: Toán rời rạc.
+19. Môn học MTH00050: Toán học tổ hợp.
+
+--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (TỰ CHỌN) ---
+Các môn học sau đây thuộc khối "Kiến thức giáo dục đại cương" nhóm tự chọn của ngành Trí tuệ nhân tạo:
+1. Môn học BAA00005: Kinh tế đại cương.
+2. Môn học BAA00006: Tâm lý đại cương.
+3. Môn học BAA00007: Phương pháp luận sáng tạo.
+4. Môn học BIO00001: Sinh đại cương 1.
+5. Môn học BIO00002: Sinh đại cương 2.
+6. Môn học BIO00081: Thực tập Sinh đại cương 1.
+7. Môn học BIO00082: Thực tập Sinh đại cương 2.
+8. Môn học CHE00001: Hóa đại cương 1.
+9. Môn học CHE00002: Hóa đại cương 2.
+10. Môn học CHE00081: Thực hành Hóa đại cương 1.
+11. Môn học CHE00082: Thực hành Hóa đại cương 2.
+12. Môn học ENV00001: Môi trường đại cương.
+13. Môn học ENV00003: Con người và môi trường.
+14. Môn học GEO00002: Khoa học Trái đất.
+15. Môn học MTH00051: Toán ứng dụng và thống kê.
+16. Môn học MTH00052: Phương pháp tính.
+17. Môn học MTH00053: Lý thuyết số.
+18. Môn học MTH00056: Phương pháp toán cho trí tuệ nhân tạo.
+19. Môn học PHY00001: Vật lý đại cương 1 (Cơ - Nhiệt).
+20. Môn học PHY00002: Vật lý đại cương 2 (Điện từ - Quang).
+21. Môn học PHY00081: Thực hành Vật lý đại cương.
+
+--- KHỐI KIẾN THỨC CƠ SỞ NGÀNH ---
+Các môn học sau đây thuộc khối "Kiến thức cơ sở ngành" của ngành Trí tuệ nhân tạo:
+1. Môn học CSC10001: Nhập môn lập trình.
+2. Môn học CSC10002: Kỹ thuật lập trình.
+3. Môn học CSC10003: Phương pháp lập trình hướng đối tượng.
+4. Môn học CSC10004: Cấu trúc dữ liệu và giải thuật.
+5. Môn học CSC10006: Cơ sở dữ liệu.
+6. Môn học CSC10007: Hệ điều hành.
+7. Môn học CSC10008: Mạng máy tính.
+8. Môn học CSC10009: Hệ thống máy tính.
+9. Môn học CSC10012: Cơ sở lập trình.
+10. Môn học CSC13002: Nhập môn công nghệ phần mềm.
+11. Môn học CSC14003: Cơ sở trí tuệ nhân tạo.
+
+--- KHỐI KIẾN THỨC NGÀNH ---
+Các môn học sau đây thuộc khối "Kiến thức ngành" chuyên sâu của ngành Trí tuệ nhân tạo:
+1. Môn học CSC10102: Kiến tập nghề nghiệp.
+2. Môn học CSC10103: Khởi nghiệp.
+3. Môn học CSC10104: Quy hoạch tuyến tính.
+4. Môn học CSC10105: Nhập môn tư duy thuật toán.
+5. Môn học CSC10106: Thuật toán tổ hợp và ứng dụng.
+6. Môn học CSC10107: Thực tập thực tế.
+7. Môn học CSC10108: Trực quan hóa dữ liệu.
+8. Môn học CSC10121: Kỹ năng mềm.
+9. Môn học CSC11004: Mạng máy tính nâng cao.
+10. Môn học CSC12001: An toàn và bảo mật dữ liệu trong hệ thống thông tin.
+11. Môn học CSC14001: Automata và ngôn ngữ hình thức.
+12. Môn học CSC14002: Các hệ cơ sở tri thức.
+13. Môn học CSC14004: Khai thác dữ liệu và ứng dụng.
+14. Môn học CSC14005: Nhập môn học máy.
+15. Môn học CSC14006: Nhận dạng.
+16. Môn học CSC14007: Nhập môn phân tích độ phức tạp thuật toán.
+17. Môn học CSC14008: Phương pháp nghiên cứu khoa học.
+18. Môn học CSC14101: Ẩn dữ liệu và chia sẻ thông tin.
+19. Môn học CSC14105: Khoa học về web.
+20. Môn học CSC14109: Logic mờ và ứng dụng.
+21. Môn học CSC14111: Nhập môn thiết kế và phân tích giải thuật.
+22. Môn học CSC14112: Sinh trắc học.
+23. Môn học CSC14113: Trình biên dịch.
+24. Môn học CSC14118: Nhập môn dữ liệu lớn.
+25. Môn học CSC14119: Nhập môn khoa học dữ liệu.
+26. Môn học CSC14120: Lập trình song song.
+27. Môn học CSC15001: An ninh máy tính.
+28. Môn học CSC15002: Bảo mật cơ sở dữ liệu.
+29. Môn học CSC15003: Mã hóa ứng dụng.
+30. Môn học CSC15004: Học thống kê.
+31. Môn học CSC15005: Nhập môn mã hóa – mật mã.
+32. Môn học CSC15006: Nhập môn xử lý ngôn ngữ tự nhiên.
+33. Môn học CSC15007: Thống kê máy tính và ứng dụng.
+34. Môn học CSC15009: Xử lý tín hiệu số.
+35. Môn học CSC15010: Blockchain và ứng dụng.
+36. Môn học CSC15011: Nhập môn ngôn ngữ học thống kê và ứng dụng.
+37. Môn học CSC15102: Phân tích mạng xã hội.
+38. Môn học CSC15107: Phân tích dữ liệu bảo toàn tính riêng tư.
+39. Môn học CSC16001: Đồ họa máy tính.
+40. Môn học CSC16002: Phương pháp toán trong phân tích dữ liệu thị giác.
+41. Môn học CSC16003: Phân tích thống kê dữ liệu nhiều biến.
+42. Môn học CSC16004: Thị giác máy tính.
+43. Môn học CSC16005: Xử lý ảnh số và video số.
+44. Môn học CSC16101: Đồ họa ứng dụng.
+45. Môn học CSC16102: Kỹ thuật lập trình xử lý ảnh số và video số.
+46. Môn học CSC16104: Thị giác robot.
+47. Môn học CSC16105: Truy vấn thông tin thị giác.
+48. Môn học CSC16106: Nhập môn lập trình điều khiển thiết bị thông minh.
+49. Môn học CSC16109: Ứng dụng xử lý ảnh số và video số.
+50. Môn học CSC17001: Phân tích dữ liệu thông minh.
+51. Môn học CSC17101: Hệ thống tư vấn.
+52. Môn học CSC17102: Học sâu cho khoa học dữ liệu.
+53. Môn học CSC17103: Khai thác dữ liệu đồ thị.
+54. Môn học CSC17104: Lập trình cho khoa học dữ liệu.
+55. Môn học CSC17105: Nhập môn tư duy tính toán.
+56. Môn học CSC17106: Xử lý phân tích dữ liệu trực tuyến.
+
+--- KHỐI KIẾN THỨC TỐT NGHIỆP ---
+Các môn học hoặc học phần sau đây thuộc khối "Kiến thức tốt nghiệp" của ngành Trí tuệ nhân tạo:
+1. Môn học CSC10204: Thực tập dự án tốt nghiệp.
+2. Môn học CSC10251: Khóa luận tốt nghiệp.
+3. Môn học CSC10252: Thực tập tốt nghiệp.
+4. Môn học CSC14114: Ứng dụng dữ liệu lớn.
+5. Môn học CSC14115: Khoa học dữ liệu ứng dụng.
+6. Môn học CSC14116: Lập trình song song ứng dụng.
+7. Môn học CSC14117: Nhập môn lập trình kết nối vạn vật.
+8. Môn học CSC15008: Xử lý ngôn ngữ tự nhiên ứng dụng.
+9. Môn học CSC15104: An toàn và phục hồi dữ liệu.
+10. Môn học CSC15105: Khai thác dữ liệu văn bản và ứng dụng.
+11. Môn học CSC15106: Seminar Công nghệ tri thức.
+12. Môn học CSC15201: Đồ án Mã hóa ứng dụng và an ninh thông tin.
+13. Môn học CSC15202: Đồ án Ngôn ngữ học tính toán.
+14. Môn học CSC16107: Ứng dụng thị giác máy tính.
+15. Môn học CSC16110: Chuyên đề Đồ họa máy tính.
+16. Môn học CSC16111: Chuyên đề Thị giác máy tính.
+17. Môn học CSC16112: Chuyên đề Xử lý ảnh số và video số.
+18. Môn học CSC17107: Ứng dụng phân tích dữ liệu thông minh.

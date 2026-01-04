@@ -1,0 +1,89 @@
+# COURSE: Nhập môn tư duy thuật toán (CSC10105)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10105
+- **English Name**: Introduction to Algorithmic Thinking
+- **Vietnamese Name**: Nhập môn tư duy thuật toán
+- **Responsible Person**: for the module: Dr. Nguyễn Thanh Hùng
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+During the course, students are also trained in their coding skills, their thinking mindset, and coding interviewing skills such as algorithm explanation, complexities optimization, etc.
+• COURSE TOPICS:
+- Introduction to Competitive Programming, Algorithms and Complexity
+- Review variations of simple data structures.
+- Introduction of advanced Data Structures
+- Recursion and Dynamic Programming Algorithms
+- String Processing and Greedy Algorithms
+- Mathematical Algorithms and Complexity Optimization
+- Geometric Computation
+- Introduction to Graph Theory
+- Introduction to Game Theory
+- Coding Interviewing Process Introduction and Simulation
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Algorithms and complexity. Vol. 1.,Meurant, Gerard,2014,Elsevier
+- [2]Cracking the coding interview: 189 programming questions and solutions,McDowell, Gayle Laakmann,2015,CareerCup, LLC
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Understanding complexities, in terms of space and time.
+- G2.Learning essential data structures.
+- G3.Studying a variety of algorithms in many topics related to competitive programming and coding interview questions.
+- G4.Training and practicing to gain problem analyzing, explaining, optimizing skill sets.
+- G5.Getting used to coding interviewing processes.
+- G6.Experimenting coding interviewing processes.
+• Content:
+- Introduction to Competitive Programming, Algorithms and Complexity
+- Review variations of simple data structures.
+- Introduction of advanced Data Structures
+- Recursion and Dynamic Programming Algorithms
+- String Processing and Greedy Algorithms
+- Mathematical Algorithms and Complexity Optimization
+- Geometric Computation
+- Introduction to Graph Theory
+- Introduction to Game Theory
+- Coding Interviewing Process Introduction and Simulation
+- Review
+• Examination forms: Final examination, Homework
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Algorithms and complexity. Vol. 1.,Meurant, Gerard,2014,Elsevier
+- [2]Cracking the coding interview: 189 programming questions and solutions,McDowell, Gayle Laakmann,2015,CareerCup, LLC
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Algorithms and complexity. Vol. 1.,Meurant, Gerard,2014,Elsevier
+- [2]Cracking the coding interview: 189 programming questions and solutions,McDowell, Gayle Laakmann,2015,CareerCup, LLC
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Algorithms and complexity. Vol. 1.,Meurant, Gerard,2014,Elsevier
+- [2]Cracking the coding interview: 189 programming questions and solutions,McDowell, Gayle Laakmann,2015,CareerCup, LLC
+
+## READING MATERIALS
+- [1]Algorithms and complexity. Vol. 1.,Meurant, Gerard,2014,Elsevier
+- [2]Cracking the coding interview: 189 programming questions and solutions,McDowell, Gayle Laakmann,2015,CareerCup, LLC

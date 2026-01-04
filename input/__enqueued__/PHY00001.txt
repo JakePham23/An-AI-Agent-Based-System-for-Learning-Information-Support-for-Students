@@ -1,0 +1,91 @@
+# COURSE: Vật lý đại cương 1 (Cơ - Nhiệt) (PHY00001)
+
+## GENERAL INFORMATION
+- **Course ID**: PHY00001
+- **English Name**: General Physics 1 (Mechanics - Thermodynamics)
+- **Vietnamese Name**: Vật lý đại cương 1 (Cơ - Nhiệt)
+- **Responsible Person**: for the module: Assoc. Prof. Huỳnh Trúc Phương
+- **Semester**: (s) in which the module is taught: 2
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 0 hours Hours for self-study, examination preparation, other activities: ~ 86.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Physics and measurements
+- Kinematics of particles
+- Dynamics of particles
+- Conservation laws in mechanics
+- Mechanics of solids
+- Ideal gases
+- First law of thermodynamics
+- Second law of thermodynamics
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Các bài giảng cơ và nhiệt,Nguyễn Nhật Khanh,2005,NXB ĐHQG-HCM
+- [2]Vật lý đại cương 1 (Cơ và Nhiệt),Nguyễn Thành Vấn,2013,NXB ĐHQG-HCM
+- [3]Physics for Scientists and Engineers with Modern Physics,Raymond A. Serway, John W. Jewett, Sr,2014,
+- [4]Physics,Alan Giambattista, Betty McCarthy Richardson, Robert C. Richardson,2010,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Work at both individual and group collaboration levels to present technical reports according to a provided template on mechanics and thermal problems
+- G2.Familiar with English terminology related to the subject
+- G3.Explain the basic concepts of the laws of motion of objects in nature
+- G4.Apply the laws and principles to solve problems related to mechanics and thermodynamics
+- G5.Understand the principles of ethics and responsibility in learning
+• Content:
+- Physics and measurements
+- Kinematics of particles
+- Dynamics of particles
+- Conservation laws in mechanics
+- Mechanics of solids
+- Ideal gases
+- First law of thermodynamics
+- Second law of thermodynamics
+• Examination forms: Close Test, Final examination, Homework, In-class Activities, Quiz, quick test, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Các bài giảng cơ và nhiệt,Nguyễn Nhật Khanh,2005,NXB ĐHQG-HCM
+- [2]Vật lý đại cương 1 (Cơ và Nhiệt),Nguyễn Thành Vấn,2013,NXB ĐHQG-HCM
+- [3]Physics for Scientists and Engineers with Modern Physics,Raymond A. Serway, John W. Jewett, Sr,2014,
+- [4]Physics,Alan Giambattista, Betty McCarthy Richardson, Robert C. Richardson,2010,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Các bài giảng cơ và nhiệt,Nguyễn Nhật Khanh,2005,NXB ĐHQG-HCM
+- [2]Vật lý đại cương 1 (Cơ và Nhiệt),Nguyễn Thành Vấn,2013,NXB ĐHQG-HCM
+- [3]Physics for Scientists and Engineers with Modern Physics,Raymond A. Serway, John W. Jewett, Sr,2014,
+- [4]Physics,Alan Giambattista, Betty McCarthy Richardson, Robert C. Richardson,2010,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Các bài giảng cơ và nhiệt,Nguyễn Nhật Khanh,2005,NXB ĐHQG-HCM
+- [2]Vật lý đại cương 1 (Cơ và Nhiệt),Nguyễn Thành Vấn,2013,NXB ĐHQG-HCM
+- [3]Physics for Scientists and Engineers with Modern Physics,Raymond A. Serway, John W. Jewett, Sr,2014,
+- [4]Physics,Alan Giambattista, Betty McCarthy Richardson, Robert C. Richardson,2010,
+
+## READING MATERIALS
+- [1]Các bài giảng cơ và nhiệt,Nguyễn Nhật Khanh,2005,NXB ĐHQG-HCM
+- [2]Vật lý đại cương 1 (Cơ và Nhiệt),Nguyễn Thành Vấn,2013,NXB ĐHQG-HCM
+- [3]Physics for Scientists and Engineers with Modern Physics,Raymond A. Serway, John W. Jewett, Sr,2014,
+- [4]Physics,Alan Giambattista, Betty McCarthy Richardson, Robert C. Richardson,2010,

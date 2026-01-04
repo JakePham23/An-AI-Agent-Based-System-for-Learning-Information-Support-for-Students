@@ -1,0 +1,117 @@
+# COURSE: Phát triển ứng dụng web nâng cao (CSC13114)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC13114
+- **English Name**: Advanced Web Application Development
+- **Vietnamese Name**: Phát triển ứng dụng web nâng cao
+- **Responsible Person**: for the module: Nguyễn Huy Khánh
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Course introduction, React introduction
+- State management in React, React functional component
+- React hook, React UI libraries
+- RESTful API
+- Authentication RESTful API
+- React router
+- React Context, Redux
+- Docker introduction
+- GraphQL introduction
+- Cloud computing
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]The React Handbook,Flavio Copes,2016,Flavio Copes
+- [2]Microservices Patterns - With Examples in Java,Chris Richardson,2019,Manning Publications
+- [3]The Road to React: Your journey to master plain yet pragmatic React.js,Robin Wieruch,2018,Independently published
+- [4]https://reactjs.org/,,,
+- [5]https://www.passportjs.org/docs/,,,
+- [6]https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sesse-introduction-to-oauth-20-01.pdf,,,
+- [7]Learning React Native: Building Native Mobile Apps with JavaScript,Bonnie Eisenman,2017,O'Reilly Media
+- [8]Learning React: Functional Web Development with React and Redux,Alex Banks. Eve Porcello,2016,O'Reilly Media
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice working as a sole developer or in team to research and present some new software technology
+- G2.Explain some English term in Software Engineering
+- G3.Describe Web 2.0
+- G4.Practice implementing a Single page application with RESTful webservice by using a specific frontend web library/framework
+- G5.Explain and apply web scalability: Cloud computing, NOSQL, …
+- G6.Propose and apply suitable software technology to a specific software project
+- G7.Practice building software projects based on new software technology
+• Content:
+- Course introduction, React introduction
+- State management in React, React functional component
+- React hook, React UI libraries
+- RESTful API
+- Authentication RESTful API
+- React router
+- React Context, Redux
+- Docker introduction
+- GraphQL introduction
+- Cloud computing
+• Examination forms: Final examination, Homework, Research Project, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The React Handbook,Flavio Copes,2016,Flavio Copes
+- [2]Microservices Patterns - With Examples in Java,Chris Richardson,2019,Manning Publications
+- [3]The Road to React: Your journey to master plain yet pragmatic React.js,Robin Wieruch,2018,Independently published
+- [4]https://reactjs.org/,,,
+- [5]https://www.passportjs.org/docs/,,,
+- [6]https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sesse-introduction-to-oauth-20-01.pdf,,,
+- [7]Learning React Native: Building Native Mobile Apps with JavaScript,Bonnie Eisenman,2017,O'Reilly Media
+- [8]Learning React: Functional Web Development with React and Redux,Alex Banks. Eve Porcello,2016,O'Reilly Media
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The React Handbook,Flavio Copes,2016,Flavio Copes
+- [2]Microservices Patterns - With Examples in Java,Chris Richardson,2019,Manning Publications
+- [3]The Road to React: Your journey to master plain yet pragmatic React.js,Robin Wieruch,2018,Independently published
+- [4]https://reactjs.org/,,,
+- [5]https://www.passportjs.org/docs/,,,
+- [6]https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sesse-introduction-to-oauth-20-01.pdf,,,
+- [7]Learning React Native: Building Native Mobile Apps with JavaScript,Bonnie Eisenman,2017,O'Reilly Media
+- [8]Learning React: Functional Web Development with React and Redux,Alex Banks. Eve Porcello,2016,O'Reilly Media
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The React Handbook,Flavio Copes,2016,Flavio Copes
+- [2]Microservices Patterns - With Examples in Java,Chris Richardson,2019,Manning Publications
+- [3]The Road to React: Your journey to master plain yet pragmatic React.js,Robin Wieruch,2018,Independently published
+- [4]https://reactjs.org/,,,
+- [5]https://www.passportjs.org/docs/,,,
+- [6]https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sesse-introduction-to-oauth-20-01.pdf,,,
+- [7]Learning React Native: Building Native Mobile Apps with JavaScript,Bonnie Eisenman,2017,O'Reilly Media
+- [8]Learning React: Functional Web Development with React and Redux,Alex Banks. Eve Porcello,2016,O'Reilly Media
+
+## READING MATERIALS
+- [1]The React Handbook,Flavio Copes,2016,Flavio Copes
+- [2]Microservices Patterns - With Examples in Java,Chris Richardson,2019,Manning Publications
+- [3]The Road to React: Your journey to master plain yet pragmatic React.js,Robin Wieruch,2018,Independently published
+- [4]https://reactjs.org/,,,
+- [5]https://www.passportjs.org/docs/,,,
+- [6]https://datatracker.ietf.org/meeting/101/materials/slides-101-edu-sesse-introduction-to-oauth-20-01.pdf,,,
+- [7]Learning React Native: Building Native Mobile Apps with JavaScript,Bonnie Eisenman,2017,O'Reilly Media
+- [8]Learning React: Functional Web Development with React and Redux,Alex Banks. Eve Porcello,2016,O'Reilly Media

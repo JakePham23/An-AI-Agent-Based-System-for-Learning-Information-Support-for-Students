@@ -1,0 +1,84 @@
+# COURSE: Thực tập Sinh đại cương 2 (BIO00082)
+
+## GENERAL INFORMATION
+- **Course ID**: BIO00082
+- **English Name**: Biology Laboratory 2
+- **Vietnamese Name**: Thực tập Sinh đại cương 2
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 0 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 30 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Practical theory
+- Plant tissues and organs
+- Plant pigments
+- Photosynthesis
+- Respiration and fermentation in plants
+- Water transport in vascular tissue
+- Animal tissue
+- Activity of the muscular system and bioelectrics
+- Blood circulation in vessels
+- Climate factors
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Giáo trình thực tập Sinh học đại cương II,Bùi Trang Việt và Phan Ngô Hoang,2009,Trường ĐH KHTN – ĐHQG-HCM
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Distinguish between the tissues and organs of monocotyledonous (monocots) and dicotyledonous (dicots) plants
+- G2.Understand the qualitative principles of certain protective plant pigments and photosynthetic pigments
+- G3.Demonstrate the effects of environmental conditions on photosynthesis in plants
+- G4.Demonstrate the manifestation of respiration, fermentation in plants, and the presence of enzymes in these processes
+- G5.Demonstrate the effects of environmental conditions on water transport in vascular tissue
+- G6.Understand and identify the different types of animal tissues
+- G7.Understand and demonstrate the existence of bioelectricity in the body
+- G8.Distinguish between the types of vessels in the mesenteric vascular system of frogs; explain the effects of hormones on the blood flow rate in the vessels
+- G9.Understand the influence of climatic factors on the distribution of certain types of ecosystems
+• Content:
+- Practical theory
+- Plant tissues and organs
+- Plant pigments
+- Photosynthesis
+- Respiration and fermentation in plants
+- Water transport in vascular tissue
+- Animal tissue
+- Activity of the muscular system and bioelectrics
+- Blood circulation in vessels
+- Climate factors
+• Examination forms: Lab mid-term exam, Lab final exam, Homework, Quiz, quick test
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực tập Sinh học đại cương II,Bùi Trang Việt và Phan Ngô Hoang,2009,Trường ĐH KHTN – ĐHQG-HCM
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực tập Sinh học đại cương II,Bùi Trang Việt và Phan Ngô Hoang,2009,Trường ĐH KHTN – ĐHQG-HCM
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực tập Sinh học đại cương II,Bùi Trang Việt và Phan Ngô Hoang,2009,Trường ĐH KHTN – ĐHQG-HCM
+
+## READING MATERIALS
+- [1]Giáo trình thực tập Sinh học đại cương II,Bùi Trang Việt và Phan Ngô Hoang,2009,Trường ĐH KHTN – ĐHQG-HCM

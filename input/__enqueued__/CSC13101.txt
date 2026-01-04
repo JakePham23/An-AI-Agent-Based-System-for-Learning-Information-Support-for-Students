@@ -1,0 +1,81 @@
+# COURSE: Các chủ đề nâng cao trong Công nghệ phần mềm (CSC13101)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC13101
+- **English Name**: Advanced Topics in Software Engineering
+- **Vietnamese Name**: Các chủ đề nâng cao trong Công nghệ phần mềm
+- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Văn Vũ
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction, Key concepts in software engineering
+- Software engineering and Artificial Intelligence
+- Software process:  traditional methods, modern methods
+- Software estimation
+- Software architecture: SOA, Microservices
+- DevOps and CI/CD
+- Software test automation
+- Seminar presentations
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations,Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw,2015,IT Resolution Press
+- [2]Practical DevOps - 2E,Joakim Verona,2018,Packt
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply teamwork skills to complete group assignments as well as to present and report seminar topics
+- G2.Summarize scientific papers in the field of software engineering
+- G3.Analyze and evaluate issues related to advanced topics in software engineering covered in the course
+- G4.Recognize important trends having the attendion of the software engineering community
+- G5.Describe and apply common approaches in software process, software estimation, software architecture, continuous integration, and test automation.
+• Content:
+- Introduction, Key concepts in software engineering
+- Software engineering and Artificial Intelligence
+- Software process:  traditional methods, modern methods
+- Software estimation
+- Software architecture: SOA, Microservices
+- DevOps and CI/CD
+- Software test automation
+- Seminar presentations
+• Examination forms: Final examination, Homework, Group Presentation, Quiz, quick test, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations,Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw,2015,IT Resolution Press
+- [2]Practical DevOps - 2E,Joakim Verona,2018,Packt
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations,Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw,2015,IT Resolution Press
+- [2]Practical DevOps - 2E,Joakim Verona,2018,Packt
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations,Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw,2015,IT Resolution Press
+- [2]Practical DevOps - 2E,Joakim Verona,2018,Packt
+
+## READING MATERIALS
+- [1]The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations,Gene Kim, Patrick Debois, John Willis, Jez Humble, John Allspaw,2015,IT Resolution Press
+- [2]Practical DevOps - 2E,Joakim Verona,2018,Packt

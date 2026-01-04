@@ -1,0 +1,95 @@
+# COURSE: Thực hành Hóa đại cương 1 (CHE00081)
+
+## GENERAL INFORMATION
+- **Course ID**: CHE00081
+- **English Name**: General Chemistry Laboratory 1
+- **Vietnamese Name**: Thực hành Hóa đại cương 1
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 2
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 0 hours Hours for laboratory session: ~ 50 hours Hours for self-study, examination preparation, other activities: ~ 60 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Week 1: Practical Lesson 0:
+- Laboratory safety; Data in the laboratory; Laboratory techniques. Data processing using Excel software (General introduction in the computer lab).
+- Week 2: Practical Lesson 1: Volumetric method - Determining the density of liquids.
+- Week 3: Practical Lesson 2: Determining the concentration of acetic acid in vinegar.
+- Week 4: Practical Lesson 3: Limit quantity substances: Acids, bases, pH.
+- Week 5: Practical Lesson 4: Acids, bases, salts.
+- Week 6: Practical Lesson 5: Le Châtelier's principle, buffer systems.
+- Week 7: Practical Lesson 6: Thermodynamics of the dissolution process of borax.
+- Week 8: Practical Lesson 7: Reaction rate and activation energy.
+- Week 9: Practical Lesson 8:Galvanic cells, Nernst equation.
+- Week 10:Instructor returns assignments and announces the scores for practical lessons.
+- Week 11:Review.
+- Week 12:Computer-based exam (using Excel program to process experimental data).
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Giáo trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Use Excel software for calculations, graphing, and presenting results.
+- G2.Use simple equipment in the chemistry lab for measuring, titrating, and purifying.
+- G3.Use volumetric and mass measuring instruments to titrate acetic acid in vinegar.
+- G4.Identify the reactants used in excess or deficiency.
+- G5.Determine the acidity or basicity of a solution by measuring its pH. Explain the causes of this pH and its physical and chemical effects.
+- G6.Investigate the factors affecting chemical equilibrium in solutions of acid-base reactions, precipitation reactions, and complex formation reactions.
+- G7.Identify the thermodynamic parameters of the borax dissolution process.
+- G8.Determine the order and activation energy of a chemical reaction.
+- G9.Determine the electrode potential from the electrochemical cell system.
+• Content:
+- Week 1: Practical Lesson 0:
+- Laboratory safety; Data in the laboratory; Laboratory techniques. Data processing using Excel software (General introduction in the computer lab).
+- Week 2: Practical Lesson 1: Volumetric method - Determining the density of liquids.
+- Week 3: Practical Lesson 2: Determining the concentration of acetic acid in vinegar.
+- Week 4: Practical Lesson 3: Limit quantity substances: Acids, bases, pH.
+- Week 5: Practical Lesson 4: Acids, bases, salts.
+- Week 6: Practical Lesson 5: Le Châtelier's principle, buffer systems.
+- Week 7: Practical Lesson 6: Thermodynamics of the dissolution process of borax.
+- Week 8: Practical Lesson 7: Reaction rate and activation energy.
+- Week 9: Practical Lesson 8:Galvanic cells, Nernst equation.
+- Week 10:Instructor returns assignments and announces the scores for practical lessons.
+- Week 11:Review.
+- Week 12:Computer-based exam (using Excel program to process experimental data).
+• Examination forms: Close Test, Final examination, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Giáo trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+
+## READING MATERIALS
+- [1]Giáo trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ
+- [2]Bài tường trình thực hành Hóa đại cương 1. Tp HMC: ĐHQG Tp HCM,Hoàng Ngọc Cường,2016,Tài liệu lưu hành nội bộ

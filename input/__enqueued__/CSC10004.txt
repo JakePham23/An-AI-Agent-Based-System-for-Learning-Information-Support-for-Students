@@ -1,0 +1,101 @@
+# COURSE: Cấu trúc dữ liệu và giải thuật (CSC10004)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10004
+- **English Name**: Data Structures and Algorithms
+- **Vietnamese Name**: Cấu trúc dữ liệu và giải thuật
+- **Responsible Person**: for the module: Lê Ngọc Thành
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to DSA
+- Recursion
+- Algorithm efficiency: Big-O
+- Search algorithms: Linear search and Binary search
+- Sorting algorithms: O(n2) algorithms
+- Sorting algorithms: O(nlog2n) algorithms
+- Sorting algorithms: O(n) algorithms (Radix Sort)
+- Reviews: Linked lists, Stack, Queue and Priority Queue
+- Tree structures: General tree, Binary search tree
+- Midterm Examination
+- Tree structures: B-tree with optional extensions covering Red-black tree, AA tree, 2-3 tree, 2-3-4 tree
+- Graph structure: Basic concepts and graph traversals (Breadth-first search, Depth-first search).
+- Graph structure: Topological sorting, Minimum spanning tree, and Shortest path
+- Hashing, Hash table with collision resolution techniques
+- Reviews
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Data Abstraction and Problem Solving with C++: Walls and Mirrors (Seventh Edition),Frank M. Carrano, Timothy Henry,2014,Pearson
+- [2]Introduction to Algorithms (Fourth Edition),Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein,2022,MIT press
+- [3]The Algorithm Design Manual (Second Edition),Steven S. Skiena,2008,Springer
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Interpret the fundamental concepts and terminologies of Data structures and Algorithms in the given context
+- G2.Analyze the algorithms and data structures in terms of time and space complexities using asymptotic notations
+- G3.Choose the algorithms and data structures following the problem requirements (e.g., data size and distribution, a tradeoff between execution time and storage)
+- G4.Implement the algorithms and data structures using C/C++ programming language
+- G5.Promote personal aptitudes for logical thinking and communication
+- G1.Interpret the fundamental concepts and terminologies of Data structures and Algorithms in the given context
+• Content:
+- Introduction to DSA
+- Recursion
+- Algorithm efficiency: Big-O
+- Search algorithms: Linear search and Binary search
+- Sorting algorithms: O(n2) algorithms
+- Sorting algorithms: O(nlog2n) algorithms
+- Sorting algorithms: O(n) algorithms (Radix Sort)
+- Reviews: Linked lists, Stack, Queue and Priority Queue
+- Tree structures: General tree, Binary search tree
+- Midterm Examination
+- Tree structures: B-tree with optional extensions covering Red-black tree, AA tree, 2-3 tree, 2-3-4 tree
+- Graph structure: Basic concepts and graph traversals (Breadth-first search, Depth-first search).
+- Graph structure: Topological sorting, Minimum spanning tree, and Shortest path
+- Hashing, Hash table with collision resolution techniques
+- Reviews
+• Examination forms: Final examination, Lab final exam, Case Study, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Abstraction and Problem Solving with C++: Walls and Mirrors (Seventh Edition),Frank M. Carrano, Timothy Henry,2014,Pearson
+- [2]Introduction to Algorithms (Fourth Edition),Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein,2022,MIT press
+- [3]The Algorithm Design Manual (Second Edition),Steven S. Skiena,2008,Springer
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Abstraction and Problem Solving with C++: Walls and Mirrors (Seventh Edition),Frank M. Carrano, Timothy Henry,2014,Pearson
+- [2]Introduction to Algorithms (Fourth Edition),Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein,2022,MIT press
+- [3]The Algorithm Design Manual (Second Edition),Steven S. Skiena,2008,Springer
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Abstraction and Problem Solving with C++: Walls and Mirrors (Seventh Edition),Frank M. Carrano, Timothy Henry,2014,Pearson
+- [2]Introduction to Algorithms (Fourth Edition),Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein,2022,MIT press
+- [3]The Algorithm Design Manual (Second Edition),Steven S. Skiena,2008,Springer
+
+## READING MATERIALS
+- [1]Data Abstraction and Problem Solving with C++: Walls and Mirrors (Seventh Edition),Frank M. Carrano, Timothy Henry,2014,Pearson
+- [2]Introduction to Algorithms (Fourth Edition),Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein,2022,MIT press
+- [3]The Algorithm Design Manual (Second Edition),Steven S. Skiena,2008,Springer

@@ -1,0 +1,189 @@
+# COURSE: Mã hóa ứng dụng (CSC15003)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC15003
+- **English Name**: Applied Cryptography
+- **Vietnamese Name**: Mã hóa ứng dụng
+- **Responsible Person**: for the module: Trần Anh Duy
+- **Semester**: (s) in which the module is taught: 6
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to Security Requirements, Services and Mechanisms of Security.
+- Introduction to Cryptography:
+- Classical Cipher
+- Classification
+- Security Evaluation
+- Perfect Secrecy.
+- Symmetric Cryptography:
+- Block Ciphers
+- Feistel Cipher
+- DES
+- Number Theory Refresher
+- IDEA, AES
+- Cascade of ciphers
+- Stream Ciphers, RC4
+- Asymmetric Cryptography:
+- Number theory
+- One-way functions
+- Diffie-Hellman
+- RSA
+- El Gamal
+- Elliptic Curve Cryptography
+- Data Encryption Mechanism:
+- Statistical Attacks
+- Chaining Modes (CBC, CFB, OFB, CTR, XTS)
+- Hash Functions and Integrity
+- Hash Functions
+- MAC, MDC
+- Security Properties
+- Alternatives for MAC
+- Digital Signatures and Non-Repudiation
+- El Gamal Signature Algorithm
+- Digital Signature Standard
+- Non-repudiation of receipt
+- Authentication
+- Classification
+- Authentication Protocols
+- Passwords
+- Smartcards
+- Key Management
+- Key Generation
+- Symmetric Key Distribution
+- Kerberos
+- Public-key Certification and PKI systems
+- Law Enforcement
+- Optional topics:
+- Security for Database.
+- Authorization/Access Control
+- Advanced topics:
+- Searchable Encryption.
+- Blockchain.
+- Quantum Cryptography
+- Securing Microservice with mTLS, JWT and gRPC.
+- Applied Cryptography.
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Cryptography Theory and Practice 4th Edition,Douglas Robert Stinson,2017,Maura Paterson
+- [2]Serious Cryptography: A Practical Introduction to Modern Encryption,,2017,No Starch Press
+- [3]Crypto Dictionary: 500 Tasty Tidbits for the Curious Cryptographe,Jean-Philippe Aumasson,2021,No Starch Press
+- [4]Real-World Cryptography,David Wong,2021,Manning
+- [5]Quantum Cryptography: From Key Distribution to Conference Key Agreement,Federico Grasselli,2021,Springer
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply team work and individual work skills to learn the basic concepts of applied cryptography
+- G2.Know and explain English terminology in the field of Cryptography
+- G3.Understand the basic concepts, terms, responsibility and fundamental principles in the field of Cryptography
+- G4.Identify and categorize Cryptography algorithms for real world application.
+- G5.Understand and apply techniques in the field of applying Cryptography.
+- G6.Understand the methods to attack Cryptography algorithms.
+• Content:
+- Introduction to Security Requirements, Services and Mechanisms of Security.
+- Introduction to Cryptography:
+- Classical Cipher
+- Classification
+- Security Evaluation
+- Perfect Secrecy.
+- Symmetric Cryptography:
+- Block Ciphers
+- Feistel Cipher
+- DES
+- Number Theory Refresher
+- IDEA, AES
+- Cascade of ciphers
+- Stream Ciphers, RC4
+- Asymmetric Cryptography:
+- Number theory
+- One-way functions
+- Diffie-Hellman
+- RSA
+- El Gamal
+- Elliptic Curve Cryptography
+- Data Encryption Mechanism:
+- Statistical Attacks
+- Chaining Modes (CBC, CFB, OFB, CTR, XTS)
+- Hash Functions and Integrity
+- Hash Functions
+- MAC, MDC
+- Security Properties
+- Alternatives for MAC
+- Digital Signatures and Non-Repudiation
+- El Gamal Signature Algorithm
+- Digital Signature Standard
+- Non-repudiation of receipt
+- Authentication
+- Classification
+- Authentication Protocols
+- Passwords
+- Smartcards
+- Key Management
+- Key Generation
+- Symmetric Key Distribution
+- Kerberos
+- Public-key Certification and PKI systems
+- Law Enforcement
+- Optional topics:
+- Security for Database.
+- Authorization/Access Control
+- Advanced topics:
+- Searchable Encryption.
+- Blockchain.
+- Quantum Cryptography
+- Securing Microservice with mTLS, JWT and gRPC.
+- Applied Cryptography.
+- Review
+• Examination forms: Close Test, Final examination, Lab final exam, Quiz, quick test
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Cryptography Theory and Practice 4th Edition,Douglas Robert Stinson,2017,Maura Paterson
+- [2]Serious Cryptography: A Practical Introduction to Modern Encryption,,2017,No Starch Press
+- [3]Crypto Dictionary: 500 Tasty Tidbits for the Curious Cryptographe,Jean-Philippe Aumasson,2021,No Starch Press
+- [4]Real-World Cryptography,David Wong,2021,Manning
+- [5]Quantum Cryptography: From Key Distribution to Conference Key Agreement,Federico Grasselli,2021,Springer
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Cryptography Theory and Practice 4th Edition,Douglas Robert Stinson,2017,Maura Paterson
+- [2]Serious Cryptography: A Practical Introduction to Modern Encryption,,2017,No Starch Press
+- [3]Crypto Dictionary: 500 Tasty Tidbits for the Curious Cryptographe,Jean-Philippe Aumasson,2021,No Starch Press
+- [4]Real-World Cryptography,David Wong,2021,Manning
+- [5]Quantum Cryptography: From Key Distribution to Conference Key Agreement,Federico Grasselli,2021,Springer
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Cryptography Theory and Practice 4th Edition,Douglas Robert Stinson,2017,Maura Paterson
+- [2]Serious Cryptography: A Practical Introduction to Modern Encryption,,2017,No Starch Press
+- [3]Crypto Dictionary: 500 Tasty Tidbits for the Curious Cryptographe,Jean-Philippe Aumasson,2021,No Starch Press
+- [4]Real-World Cryptography,David Wong,2021,Manning
+- [5]Quantum Cryptography: From Key Distribution to Conference Key Agreement,Federico Grasselli,2021,Springer
+
+## READING MATERIALS
+- [1]Cryptography Theory and Practice 4th Edition,Douglas Robert Stinson,2017,Maura Paterson
+- [2]Serious Cryptography: A Practical Introduction to Modern Encryption,,2017,No Starch Press
+- [3]Crypto Dictionary: 500 Tasty Tidbits for the Curious Cryptographe,Jean-Philippe Aumasson,2021,No Starch Press
+- [4]Real-World Cryptography,David Wong,2021,Manning
+- [5]Quantum Cryptography: From Key Distribution to Conference Key Agreement,Federico Grasselli,2021,Springer

@@ -1,0 +1,96 @@
+# COURSE: Kỹ thuật lập trình xử lý ảnh số và video số (CSC16102)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC16102
+- **English Name**: Programming Techniques in Digital Image and Video Processing
+- **Vietnamese Name**: Kỹ thuật lập trình xử lý ảnh số và video số
+- **Responsible Person**: for the module: Nguyễn Trọng Việt
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Dynamically linked library
+- Template Meta Programming
+- Template Meta Programming (cont.)
+- Type deduction
+- Type deduction (cont.)
+- Move Semantics
+- Move Semantics (cont.)
+- Lambda expressions
+- Lambda expressions (cont.)
+- Smart pointers
+- Smart pointers (cont.)
+- Thread facilities
+- Thread facilities (cont.)
+- Seminar on new techniques
+- Seminar on new techniques (cont.)
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Scott Meyers,2015,O'Reilly Media
+- [2]A Practical Introduction to Computer Vision with OpenCV,Kenneth Dawson-Howe,2014,Wiley
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice the roles of individuals and groups in group activities in response to earning requirements
+- G2.Practice features of C++ from version 14 for Digital Image and Video Processing
+- G3.Apply the optimize techniques in image and video computing
+- G4.Practice the princile of seperation of concern into image and video processing
+- G5.Practice open source technologies in the best practices for image and video problem
+- G6.Recognize the solutions for the best practices in image and video processing
+• Content:
+- Dynamically linked library
+- Template Meta Programming
+- Template Meta Programming (cont.)
+- Type deduction
+- Type deduction (cont.)
+- Move Semantics
+- Move Semantics (cont.)
+- Lambda expressions
+- Lambda expressions (cont.)
+- Smart pointers
+- Smart pointers (cont.)
+- Thread facilities
+- Thread facilities (cont.)
+- Seminar on new techniques
+- Seminar on new techniques (cont.)
+• Examination forms: Open Test, Final examination, In-class Activities, Quiz, quick test, Case Study, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Scott Meyers,2015,O'Reilly Media
+- [2]A Practical Introduction to Computer Vision with OpenCV,Kenneth Dawson-Howe,2014,Wiley
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Scott Meyers,2015,O'Reilly Media
+- [2]A Practical Introduction to Computer Vision with OpenCV,Kenneth Dawson-Howe,2014,Wiley
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Scott Meyers,2015,O'Reilly Media
+- [2]A Practical Introduction to Computer Vision with OpenCV,Kenneth Dawson-Howe,2014,Wiley
+
+## READING MATERIALS
+- [1]Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14,Scott Meyers,2015,O'Reilly Media
+- [2]A Practical Introduction to Computer Vision with OpenCV,Kenneth Dawson-Howe,2014,Wiley

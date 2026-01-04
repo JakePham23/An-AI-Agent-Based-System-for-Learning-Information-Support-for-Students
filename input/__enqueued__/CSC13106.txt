@@ -1,0 +1,95 @@
+# COURSE: Kiến trúc phần mềm (CSC13106)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC13106
+- **English Name**: Software Architecture
+- **Vietnamese Name**: Kiến trúc phần mềm
+- **Responsible Person**: for the module: Trần Văn Quý
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Overview of software architecture
+- Object-oriented design pattern (Creational Pattern group)
+- Behavioral Patterns (group of Behavioral Patterns)
+- Object-oriented design pattern (group of Structural Patterns)
+- Middleware:  distributed object, methods for communicating with messages, application tier, message mapping and association, defining and implementing composite components
+- Service-Oriented Architecture
+- Model-Driven Architecture
+- Cloud Deployment Architecture
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Software Architecture in Practice,Len Bass, Paul Clements and Rick Kazman,2021,Addison-Wesley
+- [2]Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert C. Martin,2017,Pearson Professional
+- [3]Fundamentals of Software Architecture: An Engineering Approach,Neal Ford, Mark Richards,2020,O'Reilly Media
+- [4]Microservices for the Enterprise: Designing, Developing, and Deploying,Kasun Indrasiri, Prabath Siriwardena,2018,APRESS
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice actively participating in group discussions (in large groups of subjects), dividing work and coordinating work according to plans in small groups (including 2-3 students);
+Identify roles and responsibilities of team members
+- G2.Summarize specialized documents and lectures/slides/textbooks in English in analyzing and designing software architecture; explain some English terms in software architecture analysis and design; conduct presentation (in the form of a report written according to the prescribed form) and a presentation on the group's topic.
+- G3.Practice critical thinking and holistic way of thinking when analyzing and designing software architecture
+- G4.Describe the meaning of software architecture, general principles in architecture analysis and design, criteria and requirements when designing and evaluating software architecture
+- G5.Conduct a presententation and analyze a number of solutions on technology and software architecture; analyze the advantages and limitations of a technology solution and software architecture
+- G6.Apply some software architectures introduced in the module to software development
+- G7.Propose improved solutions on available technology and software architecture for software systems
+- G8.Practice personal skills such as self-study, analysis and evaluation of new technology and architecture solutions
+• Content:
+- Overview of software architecture
+- Object-oriented design pattern (Creational Pattern group)
+- Behavioral Patterns (group of Behavioral Patterns)
+- Object-oriented design pattern (group of Structural Patterns)
+- Middleware:  distributed object, methods for communicating with messages, application tier, message mapping and association, defining and implementing composite components
+- Service-Oriented Architecture
+- Model-Driven Architecture
+- Cloud Deployment Architecture
+• Examination forms: Final examination, Homework, Research Project
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Software Architecture in Practice,Len Bass, Paul Clements and Rick Kazman,2021,Addison-Wesley
+- [2]Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert C. Martin,2017,Pearson Professional
+- [3]Fundamentals of Software Architecture: An Engineering Approach,Neal Ford, Mark Richards,2020,O'Reilly Media
+- [4]Microservices for the Enterprise: Designing, Developing, and Deploying,Kasun Indrasiri, Prabath Siriwardena,2018,APRESS
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Software Architecture in Practice,Len Bass, Paul Clements and Rick Kazman,2021,Addison-Wesley
+- [2]Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert C. Martin,2017,Pearson Professional
+- [3]Fundamentals of Software Architecture: An Engineering Approach,Neal Ford, Mark Richards,2020,O'Reilly Media
+- [4]Microservices for the Enterprise: Designing, Developing, and Deploying,Kasun Indrasiri, Prabath Siriwardena,2018,APRESS
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Software Architecture in Practice,Len Bass, Paul Clements and Rick Kazman,2021,Addison-Wesley
+- [2]Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert C. Martin,2017,Pearson Professional
+- [3]Fundamentals of Software Architecture: An Engineering Approach,Neal Ford, Mark Richards,2020,O'Reilly Media
+- [4]Microservices for the Enterprise: Designing, Developing, and Deploying,Kasun Indrasiri, Prabath Siriwardena,2018,APRESS
+
+## READING MATERIALS
+- [1]Software Architecture in Practice,Len Bass, Paul Clements and Rick Kazman,2021,Addison-Wesley
+- [2]Clean Architecture: A Craftsman's Guide to Software Structure and Design,Robert C. Martin,2017,Pearson Professional
+- [3]Fundamentals of Software Architecture: An Engineering Approach,Neal Ford, Mark Richards,2020,O'Reilly Media
+- [4]Microservices for the Enterprise: Designing, Developing, and Deploying,Kasun Indrasiri, Prabath Siriwardena,2018,APRESS

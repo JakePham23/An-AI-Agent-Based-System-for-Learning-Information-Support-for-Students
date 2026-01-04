@@ -1,0 +1,88 @@
+# COURSE: Hóa đại cương 1 (CHE00001)
+
+## GENERAL INFORMATION
+- **Course ID**: CHE00001
+- **English Name**: General Chemistry 1
+- **Vietnamese Name**: Hóa đại cương 1
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 2
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 25 hours Hours for laboratory session: ~ 0 hours Hours for self-study, examination preparation, other activities: ~ 112.5 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Chapter 1: Introduction
+- Chapter 2: Overview of Atoms - Chemical Elements - Isotopes
+- Chapter 3: Atomic Shell Structure
+- Chapter 4: The Periodic Table and Periodic Variations of Chemical Properties of Elements
+- Chapter 5: Basic Concepts of Chemical Bonding
+- Chapter 6: Ionic Bonding – Properties of Ionic Compounds
+- Chapter 7: Covalent Bonding Model Without Quantum Mechanics
+- Chapter 8: VB Theory – Covalent Bonding in Place According to Quantum Mechanics
+- Chapter 9: MO Theory – Covalent Bonding Model with Delocalized Electrons
+- Chapter 10: Gaseous State
+- Chapter 11: Liquid - Solid States and Intermolecular Forces
+- Chapter 12: Solutions and Colloidal Solutions
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]General Chemistry,Petrucci, R.H; Harwood, W.S; Herring, F.G,2011,USA: Prentice Hall
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Lê Thị Sở Như,,Tài liệu nội bộ, chưa xuất bản
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Describe the structure of atoms and molecules.
+- G2.Explain the periodic variation of certain properties of chemical elements.
+- G3.Recognize and distinguish the basic types of chemical bonds.
+- G4.Identify and explain the relationship between fundamental interaction forces in matter and the physical properties of matter.
+• Content:
+- Chapter 1: Introduction
+- Chapter 2: Overview of Atoms - Chemical Elements - Isotopes
+- Chapter 3: Atomic Shell Structure
+- Chapter 4: The Periodic Table and Periodic Variations of Chemical Properties of Elements
+- Chapter 5: Basic Concepts of Chemical Bonding
+- Chapter 6: Ionic Bonding – Properties of Ionic Compounds
+- Chapter 7: Covalent Bonding Model Without Quantum Mechanics
+- Chapter 8: VB Theory – Covalent Bonding in Place According to Quantum Mechanics
+- Chapter 9: MO Theory – Covalent Bonding Model with Delocalized Electrons
+- Chapter 10: Gaseous State
+- Chapter 11: Liquid - Solid States and Intermolecular Forces
+- Chapter 12: Solutions and Colloidal Solutions
+• Examination forms: Close Test, Final examination, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]General Chemistry,Petrucci, R.H; Harwood, W.S; Herring, F.G,2011,USA: Prentice Hall
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Lê Thị Sở Như,,Tài liệu nội bộ, chưa xuất bản
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]General Chemistry,Petrucci, R.H; Harwood, W.S; Herring, F.G,2011,USA: Prentice Hall
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Lê Thị Sở Như,,Tài liệu nội bộ, chưa xuất bản
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]General Chemistry,Petrucci, R.H; Harwood, W.S; Herring, F.G,2011,USA: Prentice Hall
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Lê Thị Sở Như,,Tài liệu nội bộ, chưa xuất bản
+
+## READING MATERIALS
+- [1]General Chemistry,Petrucci, R.H; Harwood, W.S; Herring, F.G,2011,USA: Prentice Hall
+- [2]Tóm tắt bài giảng Hóa Đại Cương,Lê Thị Sở Như,,Tài liệu nội bộ, chưa xuất bản

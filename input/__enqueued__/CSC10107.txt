@@ -1,0 +1,85 @@
+# COURSE: Thực tập thực tế (CSC10107)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC10107
+- **English Name**: Internship
+- **Vietnamese Name**: Thực tập thực tế
+- **Responsible Person**: for the module: Văn Chí Nam
+- **Semester**: (s) in which the module is taught: 6
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 25 hours Hours for laboratory session: ~ 50 hours Hours for self-study, examination preparation, other activities: ~ 117.5 hours
+
+## COURSE DESCRIPTION
+(student) interns will be able to take part in the company’s real projects. They can discover organization structures, roles and responsibilities within that structure, the processes applied at the company; demonstrate their own knowledge, techniques and professional skills; and comprehend the company culture or etiquette rules. Through the course, students could make more connections with people in the same professional field, gain insight into a career path for their future job, and build their professional manners and attitude to adapt in the business and industrial environment.
+Students can choose which company to take the internship by their own based on the “Call for Internship” posts in the official faculty or university websites, or in other websites, media, etc. The company is not limit in Ho Chi Minh city or in Viet Nam. Students are encouraged to take their internship in foreign countries.
+The internship is required related to information technology field (for examples, application/system design, application/system analysis, application/system building, application/system testing, etc.), and not limit to any programming languages, frameworks, operation systems, types of application. The internship must be full time and not less than 12 weeks.
+• COURSE TOPICS:
+- Before the start of the internship:
+- Students are required to fill in a form with the information related to an industry or a professional organization outlining the duties and expectations during the internship. The information also includes start date, end date, hours to be worked, and name, email, phone of the on-site supervisor. After finishing the internship:
+- Students are requested to write a report on what they have done during their internship. As a recommendation, this report should have (not limit to) following parts: overview of the company; information about the internship, the project, intern role in the project; ways of communications; models/solutions/techniques applied in the project; (success and/or failure) lessons learned from this internship, etc. This report should be formatted as a technical report with cover, table of contents, references, etc.
+- Also, students have to declare the following statement in the report: "I declare that this internship report is my own work and does not involve in plagiarism or collusion. I accept heavy penalty for any cheating or plagiarism
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Programming Interviews Exposed: Coding Your Way Through the Interview (4th Edition),John Mongan, Noah Suojanen Kindler, Eric Giguère,2018,Wrox
+- [2]Elements of Programming Interviews: The Insiders' Guide (2nd Edition),Adnan Aziz, Tsung-Hsien Lee, Amit Prakash,2012,CreateSpace Independent Publishing Platform
+- [3]Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Edition),Gayle Laakmann McDowell,2015,CareerCup
+- [4]Computer Science Distilled: Learn the Art of Solving Computational Problems,Wladston Ferria Filho,2017,Code Energy LLC
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply what they have learned in the classroom to the corporate setting, make professional contributions to the organization in which the student is placed.
+- G2.Adapt the business and industrial environment in which a computer professional must learn to function.
+- G3.Develop the personal, interpersonal skills and charactersitics in the working environment.
+- G4.Improve their foreign language skills.
+• Content:
+- Before the start of the internship:
+- Students are required to fill in a form with the information related to an industry or a professional organization outlining the duties and expectations during the internship. The information also includes start date, end date, hours to be worked, and name, email, phone of the on-site supervisor. After finishing the internship:
+- Students are requested to write a report on what they have done during their internship. As a recommendation, this report should have (not limit to) following parts: overview of the company; information about the internship, the project, intern role in the project; ways of communications; models/solutions/techniques applied in the project; (success and/or failure) lessons learned from this internship, etc. This report should be formatted as a technical report with cover, table of contents, references, etc.
+- Also, students have to declare the following statement in the report: "I declare that this internship report is my own work and does not involve in plagiarism or collusion. I accept heavy penalty for any cheating or plagiarism
+• Examination forms: Lab Report, Research Project, Individual Presentation
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Programming Interviews Exposed: Coding Your Way Through the Interview (4th Edition),John Mongan, Noah Suojanen Kindler, Eric Giguère,2018,Wrox
+- [2]Elements of Programming Interviews: The Insiders' Guide (2nd Edition),Adnan Aziz, Tsung-Hsien Lee, Amit Prakash,2012,CreateSpace Independent Publishing Platform
+- [3]Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Edition),Gayle Laakmann McDowell,2015,CareerCup
+- [4]Computer Science Distilled: Learn the Art of Solving Computational Problems,Wladston Ferria Filho,2017,Code Energy LLC
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Programming Interviews Exposed: Coding Your Way Through the Interview (4th Edition),John Mongan, Noah Suojanen Kindler, Eric Giguère,2018,Wrox
+- [2]Elements of Programming Interviews: The Insiders' Guide (2nd Edition),Adnan Aziz, Tsung-Hsien Lee, Amit Prakash,2012,CreateSpace Independent Publishing Platform
+- [3]Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Edition),Gayle Laakmann McDowell,2015,CareerCup
+- [4]Computer Science Distilled: Learn the Art of Solving Computational Problems,Wladston Ferria Filho,2017,Code Energy LLC
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Programming Interviews Exposed: Coding Your Way Through the Interview (4th Edition),John Mongan, Noah Suojanen Kindler, Eric Giguère,2018,Wrox
+- [2]Elements of Programming Interviews: The Insiders' Guide (2nd Edition),Adnan Aziz, Tsung-Hsien Lee, Amit Prakash,2012,CreateSpace Independent Publishing Platform
+- [3]Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Edition),Gayle Laakmann McDowell,2015,CareerCup
+- [4]Computer Science Distilled: Learn the Art of Solving Computational Problems,Wladston Ferria Filho,2017,Code Energy LLC
+
+## READING MATERIALS
+- [1]Programming Interviews Exposed: Coding Your Way Through the Interview (4th Edition),John Mongan, Noah Suojanen Kindler, Eric Giguère,2018,Wrox
+- [2]Elements of Programming Interviews: The Insiders' Guide (2nd Edition),Adnan Aziz, Tsung-Hsien Lee, Amit Prakash,2012,CreateSpace Independent Publishing Platform
+- [3]Cracking the Coding Interview: 189 Programming Questions and Solutions (6th Edition),Gayle Laakmann McDowell,2015,CareerCup
+- [4]Computer Science Distilled: Learn the Art of Solving Computational Problems,Wladston Ferria Filho,2017,Code Energy LLC

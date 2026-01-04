@@ -1,0 +1,2985 @@
+CHƯƠNG 
+  6 
+Phép 
+  -nh 
+  quan 
+  hệ 
+(Ngôn 
+  ngữ 
+  tân 
+  từ) 
+Bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+§Giới 
+  thiệu 
+§Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic 
+§Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ 
+	-Tuple 
+  Relational 
+  Calculus 
+  (TRC) §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+	-Domain 
+  Relational 
+  Calculus 
+  (DRC) 
+Nội 
+  dung 
+§Giới 
+  thiệu 
+§Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+Giới 
+  thiệu 
+  (?) 
+	§Ngôn 
+  ngữ 
+  truy 
+  vấn 
+  hình 
+  thức 
+  dựa 
+  trên 
+  lý 
+  thuyết 
+  logic 
+  do 		Codd 
+  đề 
+  nghị 
+  năm 
+  1972 
+§Sử 
+  dụng 
+  biểu 
+  thức 
+  logic 
+  để 
+  định 
+  nghĩa 
+  hình 
+  thức 
+  kết 
+  quả 
+  câu 	truy 
+  vấn 
+		-Dựa 
+  trên 
+  lý 
+  thuyết 
+  logic 
+		-Phi 
+  thủ 
+  tục 
+		-Rút 
+  trích 
+  “cái 
+  gì”hơn 
+  là 
+  “làm 
+  thế 
+  nào”
+§Khả 
+  năng 
+  diễn 
+  đạt 
+  tương 
+  đương 
+  ĐSQH 
+Giới 
+  thiệu 
+  (?) 
+§Phân 
+  loại 
+	-Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ 
+		lBiến 
+  thiên 
+  trên 
+  bộ 
+  trong 
+  quan 
+  hệ 
+		lSQL 
+  (Structured 
+  Query 
+  Language) 
+	-Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+		lBiến 
+  thiên 
+  trên 
+  thành 
+  phần 
+  miền 
+  giá 
+  trị 		lQBE 
+  (Query 
+  By 
+  Example) 
+		lDataLog 
+  (Database 
+  Logic) 
+  ??? 
+Nội 
+  dung 
+§Giới 
+  thiệu 
+§Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic 
+§Biểu 
+  thức 
+  logic 
+  : 
+  phát 
+  biểu 
+  luôn 
+  có 
+  giá 
+  trị 
+  “đúng” 
+  hay 
+  “sai”	-Bây 
+  giờ 
+  là 
+  tháng 
+  8. 
+-1 
+  > 
+  5 
+  (phát 
+  biểu 
+  hằng 
+  sai) 
+§Các 
+  khái 
+  niệm 
+  : 
+-Biến 
+  : 
+  đại 
+  lượng 
+  biến 
+  thiên 
+- 
+   
+   
+   
+   
+  x, 
+  y, 
+  z, 
+  … 
+-Phép 
+  toán 
+  logic 
+-¬ 
+  : 
+  phủ 
+  định, 
+   
+  ⇒ 
+  : 
+  kéo 
+  theo, 
+   
+  ∧ 
+  : 
+  và, 
+   
+  ∨ 
+  : 
+  hoặc 
+-Lượng 
+  từ 
+-∃ 
+  : 
+  tồn 
+  tại, 
+  ∀ 
+  : 
+  với 
+  mọi 
+-Công 
+  thức 
+  : 
+  các 
+  biểu 
+  thức 
+  xây 
+  dựng 
+  dựa 
+  trên 
+  biểu 
+  thức 
+  logic -
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	7 
+Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic 
+§Một 
+  số 
+  ví 
+  dụ 
+  về 
+  công 
+  thức 
+  logic 
+-P(t), 
+  ¬P(t) 
+  , 
+  Q(t) 
+-¬P(t) 
+  ∧ 
+  Q(t) 
+-∃t(P(t)) 
+-∀t(P(t)) 
+Nội 
+  dung 
+§Giới 
+  thiệu 
+§Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ §Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+Phép 
+  -nh 
+  quan 
+  hệ 
+  trên 
+  bộ 
+§Biểu 
+  thức 
+  phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ 
+  có 
+  dạng 
+-t 
+  là 
+  biến 
+  bộ 
+lCó 
+  giá 
+  trị 
+  là 
+  một 
+  bộ 
+  của 
+  quan 
+  hệ 
+  trong 
+  CSDL lt.A 
+  là 
+  giá 
+  trị 
+  của 
+  bộ 
+  t 
+  tại 
+  thuộc 
+  tính 
+  A 
+-P 
+  là 
+  công 
+  thức 
+  có 
+  liên 
+  quan 
+  đến 
+  t 
+	lP(t) 
+  có 
+  giá 
+  trị 
+  ĐÚNG 
+  hoặc 
+  SAI 
+  phụ 
+  thuộc 
+  vào 
+  t 
+-Kết 
+  quả 
+  trả 
+  về 
+  là 
+  tập 
+  các 
+  bộ 
+  t 
+  sao 
+  cho 
+  P(t) 
+  đúng 
+Ví 
+  dụ 
+  1 
+§Tìm 
+  các 
+  giáo 
+  viên 
+  có 
+  lương 
+  trên 
+  2000 
+{ t | GIAOVIEN (t) ∧  t.LUONG > 2000 } 
+P(t) 
+Ví 
+  dụ 
+  2 
+§Tìm 
+  mã 
+  và 
+  họ 
+  tên 
+  giáo 
+  viên 
+  có 
+  lương 
+  trên 
+  2000 
+{ t.MAGV, t.HOTEN | GIAOVIEN (t) ∧  t.LUONG > 2000 } 
+P(t) 
+Ví 
+  dụ 
+  3 
+	§Cho 
+  biết 
+  các 
+  giáo 
+  viên 
+  (MAGV) 
+  làm 
+  việc 
+  ở 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 		thông 
+  tin’
+-Lấy 
+  ra 
+  những 
+  bộ 
+  t 
+  thuộc 
+  GIAOVIEN 
+-So 
+  sánh 
+  t 
+  với 
+  một 
+  bộ 
+  s 
+  nào 
+  đó 
+  để 
+  tìm 
+  ra 
+  những 
+  giáo 
+  viên 
+  làm 	việc 
+  ở 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 
+  thông 
+  tin’
+-Lượng 
+  t 
+  “tồn 
+  tại” 
+  của 
+  phép 
+  toán 
+  logic 
+Tồn tại 1 bộ t sao cho biểu thức P(t) đúng 
+Ví 
+  dụ 
+  3 
+§Cho 
+  biết 
+  các 
+  giáo 
+  viên 
+  (MAGV) 
+  làm 
+  việc 
+  ở 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 	thông 
+  tin’
+{ 
+  t.MAGV 
+  | 
+  GIAOVIEN(t) 
+  ∧
+	 
+  (∃s) 
+  ( 
+   
+  BOMON(s) 
+  ∧
+		 
+  s.TENBM 
+  =‘Hệ 
+  thống 
+  thông 
+  tin’ ∧		s.MABM 
+  = 
+  t.MABM 
+  ) 
+  } 
+Ví 
+  dụ 
+  4 
+	§Cho 
+  biết 
+  tên 
+  các 
+  giáo 
+  viên 
+  (HOTEN) 
+  tham 
+  gia 
+  đề 
+  tài 
+  hoặc 
+  là 		trưởng 
+  bộ 
+  môn 
+{ 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧ 
+  ( 
+	(∃s)(THAMGIADT(s) 
+  ∧t.MAGV 
+  = 
+  s.MAGV) 
+  ∨	 
+  (∃u)(BOMON(u) 
+  ∧t.MAGV 
+  = 
+  u.TRUONGBM)) 
+  } 
+Ví 
+  dụ 
+  5 
+	§Cho 
+  biết 
+  tên 
+  các 
+  giáo 
+  viên 
+  (HOTEN) 
+  vừa 
+  không 
+  tham 
+  gia 
+  đề 		tài 
+  vừa 
+  không 
+  chủ 
+  nhiệm 
+  đề 
+  tài 
+			{ 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧( 
+				¬(∃s) 
+  (THAMGIADT(s) 
+  ∧t.MAGV 
+  = 
+  s.MAGV) 
+  ∧
+				¬(∃u) 
+  (DETAI(u)∧ 
+  t.MAGV 
+  = 
+  u.GVCNDT)) 
+  } 
+Ví 
+  dụ 
+  6 
+	§Với 
+  mỗi 
+  bộ 
+  môn 
+  của 
+  khoa 
+  CNTT, 
+  cho 
+  biết 
+  họ 
+  tên 
+  giáo 
+  viên 
+  là 		trưởng 
+  bộ 
+  môn. 
+{ 
+  s.MABM, 
+  t.HOTEN 
+  | 
+  BOMON(s) 
+  ∧ 
+  GIAOVIEN(t) 
+  ∧s.MAKHOA = 
+  ‘CNTT’∧ 
+  s.TRUONGBM 
+  = 
+  t.MAGV 
+  } 
+Ví 
+  dụ 
+  7 
+	§Cho 
+  biết 
+  tên 
+  các 
+  giáo 
+  viên 
+  nữ 
+  và 
+  tên 
+  khoa 
+  quản 
+  lý 
+  giáo 
+  viên 		này 
+{t.HOTEN, 
+  u.TENKHOA 
+  | 
+  GIAOVIEN(t) 
+  ∧KHOA(u) 
+  ∧	 
+  t.PHAI 
+  =‘Nữ’ ∧
+	(∃s)(BOMON(s) 
+  ∧s.MAKHOA 
+  = 
+  u.MAKHOA 
+  ∧			 
+  s.MABM 
+  = 
+  t.MABM) 
+  } 
+Ví 
+  dụ 
+  8 
+	§Tìm 
+  các 
+  giáo 
+  viên 
+  (MAGV, 
+  HOTEN) 
+  tham 
+  gia 
+  vào 
+  tất 
+  cả 
+  các 
+  đề 		tài 
+-Cấu 
+  trúc 
+  “với 
+  mọi” 
+  của 
+  phép 
+  toán 
+  logic 
+Mọi 
+  bộ 
+  t 
+  phải 
+  làm 
+  cho 
+  biểu 
+  thức 
+  P 
+đúng 
+Ví 
+  dụ 
+  8 
+  (?) 
+§Tìm 
+  các 
+  giáo 
+  viên 
+  (MAGV, 
+  HOTEN) 
+  tham 
+  gia 
+  vào 
+  tất 
+  cả 
+  các 
+  đề 		tài 
+{t.MAGV, 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧
+			(∀s)(DETAI(s) 
+  ∧(∃u)(THAMGIADT(u) 
+  ∧
+				u.MADT 
+  =s.MADT 
+  ∧t.MAGV 
+  =u.MAGV))} 
+Ví 
+  dụ 
+  9 
+	§Tìm 
+  các 
+  giáo 
+  viên 
+  (MAGV, 
+  HOTEN) 
+  tham 
+  gia 
+  vào 
+  tất 
+  cả 
+  các 
+  đề 		tài 
+  do 
+  giáo 
+  viên 
+  mã 
+  số 
+  2 
+  làm 
+  chủ 
+  nhiệm 
+-Cấu 
+  trúc 
+  “kéo 
+  theo” 
+  của 
+  phép 
+  tính 
+  logic 
+Nếu 
+  P 
+  thì 
+  Q 
+Ví 
+  dụ 
+  9 
+  (?) 
+	§Tìm 
+  các 
+  giáo 
+  viên 
+  (MAGV, 
+  HOTEN) 
+  tham 
+  gia 
+  vào 
+  tất 
+  cả 
+  các 
+  đề 		tài 
+  do 
+  giáo 
+  viên 
+  mã 
+  số 
+  2 
+  làm 
+  chủ 
+  nhiệm 
+{ 
+  t.MAGV, 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧
+	(∀s)((DETAI(s) 
+  ∧
+		s.GVCNDT 
+  = 
+  2)⇒(∃u(THAMGIADT(u)∧			 
+  u.MADT 
+  = 
+  s.MADT 
+  ∧
+			 
+  t.MAGV 
+  = 
+  u.MAGV 
+  )))} 
+ 
+  t.MAGV 
+  = 
+  u.MAGV 
+  )))} 
+Định 
+  nghĩa 
+  hình 
+  thức 
+§Một 
+  công 
+  thức 
+  truy 
+  vấn 
+  tổng 
+  quát 
+  có 
+  dạng 
+-t1, 
+  t2, 
+  …, 
+  tn 
+  là 
+  các 
+  biến 
+  bộ 
+-Ai, 
+  Aj, 
+  …, 
+  Ak 
+  là 
+  các 
+  thuộc 
+  tính 
+  trong 
+  các 
+  bộ 
+  t 
+  tương 
+  ứng -P 
+  là 
+  công 
+  thức 
+	lP 
+  là 
+  công 
+  thức 
+  nguyên 
+  tố 
+	lHoặc 
+  được 
+  hình 
+  thành 
+  từ 
+  những 
+  công 
+  thức 
+  nguyên 
+  tố 
+Biến 
+  bộ 
+	§Biến 
+  tự 
+  do 
+  (free 
+  variable) 
+{ 
+  t 
+  | 
+  GIAOVIEN(t) 
+  ∧ 
+  t.LUONG 
+  > 
+  2000 
+  } 
+	t 
+  là 
+  biến 
+  tự 
+  do 
+§Biến 
+  kết 
+  buộc 
+  (bound 
+  variable) 
+{ 
+  t 
+  | 
+  GIAOVIEN(t) 
+  ∧ 
+  (∃s)(BOMON(s) 
+  ∧ 
+  s.MABM 
+  = 
+  t.MABM 
+  ∧
+Công 
+  thức 
+  nguyên 
+  tố 
+-B 
+  là 
+  thuộc 
+  tính 
+  của 
+  biến 
+  bộ 
+  s 
+-θ 
+  là 
+  các 
+  phép 
+  so 
+  sánh 
+  < 
+  , 
+  > 
+  , 
+  ≤ 
+  , 
+  ≥ 
+  , 
+  ≠ 
+  , 
+  =
+-A 
+  là 
+  thuộc 
+  tính 
+  của 
+  biến 
+  bộ 
+  t 
+-θ 
+  là 
+  các 
+  phép 
+  so 
+  sánh 
+  < 
+  , 
+  > 
+  , 
+  ≤ 
+  , 
+  ≥ 
+  , 
+  ≠ 
+  , 
+  =
+Công 
+  thức 
+  nguyên 
+  tố 
+  (?) 
+	§Mỗi 
+  công 
+  thức 
+  nguyên 
+  tố 
+  đều 
+  mang 
+  giá 
+  trị 
+  ĐÚNG 
+  hoặc 
+  SAI 		-Gọi 
+  là 
+  chân 
+  trị 
+  của 
+  công 
+  thức 
+  nguyên 
+  tố 
+-Chân 
+  trị 
+  ĐÚNG 
+  nếu 
+  t 
+  là 
+  một 
+  bộ 
+  thuộc 
+  R -Chân 
+  trị 
+  SAI 
+  nếu 
+  t 
+  không 
+  thuộc 
+  R 
+Công 
+  thức 
+  nguyên 
+  tố 
+  (?) 
+vị 
+  trí 
+  biến 
+  bộ 
+Công 
+  thức 
+	§Được 
+  hình 
+  thành 
+  từ 
+  công 
+  thức 
+  nguyên 
+  tố 
+  thông 
+  qua 
+  các 
+  phép 		toán 
+  logic 
+  hoặc 
+  các 
+  lượng 
+  từ 
+-Cấu 
+  trúc 
+  tồn 
+  tại 
+   
+   
+  (∃t)(P(t)) 
+Qui 
+  tắc 
+§(1) 
+  Mọi 
+  công 
+  thức 
+  nguyên 
+  tố 
+  là 
+  công 
+  thức 
+§(2) 
+  Nếu 
+  P 
+  là 
+  công 
+  thức 
+  thì 
+-¬(P) 
+  là 
+  công 
+  thức 
+-(P) 
+  là 
+  công 
+  thức 
+§(3) 
+  Nếu 
+  P1 
+  và 
+  P2 
+  là 
+  các 
+  công 
+  thức 
+  thì 
+-P1 
+  ∨ 
+  P2 
+  là 
+  công 
+  thức 
+-P1 
+  ∧ 
+  P2 
+  là 
+  công 
+  thức 
+-P1 
+  ⇒ 
+  P2 
+  là 
+  công 
+  thức 
+Qui 
+  tắc 
+  (?) 
+§(4) 
+  Nếu 
+  P(t) 
+  là 
+  công 
+  thức 
+  thì 
+	-∀t 
+  (P(t)) 
+  là 
+  công 
+  thức 
+		lChân 
+  trị 
+  ĐÚNG 
+  khi 
+  P(t) 
+  ĐÚNG 
+  với 
+  mọi 
+  bộ 
+  t. 
+lChân 
+  trị 
+  SAI 
+  khi 
+  có 
+  ít 
+  nhất 
+  1 
+  bộ 
+  t 
+  làm 
+  cho 
+  P(t) 
+  SAI 
+-∃t 
+  (P(t)) 
+  là 
+  công 
+  thức 
+lChân 
+  trị 
+  ĐÚNG 
+  khi 
+  có 
+  ít 
+  nhất 
+  1 
+  bộ 
+  làm 
+  cho 
+  P(t) 
+  ĐÚNG lChân 
+  trị 
+  SAI 
+  khi 
+  P(t) 
+  SAI 
+  với 
+  mọi 
+  bộ 
+  t 
+Qui 
+  tắc 
+  (?) 
+	§(5) 
+  Nếu 
+  P 
+  là 
+  công 
+  thức 
+  nguyên 
+  tố 
+  thì 		-Các 
+  biến 
+  bộ 
+  t 
+  trong 
+  P 
+  là 
+  biến 
+  tự 
+  do 
+§(6) 
+  Công 
+  thức 
+  P=P1∧P2 
+  , 
+  P=P1∨P2 
+  , 
+  P=P1⇒P2 
+	-Sự 
+  xuất 
+  hiện 
+  của 
+  biến 
+  t 
+  trong 
+  P 
+  là 
+  tự 
+  do 
+  hay 
+  kết 
+  buộc 
+  phụ 		thuộc 
+  vào 
+  việc 
+  nó 
+  là 
+  tự 
+  do 
+  hay 
+  kết 
+  buộc 
+  trong 
+  P1, 
+  P2 
+Một 
+  số 
+  biến 
+  đổi 
+§(i) 
+  P1 
+  ∧ 
+  P2 
+  = 
+  ¬ 
+  (¬P1 
+  ∨¬P2) 
+§(ii) 
+  ∀t 
+  (R(t) 
+  ∧ 
+  (P(t)) 
+  = 
+  ¬∃t 
+  (¬ 
+  R(t) 
+  ∨¬P(t)) §(iii) 
+  ∃t 
+  (R(t) 
+  ∧ 
+  (P(t)) 
+  = 
+  ¬∀t 
+  (¬R(t) 
+  ∨¬ 
+  (P(t)) §(iv) 
+  P 
+  ⇒ 
+  Q 
+  = 
+  ¬P 
+  ∨ 
+  Q 
+Công 
+  thức 
+  an 
+  toàn 
+§Xét 
+  công 
+  thức 
+{ t | ¬ (GIAOVIEN(t)) }
+-Có 
+  rất 
+  nhiều 
+  bộ 
+  t 
+  không 
+  thuộc 
+  quan 
+  hệ 
+  GIAOVIEN -Thậm 
+  chí 
+  không 
+  có 
+  trong 
+  CSDL 
+-Kết 
+  quả 
+  trả 
+  về 
+  không 
+  xác 
+  định 
+§Một 
+  công 
+  thức 
+  P 
+  gọi 
+  là 
+  an 
+  toàn 
+  nếu 
+  các 
+  giá 
+  trị 
+  trong 
+  kết 
+  quả 	đều 
+  lấy 
+  từ 
+  miền 
+  giá 
+  trị 
+  của 
+  P 
+		-Dom(P) 
+		-Tập 
+  các 
+  giá 
+  trị 
+  được 
+  đề 
+  cập 
+  trong 
+  P 
+Công 
+  thức 
+  an 
+  toàn 
+  (?) 
+	§Ví 
+  dụ 
+		{ 
+  t 
+  | 
+  GIAOVIEN(t) 
+  ∧ 
+  t.LUONG 
+  > 
+  30000 
+  } 
+-Dom(GIAOVIEN(t) 
+  ∧ 
+  t.LUONG 
+  > 
+  30000) 
+-Là 
+  tập 
+  các 
+  giá 
+  trị 
+  trong 
+  đó 
+	lCó 
+  giá 
+  trị 
+  trên 
+  3000 
+  tại 
+  thuộc 
+  tính 
+  LUONG 	lVà 
+  các 
+  giá 
+  trị 
+  khác 
+  tại 
+  những 
+  thuộc 
+  tính 
+  còn 
+  lại -Công 
+  thức 
+  trên 
+  là 
+  an 
+  toàn 
+Nội 
+  dung 
+§Giới 
+  thiệu 
+§Nhắc 
+  lại 
+  về 
+  lý 
+  thuyết 
+  logic 
+§Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  bộ 
+§Phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+Phép 
+  -nh 
+  quan 
+  hệ 
+  trên 
+  miền 
+§Biểu 
+  thức 
+  phép 
+  tính 
+  quan 
+  hệ 
+  trên 
+  miền 
+  có 
+  dạng 
+-x1, 
+  x2, 
+  …, 
+  xn 
+  là 
+  các 
+  biến 
+  miền 
+	lBiến 
+  nhận 
+  giá 
+  trị 
+  là 
+  một 
+  miền 
+  giá 
+  trị 
+  của 
+  một 
+  thuộc 
+  tính 
+-P 
+  là 
+  công 
+  thức 
+  theo 
+  x1, 
+  x2, 
+  …, 
+  xn 
+	lP 
+  được 
+  hình 
+  thành 
+  từ 
+  những 
+  công 
+  thức 
+  nguyên 
+  tố 
+-Kết 
+  quả 
+  trả 
+  về 
+  là 
+  tập 
+  các 
+  giá 
+  trị 
+  x1, 
+  x2, 
+  …, 
+  xn 
+  sao 
+  cho 
+  khi 
+  các 
+  giá 	trị 
+  được 
+  thay 
+  thế 
+  cho 
+  các 
+  xi 
+  thì 
+  P 
+  đúng 
+Ví 
+  dụ 
+  1 
+	§Cho 
+  biết 
+  mã 
+  và 
+  tên 
+  giáo 
+  viên 
+  có 
+  lương 
+  trên 
+  3000 
+{ 
+  p, 
+  q 
+  | 
+  (∃r) 
+  (GIAOVIEN(p, 
+  q, 
+  r, 
+  s, 
+  t, 
+  u, 
+  v, 
+  x, 
+  y, 
+  z,m) 
+  ∧r 
+  > 
+  3000 
+  )) 
+  } 
+GIAOVIEN(MAGV, 
+  HOTEN, 
+  LUONG, 
+  PHAI, 
+  NGAYSINH, 
+  SONHA, DUONG, 
+  QUAN, 
+  THANHPHO, 
+  GVQLCM, 
+  MABM) 
+Ví 
+  dụ 
+  2 
+§Cho 
+  biết 
+  các 
+  giáo 
+  viên 
+  (MAGV) 
+  làm 
+  việc 
+  ở 
+  bộ 
+  môn 
+  ‘Hệ 
+  thống 	thông 
+  tin’
+{p 
+  | 
+  (∃m)(GIAOVIEN(p, 
+  q, 
+  r, 
+  s, 
+  t, 
+  u, 
+  v, 
+  x, 
+  y, 
+  z,m) 
+  ∧(∃a)(∃b)(BOMON(a, 
+  b, 
+  c, 
+  d, 
+  e, 
+  f, 
+  j) 
+  ∧
+		 
+  b 
+  = 
+  ‘Hệ 
+  thống 
+  thông 
+  tin’ ∧a 
+  = 
+  m 
+  )) 
+  } 
+GIAOVIEN(MAGV, 
+  HOTEN, 
+  LUONG, 
+  PHAI, 
+  NGAYSINH, 
+  SONHA, DUONG, 
+  QUAN, 
+  THANHPHO, 
+  GVQLCM, 
+  MABM) 
+BOMON(MABM, 
+  TENBM, 
+  PHONG, 
+  DIENTHOAI, 
+  TRUONGBM, MAKHOA, 
+  NGAYNHANCHUC) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	39 
+Ví 
+  dụ 
+  3 
+	§Cho 
+  biết 
+  các 
+  giáo 
+  viên 
+  (MAGV, 
+  HOTEN) 
+  không 
+  có 
+  tham 
+  gia 
+  đề 		tài 
+  nào 
+{p, 
+  q 
+  | 
+  GIAOVIEN(p, 
+  q, 
+  r, 
+  s, 
+  t, 
+  u, 
+  v, 
+  x, 
+  y, 
+  z, 
+  m) 
+  ∧
+¬(∃a)(THAMGIADT(a, 
+  b, 
+  c, 
+  d, 
+  e) 
+  ∧ 
+  a 
+  = 
+  p 
+  ) 
+  } 
+GIAOVIEN(MAGV, 
+  HOTEN, 
+  LUONG, 
+  PHAI, 
+  NGAYSINH, 
+  SONHA, DUONG, 
+  QUAN, 
+  THANHPHO, 
+  GVQLCM, 
+  MABM) 
+THAMGIADT(MAGV, 
+  MADT, 
+  STT, 
+  PHUCAP, 
+  KETQUA) 
+Công 
+  thức 
+  nguyên 
+  tố 
+-R 
+  là 
+  quan 
+  hệ 
+  có 
+  n 
+  thuộc 
+  tính 
+-x, 
+  y 
+  là 
+  các 
+  biến 
+  miền 
+-Miền 
+  giá 
+  trị 
+  của 
+  x 
+  và 
+  y 
+  phải 
+  giống 
+  nhau -θ 
+  là 
+  các 
+  phép 
+  so 
+  sánh 
+  < 
+  , 
+  > 
+  , 
+  ≤ 
+  , 
+  ≥ 
+  , 
+  ≠ 
+  , 
+  =
+-c 
+  là 
+  hằng 
+  số 
+-x 
+  là 
+  biến 
+  miền 
+-θ 
+  là 
+  các 
+  phép 
+  so 
+  sánh 
+  < 
+  , 
+  > 
+  , 
+  ≤ 
+  , 
+  ≥ 
+  , 
+  ≠ 
+  , 
+  =
+Nhận 
+  xét 
+	§Một 
+  công 
+  thức 
+  nguyên 
+  tố 
+  mang 
+  giá 
+  trị 
+  ĐÚNG 
+  hoặc 
+  SAI 
+  với 		một 
+  tập 
+  giá 
+  trị 
+  cụ 
+  thể 
+  tương 
+  ứng 
+  với 
+  các 
+  biến 
+  miền 
+			-Gọi 
+  là 
+  chân 
+  trị 
+  của 
+  công 
+  thức 
+  nguyên 
+  tố 
+	§Một 
+  số 
+  qui 
+  tắc 
+  và 
+  biến 
+  đổi 
+  tương 
+  tự 
+  với 
+  phép 
+  tính 
+  quan 
+  hệ 		trên 
+  bộ 
+Công 
+  thức 
+  an 
+  toàn 
+	§Xét 
+  công 
+  thức 
+			{ 
+  p, 
+  r, 
+  s 
+  | 
+  ¬ 
+  GIAOVIEN(p, 
+  q, 
+  r, 
+  s, 
+  t, 
+  u, 
+  v, 
+  x, 
+  y, 
+  z)} 
+		-Các 
+  giá 
+  trị 
+  trong 
+  kết 
+  quả 
+  trả 
+  về 
+  không 
+  thuộc 
+  miền 
+  giá 
+  trị 
+  của 				biểu 
+  thức 
+		-Công 
+  thức 
+  không 
+  an 
+  toàn 
+Công 
+  thức 
+  an 
+  toàn 
+  (?) 
+§Xét 
+  công 
+  thức 
+{ 
+  x 
+  | 
+   
+  ∃y 
+  (R(x, 
+  y)) 
+   
+   
+  ∧∃z 
+  (¬ 
+  R(x, 
+  z) 
+  ∧ 
+  P(x, 
+  z)) 
+  } 
+-R 
+  là 
+  quan 
+  hệ 
+  có 
+  tập 
+  các 
+  giá 
+  trị 
+  hữu 
+  hạn 
+-Cũng 
+  có 
+  1 
+  tập 
+  hữu 
+  hạn 
+  các 
+  giá 
+  trị 
+  không 
+  thuộc 
+  R 
+-Công 
+  thức 
+  1: 
+  chỉ 
+  xem 
+  xét 
+  các 
+  giá 
+  trị 
+  trong 
+  R 
+-Công 
+  thức 
+  2: 
+  không 
+  thể 
+  kiểm 
+  tra 
+  khi 
+  không 
+  biết 
+  tập 
+  giá 
+  trị 
+  hữu 	hạn 
+  của 
+  z 
+Công 
+  thức 
+  an 
+  toàn 
+  (?) 
+§Cho 
+  biểu 
+  thức 
+{ 
+  x1, 
+  x2, 
+  …, 
+  xn 
+  | 
+  P(x1, 
+  x2, 
+  …, 
+  xn) 
+  } 
+§Biểu 
+  thức 
+  trên 
+  được 
+  gọi 
+  là 
+  an 
+  toàn 
+  nếu: 
+-Những 
+  giá 
+  trị 
+  xuất 
+  hiện 
+  trong 
+  các 
+  bộ 
+  của 
+  biểu 
+  thức 
+  phải 
+  thuộc 	về 
+  miền 
+  giá 
+  trị 
+  của 
+  P 
+-Lượng 
+  từ 
+  ∃: 
+  biểu 
+  thức 
+  ∃x 
+  (Q(x)) 
+  đúng 
+  khi 
+  và 
+  chỉ 
+  khi 
+  xác 
+  định 	được 
+  giá 
+  trị 
+  của 
+  x 
+  thuộc 
+  dom(Q) 
+  làm 
+  cho 
+  Q(x) 
+  đúng 
+-Lượng 
+  từ 
+  ∀: 
+  biểu 
+  thức 
+  ∀x 
+  (Q(x)) 
+  đúng 
+  khi 
+  và 
+  chỉ 
+  khi 
+  Q(x) 
+  đúng 	với 
+  mọi 
+  giá 
+  trị 
+  của 
+  x 
+  thuộc 
+  dom(Q) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 2
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 3
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 5
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 6
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 8
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 9
+{ 
+  t.A 
+  | 
+  P(t) 
+  }
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 10
+-Tìm 
+  các 
+  bộ 
+  t 
+  thuộc 
+  quan 
+  hệ 
+  giáo 
+  viên 
+  và 
+  thuộc 
+  tính 
+  lương 
+  có
+giá 
+  trị 
+  trên 
+  2000
+-Kết 
+  quả 
+  : 
+  t 
+  là 
+  các 
+  bộ 
+  thỏa 
+  mãn 
+  P(t) 
+  và 
+  Q(t) 
+  đúng
+-GIAOVIEN(t) 
+  đúng
+lNếu 
+  t 
+  là 
+  một 
+  bộ 
+  của 
+  quan 
+  hệ 
+  GIAOVIEN
+-t.LUONG 
+  > 
+  2000 
+  đúng
+lNếu 
+  thuộc 
+  tính 
+  LUONG 
+  của 
+  t 
+  có 
+  giá 
+  trị 
+  trên 
+  2000
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 11
+-Tập 
+  các 
+  MAGV 
+  và 
+  HOTEN 
+  của 
+  những 
+  bộ 
+  t 
+  sao 
+  cho 
+  t 
+  là 
+  một 
+  thể
+hiện 
+  của 
+  GIAOVIEN 
+  và 
+  t 
+  có 
+  giá 
+  trị 
+  lớn 
+  hơn 
+  2000 
+  tại 
+  thuộc 
+  tính
+LUONG
+-Kết 
+  quả 
+  :
+-Tìm 
+  những 
+  bộ 
+  t 
+  thuộc 
+  GIAOVIEN 
+  có 
+  thuộc 
+  tính 
+  lương 
+  lớn 
+  hơn 	2000
+-Lấy 
+  ra 
+  các 
+  giá 
+  trị 
+  tại 
+  thuộc 
+  tính 
+  MAGV 
+  và 
+  HOTEN
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 12
+(∃t)(P(t))
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 13
+GIAOVIEN | GIAOVIEN | GIAOVIEN | BOMON | Q(s) | MAGV
+MAGV | HOTEN | MABM | BOMON | Q(s) | MAGV
+1 | Nguyễn 
+  Hoài 
+  An | HTTT | MABM | TENBM | MAGV
+1 | Nguyễn 
+  Hoài 
+  An | HTTT | HTTT | Hệ 
+  thống 
+  thông 
+  tin | MAGV
+2 | Trần 
+  Trà 
+  Hương | MMT | HTTT | Hệ 
+  thống 
+  thông 
+  tin | MAGV
+2 | Trần 
+  Trà 
+  Hương | MMT | CNPM | Công 
+  nghệ 
+  phần 
+  mềm | 1
+3 | Nguyễn 
+  Nam 
+  Sơn | CNPM | CNPM | Công 
+  nghệ 
+  phần 
+  mềm | 1
+3 | Nguyễn 
+  Nam 
+  Sơn | CNPM | MMT | Mạng 
+  máy 
+  tính | 4
+4 | Lý 
+  Hoàng 
+  Hà | HTTT | MMT | Mạng 
+  máy 
+  tính | 4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | MMT | Mạng 
+  máy 
+  tính | 14
+t2 
+t3 
+t4 
+t1 | 15
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 15
+16
+16
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 16
+17
+17
+17
+17
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 17
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 18
+(∀t)(P(t))
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 19
+t1 | u1
+t1 | u1
+t1 | s1 | u1
+t2 | s1 | u2
+t2 | s2 | u2
+t2 | s2 | u3
+t3 | s3 | u3
+t4 | u4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | u5 | 20
+P 
+  ⇒ 
+  Q
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 21
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 22
+t1 | s1 | u1
+t2 | s2 | u2
+t3 | s3 | u3
+t4 | s4 | u4
+t4 | s4 | u5
+t4 | s5 | u5
+{ 
+  t.MAGV, 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧ | { 
+  t.MAGV, 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧ | { 
+  t.MAGV, 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧ | { 
+  t.MAGV, 
+  t.HOTEN 
+  | 
+  GIAOVIEN(t) 
+  ∧ | u5
+(∀s)((DETAI(s) 
+  ∧ | (∀s)((DETAI(s) 
+  ∧ | (∀s)((DETAI(s) 
+  ∧ | (∀s)((DETAI(s) 
+  ∧ | u5
+s.GVCNDT 
+  = 
+  2)⇒(∃u(THAMGIADT(u)∧ | s.GVCNDT 
+  = 
+  2)⇒(∃u(THAMGIADT(u)∧ | s.GVCNDT 
+  = 
+  2)⇒(∃u(THAMGIADT(u)∧ | s.GVCNDT 
+  = 
+  2)⇒(∃u(THAMGIADT(u)∧ | u5
+u.MADT 
+  = 
+  s.MADT 
+  ∧ | u.MADT 
+  = 
+  s.MADT 
+  ∧ | u.MADT 
+  = 
+  s.MADT 
+  ∧ | u.MADT 
+  = 
+  s.MADT 
+  ∧ | u5
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 23
+{ 
+  t1.Ai, 
+  t2.Aj, 
+  …tn.Ak 
+  | 
+  P(t1, 
+  t2, 
+  …, 
+  tn) 
+  }
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 24
+s.TENBM 
+  = 
+  “Hệ 
+  thống 
+  thông 
+  tin” 
+  ) 
+  } | 25
+Biến 
+  tự 
+  do | Biến 
+  kết 
+  buộc | Biến 
+  kết 
+  buộc | 25
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 25
+§(i) | GIAOVIEN 
+  (t) 
+t.MAGV 
+  = 
+  s.MAGV
+-t 
+  là 
+  biến 
+  bộ 
+-R 
+  là 
+  quan 
+  hệ | -t 
+  là 
+  biến 
+  bộ 
+-R 
+  là 
+  quan 
+  hệ | GIAOVIEN 
+  (t) 
+t.MAGV 
+  = 
+  s.MAGV
+§(ii) | GIAOVIEN 
+  (t) 
+t.MAGV 
+  = 
+  s.MAGV
+-A 
+  là 
+  thuộc 
+  tính 
+  của 
+  biến 
+  bộ 
+  t | -A 
+  là 
+  thuộc 
+  tính 
+  của 
+  biến 
+  bộ 
+  t | GIAOVIEN 
+  (t) 
+t.MAGV 
+  = 
+  s.MAGV
+§(iii) | s.LUONG 
+  > 
+  30000
+-c 
+  là 
+  hằng 
+  số | -c 
+  là 
+  hằng 
+  số | s.LUONG 
+  > 
+  30000
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 26
+§Công 
+  thức 
+  (i)
+t1 
+  = 
+  <α, 
+  10, 
+  1> t2 
+  = 
+  <α, 
+  20, 
+  2> | t1 
+  ∈ 
+  R 
+  có 
+  chân 
+  trị 
+  ĐÚNG | 27
+t1 
+  = 
+  <α, 
+  10, 
+  1> t2 
+  = 
+  <α, 
+  20, 
+  2> | t2 
+  ∈ 
+  R 
+  có 
+  chân 
+  trị 
+  SAI | 27
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | t2 
+  ∈ 
+  R 
+  có 
+  chân 
+  trị 
+  SAI | 27
+§Công 
+  thức 
+  (ii) 
+  và 
+  (iii) 
+
+-Chân 
+  trị 
+  tùy 
+  thuộc 
+  vào 
+  việc 
+  thay 
+  thế 
+  giá 
+  trị 
+  thật 
+  sự 
+  của 
+  bộ 
+  vào
+Nếu 
+  t 
+  là 
+  bộ 
+   
+  <α, 
+  10, 
+  1> 
+Thì 
+  t.B 
+  > 
+  5 
+  có 
+  chân 
+  trị 
+  ĐÚNG 
+  (10 
+  > 
+  5)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 28
+-Phủ 
+  định 
+-Toán 
+  tử 
+  và
+-Toán 
+  tử 
+  hoặc | ¬ 
+  P(t) 
+ 
+   
+  P(t) 
+  ∧ 
+  Q(t) 
+ 
+   
+  P(t) 
+  ∨ 
+  Q(t)
+-Cấu 
+  trúc 
+  với 
+  mọi | (∀t)(P(t)) | 29
+-Phép 
+  toán 
+  kéo 
+  theo 
+  : | P(t) 
+  ⇒ 
+  Q(t) | 29
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 29
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 30
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 31
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 32
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 33
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 34
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 35
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 36
+{ x1, x2, …, xn | P(x1, x2, …, xn) }
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 37
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 38
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 40
+§(i) 
+-xi 
+  là 
+  biến 
+  miền
+§(ii)
+§(iii)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 41
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 42
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 43
+Công 
+  thức 
+  1 | Công 
+  thức 
+  2
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 44
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 45
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 46

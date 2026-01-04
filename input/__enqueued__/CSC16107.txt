@@ -1,0 +1,88 @@
+# COURSE: Ứng dụng thị giác máy tính (CSC16107)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC16107
+- **English Name**: Applications of Computer Vision
+- **Vietnamese Name**: Ứng dụng thị giác máy tính
+- **Responsible Person**: for the module: Dr. Võ Hoài Việt
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Data Collection for Image and Video
+- Image Template Matching and Application
+- Image Segmentation
+- Introduce final projects and programming environments
+- Image Stereo
+- Convolution Neural Network
+- Generative Adversarial Network
+- Action Recognition
+- Activity Recognition
+- Guest Lecturer
+- Random Field and Application in Computer Vision
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Computer Vision: Algorithms and Applications,Richard Szeliski,2022,Springer
+- [2]Dive into Deep Learning,Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.,2021,https://d2l.ai/
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice on an individual and groups to present a number of technical reports in the field of computer vision.
+- G2.Interpret how  to build software product
+- G3.Outline how to start professional activities through course projects, analyze ideas for future products
+- G4.Construct a software product in computer vision with regard to concrete requirements
+- G5.Practice open source technologies to build a computer vision system
+- G6.Recognize the applications of computer vision in industry context
+• Content:
+- Data Collection for Image and Video
+- Image Template Matching and Application
+- Image Segmentation
+- Introduce final projects and programming environments
+- Image Stereo
+- Convolution Neural Network
+- Generative Adversarial Network
+- Action Recognition
+- Activity Recognition
+- Guest Lecturer
+- Random Field and Application in Computer Vision
+• Examination forms: Homework, Quiz, quick test, Research Project
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Vision: Algorithms and Applications,Richard Szeliski,2022,Springer
+- [2]Dive into Deep Learning,Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.,2021,https://d2l.ai/
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Vision: Algorithms and Applications,Richard Szeliski,2022,Springer
+- [2]Dive into Deep Learning,Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.,2021,https://d2l.ai/
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Vision: Algorithms and Applications,Richard Szeliski,2022,Springer
+- [2]Dive into Deep Learning,Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.,2021,https://d2l.ai/
+
+## READING MATERIALS
+- [1]Computer Vision: Algorithms and Applications,Richard Szeliski,2022,Springer
+- [2]Dive into Deep Learning,Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J.,2021,https://d2l.ai/

@@ -1,0 +1,95 @@
+# COURSE: Cơ sở trí tuệ nhân tạo (CSC14003)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14003
+- **English Name**: Fundamentals of Artificial Intelligence
+- **Vietnamese Name**: Cơ sở trí tuệ nhân tạo
+- **Responsible Person**: for the module: Dr. Nguyễn Ngọc Thảo
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to AI
+- Intelligent Agents
+- Solving Problem by Searching: Basic concepts and Uninformed search
+- Solving Problem by Searching: Informed search
+- Local Search
+- Adversarial Search
+- Constraint Satisfaction Problem
+- Midterm Examination
+- Propositional Logic: Basic concepts
+- Propositional Logic: Inference Mechanisms
+- First-Order Logic: Syntax, Semantics, and Inference Mechanisms
+- Machine learning: Basic concepts and ID3 Decision tree
+- Perceptron and Multi-layer neural networks
+- Reviews
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Artificial Intelligence: A Modern Approach,Stuart Russell, Peter Norvig,2020,Pearson
+- [2]Cơ sở trí tuệ nhân tạo,Lê Hoài Bắc, Tô Hoài Việt,2014,Nhà xuất bản Khoa học Kỹ thuật
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Formulate fundamental AI problems using appropriate AI concepts and terminologies.
+- G2.Develop search agents to solve common problem-solving tasks.
+- G3.Develop logical agents whose knowledge is represented using either propositional logic or first-order logic.
+- G4.Develop simple learning agents that learn by observations.
+- G5.Practice generating hypotheses and assess them through theoretical and/or empirical evaluations.
+- G6.Recognize textbook, assignments and practice writing reports in English.
+- G7.Organize tasks while conducting individual and group work.
+• Content:
+- Introduction to AI
+- Intelligent Agents
+- Solving Problem by Searching: Basic concepts and Uninformed search
+- Solving Problem by Searching: Informed search
+- Local Search
+- Adversarial Search
+- Constraint Satisfaction Problem
+- Midterm Examination
+- Propositional Logic: Basic concepts
+- Propositional Logic: Inference Mechanisms
+- First-Order Logic: Syntax, Semantics, and Inference Mechanisms
+- Machine learning: Basic concepts and ID3 Decision tree
+- Perceptron and Multi-layer neural networks
+- Reviews
+• Examination forms: Close Test, Final examination, Written Report, Homework, Quiz, quick test, Research Project, Mid-term examination, Lab works
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Artificial Intelligence: A Modern Approach,Stuart Russell, Peter Norvig,2020,Pearson
+- [2]Cơ sở trí tuệ nhân tạo,Lê Hoài Bắc, Tô Hoài Việt,2014,Nhà xuất bản Khoa học Kỹ thuật
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Artificial Intelligence: A Modern Approach,Stuart Russell, Peter Norvig,2020,Pearson
+- [2]Cơ sở trí tuệ nhân tạo,Lê Hoài Bắc, Tô Hoài Việt,2014,Nhà xuất bản Khoa học Kỹ thuật
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Artificial Intelligence: A Modern Approach,Stuart Russell, Peter Norvig,2020,Pearson
+- [2]Cơ sở trí tuệ nhân tạo,Lê Hoài Bắc, Tô Hoài Việt,2014,Nhà xuất bản Khoa học Kỹ thuật
+
+## READING MATERIALS
+- [1]Artificial Intelligence: A Modern Approach,Stuart Russell, Peter Norvig,2020,Pearson
+- [2]Cơ sở trí tuệ nhân tạo,Lê Hoài Bắc, Tô Hoài Việt,2014,Nhà xuất bản Khoa học Kỹ thuật

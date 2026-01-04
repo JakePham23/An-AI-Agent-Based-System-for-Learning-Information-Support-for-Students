@@ -1,0 +1,95 @@
+# COURSE: Nhập môn dữ liệu lớn (CSC14118)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14118
+- **English Name**: Introduction to Big Data
+- **Vietnamese Name**: Nhập môn dữ liệu lớn
+- **Responsible Person**: for the module: Dr. Nguyễn Ngọc Thảo
+- **Semester**: (s) in which the module is taught: 6
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+Students are provided an overview of the actively growing field of Big Data, its key issues in data management and associated applications in intelligent business and scientific studies. Their practical experiences will be strengthened through the manipulation of the tools for managing and analyzing Big Data like Hadoop MapReduce for batch processing, Spark for streaming processing and NoSQL databases. Those enables students to build their own skills to solve complex real-world problems in for decision support.
+• COURSE TOPICS:
+- The Fundamentals of Big Data
+- Hadoop Fundamentals: Basic concepts and Ecosystem
+- Hadoop Distributed Filesystem
+- Hadoop MapReduce
+- Spark Fundamentals: Basic concepts and Ecosystem
+- Spark APIs
+- Advanced Analytics with Spark
+- Midterm examination
+- NoSQL databases: MongoDB
+- Stream processing: Spark Streaming
+- Seminar
+- Course review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Hadoop: The Definitive Guide (4th edition),Tom White,2015,O'Reilly Media
+- [2]Learning Spark: Lightning-Fast Data Analytics 2nd Edition,Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee,2020,O'Reilly Media
+- [3]Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers and Matei Zaharia,2018,O'Reilly Media
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Discuss the key principles of Big Data and motivation for moving from classical data analysis to more advanced forms.
+- G2.Acquire fundamental enabling techniques and scalable algorithms like Hadoop Map Reduce, Spark and NoSQL for large-scale data analytics.
+- G3.Describe adequate perspectives of Big Data analytics by introducing various tools for large-scale data analytics and applying Big Data in various applications.
+- G4.Select and implement machine learning/data analytics techniques and computing environments suitable for the applications under consideration.
+- G5.Investigate designated online courses about some Big Data topics and complete most learning items in that course.
+• Content:
+- The Fundamentals of Big Data
+- Hadoop Fundamentals: Basic concepts and Ecosystem
+- Hadoop Distributed Filesystem
+- Hadoop MapReduce
+- Spark Fundamentals: Basic concepts and Ecosystem
+- Spark APIs
+- Advanced Analytics with Spark
+- Midterm examination
+- NoSQL databases: MongoDB
+- Stream processing: Spark Streaming
+- Seminar
+- Course review
+• Examination forms: Final examination, Written Report, Group Presentation, Quiz, quick test, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Hadoop: The Definitive Guide (4th edition),Tom White,2015,O'Reilly Media
+- [2]Learning Spark: Lightning-Fast Data Analytics 2nd Edition,Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee,2020,O'Reilly Media
+- [3]Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers and Matei Zaharia,2018,O'Reilly Media
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Hadoop: The Definitive Guide (4th edition),Tom White,2015,O'Reilly Media
+- [2]Learning Spark: Lightning-Fast Data Analytics 2nd Edition,Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee,2020,O'Reilly Media
+- [3]Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers and Matei Zaharia,2018,O'Reilly Media
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Hadoop: The Definitive Guide (4th edition),Tom White,2015,O'Reilly Media
+- [2]Learning Spark: Lightning-Fast Data Analytics 2nd Edition,Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee,2020,O'Reilly Media
+- [3]Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers and Matei Zaharia,2018,O'Reilly Media
+
+## READING MATERIALS
+- [1]Hadoop: The Definitive Guide (4th edition),Tom White,2015,O'Reilly Media
+- [2]Learning Spark: Lightning-Fast Data Analytics 2nd Edition,Jules Damji, Brooke Wenig, Tathagata Das, Denny Lee,2020,O'Reilly Media
+- [3]Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers and Matei Zaharia,2018,O'Reilly Media

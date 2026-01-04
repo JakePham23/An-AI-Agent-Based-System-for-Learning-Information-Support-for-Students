@@ -1,0 +1,89 @@
+# COURSE: Xác suất thống kê (MTH00044)
+
+## GENERAL INFORMATION
+- **Course ID**: MTH00044
+- **English Name**: Applied Statistics for Engineers and Scientists
+- **Vietnamese Name**: Xác suất thống kê
+- **Responsible Person**: for the module: Dr. Nguyễn Thị Mộng Ngọc
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+(1) Basic probability concepts: Students will learn the foundations of probability theory, including the concepts of sample space, events, probability axioms, and conditional probability. They will also study important concepts such as independence, Bayes' theorem, and the law of total probability.
+(2) Random variables: Students will delve into the concept of random variables, understanding discrete and continuous random variables, probability mass functions, probability density functions, cumulative distribution functions, and moments of random variables.
+(3) Common probability distributions: Students will explore widely used probability distributions, such as the binomial, Poisson, normal (Gaussian), and exponential distributions. They will understand the characteristics, properties, and applications of these distributions in various fields.
+(4) Confidence intervals: Students will learn how to construct confidence intervals, which provide a range of plausible values for population parameters based on sample data. They will study methods for estimating population means, proportions, and other parameters, along with the interpretation and determination of confidence levels.
+(5) Hypothesis testing: Students will understand the principles of hypothesis testing, including null and alternative hypotheses, Type I and Type II errors, significance levels, and p-values. They will learn hypothesis tests for population means, proportions, and variances.
+(6) Regression and correlation: Students will explore the concepts of regression and correlation analysis. They will learn how to perform simple and multiple linear regression, interpret regression coefficients, assess model fit, and analyze the strength and direction of relationships using correlation coefficients.
+By the end of the course, students will have a solid understanding of basic probability concepts, random variables, common probability distributions, confidence intervals, hypothesis testing, regression, and correlation. This knowledge will enable them to analyze and interpret data, make informed decisions based on statistical evidence, and apply statistical techniques in various fields.
+• COURSE TOPICS:
+- Chapter 0: Combinatorial Analysis
+- Chapter 1: Basic Concepts of Probability
+- Chapter 2: Random Variables
+- Chapter 3: Descriptive Statistics
+- Chapter 4: Estimation
+- Chapter 5: Hypothesis Testing
+- Chapter 6: Regression and Correlation
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [2]Bài Tập và Thực Hành Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [3]Giáo trình lý thuyết xác suất và thống kê toán. Bài tập Lý thuyết xác suất và thống kê toán,Trần Tuấn Điệp, Lý Hoàng Tú,1979,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Knowledge: The course provides the fundamental knowledge and basic concepts of probability and statistics, serving as a foundation for subsequent subjects.
+- G2.Skills: Apply probability and statistics to solve practical problems related to data analysis and presentation.
+- G3.Attitude and diligence: The course helps students gain an initial understanding of probability and statistics and recognize the role of these fields in various scientific and real-life applications. This fosters a love for science and encourages a serious and proactive attitude toward learning.
+• Content:
+- Chapter 0: Combinatorial Analysis
+- Chapter 1: Basic Concepts of Probability
+- Chapter 2: Random Variables
+- Chapter 3: Descriptive Statistics
+- Chapter 4: Estimation
+- Chapter 5: Hypothesis Testing
+- Chapter 6: Regression and Correlation
+• Examination forms: Close Test, Final examination, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [2]Bài Tập và Thực Hành Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [3]Giáo trình lý thuyết xác suất và thống kê toán. Bài tập Lý thuyết xác suất và thống kê toán,Trần Tuấn Điệp, Lý Hoàng Tú,1979,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [2]Bài Tập và Thực Hành Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [3]Giáo trình lý thuyết xác suất và thống kê toán. Bài tập Lý thuyết xác suất và thống kê toán,Trần Tuấn Điệp, Lý Hoàng Tú,1979,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [2]Bài Tập và Thực Hành Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [3]Giáo trình lý thuyết xác suất và thống kê toán. Bài tập Lý thuyết xác suất và thống kê toán,Trần Tuấn Điệp, Lý Hoàng Tú,1979,
+
+## READING MATERIALS
+- [1]Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [2]Bài Tập và Thực Hành Xác suất thống kê,Nguyễn Thị Mộng Ngọc,2018,
+- [3]Giáo trình lý thuyết xác suất và thống kê toán. Bài tập Lý thuyết xác suất và thống kê toán,Trần Tuấn Điệp, Lý Hoàng Tú,1979,

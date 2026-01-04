@@ -1,0 +1,81 @@
+# COURSE: Trình biên dịch (CSC14113)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14113
+- **English Name**: Compiler
+- **Vietnamese Name**: Trình biên dịch
+- **Responsible Person**: for the module: Dr. Nguyễn Thanh Phương
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+This course will discuss the major ideas used in the implementation of compilers, including lexical analysis, syntax analysis, semantic analysis, syntax-directed translation, abstract syntax trees, symbol table generation, intermediate code and intermediate code generation, code generation, and runtime systems. As part of the course, students will write a small compiler for a C-like language.
+• COURSE TOPICS:
+- Introduction to compiler design
+- An overview of a simple compiler
+- Lexical analysis
+- Syntax analysis
+- Symbol table generation
+- Semantic analysis
+- Intermediate code representation
+- Intermediate code generation
+- Runtime environment
+- Target code generation
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Compilers: Principles, Techniques, and Tools,A. Aho, M. Lam, R. Sethi, J. Ullman,2006,Addison Wesley
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Discuss the role and organization of a programming language implementation system.
+- G2.Interpret English terminology in the field of compiler design and construction.
+- G3.Explain the role of Runtime environment.
+- G4.Explain the role, design, and operation of the Front-end phase.
+- G5.Explain the role, design, and operation of the Back-end phase.
+• Content:
+- Introduction to compiler design
+- An overview of a simple compiler
+- Lexical analysis
+- Syntax analysis
+- Symbol table generation
+- Semantic analysis
+- Intermediate code representation
+- Intermediate code generation
+- Runtime environment
+- Target code generation
+• Examination forms: Close Test, Final examination, Homework, Research Project, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Compilers: Principles, Techniques, and Tools,A. Aho, M. Lam, R. Sethi, J. Ullman,2006,Addison Wesley
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Compilers: Principles, Techniques, and Tools,A. Aho, M. Lam, R. Sethi, J. Ullman,2006,Addison Wesley
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Compilers: Principles, Techniques, and Tools,A. Aho, M. Lam, R. Sethi, J. Ullman,2006,Addison Wesley
+
+## READING MATERIALS
+- [1]Compilers: Principles, Techniques, and Tools,A. Aho, M. Lam, R. Sethi, J. Ullman,2006,Addison Wesley

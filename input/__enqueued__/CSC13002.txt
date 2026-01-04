@@ -1,0 +1,97 @@
+# COURSE: Nhập môn công nghệ phần mềm (CSC13002)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC13002
+- **English Name**: Introduction to Software Engineering
+- **Vietnamese Name**: Nhập môn công nghệ phần mềm
+- **Responsible Person**: for the module: Dr. Nguyễn Thị Minh Tuyền
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Course introduction, Overview
+- Software processes
+- Project management
+- Requirements engineering
+- System modeling
+- Architectural design
+- Design and Implementation
+- User interface design
+- Software testing
+- Agile software development
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Software Engineering, 10th Edition,Ian Sommerville,2017,Pearson India
+- [2]Software Engineering: A Practitioner's Approach, 9th Edition,Roger Pressman, Bruce Maxim,2019,McGraw-Hill Education
+- [3]Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value,Teresa Torres,2021,Product Talk LLC
+- [4]Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,2018,Prentice Hall
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply personal skills and teamwork skills to present reports based on available templates
+- G2.Explain software concepts in English
+- G3.Explain basic concepts, principles, methods, and techniques in software engineering
+- G4.Classify and compare different software processes
+- G5.Set up at basic level each phase in software development lifecycle
+- G6.Construct software artifacts in each phases in software process
+- G7.Use CASE tools
+• Content:
+- Course introduction, Overview
+- Software processes
+- Project management
+- Requirements engineering
+- System modeling
+- Architectural design
+- Design and Implementation
+- User interface design
+- Software testing
+- Agile software development
+• Examination forms: Group Presentation, Quiz, quick test, Research Project, Excercise
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Software Engineering, 10th Edition,Ian Sommerville,2017,Pearson India
+- [2]Software Engineering: A Practitioner's Approach, 9th Edition,Roger Pressman, Bruce Maxim,2019,McGraw-Hill Education
+- [3]Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value,Teresa Torres,2021,Product Talk LLC
+- [4]Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,2018,Prentice Hall
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Software Engineering, 10th Edition,Ian Sommerville,2017,Pearson India
+- [2]Software Engineering: A Practitioner's Approach, 9th Edition,Roger Pressman, Bruce Maxim,2019,McGraw-Hill Education
+- [3]Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value,Teresa Torres,2021,Product Talk LLC
+- [4]Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,2018,Prentice Hall
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Software Engineering, 10th Edition,Ian Sommerville,2017,Pearson India
+- [2]Software Engineering: A Practitioner's Approach, 9th Edition,Roger Pressman, Bruce Maxim,2019,McGraw-Hill Education
+- [3]Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value,Teresa Torres,2021,Product Talk LLC
+- [4]Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,2018,Prentice Hall
+
+## READING MATERIALS
+- [1]Software Engineering, 10th Edition,Ian Sommerville,2017,Pearson India
+- [2]Software Engineering: A Practitioner's Approach, 9th Edition,Roger Pressman, Bruce Maxim,2019,McGraw-Hill Education
+- [3]Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value,Teresa Torres,2021,Product Talk LLC
+- [4]Clean Code: A Handbook of Agile Software Craftsmanship,Robert Martin,2018,Prentice Hall

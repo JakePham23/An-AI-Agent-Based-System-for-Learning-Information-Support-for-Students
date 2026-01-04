@@ -1,0 +1,89 @@
+# COURSE: Các hệ cơ sở tri thức (CSC14002)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14002
+- **English Name**: Knowledge-Based Systems
+- **Vietnamese Name**: Các hệ cơ sở tri thức
+- **Responsible Person**: for the module: Assoc. Prof. Lê Hoàng Thái
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Class overview: Class organization, topics overview, software etc.
+- A Guide to Agency-Wide Knowledge Management for State DOTs
+- Knowledge Processes & Knowledge Work Systems
+- Foundations of  Artificial Intelligence
+- Neural Networks
+- Neural Networks (continue)
+- Genetic Algorithms
+- Genetic Algorithms(continue)
+- FUZZY LOGIC
+- Fuzzy Logic Control
+- Presentations
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Knowledge Based System A Complete Guide,Gerardus Blokdyk,2020,5STARCooks
+- [2]Knowledge-Based Systems,Rajendra Akerkar, Priti Sajja,2009,Jones & Bartlett Learning
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Discuss about Knowledge management and its broad applications in various aspects of our day-to-day life.
+- G2.Operate the algorithms used in various phases of Knowledge-based systems, including Knowledge management process and Knowledge Works Systems (KWS).
+- G3.Employ the techniques used in Knowledge-based systems, such as representation of knowledge (knowledge base), reasoning processes (inference/reasoning), neural networks, Fuzzy logic, genetic algorithms, etc.
+- G4.Summarize knowledge of various applications of Knowledge-based systems in real life, including reading research papers and preparing presentations.
+- G5.Produce programs for Knowledge-based systems and implement the various techniques discussed throughout the course.
+• Content:
+- Class overview: Class organization, topics overview, software etc.
+- A Guide to Agency-Wide Knowledge Management for State DOTs
+- Knowledge Processes & Knowledge Work Systems
+- Foundations of  Artificial Intelligence
+- Neural Networks
+- Neural Networks (continue)
+- Genetic Algorithms
+- Genetic Algorithms(continue)
+- FUZZY LOGIC
+- Fuzzy Logic Control
+- Presentations
+- Review
+• Examination forms: Close Test, Final examination, Lab final exam, Homework, Group Presentation, Quiz, quick test, Research Project, Weekly labwork
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Knowledge Based System A Complete Guide,Gerardus Blokdyk,2020,5STARCooks
+- [2]Knowledge-Based Systems,Rajendra Akerkar, Priti Sajja,2009,Jones & Bartlett Learning
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Knowledge Based System A Complete Guide,Gerardus Blokdyk,2020,5STARCooks
+- [2]Knowledge-Based Systems,Rajendra Akerkar, Priti Sajja,2009,Jones & Bartlett Learning
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Knowledge Based System A Complete Guide,Gerardus Blokdyk,2020,5STARCooks
+- [2]Knowledge-Based Systems,Rajendra Akerkar, Priti Sajja,2009,Jones & Bartlett Learning
+
+## READING MATERIALS
+- [1]Knowledge Based System A Complete Guide,Gerardus Blokdyk,2020,5STARCooks
+- [2]Knowledge-Based Systems,Rajendra Akerkar, Priti Sajja,2009,Jones & Bartlett Learning

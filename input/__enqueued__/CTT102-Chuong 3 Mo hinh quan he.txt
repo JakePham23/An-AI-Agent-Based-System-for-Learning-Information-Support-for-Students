@@ -1,0 +1,2472 @@
+CHƯƠNG 
+  3 
+Mô 
+  hình 
+  dữ 
+  liệu 
+  quan 
+  hệ 
+Bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+  chi 
+  3ết 
+§Giới 
+  thiệu 
+§Các 
+  khái 
+  niệm 
+  của 
+  mô 
+  hình 
+  quan 
+  hệ 
+§Một 
+  số 
+  khái 
+  niệm 
+  về 
+  khóa 
+§Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ 
+§Chuyển 
+  lược 
+  đồ 
+  E/R 
+  sang 
+  thiết 
+  kế 
+  quan 
+  hệ 
+Giới 
+  thiệu 
+§Do 
+  tiến 
+  sĩ 
+  E. 
+  F. 
+  Codd 
+  đưa 
+  ra 
+	-“A 
+  Relation 
+  Model 
+  for 
+  Large 
+  Shared 
+  Data 
+  Banks”, 		Communications 
+  of 
+  ACM, 
+  6/1970 
+§Cung 
+  cấp 
+  một 
+  cấu 
+  trúc 
+  dữ 
+  liệu 
+  đơn 
+  giản 
+  và 
+  đồng 
+  bộ 
+	-Khái 
+  niệm 
+  Quan 
+  hệ 
+§Có 
+  nền 
+  tảng 
+  lý 
+  thuyết 
+  vững 
+  chắc 
+	-Lý 
+  thuyết 
+  tập 
+  hợp 
+§Là 
+  cơ 
+  sở 
+  của 
+  các 
+  HQT 
+  CSDL 
+  thương 
+  mại 	-Oracle, 
+  DB2, 
+  SQL 
+  Server… 
+Nội 
+  dung 
+  chi 
+  3ết 
+§Giới 
+  thiệu 
+§Các 
+  khái 
+  niệm 
+  của 
+  mô 
+  hình 
+  quan 
+  hệ 	-Quan 
+  hệ 
+  (Relation) 
+	-Thuộc 
+  tính 
+  (Attribute) 
+	-Bộ 
+  (Tuple) 
+	-Miền 
+  giá 
+  trị 
+  (Domain) 
+	-Lược 
+  đồ 
+  (Schema) 
+§Một 
+  số 
+  khái 
+  niệm 
+  về 
+  khóa
+§Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ 
+§Chuyển 
+  lược 
+  đồ 
+  E/R 
+  sang 
+  thiết 
+  kế 
+  quan 
+  hệ 
+	Quan 
+  hệ 
+§Một 
+  quan 
+  hệ 
+  là 
+  một 
+  bảng 
+  (table) 
+  2 
+  chiều: 
+		-Mỗi 
+  dòng 
+  (trừ 
+  dòng 
+  đầu 
+  tiên) 
+  gồm 
+  các 
+  giá 
+  trị 
+  thể 
+  hiện 
+  một 
+  thực 
+  thể 			hoặc 
+  một 
+  mối 
+  kết 
+  hợp 
+  trong 
+  thực 
+  tế. 
+-Mỗi 
+  tiêu 
+  đề 
+  cột 
+  cho 
+  biết 
+  ý 
+  nghĩa 
+  của 
+  từng 
+  giá 
+  trị 
+  trên 
+  một 
+  dòng. -VD: 
+  Quan 
+  hệ 
+  KHOA, 
+  mỗi 
+  dòng 
+  gồm 
+  các 
+  giá 
+  trị 
+  thể 
+  hiện 
+  một 
+  khoa. 
+§Mô 
+  hình 
+  quan 
+  hệ 
+  thể 
+  hiện 
+  một 
+  CSDL 
+  thông 
+  qua 
+  nhiều 
+  quan 
+  hệ. 
+Quan 
+  hệ 
+  (:) 
+§Theo 
+  thuật 
+  ngữ 
+  của 
+  mô 
+  hình 
+  quan 
+  hệ: 
+	-Một 
+  bảng 
+  (như 
+  đã 
+  mô 
+  tả) 
+  gọi 
+  là 
+  một 
+  quan 
+  hệ 
+  (relation). 
+-Mỗi 
+  dòng 
+  dữ 
+  liệu 
+  gọi 
+  là 
+  một 
+  bộ 
+  (tuple). 
+-Mỗi 
+  tiêu 
+  đề 
+  cột 
+  gọi 
+  là 
+  một 
+  thuộc 
+  tính 
+  (attribute). 
+-Tập 
+  hợp 
+  các 
+  giá 
+  trị 
+  mà 
+  một 
+  thuộc 
+  tính 
+  có 
+  thể 
+  nhận 
+  lấy, 
+  gọi 
+  là 
+  miền 	giá 
+  trị 
+  (domain) 
+  của 
+  thuộc 
+  tính. 
+§VD: 
+  Quan 
+  hệ 
+  KHOA 
+  có 
+  4 
+  bộ, 
+  có 
+  7 
+  thuộc 
+  tính. 
+§Một 
+  bộ 
+  ~ 
+  Một 
+  thực 
+  thể 
+  hoặc 
+  một 
+  mối 
+  kết 
+  hợp; 
+ 
+   
+   
+   
+   
+  Quan 
+  hệ 
+  ~ 
+  Tập 
+  thực 
+  thể 
+  hoặc 
+  tập 
+  mối 
+  kết 
+  hợp 	© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 6 
+Miền 
+  giá 
+  trị 
+  của 
+  thuộc 
+  Anh 
+§Một 
+  miền 
+  giá 
+  trị 
+  D 
+  là 
+  một 
+  tập 
+  hợp 
+  các 
+  giá 
+  trị 
+  nguyên 
+  tố 
+  (atomic 	value). 
+-Giá 
+  trị 
+  nguyên 
+  tố 
+  là 
+  giá 
+  trị 
+  không 
+  thể 
+  chia 
+  nhỏ 
+  hơn. 
+§Để 
+  mô 
+  tả 
+  một 
+  miền 
+  giá 
+  trị 
+  D, 
+  người 
+  ta 
+  thường 
+  dùng 
+  kiểu 
+  dữ 
+  liệu 	và 
+  định 
+  dạng 
+  của 
+  các 
+  giá 
+  trị 
+  trong 
+  D. 
+-Ví 
+  dụ: 
+lKiểu 
+  dữ 
+  liệu: 
+  ký 
+  tự, 
+  chuỗi, 
+  số 
+  nguyên, 
+  số 
+  thực, 
+  … 
+lĐịnh 
+  dạng: 
+  (chuỗi) 
+  7 
+  ký 
+  số, 
+  (ngày 
+  tháng) 
+  có 
+  dạng 
+  dd/yy. 
+-Ví 
+  dụ: 
+  Miền 
+  giá 
+  trị 
+  của: 
+	lTÊNKHOA: 
+  tập 
+  hợp 
+  các 
+  chuỗi 
+  cho 
+  biết 
+  tên 
+  các 
+  khoa 
+  trong 
+  một 		trường 
+  đại 
+  học. 
+lMÃSV: 
+  tập 
+  hợp 
+  các 
+  chuỗi 
+  7 
+  ký 
+  số. 
+lĐIỂM: 
+  số 
+  thực 
+  thuộc 
+  [0, 
+  10] 
+  và 
+  chính 
+  xác 
+  đến 
+  0.5. 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	7 
+	Lược 
+  đồ 
+  quan 
+  hệ 
+§Một 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  (relation 
+  schema) 
+  R, 
+   
+  thể 
+  hiện 
+  bởi 
+  R(A1, 		A2, 
+  …, 
+  An), 
+  trong 
+  đó 
+  R 
+  là 
+  tên 
+  lược 
+  đồ 
+  quan 
+  hệ; 
+  A1, 
+  A2, 
+  …, 
+  An 
+  là 		các 
+  thuộc 
+  tính. 
+§Từng 
+  thuộc 
+  tính 
+  Ai 
+  nhận 
+  giá 
+  trị 
+  thuộc 
+  miền 
+  giá 
+  trị 
+  D 
+  tương 
+  ứng, 	ký 
+  hiệu 
+  là 
+  dom(Ai). 
+§Bậc 
+  (degree) 
+  của 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  là 
+  số 
+  lượng 
+  thuộc 
+  tính 
+  trong 	lược 
+  đồ. 
+§Ví 
+  dụ: 
+  KHOA(MÃKHOA, 
+  TÊNKHOA, 
+  NĂMTL, 
+  PHÒNG, 	ĐIỆNTHOAI, 
+  TRƯỞNGKHOA, 
+  NGÀYNHẬNCHỨC). 
+-KHOA 
+  là 
+  một 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  bậc 
+  7, 
+  mô 
+  tả 
+  tập 
+  các 
+  thực 
+  thể 	khoa. 
+-MÃKHOA 
+  là 
+  một 
+  thuộc 
+  tính 
+  có 
+  miền 
+  giá 
+  trị 
+  là 
+  chuỗi. 
+-NĂMTL 
+  là 
+  một 
+  thuộc 
+  tính 
+  có 
+  miền 
+  giá 
+  trị 
+  là 
+  số 
+  nguyên. 
+Quan 
+  hệ 
+§Một 
+  quan 
+  hệ 
+  r 
+  của 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  R(A1, 
+  A2, 
+  …, 
+  An), 
+  ký 
+  hiệu 
+  r(R), 
+  là: 
+-Một 
+  tập 
+  hợp 
+  các 
+  bộ 
+  r 
+  = 
+  {t1, 
+  t2, 
+  …, 
+  tm}, 
+  mỗi 
+  bộ 
+  t 
+  là 
+  một 
+  danh 
+  sách 
+  có 
+  thứ tự 
+  gồm 
+  n 
+  giá 
+  trị 
+  t 
+  = 
+  {v1, 
+  v2, 
+  …, 
+  vn} 
+-Trong 
+  đó, 
+  mỗi 
+  giá 
+  trị 
+  vi, 
+  1≤ 
+  i 
+  ≤n, 
+  thuộc 
+  dom(Ai) 
+  hoặc 
+  là 
+  giá 
+  trị 
+  rỗng (null). 
+  Giá 
+  trị 
+  rỗng 
+  mang 
+  ý 
+  nghĩa 
+  “chưa 
+  biết” 
+  hoặc 
+  “không 
+  tồn 
+  tại 
+  giá 
+trị 
+  đối 
+  với 
+  một 
+  thực 
+  thể 
+  cụ 
+  thể”. 
+§Nhận 
+  xét: 
+ 
+  r(R) 
+  ⊆ 
+  (dom(A1) 
+  × 
+  dom(A2) 
+  × 
+  … 
+  dom(An)) 
+§Giá 
+  trị 
+  thứ 
+  i 
+  của 
+  bộ 
+  t 
+  được 
+  đề 
+  cập 
+  đến 
+  bằng 
+  cách 
+  t[Ai] 
+  hoặc 
+  t[i]. 
+Lược 
+  đồ 
+  CSDL 
+§Một 
+  lược 
+  đồ 
+  CSDL 
+  gồm 
+  nhiều 
+  lược 
+  đồ 
+  quan 
+  hệ. §Ví 
+  dụ: 
+  Lược 
+  đồ 
+  CSDL: 
+ 
+  Quy 
+  ước 
+  cách 
+  ký 
+  hiệu 
+§Lược 
+  đồ 
+  quan 
+  hệ 
+  R 
+  bậc 
+  n 
+	-R(A1, 
+  A2, 
+  …, 
+  An) 
+	-R 
+  là 
+  tên 
+  lược 
+  đồ 
+  quan 
+  hệ 
+§Quan 
+  hệ 
+  (thể 
+  hiện 
+  quan 
+  hệ) 
+	-r, 
+  q, 
+  s 
+§Bộ 
+	-t, 
+  u, 
+  v 
+§Miền 
+  giá 
+  trị 
+  của 
+  thuộc 
+  tính 
+  A 
+	-Dom(A) 
+§Giá 
+  trị 
+  tại 
+  thuộc 
+  tính 
+  A 
+  của 
+  bộ 
+  thứ 
+  t 
+-t.A 
+  hay 
+  t[A] 
+Nội 
+  dung 
+  chi 
+  3ết 
+§Giới 
+  thiệu 
+§Các 
+  khái 
+  niệm 
+  của 
+  mô 
+  hình 
+  quan 
+  hệ
+§Một 
+  số 
+  khái 
+  niệm 
+  về 
+  khóa
+	-Siêu 
+  khóa 
+	-Khóa 
+	-Khóa 
+  chính 
+	-Tham 
+  chiếu 
+	-Khóa 
+  ngoại
+§Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ 
+§Chuyển 
+  lược 
+  đồ 
+  E/R 
+  sang 
+  thiết 
+  kế 
+  quan 
+  hệ 
+Siêu 
+  khóa 
+§Các 
+  bộ 
+  trong 
+  quan 
+  hệ 
+  phải 
+  khác 
+  nhau 
+  từng 
+  đôi 
+  một 
+§Siêu 
+  khóa 
+  (Super 
+  Key) 
+	-Gọi 
+  SK 
+  là 
+  một 
+  tập 
+  con 
+  khác 
+  rỗng 
+  các 
+  thuộc 
+  tính 
+  của 
+  R 
+	-SK 
+  là 
+  siêu 
+  khóa 
+  khi 
+			∀r, 
+  ∀t1, 
+  t2 
+  ∈ 
+  r, 
+  t1 
+  ≠ 
+  t2 
+  ⇒ 
+  t1[SK] 
+  ≠ 
+  t2[SK] 
+	-Siêu 
+  khóa 
+  là 
+  tập 
+  các 
+  thuộc 
+  tính 
+  dùng 
+  để 
+  xác 
+  định 
+  tính 
+  duy 
+  nhất 
+  mỗi 		bộ 
+  trong 
+  quan 
+  hệ 
+	-Mọi 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  có 
+  tối 
+  thiểu 
+  một 
+  siêu 
+  khóa 
+§Ví 
+  dụ: 
+KHOA(MÃKHOA, 
+  TÊNKHOA, 
+  NĂMTL, 
+  PHÒNG, 
+  ĐIỆNTHOẠI, 
+  NGÀYNHẬN 
+  CHỨC) 	-{MÃKHOA, 
+  TÊNKHOA} 
+  là 
+  một 
+  siêu 
+  khóa. 
+-Tập 
+  hợp 
+  gồm 
+  tất 
+  cả 
+  các 
+  thuộc 
+  tính 
+  của 
+  quan 
+  hệ 
+  là 
+  một 
+  siêu 
+  khóa. 
+Khóa 
+§Định 
+  nghĩa 
+-Gọi 
+  K 
+  là 
+  một 
+  tập 
+  con 
+  khác 
+  rỗng 
+  các 
+  thuộc 
+  tính 
+  của 
+  R -K 
+  là 
+  khóa 
+  nếu 
+  thỏa 
+  đồng 
+  thời 
+  2 
+  điều 
+  kiện 
+§Nhận 
+  xét 
+	-Khóa 
+  là 
+  siêu 
+  khóa 
+  có 
+  số 
+  thuộc 
+  tính 
+  ít 
+  nhất 
+	-Giá 
+  trị 
+  của 
+  khóa 
+  dùng 
+  để 
+  nhận 
+  biết 
+  một 
+  bộ 
+  trong 
+  quan 
+  hệ 	-Khóa 
+  là 
+  một 
+  đặc 
+  trưng 
+  của 
+  lược 
+  đồ 
+  quan 
+  hệ, 
+  không 
+  phụ 
+  thuộc 		vào 
+  thể 
+  hiện 
+  quan 
+  hệ 
+	-Khóa 
+  được 
+  xây 
+  dựng 
+  dựa 
+  vào 
+  ý 
+  nghĩa 
+  của 
+  một 
+  số 
+  thuộc 
+  tính 		trong 
+  quan 
+  hệ 
+	-Một 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  có 
+  thể 
+  có 
+  nhiều 
+  khóa 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	14 
+	Khóa 
+  chính 
+§Một 
+  lược 
+  đồ 
+  quan 
+  hệ 
+  có 
+  thể 
+  có 
+  nhiều 
+  khóa. 
+§Khi 
+  cài 
+  đặt 
+  quan 
+  hệ 
+  thành 
+  bảng 
+  (table) 
+	-Chọn 
+  1 
+  khóa 
+  làm 
+  cơ 
+  sở 
+  để 
+  nhận 
+  biết 
+  các 
+  bộ 
+		lNên 
+  chọn 
+  khóa 
+  có 
+  ít 
+  thuộc 
+  tính 
+  hơn 
+	-Khóa 
+  đã 
+  chọn 
+  được 
+  gọi 
+  là 
+  khóa 
+  chính 
+  (PK 
+  -­‐ 
+  primary 
+  key) 
+	-Các 
+  thuộc 
+  tính 
+  khóa 
+  chính 
+  phải 
+  có 
+  giá 
+  trị 
+  khác 
+  null 
+§Thể 
+  hiện 
+  khóa 
+  chính 
+  bằng 
+  cách 
+  gạch 
+  dưới 
+KHOA(MÃKHOA, 
+  TÊNKHOA, 
+  NĂMTL, 
+  PHÒNG, 
+  ĐIỆNTHOẠI, 
+  NGÀYNHẬN 
+  CHỨC) 
+Tham 
+  chiếu 
+§Một 
+  bộ 
+  trong 
+  quan 
+  hệ 
+  R, 
+  tại 
+  thuộc 
+  tính 
+  A 
+  nếu 
+  nhận 
+  một 
+  giá 	trị 
+  từ 
+  một 
+  thuộc 
+  tính 
+  B 
+  của 
+  quan 
+  hệ 
+  S, 
+  ta 
+  gọi 
+  R 
+  tham 
+  chiếu 
+  S 		-Bộ 
+  được 
+  tham 
+  chiếu 
+  phải 
+  tồn 
+  tại 
+  trước 
+Khóa 
+  ngoại 
+§Cho 
+  2 
+  lược 
+  đồ 
+  quan 
+  hệ: 
+			R1(A1, 
+  A2, 
+  …, 
+  An) 
+  và 
+			R2(B1, 
+  B2, 
+  … 
+  Bm) 
+Giả 
+  sử 
+  PK 
+  ⊆ 
+  {A1, 
+  …,An} 
+  và 
+  là 
+  khoá 
+  chính 
+  của 
+  R1, 
+  FK 
+  ⊆ 
+  {B1, 
+  …,Bn} 
+§Tập 
+  FK 
+  là 
+  khóa 
+  ngoại 
+  của 
+  R2 
+  nếu 
+  và 
+  chỉ 
+  nếu: 
+	1. 	Các 
+  thuộc 
+  tính 
+  thuộc 
+  tập 
+  FK 
+  tương 
+  ứng 
+  có 
+  cùng 
+  miền 
+  giá 
+  trị 
+  với 
+  các 
+  thuộc 		tính 
+  trong 
+  tập 
+  PK. 
+Khóa ngoại 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 
+Khóa 
+  ngoại 
+  (:) 
+§Nhận 
+  xét 
+-Trong 
+  một 
+  lược 
+  đồ 
+  quan 
+  hệ, 
+  một 
+  thuộc 
+  tính 
+  vừa 
+  có 
+  thể 
+  tham 	gia 
+  vào 
+  khóa 
+  chính, 
+  vừa 
+  tham 
+  gia 
+  vào 
+  khóa 
+  ngoại 
+-Khóa 
+  ngoại 
+  có 
+  thể 
+  tham 
+  chiếu 
+  đến 
+  khóa 
+  chính 
+  trên 
+  cùng 
+  1 	lược 
+  đồ 
+  quan 
+  hệ 
+-Có 
+  thể 
+  có 
+  nhiều 
+  khóa 
+  ngoại 
+  tham 
+  chiếu 
+  đến 
+  cùng 
+  một 
+  khóa 	chính 
+-Ràng 
+  buộc 
+  tham 
+  chiếu 
+  = 
+  Ràng 
+  buộc 
+  khóa 
+  ngoại 
+	Khóa 
+  ngoại 
+  (:) 
+GIÁOVIÊN 
+GV_DT 
+MãGV ĐiệnThoại 
+			BỘMÔN 
+KHOA 
+ĐỀTÀI 
+THAMGIAĐT 
+Nội 
+  dung 
+  chi 
+  3ết 
+§Giới 
+  thiệu 
+§Các 
+  khái 
+  niệm 
+  của 
+  mô 
+  hình 
+  quan 
+  hệ
+§Một 
+  số 
+  khái 
+  niệm 
+  về 
+  khóa
+§Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ
+§Chuyển 
+  lược 
+  đồ 
+  E/R 
+  sang 
+  thiết 
+  kế 
+  quan 
+  hệ 
+Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ 
+§Thứ 
+  tự 
+  các 
+  bộ 
+  trong 
+  quan 
+  hệ 
+  là 
+  không 
+  quan 
+  trọng 
+§Thứ 
+  tự 
+  giữa 
+  các 
+  giá 
+  trị 
+  trong 
+  một 
+  bộ 
+  là 
+  quan 
+  trọng 
+Bộ <HTTT, Hệ thống thông tin , B13, 0838125125, 002, CNTT, 20/09/2004> 		khác 
+	Bộ <HTTT, Hệ thống thông tin , B13, 0838125125, CNTT, 002, 20/09/2004> 
+Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ 
+  (:) §Mỗi 
+  giá 
+  trị 
+  trong 
+  một 
+  bộ 
+	-Hoặc 
+  là 
+  một 
+  giá 
+  trị 
+  nguyên 
+  tố 
+	-Hoặc 
+  là 
+  một 
+  giá 
+  trị 
+  rỗng 
+  (null) 
+§Không 
+  có 
+  bộ 
+  nào 
+  trùng 
+  nhau 
+Nội 
+  dung 
+  chi 
+  3ết 
+§Giới 
+  thiệu 
+§Các 
+  khái 
+  niệm 
+  của 
+  mô 
+  hình 
+  quan 
+  hệ
+§Một 
+  số 
+  khái 
+  niệm 
+  về 
+  khóa
+§Các 
+  đặc 
+  trưng 
+  của 
+  quan 
+  hệ 
+§Chuyển 
+  lược 
+  đồ 
+  E/R 
+  sang 
+  thiết 
+  kế 
+  quan 
+  hệ 
+-Các 
+  qui 
+  tắc 
+  chuyển 
+  đổi 
+	Tập 
+  thực 
+  thể
+§Với 
+  mỗi 
+  tập 
+  thực 
+  thể 
+  (trừ 
+  tập 
+  thực 
+  thể 
+  yếu), 
+  tạo 
+  một 
+  quan 
+  hệ 		tương 
+  ứng: 
+			-Tên 
+  quan 
+  hệ 
+  là 
+  tên 
+  của 
+  tập 
+  thực 
+  thể 
+-(Các) 
+  thuộc 
+  tính 
+  của 
+  quan 
+  hệ 
+  là 
+  (các) 
+  thuộc 
+  tính 
+  đơn 
+  của 
+  tập 
+thực 
+  thể 
+  (ngoại 
+  trừ 
+  thuộc 
+  tính 
+  kết 
+  hợp 
+  và 
+  đa 
+  trị)
+MÃBM
+ĐIỆNTHOẠI
+ĐƯỜNG
+QUẬN
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	24 
+Tập 
+  thực 
+  thể: 
+  Thuộc 
+  Anh 
+  kết 
+  hợp 
+Tùy 
+  thực 
+  tế, 
+  có 
+  thể 
+  có 
+  2 
+  trường 
+  hợp: 
+§TH1: 
+  Một 
+  thuộc 
+  tính 
+  kết 
+  hợp 
+  được 
+  chuyển 
+  thành 
+  một 
+  thuộc 	tính 
+  đơn 
+  bình 
+  thường.
+ĐƯỜNG 
+	QUẬN
+GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, ĐỊA CHỈ) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	25 
+Tập 
+  thực 
+  thể: 
+  Thuộc 
+  Anh 
+  kết 
+  hợp 
+  (:) 
+§TH2: 
+  Một 
+  thuộc 
+  tính 
+  kết 
+  hợp 
+  được 
+  chuyển 
+  thành 
+  một 
+  tập 
+  các 		thuộc 
+  đơn 
+  cấu 
+  thành 
+  nên 
+  thuộc 
+  tính 
+  kết 
+  hợp 
+  đó.
+ĐƯỜNG
+ĐƯỜNG
+QUẬN
+GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	26 
+Tập 
+  thực 
+  thể: 
+  Thuộc 
+  Anh 
+  đa 
+  trị 
+§Với 
+  mỗi 
+  thuộc 
+  tính 
+  đa 
+  trị, 
+  tạo 
+  một 
+  quan 
+  hệ 
+  mới 
+  có 
+  các 
+  thuộc tính 
+  gồm 
+  thuộc 
+  tính 
+  khóa 
+  chính 
+  của 
+  quan 
+  hệ 
+  và 
+  thuộc 
+  tính đa 
+  trị 
+  đó. 
+-Khóa 
+  chính 
+  của 
+  quan 
+  hệ 
+  vừa 
+  tạo: 
+  hoặc 
+  là 
+  thuộc 
+  tính 
+  đa 
+  trị 
+  đó 	hoặc 
+  là 
+  khóa 
+  chính 
+  quan 
+  hệ 
+  và 
+  thuộc 
+  tính 
+  đa 
+  trị.
+MÃ GV
+LƯƠNG
+PHÁI
+GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	27 
+Tập 
+  thực 
+  thể 
+  yếu
+§Với 
+  mỗi 
+  tập 
+  thực 
+  thể 
+  yếu, 
+  tạo 
+  một 
+  quan 
+  hệ 
+  tương 
+  ứng 
+  có: 	-Tên 
+  trùng 
+  với 
+  tên 
+  của 
+  tập 
+  thực 
+  thể 
+  yếu. 
+-Các 
+  thuộc 
+  tính 
+  ứng 
+  với 
+  các 
+  thuộc 
+  tính 
+  đơn 
+  của 
+  tập 
+  thực 
+  thể 
+  yếu. 
+-Thêm 
+  vào 
+  thuộc 
+  tính 
+  khóa 
+  của 
+  quan 
+  hệ 
+  ứng 
+  với 
+  tập 
+  thực 
+  thể 
+  liên 	quan. 
+-Khóa 
+  của 
+  quan 
+  hệ 
+  là 
+  kết 
+  hợp 
+  khóa 
+  yếu 
+  của 
+  tập 
+  thực 
+  thể 
+  yếu 
+  và 
+  khóa 	chính 
+  của 
+  quan 
+  hệ 
+  ứng 
+  với 
+  tập 
+  thực 
+  thể 
+  liên 
+  quan. 
+		TÊNĐT SốTT NGÀYBĐ
+		KINHPHÍ
+			CẤPQL
+ĐỀTÀI (MÃĐT, TÊNĐT, KINHPHÍ, CẤPQL, NGÀYBĐ, NGÀYKT) CÔNGVIỆC (MÃĐT, STT, TÊNCV, NGÀYBĐ, NGÀYKT) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	28 
+Tập 
+  mối 
+  kết 
+  hợp 
+  1-­‐n 
+§Thêm 
+  vào 
+  quan 
+  hệ 
+  ứng 
+  với 
+  phía 
+  một 
+  tập 
+  thuộc 
+  tính 
+  khóa 		của 
+  quan 
+  hệ 
+  ứng 
+  với 
+  phía 
+  nhiều.
+MÃBM
+ĐIỆNTHOẠI
+ĐỊA CHỈ
+ĐƯỜNG
+QUẬN
+GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ, MÃBM) 
+BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	29 
+	Tập 
+  mối 
+  kết 
+  hợp 
+  1-­‐1 
+§Gọi 
+  S 
+  là 
+  quan 
+  hệ 
+  ứng 
+  với 
+  tập 
+  thực 
+  thể 
+  tham 
+  gia 
+  toàn 
+  phần 
+  vào 	tập 
+  mối 
+  kết 
+  hợp, 
+  T 
+  là 
+  quan 
+  hệ 
+  ứng 
+  với 
+  tập 
+  thực 
+  thể 
+  tham 
+  gia 	bán 
+  phần: 
+			-Thêm 
+  vào 
+  S 
+  khóa 
+  chính 
+  của 
+  T. 
+-Ghi 
+  chú: 
+  Nếu 
+  các 
+  tập 
+  thực 
+  thể 
+  đều 
+  tham 
+  gia 
+  toàn 
+  phần 
+  thì 
+  vai 	trò 
+  S 
+  (T) 
+  tùy 
+  ý. 
+MÃBM
+ĐIỆNTHOẠI
+QUẬN
+Thuộc 
+  Anh 
+  riêng 
+  của 
+  tập 
+  mối 
+  kết 
+  hợp (trừ 
+  tập 
+  mối 
+  kết 
+  hợp 
+  n-­‐n) 
+§Thuộc 
+  tính 
+  riêng 
+  của 
+  tập 
+  mối 
+  kết 
+  hợp 
+  (1-­‐1 
+  hoặc 
+  1-­‐n) 
+  trở 
+  thành thuộc 
+  tính 
+  của 
+  S. 
+MÃBM
+ĐIỆNTHOẠI
+QUẬN
+Tập 
+  mối 
+  kết 
+  hợp 
+  n-­‐n 
+§Với 
+  mỗi 
+  tập 
+  mối 
+  kết 
+  hợp 
+  n-­‐n, 
+  tạo 
+  một 
+  quan 
+  hệ 
+  mới 
+  có: 
+-Tên 
+  quan 
+  hệ 
+  là 
+  tên 
+  của 
+  tập 
+  mối 
+  kết 
+  hợp. 
+-Thuộc 
+  tính 
+  gồm 
+  những 
+  thuộc 
+  tính 
+  khóa 
+  của 
+  các 
+  quan 
+  hệ 
+  ứng 
+  với các 
+  tập 
+  thực 
+  thể 
+  liên 
+  quan, 
+  và 
+  thuộc 
+  tính 
+  riêng 
+  của 
+  mối 
+  kết 
+  hợp (nếu 
+  có). 
+-Khóa 
+  là 
+  kết 
+  hợp 
+  các 
+  khóa 
+  của 
+  các 
+  quan 
+  hệ 
+  ứng 
+  với 
+  các 
+  tập 
+  thực 
+  thể 	tham 
+   
+  gia 
+  vào 
+  mối 
+  kết 
+  hợp. 
+NGÀYSINH
+LƯƠNG
+ĐỊA CHỈ
+Thời gian
+Họ tên
+	Điện thoại có
+Ngày bắt đầu 
+Ngày kết thúc
+Tên quốc gia 
+Lục địa
+Tên biển
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 2
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 3
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 5
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 8
+t1 
+t2 
+t3 
+t4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 9
+GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ, GVQLCM, MÃBM)
+GV_ĐT (MÃGV, ĐIỆNTHOẠI)
+BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI, TRƯỞNGBM, MÃKHOA, NGÀYNHẬNCHỨC)
+KHOA (MÃKHOA, TÊNKHOA, NĂMTL, PHÒNG, ĐIỆNTHOAI, TRƯỞNGKHOA, NGÀYNHẬNCHỨC)
+ĐỀTÀI (MÃĐT, TÊNĐT, KINHPHÍ, CẤPQL, NGÀYBĐ, NGÀYKT, MÃCĐ, GVCNĐT)
+CHỦĐỀ (MÃCĐ, TÊNCĐ)
+CÔNGVIỆC (MÃĐT, STT, TÊNCV, NGÀYBĐ, NGÀYKT)
+THAMGIAĐT(MÃGV, MÃĐT, STT, PHỤCẤP, KẾTQUẢ) 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 10
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 11
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 12
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 13
+1. 
+2. | K 
+  là 
+  một 
+  siêu 
+  khóa 
+  của 
+  R 
+∀ 
+  K’ 
+  ⊂ 
+  K, 
+  K’ 
+  ≠ 
+  K, 
+  K’ 
+  không 
+  phải 
+  là 
+  siêu 
+  khóa 
+  của 
+  R.
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 15
+TÊNKHOA | TÊNKHOA | TÊNKHOA | TÊNKHOA | TÊNKHOA | MÃKHOA | ĐiỆNTHOẠI | MÃKHOA | 16
+S | S | S | S | CNTT | 5 | ĐiỆNTHOẠI | MÃKHOA | 16
+VL | VL | VL | VL | VL | 4 | ĐiỆNTHOẠI | MÃKHOA | 16
+TOÁN | TOÁN | TOÁN | TOÁN | TOÁN | 1 | ĐiỆNTHOẠI | MÃKHOA | 16
+MÃBM | MÃBM | MÃBM | TÊNBM | TÊNBM | PHÒNG | ĐiỆNTHOẠI | MÃKHOA | 16
+HTTT | HTTT | Hệ thống thông tin | Hệ thống thông tin | Hệ thống thông tin | I84 | 838125125 | 5 | 16
+R | CNPM | Công nghệ phần mềm | Công nghệ phần mềm | Công nghệ phần mềm | I82 | 838126126 | 4 | 16
+VLDT | VLDT | Vật lý điện tử | Vật lý điện tử | Vật lý điện tử | F203 | 838127127 | 4 | 16
+VLƯD | VLƯD | Vật lý ứng dụng | Vật lý ứng dụng | Vật lý ứng dụng | F205 | 838128128 | 5 | 16
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | F205 | 838128128 | 5 | 16
+2. | Với 
+  mọi 
+  bộ 
+  t2 
+  của 
+  R2, 
+  luôn 
+  tồn 
+  tại 
+  1 
+  bộ 
+  t1 
+  thuộc 
+  R1 
+  sao 
+  cho 
+  t2[FK] 
+   
+  = 
+  t1[PK].
+BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI, TRƯỞNGBM, MÃKHOA, NGÀYNHẬNCHỨC) 
+
+KHOA (MÃKHOA, TÊNKHOA, NĂMTL, PHÒNG, ĐIỆN THOẠI, TRƯỞNGKHOA, NGÀYNHẬNCHỨC) 
+Khóa chính
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 18
+MãGV | HọTên | Lương | Phái | NgàySinh | SốNhà | Đường | Quận | ThànhPhố | GVQL | MãBM
+MãKhoa | TrưởngBM | NgàyNhậnChức | ĐiệnThoại | MãBM | TênBM | Phòng
+TrưởngKhoa | NgàyNhậnChức | TênKhoa | NămTL | Phòng | ĐiệnThoại | MãKhoa
+GVCNĐT | MãĐT | TênĐT | KinhPhí | KinhPhí | CấpQL | CấpQL | NgàyBĐ | NgàyBĐ | NgàyKT | MãCĐ | TênCĐ
+GVCNĐT | MãĐT | CÔNGVIỆC | CÔNGVIỆC | CÔNGVIỆC | CÔNGVIỆC | CÔNGVIỆC | CÔNGVIỆC | CÔNGVIỆC | CÔNGVIỆC | CHỦĐỀ | TênCĐ
+GVCNĐT | MãĐT | MãĐT | STT | TênCV | TênCV | NgàyBĐ | NgàyBĐ | NgàyKT | NgàyKT | MãCĐ | TênCĐ
+MãGV | MãĐT | STT | PhụCấp | KếtQuả | 19
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 19
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 20
+CNTT 
+MMT 
+VLĐC 
+MãBM 
+HTTT
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 21
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 22
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 23
+LƯƠNG | HỌTÊN | MÃ GV | TÊNBM
+PHÁI | NGÀYSINH | PHÒNG
+ĐIỆNTHOẠI
+SỐNHÀ | GIÁO VIÊN | (1,1) | Làm_việc | (1,n) | BỘ MÔN
+ĐIỆNTHOẠI
+SỐNHÀ | ĐỊA CHỈ | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH) | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH) | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH) | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH)
+ĐIỆNTHOẠI
+SỐNHÀ | THÀNHPHỐ | BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI) | BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI) | BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI) | BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI)
+MÃ GV | MÃ GV
+HỌTÊN | ĐIỆNTHOẠI | NGÀYSINH | HỌTÊN | ĐIỆNTHOẠI | NGÀYSINH
+LƯƠNG | GIÁO VIÊN | NGÀYSINH | LƯƠNG | GIÁO VIÊN | NGÀYSINH
+PHÁI | ĐỊA CHỈ | NGÀYSINH | PHÁI | ĐỊA CHỈ | NGÀYSINH
+SỐNHÀ | THÀNHPHỐ | NGÀYSINH | PHÁI | ĐỊA CHỈ | NGÀYSINH
+MÃ GV | MÃ GV
+HỌTÊN | ĐIỆNTHOẠI | NGÀYSINH | HỌTÊN | SỐNHÀ | ĐIỆNTHOẠI
+LƯƠNG | GIÁO VIÊN | NGÀYSINH | LƯƠNG | SỐNHÀ | NGÀYSINH
+LƯƠNG | GIÁO VIÊN | NGÀYSINH | LƯƠNG | SỐNHÀ | GIÁO VIÊN
+PHÁI | ĐỊA CHỈ | NGÀYSINH | PHÁI | SỐNHÀ | THÀNHPHỐ
+SỐNHÀ | THÀNHPHỐ | QUẬN
+HỌTÊN | ĐIỆNTHOẠI | NGÀYSINH | ĐIỆNTHOẠI (SốĐT, MÃGV)
+HỌTÊN | ĐIỆNTHOẠI | NGÀYSINH | hoặc
+GIÁO VIÊN | ĐIỆNTHOẠI (SốĐT, MÃGV)
+TÊNCV | NGÀYKT | NGÀYKT | NGÀYBĐ | MÃĐT
+CÔNG VIỆC | (1,1) | gồm | (0,n) | ĐỀ TÀI
+LƯƠNG | HỌTÊN | MÃ GV | TÊNBM
+PHÁI | NGÀYSINH | PHÒNG
+ĐIỆNTHOẠI | GIÁO VIÊN | (1,1) | Làm_việc | (1,n) | BỘ MÔN
+SỐNHÀ | THÀNHPHỐ
+LƯƠNG | HỌTÊN | MÃ GV | TÊNBM
+PHÁI | NGÀYSINH | PHÒNG
+ĐIỆNTHOẠI | GIÁO VIÊN | (1,1) | Làm_việc | (1,n) | BỘ MÔN
+ĐỊA CHỈ | (0,1) | (1,1) | Là_Trưởng_ | (1,1) | (1,1)
+ĐỊA CHỈ | (0,1) | (1,1) | BM | (1,1) | (1,1)
+SỐNHÀ | THÀNHPHỐ | (1,1) | BM | NGÀY NHẬN | NGÀY NHẬN
+ĐƯỜNG | THÀNHPHỐ | (1,1) | BM | CHỨC | CHỨC
+T 
+S | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ, MÃBM) BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI, TRƯỞNGBM) | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ, MÃBM) BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI, TRƯỞNGBM)
+T 
+S | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 30
+LƯƠNG | HỌTÊN | MÃ GV | TÊNBM
+PHÁI | NGÀYSINH | PHÒNG
+ĐIỆNTHOẠI | GIÁO VIÊN | (1,1) | Làm_việc | (1,n) | BỘ MÔN
+ĐỊA CHỈ | GIÁO VIÊN | (1,1) | Là_Trưởng_ | (1,n) | BỘ MÔN
+ĐỊA CHỈ | (0,1) | (1,1) | Là_Trưởng_ | (1,1) | (1,1)
+ĐỊA CHỈ | (0,1) | (1,1) | BM | (1,1) | (1,1)
+SỐNHÀ | THÀNHPHỐ | (1,1) | BM | NGÀY NHẬN | NGÀY NHẬN
+ĐƯỜNG | THÀNHPHỐ | (1,1) | BM | CHỨC | CHỨC
+T 
+S | GIÁOVIÊN (MÃGV, HỌTÊN, LƯƠNG, PHÁI, NGÀYSINH, SỐNHÀ, ĐƯỜNG, QUẬN, THÀNHPHỐ, MÃBM) BỘMÔN (MÃBM, TÊNBM, PHÒNG, ĐIỆNTHOẠI, TRƯỞNGBM, NGÀYNHẬNCHỨC)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 31
+HỌTÊN | MÃ GV | ĐIỆNTHOẠI | SốTT | TÊNCV | NGÀYKT
+HỌTÊN | MÃ GV | ĐIỆNTHOẠI | SốTT | TÊNCV | NGÀYBĐ
+PHÁI | GIÁO VIÊN | (0,n) | PHỤCẤP | KẾTQUẢ | CÔNG VIỆC
+PHÁI | GIÁO VIÊN | (0,n) | Tham_gia | KẾTQUẢ | (0,n)
+SỐNHÀ | THÀNHPHỐ | CHỦĐỀ (MÃCĐ, TÊNCĐ) 
+CÔNGVIỆC (MÃĐT, STT, TÊNCV, NGÀYBĐ, NGÀYKT) THAMGIA(MÃGV, MÃĐT, STT, PHỤCẤP, KẾTQUẢ) 	32
+ĐƯỜNG 
+QUẬN
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | ĐƯỜNG 
+QUẬN
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | CHỦĐỀ (MÃCĐ, TÊNCĐ) 
+CÔNGVIỆC (MÃĐT, STT, TÊNCV, NGÀYBĐ, NGÀYKT) THAMGIA(MÃGV, MÃĐT, STT, PHỤCẤP, KẾTQUẢ) 	32
+Bài 
+  tập | Vĩ tuyến | Kinh tuyến | Ngày
+Lịch sử di chuyển | Giờ | Mã chủ tàu
+(1,1) | Chủ tàu
+Mã tàu | (0,n) | sở hữu | Mã loại | Tải trọng | Vỏ tàu
+Mã tàu | Tàu | thuộc loại | Mã loại | Loại tàu | Vỏ tàu
+thuộc | cập bến | (1,1) | NGƯỜITHÂN
+Tên cảng | NGƯỜITHÂN | trong | Quốc gia
+trên | (0,n) | Vùng biển | 33
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | (0,n) | Vùng biển | 33

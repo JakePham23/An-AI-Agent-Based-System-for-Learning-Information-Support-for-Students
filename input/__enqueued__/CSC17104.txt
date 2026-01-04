@@ -1,0 +1,76 @@
+# COURSE: Lập trình cho khoa học dữ liệu (CSC17104)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC17104
+- **English Name**: Programming for Data Science
+- **Vietnamese Name**: Lập trình cho khoa học dữ liệu
+- **Responsible Person**: for the module: Trần Trung Kiên
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to the course; how to use tools in general
+- Linux commands, Conda
+- Git & Github
+- Jupyter Notebook, Markdown
+- Python
+- Numpy
+- Pandas, Matplotlib
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Data Science from Scratch: First Principles with Python,Joel Grus,2019,O'Reilly Media
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Use Linux commands and Conda to set up the working environment.
+- G2.Use Python with built-in libraries to perform a data science process.
+- G3.Use Python with the Numpy library to perform a data science process with numerical data.
+- G4.Use Python with the Pandas library to perform a data science process with tabular data.
+- G5.Use Python with the Matplotlib library to visualize data.
+- G6.Use Jupyter Notebook and writing skills to document the whole data science process.
+- G7.Use Git, Github, and teamwork skills to control versions and collaborate with others.
+• Content:
+- Introduction to the course; how to use tools in general
+- Linux commands, Conda
+- Git & Github
+- Jupyter Notebook, Markdown
+- Python
+- Numpy
+- Pandas, Matplotlib
+• Examination forms: Final examination, Homework, Research Project, Group work
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Science from Scratch: First Principles with Python,Joel Grus,2019,O'Reilly Media
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Science from Scratch: First Principles with Python,Joel Grus,2019,O'Reilly Media
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Science from Scratch: First Principles with Python,Joel Grus,2019,O'Reilly Media
+
+## READING MATERIALS
+- [1]Data Science from Scratch: First Principles with Python,Joel Grus,2019,O'Reilly Media

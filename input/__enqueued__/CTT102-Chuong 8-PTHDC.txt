@@ -1,0 +1,2352 @@
+CHƯƠNG 
+  8
+Phụ 
+  thuộc 
+  hàm 
+  và 
+  dạng 
+  chuẩn (Func:onal 
+  Dependencies 
+  & Normal 
+  Form) 
+Slide 
+  bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+  chi 
+  :ết 
+§Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ §Sự 
+  trùng 
+  lắp 
+  thông 
+  tin 
+§Phụ 
+  thuộc 
+  hàm 
+§Luật 
+  dẫn 
+  Armstrong 
+§Các 
+  dạng 
+  chuẩn 
+Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ 
+các 
+  ứng 
+  dụng 
+  cụ 
+  thể. 
+hiệu 
+  năng: 
+  thời 
+  gian 
+  hồi 
+  đáp, 
+Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ 
+§Một 
+  lược 
+  đồ 
+  CSDL 
+  thiết 
+  kế 
+  tốt 
+  được 
+  thể 
+  hiện: 
+	-Ngữ 
+  nghĩa 
+  của 
+  quan 
+  hệ, 
+  thuộc 
+  tính 
+  được 
+  thể 
+  hiện 
+  rõ 
+  ràng 	-Các 
+  thuộc 
+  tính 
+  trên 
+  quan 
+  hệ 
+  không 
+  được 
+  trùng 
+  lắp 
+	-Giảm 
+  trùng 
+  lắp 
+  giữa 
+  các 
+  bộ 
+  trên 
+  một 
+  quan 
+  hệ 
+  (dư 
+  thừa 
+  thông 		tin) 
+	-Giảm 
+  giá 
+  trị 
+  rỗng 
+  (Null) 
+  trên 
+  các 
+  quan 
+  hệ. 
+§Lược 
+  đồ 
+  thiết 
+  kế 
+  trùng 
+  lắp 
+  thông 
+  tin 
+  dẫn 
+  đến: 	-Tốn 
+  không 
+  gian 
+  lưu 
+  trữ 
+	-Dị 
+  thường 
+  khi 
+  thực 
+  hiện 
+  các 
+  phép 
+  cập 
+  nhật 
+  dữ 
+  liệu §Kiểm 
+  tra 
+  lược 
+  đồ 
+  tốt 
+  hay 
+  xấu? 
+-Bằng 
+  kinh 
+  nghiệm 
+-Bằng 
+  tiêu 
+  chuẩn 
+  dạng 
+  chuẩn 
+Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ 
+§Các bước cơ bản của thiết kế csdl ở mức quan niệm: 	-Thiết kế mô hình DL ở mức quan niệm (ER). 
+-Chuyển mô hình DL mức quan niệm sang mức logic 	(chuyển mô hình ER sang mô hình DL quan hệ). 
+-Với mỗi quan hệ, xác định tập PTH nhận diện. 
+-Nâng chuẩn của 1 lược đồ quan hệ bằng cách tách lược đồ để loại bỏ PTH không đầy đủ hoặc PTH bắc cầu vào khóa chính của lược đồ. 
+-Đánh giá chất lượng của lược đồ qua mỗi lần nâng chuẩn 	bằng tiêu chí dạng chuẩn 
+Nội 
+  dung 
+  chi 
+  :ết 
+§Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ 
+§Sự 
+  dư 
+  thừa 
+  thông 
+  tin 
+§Phụ 
+  thuộc 
+  hàm 
+§Luật 
+  dẫn 
+  Armstrong 
+§Các 
+  dạng 
+  chuẩn 
+Sự 
+  dư 
+  thừa 
+  thông 
+  :n 
+	§Khi 
+  một 
+  phần 
+  của 
+  dữ 
+  liệu 
+  có 
+  thể 
+  suy 
+  ra 
+  từ 
+  một 
+  số 
+  thành 
+  phần 		phần 
+  dữ 
+  liệu 
+  khác 
+  thì 
+  ta 
+  nói 
+  có 
+  sự 
+  trùng 
+  lắp 
+  dữ 
+  liệu. 
+Dư thừa! 
+Sự 
+  dư 
+  thừa 
+  thông 
+  tin: 
+   
+  Thông 
+  tin 
+  về 
+  tên 
+  phòng 
+  và 
+  người 
+  trưởng 
+  phòng 
+  lặp 
+  lại 
+nhiều 
+  lần 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	7 
+Sự 
+  dư 
+  thừa 
+  thông 
+  :n 
+§Các 
+  dị 
+  thường 
+  khi 
+  thực 
+  hiện 
+  thao 
+  tác 
+  cập 
+  nhật: 
+-Thêm: 
+  Thêm 
+  1 
+  giáo 
+  viên 
+  thì 
+  phải 
+  thêm 
+  thông 
+  tin 
+  bộ 
+  môn 
+  hoặc 
+  phải để 
+  giá 
+  trị 
+  cho 
+  các 
+  thuộc 
+  tính 
+  liên 
+  quan 
+  đến 
+  bộ 
+  môn 
+  là 
+  Null. 
+  Không 
+  thể thêm 
+  1 
+  bộ 
+  môn 
+  mới 
+  mà 
+  chưa 
+  có 
+  giáo 
+  viên 
+  nào 
+  thuộc 
+  về 
+  bộ 
+  môn 
+  đó. 
+-Sửa: 
+  khi 
+  sửa 
+  thông 
+  tin 
+  bộ 
+  môn, 
+  thì 
+  phải 
+  sửa 
+  đến 
+  tất 
+  cả 
+  các 
+  bộ 
+  liên 	quan 
+  nếu 
+  không 
+  sẽ 
+  dẫn 
+  tới 
+  trình 
+  trạng 
+  không 
+  nhất 
+  quán. 
+-Xóa: 
+  có 
+  thể 
+  bị 
+  mất 
+  thông 
+  tin. 
+  Xem 
+  xét 
+  khi 
+  xóa 
+  giáo 
+  viên 
+  có 
+  mã 
+  006? 
+Sự 
+  dư 
+  thừa 
+  thông 
+  :n 
+	§Tốn 
+  không 
+  gian 
+  lưu 
+  trữ 
+Lược 
+  đồ 
+  1 
+Nội 
+  dung 
+  chi 
+  :ết 
+§Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ 
+§Sự 
+  trùng 
+  lắp 
+  thông 
+  tin 
+  và 
+  các 
+  dị 
+  thường §Phụ 
+  thuộc 
+  hàm 
+§Các 
+  dạng 
+  chuẩn 
+Phụ 
+  thuộc 
+  hàm 
+§Cho R (A1, A2, …, An), r(R), ký hiệu R+ = {A1, A2, …, An}. §Phụ thuộc hàm giữa 2 tập thuộc tính X, Y ⊆ R+. 
+-Ký hiệu : X à Y, X là vế trái, Y là vế phải. 
+-Ý nghĩa: ∀r ∈ R,  t1, t2 ∈ r, nếu t1[X] = t2[X] thì t1[Y] = t2[Y]. 
+Phụ 
+  thuộc 
+  hàm 
+  (PTH) 
+	§Nhận 
+  xét 
+		-PTH 
+  thể 
+  hiện 
+  các 
+  ràng 
+  buộc 
+  từ 
+  thế 
+  giới 
+  thực. 
+-∀r 
+  ∈ 
+  R, 
+  ∀ 
+  t 
+  ∈ 
+  r, 
+  nếu 
+  t[X] 
+  là 
+  duy 
+  nhất 
+  thì 
+  X 
+  là 
+  khóa 
+  của 
+  R. -Nếu 
+  K 
+  là 
+  khóa 
+  của 
+  R 
+  thì 
+  K 
+  xác 
+  định 
+  hàm 
+  tất 
+  cả 
+  các 
+  tập 
+  thuộc 	tính 
+  con 
+  của 
+  R+. 
+-PTH 
+  dùng 
+  để 
+  đánh 
+  giá 
+  một 
+  kết 
+  quả 
+  thiết 
+  kế 
+  CSDL. 
+Phụ 
+  thuộc 
+  hàm 
+§Nhận 
+  diện 
+  PTH: 
+  Việc 
+  nhận 
+  diện 
+  PTH 
+  dựa 
+  vào 
+  ý 
+  nghĩa 
+  của 	thuộc 
+  tính 
+  và 
+  mối 
+  quan 
+  hệ 
+  của 
+  chúng 
+  trong 
+  quan 
+  hệ. 
+§Ví 
+  dụ: 
+§Dựa 
+  vào 
+  dữ 
+  liệu 
+  trên 
+  : 
+	-MAGV 
+  → 
+  TENGV 
+	-TENGV 
+  → 
+  MAGV 
+§Tuy 
+  nhiên, 
+  chỉ 
+  có 
+  pth: 
+	-MAGV 
+  → 
+  TENGV
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN 	13 
+Phụ 
+  thuộc 
+  hàm 
+	§Luật 
+  dẫn 
+  Armstrong 
+		-Luật 
+  phản 
+  hồi 
+-Luật 
+  bắc 
+  cầu 
+(FD3) 	Nếu X → Y và Y → Z 
+ Thì X → Z 
+Phụ 
+  thuộc 
+  hàm 
+	§Luật 
+  dẫn 
+  khác: 
+Thì X → Y, Z 
+-Luật 
+  phân 
+  rã 
+Thì X → Z 
+Phụ 
+  thuộc 
+  hàm 
+	§PTH 
+  đầy 
+  đủ 
+§Ví 
+  dụ: 
+-Cho 
+  R(A, 
+  B, 
+  C, 
+  D, 
+  E, 
+  I) 
+-Tập 
+  PTH: 
+  F 
+  = 
+  { 
+  A→BCD, 
+  BCD→E, 
+  CD→EI 
+  } -Pth 
+  BCD→E 
+  là 
+  phụ 
+  thuộc 
+  hàm 
+  đầy 
+  đủ 
+  không? 
+Nội 
+  dung 
+  chi 
+  :ết 
+§Các 
+  bước 
+  thiết 
+  kế 
+  CSDL 
+  quan 
+  hệ 
+§Sự 
+  trùng 
+  lắp 
+  thông 
+  tin 
+§Phụ 
+  thuộc 
+  hàm 
+§Các 
+  dạng 
+  chuẩn 
+Dạng 
+  chuẩn 
+	§Mục 
+  đích: 
+  đánh 
+  giá 
+  mức 
+  độ 
+  trùng 
+  lắp 
+  dữ 
+  liệu 
+  của 
+  lược 
+  đồ 		CSDL 
+Dạng 
+  chuẩn 
+  1 
+  (DC1) 
+§Một 
+  quan 
+  hệ 
+  ở 
+  dạng 
+  chuẩn 
+  1 
+  không 
+  có 
+  các 
+  trường 
+  lặp 
+  và 
+  các 
+trường 
+  kép, 
+  còn 
+  được 
+  gọi 
+  là 
+  cấu 
+  trúc 
+  phẳng 
+  (tất 
+  cả 
+  các 
+  giá 
+trị 
+  tại 
+  các 
+  thuộc 
+  tính 
+  phải 
+  là 
+  giá 
+  trị 
+  nguyên 
+  tố). 
+§Nhận 
+  xét: 
+-	Mọi lược đồ quan hệ đều thuộc DC 1. 
+-	DC1 còn tình trạng trùng lắp dữ liệu cao, nên gây ra các bất thường về cập nhật 
+dữ liệu.
+§Ví 
+  dụ: 
+  cho 
+  quan 
+  hệ 
+  THUENHA 
+  như 
+  sau 
+Biến 
+  đổi 
+  phi 
+  dạng 
+  chuẩn 
+  sang 
+  DC1 
+§Phương 
+  pháp 
+1. 	Phương 
+  pháp 
+  1: 
+  Điền 
+  đầy 
+  đủ 
+  các 
+  dữ 
+  liệu 
+  vào 
+  các 
+  chỗ 
+  trống 	bằng 
+  dữ 
+  liệu 
+  trùng 
+  lắp 
+  → 
+  dẫn 
+  đến 
+  nhiều 
+  dữ 
+  liệu 
+  bị 
+  trùng 
+  lắp 	trên 
+  quan 
+  hệ. 
+thành 
+  một 
+  quan 
+  hệ 
+  mới 
+  → 
+  tạo 
+  ra 
+  hai 
+  hay 
+  nhiều 
+  quan 
+  hệ 
+  mới, và 
+  sẽ 
+  làm 
+  giảm 
+  bớt 
+  sự 
+  trùng 
+  lắp 
+  thông 
+  tin. 
+Biến 
+  đổi 
+  phi 
+  dạng 
+  chuẩn 
+  sang 
+  DC1 	§Phương 
+  pháp 
+  1: 
+Biến 
+  đổi 
+  phi 
+  dạng 
+  chuẩn 
+  sang 
+  DC1 	§Phương 
+  pháp 
+  2: 
+  xác 
+  định 
+  khóa 
+  và 
+  tách 
+  bảng 		NGUOI_THUE (MANT, TENNT) 
+NHA_CHO_THUE (MANT, MANHA, DCHI_NHA, NGAYTHUE_BT, NGAYTHUE_KT, GIATHUE, MACHUNHA, TENCHUNHA) 
+Dạng 
+  chuẩn 
+  2 
+  (DC2) 
+§Một 
+  số 
+  khái 
+  niệm 
+  bổ 
+  sung 
+-Thuộc 
+  tính 
+  khóa 
+  (không 
+  khóa): 
+  A 
+  là 
+  một 
+  thuộc 
+  tính 
+  khóa 	(không 
+  khóa) 
+  của 
+  Q 
+  nếu: 
+l 
+  A 
+  ∈ 
+  Q+ 
+l 
+  A 
+  có 
+  (không 
+  có) 
+  tham 
+  gia 
+  vào 
+  một 
+  khóa 
+  của 
+  Q 
+- 
+  Ví 
+  dụ 
+  4.5: 
+   
+   
+  Q1(MNOPX) 
+  ; 
+  Q2(PY) 
+M,N,O 
+  là 
+  các 
+  thuộc 
+  tính 
+  khóa 
+  của 
+  Q1, 
+  P 
+  là 
+  thuộc 
+  tính 
+  khóa của 
+  Q2 
+  nhưng 
+  là 
+  thuộc 
+  tính 
+  không 
+  khóa 
+  của 
+  Q1
+-Thuộc 
+  tính 
+  phụ 
+  thuộc 
+  đầy 
+  đủ 
+  (không 
+  phụ 
+  thuộc 
+  đầy 
+  đủ) 
+  vào 	một 
+  tập 
+  thuộc 
+  tính: 
+l 
+  A 
+  là 
+  một 
+  thuộc 
+  tính 
+  phụ 
+  thuộc 
+  đầy 
+  đủ 
+  (không 
+  phụ 
+  thuộc 
+  đầy đủ) 
+  vào 
+  X 
+  nếu 
+  X 
+  → 
+  A 
+  là 
+  một 
+  phụ 
+  thuộc 
+  hàm 
+  đầy 
+  đủ 
+  (không đầy 
+  đủ)
+Dạng 
+  chuẩn 
+  2 
+  (DC2) 
+	§Một 
+  lược 
+  đồ 
+  đạt 
+  dạng 
+  chuẩn 
+  2 
+  nếu 
+  như 
+  lược 
+  đồ 
+  đó 
+  đã 
+  đạt 		DC1 
+  và 
+  các 
+  thuộc 
+  tính 
+  không 
+  khóa 
+  phụ 
+  thuộc 
+  đầy 
+  đủvào 		thuộc 
+  tính 
+  khóa. 
+§Nhận 
+  xét: 
+§Ví 
+  dụ: 
+	NGUOI_THUE (MANT, TENNT) 
+Dạng 
+  chuẩn 
+  2 
+  (DC2) 
+§Ví 
+  dụ: 
+NHA_CHO_THUE (MANT, MANHA, DCHI_NHA, NGAYTHUE_BT, NGAYTHUE_KT, GIATHUE, MACHUNHA, TENCHUNHA) 
+Xét quan hệ NHA_CHO_THUE: 
+PK = {MANT, MANHA} 
+F = { MANHA → DCHI_NHA, GIATHUE, MACHUNHA, TENCHUNHA Vậy NHA_CHO_THUE có thỏa DC2? 
+► NHA_CHO_THUE: không thỏa DC2 → chỉ đạt DC1
+Biến 
+  đổi 
+  DC1 
+  sang 
+  DC2 
+§B1: 
+  Xác 
+  định 
+  khóa 
+  chính 
+  trên 
+  quan 
+  hệ 
+  bị 
+  DC1: 	NHA_CHO_THUE 
+  với 
+  PK 
+  = 
+  {MANT, 
+  MANHA} 
+§B2: 
+  Xác 
+  định 
+  các 
+  pth 
+  gây 
+  ra 
+  thuộc 
+  tính 
+  không 
+  khóa 
+  không 	phụ 
+  thuộc 
+  đầy 
+  đủ 
+  vào 
+  khóa 
+MANHA 
+  → 
+  DCHI_NHA, 
+  GIA_THUE, 
+  MACHUNHA, 
+  TENCHUNHA
+§B3: 
+  Nếu 
+  có 
+  tồn 
+  tại 
+  pth 
+  không 
+  đầy 
+  đủ 
+  trên 
+  khóa 
+  chính 
+  thì 
+  xóa 	chúng 
+  ở 
+  quan 
+  hệ 
+  cũ 
+  và 
+  đưa 
+  chúng 
+  vào 
+  một 
+  quan 
+  hệ 
+  mới.
+-Xóa 
+  pth 
+  MANHA 
+  → 
+  DCHI_NHA, 
+  GIA_THUE, 
+  MACHUNHA, TENCHUNHA 
+  bằng 
+  cách 
+  đưa 
+  chúng 
+  vào 
+  quan 
+  hệ 
+  mới NHA_THUE 
+  (MANHA,DCHI_NHA, 
+  GIA_THUE, 
+  MACHUNHA, TENCHUNHA). 
+-Đổi 
+  tên 
+  quan 
+  hệ 
+  cũ 
+  thành 
+  TT_THUE_NHA(MANT,MANHA, 	NGAYTHUE_BT, 
+  NGAYTHUE_KT)
+Biến 
+  đổi 
+  DC1 
+  sang 
+  DC2 
+	DC1 
+NHA_CHO_THUE (MANT, MANHA, DCHI_NHA, NGAYTHUE_BT, NGAYTHUE_KT, GIATHUE, MACHUNHA, TENCHUNHA) 
+NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA, TENCHUNHA) 
+Dạng 
+  chuẩn 
+  3 
+  (DC3) 
+A 
+  phụ 
+  thuộc 
+  bắc 
+  cầu 
+  vào 
+  X 
+  nếu 
+  có 
+  4 
+  điều 
+  kiện 
+  sau: 
+Dạng 
+  chuẩn 
+  3 
+  (DC3) 
+	§Khái 
+  niệm 
+  bổ 
+  sung: 
+  Thuộc 
+  tính 
+  phụ 
+  thuộc 
+  bắc 
+  cầu 
+  vào 
+  một 		tập 
+  thuộc 
+  tính 
+	§Ví 
+  dụ: 
+  Cho 
+  F 
+  = 
+  {MN→OPRX; 
+  NO 
+  →M; 
+  P 
+  →RY} 
+			-P 
+  có 
+  phụ 
+  thuộc 
+  bắc 
+  cầu 
+  vào 
+  NO 
+  (NO 
+  → 
+  P)? 
+	MN 
+  → 
+  O 
+   
+  ⇒ 
+  MN 
+  →NO 
+  : 
+  không 
+  thỏa 
+  (iii) -R 
+  có 
+  phụ 
+  thuộc 
+  bắc 
+  cầu 
+  vào 
+  NO 
+  (NO 
+  →R)? 
+Dạng 
+  chuẩn 
+  3 
+  (DC3) 
+§Một 
+  lược 
+  đồ 
+  R 
+  ở 
+  dạng 
+  chuẩn 
+  3 
+  khi 
+  nó 
+  đạt 
+  dạng 
+  chuẩn 
+  2 
+  và 
+  tất cả 
+  các 
+  thuộc 
+  tính 
+  không 
+  khóa 
+  không 
+  phụ 
+  thuộc 
+  bắt 
+  cầu 
+  vào 
+khóa 
+PK = {MANHA} 
+F= { f1: MANHA → DCHI_NHA,GIA_THUE, MACHUNHA, TENCHUNHA  f2: MACHUNHA → TENCHUNHA } 
+NHA_THUE có đạt DC3? 
+Ta có: 
+MANHA → MACHUNHA 
+MACHUNHA → TENCHUNHA 
+⇒ MANHA →  TENCHUNHA  (do bắt cầu) 
+► NGUOI_THUE: không thỏa DC2, do TENCHUNHA phụ thuộc bắt cầu vào thuộc tính khóa 
+Biến 
+  đổi 
+  DC2 
+  lên 
+  DC3 
+§Xác 
+  định 
+  thuộc 
+  tính 
+  khóa 
+  trong 
+  quan 
+  hệ 
+  đạt 
+  dạng 
+  chuẩn 
+  2 	NHA_THUE: 
+  PK 
+  = 
+  {MANHA}
+§Xác 
+  định 
+  phụ 
+  thuộc 
+  hàm 
+  trong 
+  quan 
+  hệ 
+  gây 
+  ra 
+  thuộc 
+  tính 	không 
+  khóa 
+  bắt 
+  cầu 
+  vào 
+  khóa 
+	MACHUNHA 
+  → 
+  TENCHUNHA
+§Xóa 
+  pth 
+  gây 
+  ra 
+  tính 
+  chất 
+  bắt 
+  cầu 
+  bằng 
+  cách 
+  đưa 
+  nó 
+  vào 
+  quan 	hệ 
+  mới. 
+-Xóa 
+  pth 
+  MACHUNHA 
+  → 
+  TENCHUNHA 
+  từ 
+  quan 
+  hệ 
+  NHA_THUE và 
+  đưa 
+  vào 
+  quan 
+  hệ 
+  mới 
+  CHU_NHA(MACHUNHA,TEN 
+CHUNHA) 
+Biến 
+  đổi 
+  DC2 
+  lên 
+  DC3 
+	NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA, TENCHUNHA) 
+Dạng 
+  chuẩn 
+  3 
+  (DC3) 
+§Nhận 
+  xét: 
+§Mọi lược đồ quan hệ đạt DC3 cũng đạt DC2. 
+§Phụ thuộc hàm bắc cầu là nguyên nhân dẫn đến trùng lắp dữ liệu 	và làm cho lược đồ không đạt DC3. 
+§DC3 không đạt được là do sự xuất hiện của các thuộc tính không 	khóa trong lược đồ suy ra được lẫn nhau. 
+§DC3 là dạng chuẩn tối thiểu trong thiết kế CSDL
+Dạng 
+  chuẩn 
+  BCK 
+  (Boyce 
+  Codd 
+  Ken) 
+	§Một 
+  lược 
+  đồ 
+  chỉ 
+  đạt 
+  dạng 
+  chuẩn 
+  BCK 
+  nếu 
+  khi 
+  mỗi 
+  xác 
+  định 		(pth) 
+  có 
+  vế 
+  trái 
+  đều 
+  là 
+  siêu 
+  khóa/khóa 
+			BCK 
+Dạng 
+  chuẩn 
+  BCK 
+  (Boyce 
+  Codd 
+  Ken) 
+§Ví 
+  dụ: 
+PHONGVAN(MAUV, NGAYPV, GIOPV, MANV, MAPHG) 
+F = { f1:  MAUV, NGAYPV → GIOPV, MANV, MAPHG 		 f2:  MANV, NGAYPV, GIOPV → MAUV 
+		 f3:  MAPHG, NGAYPV, GIOPV → MAUV, MANV 		 f4: MANV, NGAYPV → MAPHG 
+	 } 
+Khóa chính = {MAUV, NGAYPV} 
+Khóa ứng viên = { (MANV, NGAYPV, GIOPV); (MAPHG, NGAYPV, GIOPV)} 
+⇒ PHONGVAN: Không đạt DC BCK, do PTH f4 có vế trái không là khóa/khóa ứng viên. 
+Biến 
+  đổi 
+  DC3 
+  lên 
+  DC 
+  BCK 
+§Xác 
+  định 
+  phụ 
+  thuộc 
+  hàm 
+  A 
+  → 
+  B 
+  của 
+  Q, 
+  trong 
+  đó 
+  A 
+  ≠ 
+  B 
+  và 
+  A 	không 
+  là 
+  siêu 
+  khóa/khóa. 
+§Phân 
+  rã 
+  quan 
+  hệ 
+  gốc 
+  Q 
+  thành 
+  hai 
+  quan 
+  hệ 
+  Q1 
+  = 
+  {A,B}, 
+  Q2 
+  = 	{tập 
+  các 
+  thuộc 
+  tính 
+  còn 
+  lại 
+  của 
+  Q 
+  } 
+  – 
+  {B} 
+§Lặp 
+  lại 
+  qui 
+  trình 
+  trên 
+  cho 
+  Q2 
+  đến 
+  khi 
+  không 
+  thể 
+  tiếp 
+  tục. 
+§Quan 
+  hệ 
+  Q1 
+  và 
+  các 
+  Qi 
+  phân 
+  rã 
+  được 
+  từ 
+  Q2 
+  là 
+  quan 
+  hệ 
+  cuối 	cùng 
+  đạt 
+  chuẩn 
+  BCK. 
+Biến 
+  đổi 
+  DC3 
+  lên 
+  DC 
+  BCK 
+	§Ví 
+  dụ: 
+		NV_PHONG (MANV,NGAYPV, MAPHG) 
+Dạng 
+  chuẩn 
+  BCK 
+	§Nhận 
+  xét: 
+		-Mọi lược đồ quan hệ đạt DC BCK cũng thuộc DC3. 
+-Mục tiêu của quá trình thiết kế CSDL là đưa các lược đồ 
+quan hệ về DC3 hoặc BCK. 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 2
+THIẾT 
+  KẾ 
+  QUAN 
+  NIỆM | Ø | Đáp 
+  ứng 
+  các 
+  yêu 
+  cầu 
+  thông
+(CONCEPTUAL 
+  DESIGN) | Ø | Đáp 
+  ứng 
+  các 
+  yêu 
+  cầu 
+  thông
+(CONCEPTUAL 
+  DESIGN) | Ø | tin 
+  cho 
+  các 
+  người 
+  dùng 
+  và
+THIẾT 
+  KẾ 
+  LÔ-­‐GÍC | Ø | Cung 
+  cấp 
+  kiến 
+  trúc 
+  lưu 
+  trữ
+THIẾT 
+  KẾ 
+  LÔ-­‐GÍC | Ø | dữ 
+  liệu 
+  đúng 
+  đắn, 
+  tự 
+  nhiên
+(LOGIC 
+  DESIGN) | Ø | và 
+  dễ 
+  hiểu.
+(LOGIC 
+  DESIGN) | Ø | Hỗ 
+  trợ 
+  một 
+  số 
+  yêu 
+  cầu 
+  về
+THIẾT 
+  KẾ 
+  VẬT 
+  LÝ | thời 
+  gian 
+  xử 
+  lý, 
+  không 
+  gian | 3
+THIẾT 
+  KẾ 
+  VẬT 
+  LÝ | lưu 
+  trữ, 
+  … | 3
+(PHYSICAL 
+  DESIGN) | lưu 
+  trữ, 
+  … | 3
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | lưu 
+  trữ, 
+  … | 3
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 4
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 5
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 6
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 8
+Tính 
+  kích 
+  thước 
+  lưu 
+  trữ 
+  của 
+  mỗi 
+  lược 
+  đồ 
+  khi 
+  thêm 
+  10 
+  giáo 
+  viên 
+  cho 
+  bộ 
+  môn
+HTTT? 
+   
+  (Giả 
+  sử 
+  kích 
+  thước 
+  mỗi 
+  thuộc 
+  tính 
+  là 
+  20 
+  bytes)iên 
+  mới | HTTT? 
+   
+  (Giả 
+  sử 
+  kích 
+  thước 
+  mỗi 
+  thuộc 
+  tính 
+  là 
+  20 
+  bytes)iên 
+  mới
+Lược 
+  đồ 
+  2 | 9
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | Lược 
+  đồ 
+  2 | 9
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 10
+-Ví dụ: | 11
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 11
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 12
+(FD1) 
+-Luật 
+  cộng 	(FD2) | ∀Y ⊆ | X, X→ Y
+(FD1) 
+-Luật 
+  cộng 	(FD2) | Nếu X → Y và Z ⊆W Thì X, W → Y, Z | Nếu X → Y và Z ⊆W Thì X, W → Y, Z
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 14
+-Luật 
+  bắc 
+  cầu 
+  giả 	(FD4) 
+-Luật 
+  hội 
+(FD5) | Nếu X → Y và Y, W → Z Thì X, W → Z 
+Nếu X → Y và X → Z
+(FD6) | Nếu X → Y và Z | ⊆ | Y
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 15
+Xét pth X → Y được định nghĩa trên R 
+Thì Y phụ thuộc đầy đủ vào X
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 16
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 17
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 18
+MANT | TENNT | MANHA | DCHI_NHA | NGAYTHUE_BT | NGAYTHUE_KT | GIATHUE | MACHUNHA | TENCHUNHA
+CR76 | L.V.Hùng | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2012 | 01/09/2013 | 50tr | CO40 | N.T Lan
+PG16 | PG16 | PG16 | 432 CMT8, QTB | 01/09/2007 | 01/10/2011 | 150tr | CO72 | B.T.Thanh
+CR56 | H.V.Gia | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2007 | 01/07/2012 | 50tr | CO40 | N.T.Lan
+PG16 | PG16 | PG16 | 432 CMT8, QTB | 01//01/2012 | 01/01/2013 | 150tr | CO72 | B.T.Thanh
+Phi dạng chuẩn | Phi dạng chuẩn | PG36 | 124 Tô Ký, Q12 | 01/01/2010 | 01/01/2014 | 200tr | CO20 | N.T.Phuong
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 01/01/2014 | 200tr | CO20 | 19
+2. | Phương 
+  pháp 
+  2: 
+  Thay 
+  thế 
+  các 
+  giá 
+  trị 
+  không 
+  nguyên 
+  tố 
+  bằng cách 
+  xác 
+  định 
+  tập 
+  thuộc 
+  tính 
+  làm 
+  khóa 
+  chính 
+  và 
+  sau 
+  đó 
+  tách
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 20
+MANT | TENNT | MANHA | DCHI_NHA | NGAYTHUE_BT | NGAYTHUE_KT | GIATHUE | MACHUNHA | TENCHUNHA
+CR76 | L.V.Hùng | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2012 | 01/09/2013 | 50tr | CO40 | N.T Lan
+CR56 | H.V.Gia | PG16 | 432 CMT8, QTB | 01/09/2007 | 01/10/2011 | 150tr | CO72 | B.T.Thanh
+CR56 | H.V.Gia | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2007 | 01/07/2012 | 50tr | CO40 | N.T.Lan
+MANT | TENNT | PG16 | 432 CMT8, QTB | 01//01/2012 | 01/01/2013 | 150tr | CO72 | B.T.Thanh
+MANT | TENNT | PG36 | 124 Tô Ký, Q12 | 01/01/2010 | 01/01/2014 | 200tr | CO20 | N.T.Phuong
+MANT | TENNT | MANHA | DCHI_NHA | NGAYTHUE_BT | NGAYTHUE_KT | GIATHUE | MACHUNHA | TENCHUNHA
+CR76 | L.V.Hùng | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2012 | 01/09/2013 | 50tr | CO40 | N.T Lan | 21
+CR76 | L.V.Hùng | PG16 | 432 CMT8, QTB | 01/09/2007 | 01/10/2011 | 150tr | CO72 | B.T.Thanh | 21
+CR56 | H.V.Gia | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2007 | 01/07/2012 | 50tr | CO40 | N.T.Lan | 21
+CR56 | H.V.Gia | PG16 | 432 CMT8, QTB | 01//01/2012 | 01/01/2013 | 150tr | CO72 | B.T.Thanh | 21
+CR56 | H.V.Gia | PG36 | 124 Tô Ký, Q12 | 01/01/2010 | 01/01/2014 | 200tr | CO20 | N.T.Phuong | 21
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 01/01/2014 | 200tr | CO20 | N.T.Phuong | 21
+MANT | TENNT
+CR76 | L.V.Hùng
+CR56 | H.V.Gia
+MANT | MANHA | DCHI_NHA | NGAYTHUE_BT | NGAYTHUE_KT | GIATHUE | MACHUNHA | TENCHUNHA
+CR76 CR76 | PG4 
+PG16 | 125 Lê Văn Sỹ, Q3 432 CMT8, QTB | 01/08/2012 01/09/2007 | 01/09/2013 01/10/2011 | 50tr 
+150tr | CO40 
+CO72 | N.T Lan 
+B.T.Thanh
+CR56 CR56 CR56 | PG4 
+PG16 PG36 | 125 Lê Văn Sỹ, Q3 432 CMT8, QTB 
+124 Tô Ký, Q12 | 01/08/2007 01//01/2012 01/01/2010 | 01/07/2012 01/01/2013 01/01/2014 | 50tr 
+150tr 
+200tr | CO40 
+CO72 
+CO20 | N.T.Lan 
+B.T.Thanh 
+N.T.Phuong
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 22
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 23
+-
+-
+- | Mọi lược đồ quan hệ đạt DC2 cũng đạt DC1. 
+Nếu R chỉ có 1 khóa và khóa chỉ có 1 thuộc tính thì R đạt DC 2. 
+DC2 còn xuất hiện sự trùng lặp dữ liệu nên vẫn còn xuất hiện các dị thường về cập nhật dữ liệu.
+Xét quan hệ NGUOI_THUE: 
+PK = {MANT},  F = {MANT → TENNT} NGUOI_THUE có đạt DC2 ? 
+► NGUOI_THUE: thỏa DC2 | 24
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 24
+MANT | MANHA | DCHI_NHA | NGAYTHUE_BT | NGAYTHUE_KT | GIATHUE | MACHUNHA | TENCHUNHA
+CR76 CR76 | PG4 
+PG16 | 125 Lê Văn Sỹ, Q3 432 CMT8, QTB | 01/08/2012 01/09/2007 | 01/09/2013 01/10/2011 | 50tr 
+150tr | CO40 
+CO72 | N.T Lan 
+B.T.Thanh
+CR56 CR56 CR56 | PG4 
+PG16 
+PG36 | 125 Lê Văn Sỹ, Q3 432 CMT8, QTB 
+124 Tô Ký, Q12 | 01/08/2007 01//01/2012 01/01/2010 | 01/07/2012 01/01/2013 01/01/2014 | 50tr 
+150tr 
+200tr | CO40 
+CO72 
+CO20 | N.T.Lan 
+B.T.Thanh 
+N.T.Phuong
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 25
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 26
+MANT | MANHA | DCHI_NHA | NGAYTHUE_BT | NGAYTHUE_KT | GIATHUE | MACHUNHA | TENCHUNHA
+CR76 | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2012 | 01/09/2013 | 50tr | CO40 | N.T Lan
+CR76 | PG16 | 432 CMT8, QTB | 01/09/2007 | 01/10/2011 | 150tr | CO72 | B.T.Thanh
+CR56 | PG4 | 125 Lê Văn Sỹ, Q3 | 01/08/2007 | 01/07/2012 | 50tr | CO40 | N.T.Lan
+CR56 | PG16 | 432 CMT8, QTB | 01//01/2012 | 01/01/2013 | 150tr | CO72 | B.T.Thanh
+CR56 | PG36 | 124 Tô Ký, Q12 | 01/01/2010 | 01/01/2014 | 200tr | CO20 | N.T.Phuong
+DC2 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_K | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_K
+DC2 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | DC2 | 27
+§ | Khái 
+  niệm 
+  bổ 
+  sung: 
+  Thuộc 
+  tính 
+  phụ 
+  thuộc 
+  bắc 
+  cầu 
+  vào 
+  một tập 
+  thuộc 
+  tính 
+  :
+l | X 
+  → 
+  Y ∈ 
+  F+ | (i) | 28
+l | Y 
+  → 
+  A 
+  ∈ 
+  F+ | (ii) | 28
+l | Y 
+  → 
+  X 
+  ∉ 
+  F+ | (iii) | 28
+l | A 
+  ∉ 
+  (X ∪Y) | (iv) | 28
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 28
+NO 
+  → 
+  M 
+   ⇒ 
+  NO 
+  →MN 
+  : 
+  thỏa 
+  (i) MN 
+  → 
+  P:thỏa 
+  (ii) | P không phụ thuộc bắc cầu vào NO
+NO 
+  → 
+  MN 
+  và 
+  MN→P 
+  ⇒ 
+  NO 
+  →P 
+  (i) | R phụ thuộc bắc cầu vào NO
+P 
+  → 
+  R 
+  (ii) | R phụ thuộc bắc cầu vào NO
+P 
+  → 
+  NO 
+  ∉ 
+  F+ 
+  (iii) | R phụ thuộc bắc cầu vào NO
+R 
+  ∉ 
+  NOP 
+  (iv) | 29
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 29
+§Ví 
+  dụ: | NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA, TENCHUNHA)
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 30
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 31
+DC2
+NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | CHU_NHA(MACHUNHA, TENCHUNHA)
+32
+DC3 | DC3 | 32
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | DC3 | 32
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 33
+NGUOI_THUE (MANT, TENNT) | NGUOI_THUE (MANT, TENNT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | TT_THUE_NHA (MANT, MANHA, NGAYTHUE_BT, NGAYTHUE_KT) | 34
+BCK | DC BCK | MANT | MANHA | MANHA | NGAYTHUE_BT | NGAYTHUE_BT | NGAYTHUE_KT | NGAYTHUE_KT | 34
+BCK | DC BCK | CR76 | PG4 | PG4 | 01/08/2012 | 01/08/2012 | 01/09/2013 | 01/09/2013 | 34
+BCK | DC BCK | CR76 | PG16 | PG16 | 01/09/2007 | 01/09/2007 | 01/10/2011 | 01/10/2011 | 34
+BCK | DC BCK | CR56 | PG4 | PG4 | 01/08/2007 | 01/08/2007 | 01/07/2012 | 01/07/2012 | 34
+CR56 | CR56 | CR56 | CR56 | PG16 | PG16 | PG16 | 01//01/2012 | 01/01/2013 | 01/01/2013 | 34
+BCK | BCK | CR56 | CR56 | PG36 | PG36 | PG36 | 01/01/2010 | 01/01/2014 | 01/01/2014 | 34
+NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | NHA_THUE (MANHA, DCHI_NHA, GIATHUE, MACHUNHA) | CHU_NHA(MACHUNHA, TENCHUNHA) | CHU_NHA(MACHUNHA, TENCHUNHA) | CHU_NHA(MACHUNHA, TENCHUNHA) | CHU_NHA(MACHUNHA, TENCHUNHA) | CHU_NHA(MACHUNHA, TENCHUNHA) | 34
+BCK | 34
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | © 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 34
+MAUV | NGAYPV | GIOPV | MANV | MAPHG
+CR76 | 13/05/2005 | 10:30 | SG5 | G101
+CR56 | 13/05/2005 | 12:00 | SG5 | G101
+CR74 | 13/05/2005 | 12:00 | SG37 | G102
+CR56 | 1/07/2005 | 10:30 | SG5 | G201
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 35
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 36
+PHONGVAN(MAUV, NGAYPV, GIOPV, MANV, MAPHG) | DC3 | PHONGVAN(MAUV,NGAYPV, GIOPV, MANV) 
+37
+F = { f1:  MAUV, NGAYPV → GIOPV, MANV, MAPHG 		 f2:  MANV, NGAYPV, GIOPV → MAUV 
+		 f3:  MAPHG, NGAYPV, GIOPV → MAUV, MANV 			f4: MANV, NGAYPV → MAPHG 
+	 } 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | F = { f1:  MAUV, NGAYPV → GIOPV, MANV, MAPHG 		 f2:  MANV, NGAYPV, GIOPV → MAUV 
+		 f3:  MAPHG, NGAYPV, GIOPV → MAUV, MANV 			f4: MANV, NGAYPV → MAPHG 
+	 } 
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | PHONGVAN(MAUV,NGAYPV, GIOPV, MANV) 
+37
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 38
+© 
+  Bộ 
+  môn 
+  HTTT 
+  -­‐ 
+  Khoa 
+  CNTT 
+  -­‐ 
+  Trường 
+  ĐH 
+  KHTN | 39

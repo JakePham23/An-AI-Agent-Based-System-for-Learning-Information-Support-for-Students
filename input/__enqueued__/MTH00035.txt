@@ -1,0 +1,87 @@
+# COURSE: Đại số tuyến tính (MTH00035)
+
+## GENERAL INFORMATION
+- **Course ID**: MTH00035
+- **English Name**: Linear Algebra
+- **Vietnamese Name**: Đại số tuyến tính
+- **Responsible Person**: for the module: Dr. Lê Văn Luyện
+- **Semester**: (s) in which the module is taught: 2
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+(1) Learn about linear equations: Students will study the theory and techniques related to solving systems of linear equations. They will explore concepts such as matrix operations, row reduction, and Gaussian elimination to solve linear equations and analyze their solutions.
+(2) Gain proficiency in matrix methods: Students will develop a strong understanding of matrices and their properties. They will learn how to perform operations on matrices, such as matrix addition, multiplication, and inversion. Additionally, they will explore applications of matrices in various fields.
+(3) Explore analytical geometry: Students will delve into the study of vectors and their geometric interpretations. They will learn about vector operations, vector spaces, and vector equations. This knowledge will provide a foundation for understanding geometric concepts and their relationship to linear algebra.
+(4) Understand linear transformations: Students will examine the concept of linear transformations and their properties. They will explore the relationship between linear transformations and matrices, as well as the applications of linear transformations.
+By the end of the course, students will have a solid understanding of linear algebra concepts and their applications in mathematics, engineering, and the sciences. They will be equipped with the necessary knowledge to solve linear equations, perform matrix operations, analyze vector spaces, and comprehend the role of linear transformations. This knowledge will serve as a valuable foundation for their future studies.
+• COURSE TOPICS:
+- Chapter 1: Matrices and Systems of Linear Equations
+- Chapter 2: Determinants
+- Chapter 3: Vector Spaces
+- Chapter 4: Linear Mappings
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Đại số tuyến tính và ứng dụng, Tập 1,Bùi Xuân Hải, Trần Ngọc Hội, Trịnh Thanh Đèo, Lê Văn Luyện,2009,
+- [2]Giáo trình Đại số tuyến tính,Ngô Việt Trung,2001,
+- [3]Đại số tuyến tính,Nguyễn Hữu Việt Hưng,2004,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Recognize and explain the English terms related to the subject.
+- G2.Practice effectively solving and reasoning through systems of linear equations.
+- G3.Practice well with matrix calculations and know how to apply invertible matrices to solve matrix equations.
+- G4.Practice calculating the determinant of a matrix to use it for solving systems of linear equations, finding the rank of a matrix, examining invertibility, and finding the inverse matrix.
+- G8.Recognize ethical principles and responsibilities in learning.
+- G9.Creative thinking and strong critical thinking skills. Maintain a serious attitude towards learning and self-study.
+- G5.Apply knowledge of systems of linear equations, matrix operations, invertible matrices, and matrix determinants to describe the structure of vector spaces and related issues (subspaces, generating sets, linearly independent or dependent sets, finding bases for subspaces, vector coordinates relative to a basis, change of basis matrices, and coordinate transformation formulas).
+- G6.Proficiently apply vector spaces to study linear mappings between vector spaces and related issues (basis of the product space, basis of the image space, matrix representation of linear mappings, formulas for changing matrix representations between bases, and finding linear mappings based on the image of a basis).
+- G7.Effectively use knowledge of systems of linear equations, matrix determinants, and vector spaces to introduce eigenvalues, eigenspaces, eigenvectors, and the characteristic polynomial of square matrices. From there, define the concept of diagonalizable matrices, the necessary and sufficient conditions for diagonalizability, diagonalization algorithms, and applications of diagonalizable matrices.
+• Content:
+- Chapter 1: Matrices and Systems of Linear Equations
+- Chapter 2: Determinants
+- Chapter 3: Vector Spaces
+- Chapter 4: Linear Mappings
+• Examination forms: Close Test, Final examination, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Đại số tuyến tính và ứng dụng, Tập 1,Bùi Xuân Hải, Trần Ngọc Hội, Trịnh Thanh Đèo, Lê Văn Luyện,2009,
+- [2]Giáo trình Đại số tuyến tính,Ngô Việt Trung,2001,
+- [3]Đại số tuyến tính,Nguyễn Hữu Việt Hưng,2004,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Đại số tuyến tính và ứng dụng, Tập 1,Bùi Xuân Hải, Trần Ngọc Hội, Trịnh Thanh Đèo, Lê Văn Luyện,2009,
+- [2]Giáo trình Đại số tuyến tính,Ngô Việt Trung,2001,
+- [3]Đại số tuyến tính,Nguyễn Hữu Việt Hưng,2004,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Đại số tuyến tính và ứng dụng, Tập 1,Bùi Xuân Hải, Trần Ngọc Hội, Trịnh Thanh Đèo, Lê Văn Luyện,2009,
+- [2]Giáo trình Đại số tuyến tính,Ngô Việt Trung,2001,
+- [3]Đại số tuyến tính,Nguyễn Hữu Việt Hưng,2004,
+
+## READING MATERIALS
+- [1]Đại số tuyến tính và ứng dụng, Tập 1,Bùi Xuân Hải, Trần Ngọc Hội, Trịnh Thanh Đèo, Lê Văn Luyện,2009,
+- [2]Giáo trình Đại số tuyến tính,Ngô Việt Trung,2001,
+- [3]Đại số tuyến tính,Nguyễn Hữu Việt Hưng,2004,

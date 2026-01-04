@@ -1,0 +1,88 @@
+# COURSE: Chuyên đề chọn lọc trong Hệ thống thông tin (CSC12102)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC12102
+- **English Name**: Special Topics in Information Systems
+- **Vietnamese Name**: Chuyên đề chọn lọc trong Hệ thống thông tin
+- **Responsible Person**: for the module: Assoc. Prof. Lê Nguyễn Hoài Nam
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction of information retrieval systems
+- Basic models of information retrieval systems: Boolean model, Vector model, Probabilistic model
+- Advanced models of information retrieval systems: Latent Semantic Indexing
+- Language Model
+- Evaluation of information retrieval systems
+- Implementation of information retrieval systems
+- Natural language processing
+- Applying natural language processing techniques to information retrieval systems
+- Recommender systems
+- Memory-based collaborative filtering
+- Model-based collaborative filtering
+- Content-based Filtering
+- Implementation of recommender systems
+- Review
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Introduction to Information Retrieval,Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze.,2008,Cambridge University Press
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Practice teamwork to solve problems related to information retrieval systems.
+- G2.Use skills in reading English documents about information retrieval systems
+- G3.Practice critical, creative thinking in information retrieval systems
+- G4.Practice research skills
+- G5.Use relevant technologies
+• Content:
+- Introduction of information retrieval systems
+- Basic models of information retrieval systems: Boolean model, Vector model, Probabilistic model
+- Advanced models of information retrieval systems: Latent Semantic Indexing
+- Language Model
+- Evaluation of information retrieval systems
+- Implementation of information retrieval systems
+- Natural language processing
+- Applying natural language processing techniques to information retrieval systems
+- Recommender systems
+- Memory-based collaborative filtering
+- Model-based collaborative filtering
+- Content-based Filtering
+- Implementation of recommender systems
+- Review
+• Examination forms: Close Test, Written Report, Homework, In-class Activities, Quiz, quick test, Excercise, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Introduction to Information Retrieval,Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze.,2008,Cambridge University Press
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Introduction to Information Retrieval,Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze.,2008,Cambridge University Press
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Introduction to Information Retrieval,Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze.,2008,Cambridge University Press
+
+## READING MATERIALS
+- [1]Introduction to Information Retrieval,Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze.,2008,Cambridge University Press

@@ -1,0 +1,117 @@
+# COURSE: Mô hình hóa phần mềm (CSC13108)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC13108
+- **English Name**: Software Modeling
+- **Vietnamese Name**: Mô hình hóa phần mềm
+- **Responsible Person**: for the module: Bùi Tấn Lộc
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+As software modeling plays not only an important role in the actual coding effort, we will also practice its effects in requirements engineering and testability.
+Most of the course will be hands-on. Expect to write, design, discuss, and code a lot. We could apply any agile approach such as apply Scrum for our team management and use Kanban to manage our projects. We will manage our code via a git-based configuration management tool.
+• COURSE TOPICS:
+- An introduction to modeling and software modeling
+- Business process modeling
+- User requirement modeling
+- Analysis modeling
+- Design modeling
+- Software testing specifications
+- An introduction to model driven approach and model driven engineering
+- Generic textual syntax modeling
+- Graphical editors modeling
+- Model validation and transformation
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]UML @ Classroom: An Introduction to Object-Oriented Modeling,Martina Seidl, Marion Scholz, Christian Huemer, and Gerti Kappel,2015,Springer
+- [2]OOAD with UML 2 (RUP), Training materials from IBM company,,,
+- [3]MDE training resources, Open Model CourseWare (OMCW) initiated by the ATLAS Team at National Institute for Research in Digital Science and Technology (INRIA),,,
+- [4]UML by Example,Ghinwa Jalloul,2004,Cambridge University Press
+- [5]The Business Analyst’s Handbook,Howard Podeswa,2009,Course Technology PTR
+- [6]Fundamentals of Business Process Management,Marlon Dumas , Marcello La Rosa , Jan Mendling , Hajo A. Reijers,2018,Springer
+- [7]Conceptual Modeling of Information Systems,Antoni Olivé,2007,Springer
+- [8]Software Engineering with UML,Bhuvan Unhelkar,2017,CRC Press
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Explain necessary models used for different software development methodologies (approaches, processes, modeling languages and tools)
+- G2.Apply personal skills and teamwork skills for making artifacts which are produced and used during a software development project.
+- G3.Recognize how information technology enables to change business process to yield business value.
+- G4.Apply, analyze, synthesize and evaluate how parts of the software development process are broken and modeled in their relations which help us facilitate agile or enterprise software development.
+- G5.Synthesize test case and test plan specifications
+• Content:
+- An introduction to modeling and software modeling
+- Business process modeling
+- User requirement modeling
+- Analysis modeling
+- Design modeling
+- Software testing specifications
+- An introduction to model driven approach and model driven engineering
+- Generic textual syntax modeling
+- Graphical editors modeling
+- Model validation and transformation
+• Examination forms: Final examination, Homework, Quiz, quick test, Research Project, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]UML @ Classroom: An Introduction to Object-Oriented Modeling,Martina Seidl, Marion Scholz, Christian Huemer, and Gerti Kappel,2015,Springer
+- [2]OOAD with UML 2 (RUP), Training materials from IBM company,,,
+- [3]MDE training resources, Open Model CourseWare (OMCW) initiated by the ATLAS Team at National Institute for Research in Digital Science and Technology (INRIA),,,
+- [4]UML by Example,Ghinwa Jalloul,2004,Cambridge University Press
+- [5]The Business Analyst’s Handbook,Howard Podeswa,2009,Course Technology PTR
+- [6]Fundamentals of Business Process Management,Marlon Dumas , Marcello La Rosa , Jan Mendling , Hajo A. Reijers,2018,Springer
+- [7]Conceptual Modeling of Information Systems,Antoni Olivé,2007,Springer
+- [8]Software Engineering with UML,Bhuvan Unhelkar,2017,CRC Press
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]UML @ Classroom: An Introduction to Object-Oriented Modeling,Martina Seidl, Marion Scholz, Christian Huemer, and Gerti Kappel,2015,Springer
+- [2]OOAD with UML 2 (RUP), Training materials from IBM company,,,
+- [3]MDE training resources, Open Model CourseWare (OMCW) initiated by the ATLAS Team at National Institute for Research in Digital Science and Technology (INRIA),,,
+- [4]UML by Example,Ghinwa Jalloul,2004,Cambridge University Press
+- [5]The Business Analyst’s Handbook,Howard Podeswa,2009,Course Technology PTR
+- [6]Fundamentals of Business Process Management,Marlon Dumas , Marcello La Rosa , Jan Mendling , Hajo A. Reijers,2018,Springer
+- [7]Conceptual Modeling of Information Systems,Antoni Olivé,2007,Springer
+- [8]Software Engineering with UML,Bhuvan Unhelkar,2017,CRC Press
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]UML @ Classroom: An Introduction to Object-Oriented Modeling,Martina Seidl, Marion Scholz, Christian Huemer, and Gerti Kappel,2015,Springer
+- [2]OOAD with UML 2 (RUP), Training materials from IBM company,,,
+- [3]MDE training resources, Open Model CourseWare (OMCW) initiated by the ATLAS Team at National Institute for Research in Digital Science and Technology (INRIA),,,
+- [4]UML by Example,Ghinwa Jalloul,2004,Cambridge University Press
+- [5]The Business Analyst’s Handbook,Howard Podeswa,2009,Course Technology PTR
+- [6]Fundamentals of Business Process Management,Marlon Dumas , Marcello La Rosa , Jan Mendling , Hajo A. Reijers,2018,Springer
+- [7]Conceptual Modeling of Information Systems,Antoni Olivé,2007,Springer
+- [8]Software Engineering with UML,Bhuvan Unhelkar,2017,CRC Press
+
+## READING MATERIALS
+- [1]UML @ Classroom: An Introduction to Object-Oriented Modeling,Martina Seidl, Marion Scholz, Christian Huemer, and Gerti Kappel,2015,Springer
+- [2]OOAD with UML 2 (RUP), Training materials from IBM company,,,
+- [3]MDE training resources, Open Model CourseWare (OMCW) initiated by the ATLAS Team at National Institute for Research in Digital Science and Technology (INRIA),,,
+- [4]UML by Example,Ghinwa Jalloul,2004,Cambridge University Press
+- [5]The Business Analyst’s Handbook,Howard Podeswa,2009,Course Technology PTR
+- [6]Fundamentals of Business Process Management,Marlon Dumas , Marcello La Rosa , Jan Mendling , Hajo A. Reijers,2018,Springer
+- [7]Conceptual Modeling of Information Systems,Antoni Olivé,2007,Springer
+- [8]Software Engineering with UML,Bhuvan Unhelkar,2017,CRC Press

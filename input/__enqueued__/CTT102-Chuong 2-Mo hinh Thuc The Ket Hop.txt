@@ -1,0 +1,1754 @@
+CHƯƠNG 
+  2 
+Mô 
+  Hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp (En:ty-­‐Rela:onship 
+  Model) 
+Slide 
+  bài 
+  giảng 
+  môn 
+  Cơ 
+  sở 
+  dữ 
+  liệu 
+© 
+  Bộ 
+  môn 
+  Hệ 
+  Thống 
+  Thông 
+  Tin 
+  -­‐ 
+  Khoa 
+  Công 
+  Nghệ 
+  Thông 
+  Tin 
+  -­‐ 
+  Trường 
+  Đại 
+  học 
+  Khoa 
+  học 
+  Tự 
+  nhiên 
+Nội 
+  dung 
+§Quá 
+  trình 
+  thiết 
+  kế 
+  CSDL 
+§Mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp 
+§Một 
+  số 
+  qui 
+  tắc 
+  mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp §Ví 
+  dụ 
+Quá 
+  trình 
+  thiết 
+  kế 
+  CSDL 
+hiện) 
+Quá 
+  trình 
+  thiết 
+  kế 
+  CSDL 	Thế giới 
+thực 
+Phân tích yêu cầu 
+Các yêu cầu về chức năng 
+Phân tích quan niệm 
+		Các đặc tả chức năng 
+	Lược đồ quan niệm 
+			Độc lập HQT Thiết kế mức logic 
+			Phụ thuộc HQT cụ thể 
+Thiết kế mức vật lý 
+Nội 
+  dung 
+§Quá 
+  trình 
+  thiết 
+  kế 
+  CSDL 
+§Mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp 
+§Một 
+  số 
+  qui 
+  tắc 
+  mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp §Ví 
+  dụ 
+Mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp 
+§Entity-Relationship Model 
+§Do Dr. Peter Pin-Shan Chen đề xuất 1976, trong bài báo “The Entity-Relationship 
+Model-Toward a Unified View of Data” 
+§ANSI chọn là mô hình chuẩn cho hệ thống tự điển tài nguyên thông tin (IRDSS: 
+Information Resource Dictionary System) 
+Mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp 
+§Được sử dụng rộng rãi nhất trong việc thiết 	kế quan niệm dữ liệu 
+§Bao gồm hai phần: nguyên thuỷ & mở rộng §Được nhiều công cụ hỗ trợ 
+§Nguyên lý 
+-Một 
+  CSDL 
+  có 
+  thể 
+  được 
+  mô 
+  hình 
+  hoá 
+  như 
+  là 
+  một tập 
+  các 
+  thực 
+  thể 
+  (entities) 
+  và 
+  mối 
+  kết 
+  hợp (relationships) 
+  giữa 
+  chúng
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Thực 
+  thể 
+-Một 
+  thực 
+  là 
+  một 
+  đối 
+  tượng 
+  của 
+  thế 
+  giới 
+  thực -Ví 
+  dụ: 
+	l1 
+  chiếc 
+  ôtô, 
+  một 
+  hoá 
+  đơn, 
+  một 
+  nhân 
+  viên, 
+  … -Phân loại thực thể: 2 loại chính 
+lMột đối tượng tồn tại vật lý, có thể quan sát 	được 
+–1 sinh viên, 1 toà nhà, 1 xe ôtô, … 
+lMột đối tượng ý niệm không trực quan 
+–1 công ty, 1 dự án, 1 phòng ban, … 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	8 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Thuộc tính (attribute) 
+	-Đặc trưng của một thực thể 
+	-Mang giá trị cụ thể 
+	-Ví dụ: 
+		l1 thực thể sinh viên «Nguyễn Văn A» có các 			thuộc tính: 
+			–Họ: Nguyễn 
+			–Tên lót: Văn 
+			–Tên: A 
+			–Tuổi: 20 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN–CMND: 0123456789 	9 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Loại thực thể (Entity type hoặc Entity set) 
+-Mô tả tập các thực thể giống nhau (có cấu trúc 	tương tự nhau) 
+-Ví dụ: 
+lHai thực thể «Nguyễn Văn A» và «Trần Thị B» có các giá trị thuộc tính khác nhau nhưng có cùng cấu trúc. Ta gọi cấu trúc này là loại thực thể SINH VIEN 
+-Ký hiệu 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Loại 
+  thực 
+  thể 
+  -­‐ 
+  Ví 
+  dụ: 
+  “Quản 
+  lý 
+  đề 
+  tài 
+  nghiên 		cứu 
+  khoa 
+  học” 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Thuộc 
+  tính 
+	-Là 
+  những 
+  đặc 
+  tính 
+  riêng 
+  biệt 
+  của 
+  loại 
+  thực 
+  thể. 
+GIÁOVIÊN
+-Thuộc 
+  tính 
+  là 
+  những 
+  giá 
+  trị 
+  nguyên 
+  tố lKiểu 
+  chuỗi 
+lKiểu 
+  số 
+  nguyên 
+lKiểu 
+  số 
+  thực 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	12 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Phân 
+  loại 
+  thuộc 
+  tính 
+-Thuộc 
+  tính 
+  đơn 
+  trị 
+-Thuộc 
+  tính 
+  đa 
+  trị 
+-Thuộc 
+  tính 
+  kết 
+  hợp 
+-Thuộc 
+  tính 
+  dẫn 
+  xuất 
+  (suy 
+  diễn) 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 	§Thuộc 
+  tính 
+  đơn 
+  trị 
+		-Chỉ chứa một giá trị 
+tính 
+MãSV 
+Ngày 
+  sinh 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Thuộc 
+  tính 
+  đa 
+  trị 
+		-Nhận 
+  nhiều 
+  giá 
+  trị 
+  đối 
+  với 
+  một 
+  thực 
+  thể 
+  cụ 
+  thể 		-Ký 
+  hiệu: 
+			Tên 
+  thuộc 
+				tính 
+-Ví 
+  dụ: 
+  thuộc 
+  tính 
+  ĐIỆNTHOẠI 
+  của 
+  tập 
+  thực 
+  thể GIÁOVIÊNlà 
+  thuộc 
+  tính 
+  đa 
+  trị 
+  mô 
+  tả 
+  mỗi 
+  giáo viên 
+  có 
+  thể 
+  có 
+  nhiều 
+  số 
+  điện 
+  thoại. 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Thuộc 
+  tính 
+  kết 
+  hợp 
+-Là 
+  thuộc 
+  tính 
+  được 
+  kết 
+  hợp 
+  từ 
+  nhiều 
+  thuộc 
+  tính 	thành 
+  phần 
+  khác. 
+-Ví 
+  dụ: 
+  thuộc 
+  tính 
+  ĐỊACHỈ 
+  của 
+  tập 
+  thực 
+  thể 
+GIÁOVIÊN 
+  có 
+  thể 
+  chia 
+  nhỏ 
+  thành 
+  các 
+  thành 
+  phần: SỐNHÀ, 
+  ĐƯỜNG, 
+  QUẬN, 
+  THÀNHPHỐ 
+THÀNHPHỐ
+QUẬN
+GIÁOVIÊN	ĐỊA CHỈ
+ĐƯỜNG
+SỐNHÀ
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Thuộc 
+  tính 
+  suy 
+  diễn 
+		-Giá 
+  trị 
+  của 
+  thuộc 
+  tính 
+  được 
+  tính 
+  toán 
+  từ 
+  giá 
+  trị 			của 
+  các 
+  thuộc 
+  tính 
+  khác. 
+tính 
+Tuổi 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Thuộc 
+  tính 
+  khoá 
+  (hoặc 
+  định 
+  danh) 
+		-Tập 
+  thuộc 
+  tính 
+  cho 
+  phép 
+  nhận 
+  biết 
+  duy 
+  nhất 			một 
+  thực 
+  thể. 
+Ngày 
+  sinh 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Khoá 
+  hợp 
+		-Khoá 
+  có 
+  nhiều 
+  thuộc 
+  tính 
+			Năm 
+  học 
+		ØKhoá 
+  học 
+  được 
+  xác 
+  định 
+  bởi 
+  một 
+  năm 
+  học 
+  và 			một 
+  học 
+  kỳ 
+-à 
+  Nếu 
+  một 
+  thực 
+  thể 
+  có 
+  nhiều 
+  khoá 
+  ⇒ 
+  chỉ 
+  có 
+  một 	khoá 
+  được 
+  chọn 
+  (khoá 
+  chính) 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Mối 
+  kết 
+  hợp 
+  (Relationship) 
+		-Liên 
+  kết 
+  giữa 
+  hai 
+  hay 
+  nhiều 
+  thực 
+  thể 		-Ví 
+  dụ: 
+lMối 
+  kết 
+  hợp 
+  một 
+  nhân 
+  viên 
+  và 
+  một 
+  phòng 
+  ban: nhân 
+  viên 
+  NV100 
+  thuộc 
+  phòng 
+  KT, 
+  nhân 
+  viên NV101 
+  cũng 
+  thuộc 
+  phòng 
+  KT 
+  và 
+  nhân 
+  viên NV102 
+  thuộc 
+  phòng 
+  KD. 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Mối 
+  kết 
+  hợp 
+  có 
+  thuộc 
+  tính: 
+-Nhân 
+  viên 
+  NV100 
+  làm 
+  việc 
+  tại 
+  phòng 
+  KT 
+  có 
+  ngày bắt 
+  đầu 
+  10-­‐09-­‐2009 
+  và 
+  tại 
+  phòng 
+  KD 
+  có 
+  ngày 
+  bắt đầu 
+  20-­‐09-­‐2010 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 	§Biễu 
+  diễn 
+  mối 
+  kết 
+  hợp 		-Bảng 
+-Đồ 
+  thị 
+	NV100 
+KT 
+NV102 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	22 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Loại 
+  mối 
+  kết 
+  hợp 
+  (Relationship 
+  type 
+  or 
+  set) 		-Tập 
+  hợp 
+  các 
+  mối 
+  kết 
+  hợp 
+  tương 
+  tự 
+  nhau 
+		-Ký 
+  hiệu: 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Loại 
+  mối 
+  kết 
+  hợp 
+  – 
+  ví 
+  dụ: 
+-Giữa 
+  tập 
+  thực 
+  thể 
+  GIÁOVIÊN 
+  và 
+  BỘMÔN 
+  có 
+  các 	tập 
+  mối 
+  kết 
+  hợp: 
+-Một 
+  giáo 
+  viên 
+  thuộc 
+  một 
+  bộ 
+  môn 
+  nào 
+  đó 
+-Một 
+  bộ 
+  môn 
+  do 
+  một 
+  giáo 
+  viên 
+  làm 
+  trưởng 
+  bộ 	môn. 
+BM
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Loại 
+  mối 
+  kết 
+  hợp 
+  – 
+  ví 
+  dụ: 
+		-Loại 
+  mối 
+  kết 
+  hợp 
+  vòng 
+  (phản 
+  thân) 
+  quản 
+  lý 
+  trên 			thực 
+  thể 
+  GIÁOVIÊN 
+(0,1)
+(0,n)
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Bản 
+  số 
+  (Cardinality) 
+-Ràng 
+  buộc 
+  về 
+  số 
+  lượng 
+  của 
+  một 
+  thực 
+  thể 
+  có 
+  thể 	tham 
+  gia 
+  vào 
+  tập 
+  mối 
+  kết 
+  hợp 
+-Thể 
+  hiện 
+  qua 
+  cặp 
+  chỉ 
+  số 
+  (maxcard, 
+  mincard): 
+lMaxcard: 
+  qui 
+  định 
+  số 
+  lần 
+  tối 
+  thiểu 
+  của 
+  thực 	thể 
+  tham 
+  gia 
+  vào 
+  mối 
+  kết 
+  hợp 
+–Giá 
+  trị: 
+  0, 
+  1,2, 
+  …, 
+  a 
+  (a 
+  hằng 
+  số) 
+lMincard: 
+  qui 
+  định 
+  số 
+  lần 
+  tối 
+  đa 
+  của 
+  thực 
+  thể 	tham 
+  gia 
+  vào 
+  mối 
+  kết 
+  hợp 
+–Giá 
+  trị: 
+  1à 
+  n 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Bản 
+  số 
+l(0,1) 
+  -­‐ 
+  không 
+  hoặc 
+  1 
+l(0,n) 
+  -­‐ 
+  không 
+  hoặc 
+  nhiều 
+l(1,n) 
+  -­‐ 
+  một 
+  hoặc 
+  nhiều 
+l(0, 
+  a), 
+  (1, 
+  a), 
+  (a, 
+  n): 
+  a 
+  là 
+  hằng 
+  số 
+  > 
+  1 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 	§Bản 
+  số 
+  -­‐ 
+  ví 
+  dụ: 
+NV-P1 
+NV005 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 	§3 
+  dạng 
+  loại 
+  mối 
+  kết 
+  hợp 
+-One-­‐to-­‐one 
+  (1:1): 
+  Nếu 
+  maxcard(E1,R) 
+  = 
+  1 
+  và 	maxcard(E2,R) 
+  = 
+  1 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§3 
+  dạng 
+  loại 
+  mối 
+  kết 
+  hợp 
+-One-­‐to-­‐many 
+  (1:N): 
+  Nếu 
+  maxcard(E1,R) 
+  = 
+  1 
+  và 	maxcard(E2,R) 
+  = 
+  n 
+-Many-­‐to-­‐many 
+  (N:N): 
+  Nếu 
+  maxcard(E1,R) 
+  = 
+  n 
+  và 	maxcard(E2,R) 
+  = 
+  m, 
+  (m,n 
+  >1) 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§3 
+  dạng 
+  loại 
+  mối 
+  kết 
+  hợp 
+  – 
+  ví 
+  dụ 
+Một lí lịch thuộc về duy nhất một nhân viên và ngược lại, một nhân viên chỉ có tối đa một lích lịch 
+Một nhân viên có thể tham gia nhiều dự án và một dự án có thể được thực hiện bởi nhiều nhân viên. 
+Một dự án chỉ có duy nhất một người quản lý. Một nhân viên có thể quản lý nhiều dự án 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	31 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+	§Thực 
+  thể 
+  phụ 
+  thuộc 
+		-Thực 
+  thể 
+  tồn 
+  tại 
+  phụ 
+  thuộc 
+  vào 
+  sự 
+  tồn 
+  tại 
+  của 			thực 
+  thể 
+  khác 
+		-Ví 
+  dụ: 
+Lí lịch là không thể có nếu không có nhân viên 
+Một giai đoạn chỉ tồn tại cho một dự án 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Thực 
+  thể 
+  yếu 
+  (weak 
+  entity) 
+-Là 
+  thực 
+  thể 
+  không 
+  thể 
+  nhận 
+  biết 
+  với 
+  nhữngthuộc 	tính 
+  của 
+  nó 
+làkhông 
+  có 
+  khoá 
+  hoặc 
+  khoá 
+  yếu 
+  (khóa 
+  có được 
+  từ 
+  những 
+  thuộc 
+  tính 
+  củatập 
+  thực 
+  thể khác) 
+-Thực 
+  thể 
+  yếu 
+  phải 
+  tham 
+  gia 
+  vào 
+  mối 
+  quan 
+  hệ 
+  mà 	trong 
+  đó 
+  có 
+  một 
+  tập 
+  thực 
+  thể 
+  chính 
+-Ký 
+  hiệu: 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+tính 
+  của 
+  nó 
+-Khoáđượcxác 
+  định: 
+  STT 
+  + 
+  SO 
+  DH 
+  (DON 
+  HANG) -CHI 
+  TIET 
+  DH 
+  phụ 
+  thuộc 
+  tồn 
+  tại 
+  vào 
+  DON 
+  HANG 
+Các 
+  khái 
+  niệm 
+  cơ 
+  bản 
+§Thực 
+  thể 
+  yếu 
+  – 
+  ví 
+  dụ 
+Tên Năm 
+  sinh 
+MãNV 
+-Thân 
+  nhân 
+  chỉ 
+  được 
+  quản 
+  lý 
+  như 
+  là 
+  một 
+  phần 	thông 
+  tin 
+  bổ 
+  sung 
+  cho 
+  nhân 
+  viên 
+-Công 
+  ty 
+  không 
+  có 
+  nhu 
+  cầu 
+  quản 
+  lý 
+  mã 
+  số 
+  cho 	thân 
+  nhân 
+-à 
+  Khoá 
+  của 
+  THAN 
+  NHAN: 
+  Tên 
+  (THAN 
+  NHAN)+ 	MãNV 
+  (NHAN 
+  VIEN) 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	35 
+Nội 
+  dung 
+	§Quá 
+  trình 
+  thiết 
+  kế 
+  CSDL 
+	§Mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 
+  Hợp 
+	§Một 
+  số 
+  qui 
+  tắc 
+  mô 
+  hình 
+  Thực 
+  Thể 
+  -­‐ 
+  Kết 		Hợp 
+	§Ví 
+  dụ 
+Một 
+  số 
+  qui 
+  tắc 
+	§Một 
+  thuộc 
+  tính 
+  dùng 
+  để 
+  mô 
+  tả 
+  đặc 
+  trưng 
+  cho 		duy 
+  nhất 
+  một 
+  thực 
+  thể 
+			MãKH 
+Địa 
+  chỉ 
+Một 
+  số 
+  qui 
+  tắc 
+	§Tất 
+  cả 
+  các 
+  nhánh 
+  nối 
+  với 
+  mối 
+  kết 
+  hợp 
+  phải 
+  là 		nhánh 
+  bắt 
+  buộc 
+			Điểm 
+HOC 
+  KY 
+Điểm 
+Một 
+  số 
+  qui 
+  tắc 
+§Nếu 
+  có 
+  một 
+  thuộc 
+  tính 
+  của 
+  một 
+  thực 
+  thể 
+  phụ thuộc 
+  vào 
+  thực 
+  thể 
+  đó 
+  và 
+  một 
+  thuộc 
+  tính 
+  khác của 
+  thực 
+  thể 
+  đó 
+  thì 
+  tồn 
+  tại 
+  một 
+  thực 
+  thể 
+  ẩn 
+	Loại à Trọng lượng
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	39 
+Một 
+  số 
+  qui 
+  tắc 
+	§Sử 
+  dụng 
+  thuộc 
+  tính 
+  hay 
+  thực 
+  thể 
+  biểu 
+  diễn 		cho 
+  một 
+  đối 
+  tượng 
+			-Địa 
+  chỉ: 
+  dùng 
+  thuộc 
+  tính 
+  hay 
+  thực 
+  thể? 
+§Thực 
+  thể 
+  hay 
+  MKH? 
+§Thực 
+  thể 
+  mạnh 
+  hay 
+  thực 
+  thể 
+  yếu? 
+Ví 
+  dụ 
+  « 
+  Quản 
+  lý 
+  đề 
+  án 
+  » 
+§CSDL 
+  đề 
+  án 
+  công 
+  ty 
+  theo 
+  dõi 
+  các 
+  thông 
+  tin 
+  liên 
+  quan 	đến 
+  nhân 
+  viên, 
+  phòng 
+  ban 
+  và 
+  đề 
+  án 
+		-Cty 
+  có 
+  nhiều 
+  phòng 
+  ban, 
+  mỗi 
+  phòng 
+  ban 
+  có 
+  tên 
+  duy 
+  nhất, 			mã 
+  phòng 
+  duy 
+  nhất, 
+  một 
+  trưởng 
+  phòng 
+  và 
+  ngày 
+  nhận 			chức. 
+  Mỗi 
+  phòng 
+  ban 
+  có 
+  thể 
+  ở 
+  nhiều 
+  địa 
+  điểm 
+  khác 
+  nhau. 		-Đề 
+  án 
+  có 
+  tên 
+  duy 
+  nhất, 
+  mã 
+  duy 
+  nhất, 
+  do 
+  1 
+  một 
+  phòng 
+  ban 			chủ 
+  trì 
+  và 
+  được 
+  triển 
+  khai 
+  ở 
+  1 
+  địa 
+  điểm. 
+-Nhân 
+  viên 
+  có 
+  mã 
+  số, 
+  tên, 
+  địa 
+  chỉ, 
+  ngày 
+  sinh, 
+  phái 
+  và 
+  lương. 
+Mỗi 
+  nhân 
+  viên 
+  làm 
+  việc 
+  ở 
+  1 
+  phòng 
+  ban, 
+  tham 
+  gia 
+  vào 
+  các đề 
+  án 
+  với 
+  số 
+  giờ 
+  làm 
+  việc 
+  khác 
+  nhau. 
+  Mỗi 
+  nhân 
+  viên 
+  đều có 
+  một 
+  người 
+  quản 
+  lý 
+  trực 
+  tiếp. 
+-Một 
+  nhân 
+  viên 
+  có 
+  thể 
+  có 
+  nhiều 
+  thân 
+  nhân. 
+  Mỗi 
+  thân 
+  nhân 	có 
+  tên, 
+  phái, 
+  ngày 
+  sinh 
+  và 
+  mối 
+  quan 
+  hệ 
+  với 
+  nhân 
+  viên 
+  đó. 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN 	41 
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 2
+Thế 
+  giới thực | Động 
+(xử lý, giao tác, hành vi, …)
+Tĩnh (dữ liệu) | Luận lý | Vật lý | Hệ CSDL
+Quan niệm | Luận lý | Vật lý | Hệ CSDL
+(gần với con | Luận lý | (máy tính | Hệ CSDL
+người) | Luận lý | hiểu và thực | Hệ CSDL
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 3
+Các yêu cầu về dữ liệu | Phân tích chức năng
+Lược đồ logic | Thiết kế 
+chương trình ứng dụng
+Lược đồ trong | Chương trình ứng dụng | 4
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | Chương trình ứng dụng | 4
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 5
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 6
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 7
+10
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 10
+-Một 
+  giáo 
+  viên 
+  là 
+  một 
+  thực 
+  thể 
+-Tập 
+  hợp 
+  các 
+  giáo 
+  viên 
+  là 
+  tập 
+  thực 
+  thể | -Một 
+  giáo 
+  viên 
+  là 
+  một 
+  thực 
+  thể 
+-Tập 
+  hợp 
+  các 
+  giáo 
+  viên 
+  là 
+  tập 
+  thực 
+  thể | 11
+-Một 
+  khoa 
+  là 
+  một 
+  thực 
+  thể 
+-Tập 
+  hợp 
+  các 
+  khoa 
+  là 
+  tập 
+  thực 
+  thể | 11
+-Một 
+  bộ 
+  môn 
+  là 
+  một 
+  thực 
+  thể 
+-Tập 
+  hợp 
+  các 
+  bộ 
+  môn 
+  là 
+  tập 
+  thực 
+  thể | 11
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 11
+-Ký 
+  hiệu: | LƯƠNG | Tên 
+  thuộc 
+  *nh | PHÁI
+-Ký 
+  hiệu: | LƯƠNG | HỌTÊN | PHÁI
+-Ví 
+  dụ: | LƯƠNG | HỌTÊN | PHÁI
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 13
+-Ký hiệu: | Tên 
+  thuộc
+SINH 
+  VIEN | Họ 
+  tên
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 14
+GIÁOVIÊN | ĐIỆNTHOẠI | 15
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | ĐIỆNTHOẠI | 15
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 16
+-Ký 
+  hiệu: | Tên 
+  thuộc
+SINH 
+  VIEN | Ngày 
+  sinh
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 17
+-Ký 
+  hiệu: | MãSV | Thuộc 
+  tính 
+  khoá | MãNV
+SINH 
+  VIEN | Họ 
+  tên | NHAN 
+  VIEN | Họ 
+  tên
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 18
+KHOÁ 
+  HỌC | Học 
+  kỳ
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 19
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 20
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 21
+Phòng
+KT | 10-­‐09-­‐2009
+KD | 20-­‐09-­‐2010
+KT | 18-­‐07-­‐2008
+KD | 12-­‐05-­‐2011
+NV101 | KD
+-Ví 
+  dụ: | Tên 
+  MHK | Tên MKH = động từ / cụm danh từ
+-Ví 
+  dụ: | Tên 
+  MHK | Ngày 
+  BĐ
+NHAN 
+  VIEN | Thuộc | PHONG | 23
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | PHONG | 23
+(0,1) | Là_Trưởng_ | (1,1)
+GIÁOVIÊN | (1,1) | Làm_Việc | (1,n) | BỘMÔN | 24
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | Làm_Việc | (1,n) | BỘMÔN | 24
+GIÁOVIÊN | Quản_Lý
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 25
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 26
+E | (min, max) | Quan_hệ | (min, max) | F | (1,1)
+-Các 
+  mẫu 
+  cơ 
+  bản: | -Các 
+  mẫu 
+  cơ 
+  bản: | Quan_hệ | (0,1) | Là_Trưởng_ | (1,1)
+-Các 
+  mẫu 
+  cơ 
+  bản: | -Các 
+  mẫu 
+  cơ 
+  bản: | Quan_hệ | (0,1) | BM | (1,1)
+l(1,1) 
+  -­‐ 
+  duy 
+  nhất 
+  1 | GIÁOVIÊN | (1,1) | Làm_Việc | (1,n) | BỘMÔN
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | GIÁOVIÊN | KẾTQUẢ | KẾTQUẢ | PHỤCẤP | PHỤCẤP | CÔNGVIỆC
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | GIÁOVIÊN | (0,n) | Tham_Gia | Tham_Gia | (0,n) | CÔNGVIỆC
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | GIÁOVIÊN | (0,n) | Tham_Gia | Tham_Gia | (0,n) | 27
+NHAN 
+  VIEN | (1,n) | NV-­‐ | (0,n) | PHONG
+NHAN 
+  VIEN | (1,n) | PHONG | (0,n) | PHONG
+NV001 | NV-P2 | KT
+NV002 | NV-P3 | KD
+NV003 | NV-P4 | NS
+NV004 | NV-P5 | NS
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 28
+E1 | R | E2
+Là_Trưởng_ BM | (1,1) | 29
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | (1,1) | 29
+Làm_việc | (1,n)
+Là_Chủ_nhiệm | (1,1)
+Tham_Gia | (0,n) | 30
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | (0,n) | 30
+NHAN 
+  VIEN | (0,1) | NV-­‐LL | (1,1) | LI 
+  LICH
+NHAN 
+  VIEN | (0,n) | THAM | (0,n) | DU 
+  AN
+NHAN 
+  VIEN | (0,n) | GIA | (1,1) | DU 
+  AN
+NHAN 
+  VIEN | (0,n) | QUAN | (1,1) | DU 
+  AN
+NHAN 
+  VIEN | (0,n) | LY | (1,1) | DU 
+  AN
+NHAN 
+  VIEN | (0,1) | NV-­‐LL | LI 
+  LICH
+DU 
+  AN | (0,n) | Thuộc | GIAI 
+  DOAN
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 32
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 33
+§Thực 
+  thể 
+  yếu 
+  – 
+  ví 
+  dụ | §Thực 
+  thể 
+  yếu 
+  – 
+  ví 
+  dụ | §Thực 
+  thể 
+  yếu 
+  – 
+  ví 
+  dụ | STT | MAT
+SO | NGAY | TEN | STT | HANG
+SO | NGAY | KH | STT | HANG
+DH | NGAY | KH | STT | HANG
+DON 
+  HANG | DON 
+  HANG | Thuộc | CHI 
+  TIET 
+  DH | CHI 
+  TIET 
+  DH
+(1,n) 
+SO 
+TIEN 	SLUONG 	DON 				GIA 	-Chi 
+  tiết 
+  đơn 
+  hàng 
+  không 
+  có 
+  khoátừ 
+  các 
+  thuộc | (1,n) 
+SO 
+TIEN 	SLUONG 	DON 				GIA 	-Chi 
+  tiết 
+  đơn 
+  hàng 
+  không 
+  có 
+  khoátừ 
+  các 
+  thuộc | (1,n) 
+SO 
+TIEN 	SLUONG 	DON 				GIA 	-Chi 
+  tiết 
+  đơn 
+  hàng 
+  không 
+  có 
+  khoátừ 
+  các 
+  thuộc | (1,n) 
+SO 
+TIEN 	SLUONG 	DON 				GIA 	-Chi 
+  tiết 
+  đơn 
+  hàng 
+  không 
+  có 
+  khoátừ 
+  các 
+  thuộc | (1,n) 
+SO 
+TIEN 	SLUONG 	DON 				GIA 	-Chi 
+  tiết 
+  đơn 
+  hàng 
+  không 
+  có 
+  khoátừ 
+  các 
+  thuộc
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 34
+NHAN 
+  VIEN | (0,n) | NV-­‐TN | THAN 
+  NHAN
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 36
+Mã 
+  hàng | HANG 
+  HOA | ĐVTính | KHACH 
+  HANG | Tên
+Tên | Tên | Của | 37
+Gồm | Gồm | Của | 37
+SốĐH | DON 
+  HANG | Của | 37
+Khách 
+  hàng | Ngày 
+  ĐH | Của | 37
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | Của | 37
+SINH 
+  VIEN | Học | MON 
+  HOC
+Tổng | Tổng | Điểm | TB | MON 
+  HOC | 38
+kết | kết | Điểm | TB | MON 
+  HOC | 38
+SINH 
+  VIEN | Học | Điểm | TB | MON 
+  HOC | 38
+HOC 
+  KY | HOC 
+  KY | Điểm | TB | MON 
+  HOC | 38
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | © 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | Điểm | TB | MON 
+  HOC | 38
+mà 
+  cần 
+  phải 
+  được 
+  định 
+  nghĩa 
+  bổ 
+  sung | mà 
+  cần 
+  phải 
+  được 
+  định 
+  nghĩa 
+  bổ 
+  sung | mà 
+  cần 
+  phải 
+  được 
+  định 
+  nghĩa 
+  bổ 
+  sung | mà 
+  cần 
+  phải 
+  được 
+  định 
+  nghĩa 
+  bổ 
+  sung | mà 
+  cần 
+  phải 
+  được 
+  định 
+  nghĩa 
+  bổ 
+  sung | mà 
+  cần 
+  phải 
+  được 
+  định 
+  nghĩa 
+  bổ 
+  sung | Trọng | Trọng
+Số 
+  xe | Số 
+  xe | Số 
+  xe | lượng | lượng | lượng | lượng | lượng
+XE | Màu | XE | Màu | Thuộc | Thuộc | Thuộc | LOAI 
+  XE
+Trọng | Loại | Loại | Số 
+  chỗ | Số 
+  chỗ | Tên 
+  loại | Tên 
+  loại | Tên 
+  loại
+Trọng | Số 
+  chỗ | Số 
+  chỗ | Số 
+  chỗ | Số 
+  chỗ | Tên 
+  loại | Tên 
+  loại | Tên 
+  loại
+lượng | Số 
+  chỗ | Số 
+  chỗ | Số 
+  chỗ | Số 
+  chỗ | Tên 
+  loại | Tên 
+  loại | Tên 
+  loại
+KHACH 
+  HANG | Mua | HANG
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 40
+© 
+  Bộ môn HTTT - Khoa CNTT - Trường ĐH KHTN | 42

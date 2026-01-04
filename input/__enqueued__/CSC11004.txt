@@ -1,0 +1,127 @@
+# COURSE: Mạng máy tính nâng cao (CSC11004)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC11004
+- **English Name**: Advanced Computer Networking
+- **Vietnamese Name**: Mạng máy tính nâng cao
+- **Responsible Person**: for the module: Lê Ngọc Sơn
+- **Semester**: (s) in which the module is taught: 5
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction & Computer network fundamentals review
+- OSI, TCP model
+- Internet applications
+- Protocols: HTTP, DNS, TCP, UDP, IP, ARP
+- IPv4 Address
+- TCP congestion Control
+- Flow control
+- Principle of congestion Control
+- TCP Congestion Control
+- Queue Management & Quality of Service
+- Queue Management
+- Quality of Service
+- Internet Routing
+- Intradomain Routing
+- Distance vector: RIP
+- Routing Loops
+- Link State: OSPF
+- Interdomain Routing
+- Path Vector: BGP
+- IPv6
+- IPv6 Features
+- IPv6 Addressing
+- ICMPv6 and Neighbor Discovery
+- IPv6 Deployment
+- Software Define Network (SDN)
+- SDN Foundations
+- Openflow
+- SDN Programming
+- Virtualization & Container
+- Virtualization
+- Container
+- Cloud Computing
+- DevOps
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Computer Networking: A Top-Down Approach 8th Edition,James Kurose (Author), Keith Ross (Author),2020,Pearson
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Apply some skills at the individual and the teamwork level to present problems in the Computer Networking
+- G2.Use the specialized English terminology in Computer Networking
+- G3.Explain the problem of congestion control and quality of service management on the Internet
+- G4.Explain and practice configuring Internet Routing
+- G5.Explain and practice configuring IPv6, Software Defined Network, Virtualization systems, Cloud Computing, Containers, DevOps
+- G6.Use support software tools to construct SDN programs, and practice on the advanced fields of computer network
+• Content:
+- Introduction & Computer network fundamentals review
+- OSI, TCP model
+- Internet applications
+- Protocols: HTTP, DNS, TCP, UDP, IP, ARP
+- IPv4 Address
+- TCP congestion Control
+- Flow control
+- Principle of congestion Control
+- TCP Congestion Control
+- Queue Management & Quality of Service
+- Queue Management
+- Quality of Service
+- Internet Routing
+- Intradomain Routing
+- Distance vector: RIP
+- Routing Loops
+- Link State: OSPF
+- Interdomain Routing
+- Path Vector: BGP
+- IPv6
+- IPv6 Features
+- IPv6 Addressing
+- ICMPv6 and Neighbor Discovery
+- IPv6 Deployment
+- Software Define Network (SDN)
+- SDN Foundations
+- Openflow
+- SDN Programming
+- Virtualization & Container
+- Virtualization
+- Container
+- Cloud Computing
+- DevOps
+• Examination forms: Open Test, Final examination, Lab final exam, Homework, Quiz, quick test, Research Project
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Networking: A Top-Down Approach 8th Edition,James Kurose (Author), Keith Ross (Author),2020,Pearson
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Networking: A Top-Down Approach 8th Edition,James Kurose (Author), Keith Ross (Author),2020,Pearson
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer Networking: A Top-Down Approach 8th Edition,James Kurose (Author), Keith Ross (Author),2020,Pearson
+
+## READING MATERIALS
+- [1]Computer Networking: A Top-Down Approach 8th Edition,James Kurose (Author), Keith Ross (Author),2020,Pearson

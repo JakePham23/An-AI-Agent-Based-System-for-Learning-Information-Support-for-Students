@@ -1,0 +1,80 @@
+# COURSE: Lập trình song song (CSC14120)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14120
+- **English Name**: Parallel Programming
+- **Vietnamese Name**: Lập trình song song
+- **Responsible Person**: for the module: Trần Trung Kiên
+- **Semester**: (s) in which the module is taught: 7
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduction to CUDA; example: vector addition, matrix multiplication, convolution, … (2 weeks)
+- GPU parallel execution in CUDA; example: reduction, vector addition, … (3 weeks)
+- Types of GPU memories in CUDA; example: reduction, convolution, … (2 weeks)
+- Example: scan, histogram, sort (3 weeks)
+- Optimizing a CUDA program; additional topics in parallel programming; final project (1 weeks)
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Programming in Parallel with CUDA: A Practical Guide,Richard Ansorge,2022,Cambridge University Press
+- [2]Nhập môn CUDA,Lê Hoài Bắc, Phạm Hoài Vũ,2012,ĐHQG HCM
+- [3]Lập Trình Song Song Trên GPU,Lê Hoài Bắc, Vũ Thanh Hưng, Trần Trung Kiên,2015,Nhà xuất bản Khoa học và kỹ thuật
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Operate common tasks (vector addition, matrix multiplication, convolution, reduction, scan, histogram, sort, ...) for parallel execution on the GPU using CUDA.
+- G2.Apply the knowledge of GPU parallel execution in CUDA to speed up a CUDA program.
+- G3.Apply the knowledge of GPU memories in CUDA to speed up a CUDA program.
+- G4.Apply the optimization process to optimize a CUDA program.
+- G5.Apply teamwork skills to complete the final project.
+• Content:
+- Introduction to CUDA; example: vector addition, matrix multiplication, convolution, … (2 weeks)
+- GPU parallel execution in CUDA; example: reduction, vector addition, … (3 weeks)
+- Types of GPU memories in CUDA; example: reduction, convolution, … (2 weeks)
+- Example: scan, histogram, sort (3 weeks)
+- Optimizing a CUDA program; additional topics in parallel programming; final project (1 weeks)
+• Examination forms: Homework, Research Project
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Programming in Parallel with CUDA: A Practical Guide,Richard Ansorge,2022,Cambridge University Press
+- [2]Nhập môn CUDA,Lê Hoài Bắc, Phạm Hoài Vũ,2012,ĐHQG HCM
+- [3]Lập Trình Song Song Trên GPU,Lê Hoài Bắc, Vũ Thanh Hưng, Trần Trung Kiên,2015,Nhà xuất bản Khoa học và kỹ thuật
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Programming in Parallel with CUDA: A Practical Guide,Richard Ansorge,2022,Cambridge University Press
+- [2]Nhập môn CUDA,Lê Hoài Bắc, Phạm Hoài Vũ,2012,ĐHQG HCM
+- [3]Lập Trình Song Song Trên GPU,Lê Hoài Bắc, Vũ Thanh Hưng, Trần Trung Kiên,2015,Nhà xuất bản Khoa học và kỹ thuật
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Programming in Parallel with CUDA: A Practical Guide,Richard Ansorge,2022,Cambridge University Press
+- [2]Nhập môn CUDA,Lê Hoài Bắc, Phạm Hoài Vũ,2012,ĐHQG HCM
+- [3]Lập Trình Song Song Trên GPU,Lê Hoài Bắc, Vũ Thanh Hưng, Trần Trung Kiên,2015,Nhà xuất bản Khoa học và kỹ thuật
+
+## READING MATERIALS
+- [1]Programming in Parallel with CUDA: A Practical Guide,Richard Ansorge,2022,Cambridge University Press
+- [2]Nhập môn CUDA,Lê Hoài Bắc, Phạm Hoài Vũ,2012,ĐHQG HCM
+- [3]Lập Trình Song Song Trên GPU,Lê Hoài Bắc, Vũ Thanh Hưng, Trần Trung Kiên,2015,Nhà xuất bản Khoa học và kỹ thuật

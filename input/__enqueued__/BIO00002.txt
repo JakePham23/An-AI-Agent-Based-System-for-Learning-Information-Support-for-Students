@@ -1,0 +1,111 @@
+# COURSE: Sinh đại cương 2 (BIO00002)
+
+## GENERAL INFORMATION
+- **Course ID**: BIO00002
+- **English Name**: Biology 2
+- **Vietnamese Name**: Sinh đại cương 2
+- **Responsible Person**: for the module:
+- **Semester**: (s) in which the module is taught: 3
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 0 hours Hours for self-study, examination preparation, other activities: ~ 86.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Overview of plant morphology and nutrition
+- Transport in vascular plants
+- Mineral nutrition in plants
+- Reproduction in seed plants
+- Plant responses to internal and external signals
+- Hormones and the endocrine system
+- The nervous system
+- Nutrition in animals
+- The circulatory system and gas exchange
+- The immune system
+- Reproduction and embryonic development in animals
+- Osmoregulation and the mechanisms of sensation and movement
+- Introduction to Ecology
+- Population and community ecology
+- Ecosystems, the biosphere, and biodiversity conservation
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Ecology: Individuals, Populations and Communities,Begon M., J.L. Harper, and C.R. Townsend,1986,Blackwell Scientific Publications
+- [2]Biology,Brooker, R.J, Widmaier E.P; Graham L.E and Stiling P.D.,2014,McGraw-Hill
+- [3]Biology (10th Edition),Campbell N.A, J.B. Reece, L.A. Urry, M.I. Cain, S.A. Wasserman, P.V. Minorsky, and R. B. Jackson,2014,Pearson, Benjamin Cummings
+- [4]Ecology: Theories and Applications (Fourth Edition),Stiling P. D.,2002,Prentice-Hall, Inc.
+- [5]Plant biology,Smith A.M; Coupland G; Dolan L; Harberd N; Jones J; Martin C; Sablowski R; and Amey A.,2010,Garland Science
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Acquire basic knowledge about plant morphology.
+- G2.Understand the basic functional processes of plants in the life cycle.
+- G3.Acquire basic knowledge about animal morphology.
+- G4.Understand the basic functional processes of animals in the life cycle.
+- G5.Understand the fundamental concepts of ecology.
+- G6.Understand the significance of biodiversity and the role of biodiversity conservation for Vietnam and the world.
+• Content:
+- Overview of plant morphology and nutrition
+- Transport in vascular plants
+- Mineral nutrition in plants
+- Reproduction in seed plants
+- Plant responses to internal and external signals
+- Hormones and the endocrine system
+- The nervous system
+- Nutrition in animals
+- The circulatory system and gas exchange
+- The immune system
+- Reproduction and embryonic development in animals
+- Osmoregulation and the mechanisms of sensation and movement
+- Introduction to Ecology
+- Population and community ecology
+- Ecosystems, the biosphere, and biodiversity conservation
+• Examination forms: Close Test, Final examination, Multiple Choice, Mid-term examination
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Ecology: Individuals, Populations and Communities,Begon M., J.L. Harper, and C.R. Townsend,1986,Blackwell Scientific Publications
+- [2]Biology,Brooker, R.J, Widmaier E.P; Graham L.E and Stiling P.D.,2014,McGraw-Hill
+- [3]Biology (10th Edition),Campbell N.A, J.B. Reece, L.A. Urry, M.I. Cain, S.A. Wasserman, P.V. Minorsky, and R. B. Jackson,2014,Pearson, Benjamin Cummings
+- [4]Ecology: Theories and Applications (Fourth Edition),Stiling P. D.,2002,Prentice-Hall, Inc.
+- [5]Plant biology,Smith A.M; Coupland G; Dolan L; Harberd N; Jones J; Martin C; Sablowski R; and Amey A.,2010,Garland Science
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Ecology: Individuals, Populations and Communities,Begon M., J.L. Harper, and C.R. Townsend,1986,Blackwell Scientific Publications
+- [2]Biology,Brooker, R.J, Widmaier E.P; Graham L.E and Stiling P.D.,2014,McGraw-Hill
+- [3]Biology (10th Edition),Campbell N.A, J.B. Reece, L.A. Urry, M.I. Cain, S.A. Wasserman, P.V. Minorsky, and R. B. Jackson,2014,Pearson, Benjamin Cummings
+- [4]Ecology: Theories and Applications (Fourth Edition),Stiling P. D.,2002,Prentice-Hall, Inc.
+- [5]Plant biology,Smith A.M; Coupland G; Dolan L; Harberd N; Jones J; Martin C; Sablowski R; and Amey A.,2010,Garland Science
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Ecology: Individuals, Populations and Communities,Begon M., J.L. Harper, and C.R. Townsend,1986,Blackwell Scientific Publications
+- [2]Biology,Brooker, R.J, Widmaier E.P; Graham L.E and Stiling P.D.,2014,McGraw-Hill
+- [3]Biology (10th Edition),Campbell N.A, J.B. Reece, L.A. Urry, M.I. Cain, S.A. Wasserman, P.V. Minorsky, and R. B. Jackson,2014,Pearson, Benjamin Cummings
+- [4]Ecology: Theories and Applications (Fourth Edition),Stiling P. D.,2002,Prentice-Hall, Inc.
+- [5]Plant biology,Smith A.M; Coupland G; Dolan L; Harberd N; Jones J; Martin C; Sablowski R; and Amey A.,2010,Garland Science
+
+## READING MATERIALS
+- [1]Ecology: Individuals, Populations and Communities,Begon M., J.L. Harper, and C.R. Townsend,1986,Blackwell Scientific Publications
+- [2]Biology,Brooker, R.J, Widmaier E.P; Graham L.E and Stiling P.D.,2014,McGraw-Hill
+- [3]Biology (10th Edition),Campbell N.A, J.B. Reece, L.A. Urry, M.I. Cain, S.A. Wasserman, P.V. Minorsky, and R. B. Jackson,2014,Pearson, Benjamin Cummings
+- [4]Ecology: Theories and Applications (Fourth Edition),Stiling P. D.,2002,Prentice-Hall, Inc.
+- [5]Plant biology,Smith A.M; Coupland G; Dolan L; Harberd N; Jones J; Martin C; Sablowski R; and Amey A.,2010,Garland Science

@@ -1,0 +1,87 @@
+# COURSE: Ẩn dữ liệu và chia sẻ thông tin (CSC14101)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC14101
+- **English Name**: Data Hiding and Steganography
+- **Vietnamese Name**: Ẩn dữ liệu và chia sẻ thông tin
+- **Responsible Person**: for the module: Phạm Trọng Nghĩa
+- **Semester**: (s) in which the module is taught: 8
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Data Hiding Overview
+- The Problem of Hiding
+- Data on Text
+- The problem of Hiding
+- Data on images
+- The Problem of Hiding
+- Data on Audio
+- Sharing confidential information
+- Other Data Hiding
+- Techniques
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Data Hiding and Its Applications: Digital Watermarking and Steganography,David Meg´ıas, Wojciech Mazurczyk, Minoru Kuribayashi,2022,Mdpi AG
+- [2]Ẩn dữ liệu và chia sẻ thông tin,Lê Hoài Bắc, Lê Thị Hoàng Ngân,2011,ĐHQG HCM
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Explain English terms, writing, and presentation skills related to the field of Data Hiding and Secret Sharing.
+- G2.Apply knowledge of math, physics, and programming.
+- G3.Explain basic concepts, terms, and issues related to data hiding, including watermarking (digital watermarking), steganography (secret communication), applications of the field, and models for sharing confidential information.
+- G4.Apply appropriate data hiding techniques to given requirements of real problems.
+- G5.Construct the appropriate data sharing and security models based on the structure of each type of information and the unique requirements of each system
+- G6.Operate the copyright of intellectual products.
+- G7.Analyze and/or aggregate documents and write scientific reports.
+• Content:
+- Data Hiding Overview
+- The Problem of Hiding
+- Data on Text
+- The problem of Hiding
+- Data on images
+- The Problem of Hiding
+- Data on Audio
+- Sharing confidential information
+- Other Data Hiding
+- Techniques
+• Examination forms: Close Test, Final examination, Homework, Quiz, quick test, Research Project
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Hiding and Its Applications: Digital Watermarking and Steganography,David Meg´ıas, Wojciech Mazurczyk, Minoru Kuribayashi,2022,Mdpi AG
+- [2]Ẩn dữ liệu và chia sẻ thông tin,Lê Hoài Bắc, Lê Thị Hoàng Ngân,2011,ĐHQG HCM
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Hiding and Its Applications: Digital Watermarking and Steganography,David Meg´ıas, Wojciech Mazurczyk, Minoru Kuribayashi,2022,Mdpi AG
+- [2]Ẩn dữ liệu và chia sẻ thông tin,Lê Hoài Bắc, Lê Thị Hoàng Ngân,2011,ĐHQG HCM
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Data Hiding and Its Applications: Digital Watermarking and Steganography,David Meg´ıas, Wojciech Mazurczyk, Minoru Kuribayashi,2022,Mdpi AG
+- [2]Ẩn dữ liệu và chia sẻ thông tin,Lê Hoài Bắc, Lê Thị Hoàng Ngân,2011,ĐHQG HCM
+
+## READING MATERIALS
+- [1]Data Hiding and Its Applications: Digital Watermarking and Steganography,David Meg´ıas, Wojciech Mazurczyk, Minoru Kuribayashi,2022,Mdpi AG
+- [2]Ẩn dữ liệu và chia sẻ thông tin,Lê Hoài Bắc, Lê Thị Hoàng Ngân,2011,ĐHQG HCM

@@ -1,0 +1,109 @@
+# COURSE: Nhập môn công nghệ thông tin (CSC00004)
+
+## GENERAL INFORMATION
+- **Course ID**: CSC00004
+- **English Name**: Introduction to Information Technology
+- **Vietnamese Name**: Nhập môn công nghệ thông tin
+- **Responsible Person**: for the module: Lê Ngọc Thành
+- **Semester**: (s) in which the module is taught: 1
+- **Workload**: (incl. contact hours, self-study hours): Hours for lecture: ~ 37.5 hours Hours for laboratory session: ~ 25 hours Hours for self-study, examination preparation, other activities: ~ 116.25 hours
+
+## COURSE DESCRIPTION
+• COURSE TOPICS:
+- Introduce an overview of the development process, the role of IT in life. Learn about computer classification, the basic architecture of a computer. Introduce the characteristics and role of software in the computer.
+- Introduce primary hardware devices such as ports and circuits to peripheral devices such as RAM, hard drives, etc... in computers. Identify each device's characteristics, roles, and meanings and how they work together.
+- Principle of storing information in computers such as number (integer and floating point), text, images, sounds, ... Basic operations on the counting system.
+- How the CPU executes a low-level program. How the CPU works with other devices to make a request. The relationship between low-level languages and high-level programming languages.
+- Operating system (OS): characteristics, roles, and development process on all computer platforms. The basic architecture and components of the operating system
+- Computer network: transmission principles, connection protocols, network types, security. Supported devices and software. Computer security such as how to attack and how to protect the computer.
+- Introduction to the major of Computer networks at FIT-HCMUS.
+- Database system: roles, meanings, applications. Database management systems.
+- Introduction to the major of Information Systems at FIT-HCMUS
+- Introduction to artificial intelligence, machine learning, and applications.
+- Introduction to the major of Computer Science at FIT-HCMUS
+- Software engineering: The Software Engineering Discipline, The Software Life Cycle, Development Phases, Software Engineering Methodologies, Documentation, Project Management.
+- Introduction to the major of Software Engineering at FIT-HCMUS
+- Professional ethics such as copyright laws, privacy and legal documents related to IT. Rules and regulations in university and company.
+- Introduction to FIT-HCMUS
+- Introduction to IT certificates
+• COURSE GOALS: On successful completion of this course, students will be able to:
+• REQUIRED AND RECOMMENDED READING:
+- [1]Computer science: reflection on the field, reflections from the field, Committee on the Fundamentals of Computer Science,,2004,National Academies Press
+- [2]Computer science: an overview, 12th edition,Gleen Brookshear, Dennis Brylow,2014,
+- [3]Computers are your future, Introductory, 12th Edition,Catherine Laberta,2011,
+- [4]Ethics for the Information Age, 7th Edition,Mike Quinn,2016,
+
+## LEARNING OBJECTIVES (CLOs)
+- G1.Implement and present some topics related to general knowledge career orientation in teamwork. Demonstrate critical thinking and creative thinking in the process of implementing topics.
+- G2.Present the meaning, role, status of hardware devices and software. Apply software technology platforms to collaborate, present, share, and backup data.
+- G3.Explain the data storage platform in a computer and describe the roles of database and database administration systems.
+- G4.Identify the role of the operating system, the development process, and distinguish different types of operating systems
+- G5.Present basic knowledge about computer networks, the internet, network protocols, devices, connection issues, and security issues
+- G6.Summarize the main characteristics of artificial intelligence and related fields and describe some emerging technologies
+- G7.List some important rules and regulations in the university environment and in the company environment. Explain some characteristics of professional ethics
+• Content:
+- Introduce an overview of the development process, the role of IT in life. Learn about computer classification, the basic architecture of a computer. Introduce the characteristics and role of software in the computer.
+- Introduce primary hardware devices such as ports and circuits to peripheral devices such as RAM, hard drives, etc... in computers. Identify each device's characteristics, roles, and meanings and how they work together.
+- Principle of storing information in computers such as number (integer and floating point), text, images, sounds, ... Basic operations on the counting system.
+- How the CPU executes a low-level program. How the CPU works with other devices to make a request. The relationship between low-level languages and high-level programming languages.
+- Operating system (OS): characteristics, roles, and development process on all computer platforms. The basic architecture and components of the operating system
+- Computer network: transmission principles, connection protocols, network types, security. Supported devices and software. Computer security such as how to attack and how to protect the computer.
+- Introduction to the major of Computer networks at FIT-HCMUS.
+- Database system: roles, meanings, applications. Database management systems.
+- Introduction to the major of Information Systems at FIT-HCMUS
+- Introduction to artificial intelligence, machine learning, and applications.
+- Introduction to the major of Computer Science at FIT-HCMUS
+- Software engineering: The Software Engineering Discipline, The Software Life Cycle, Development Phases, Software Engineering Methodologies, Documentation, Project Management.
+- Introduction to the major of Software Engineering at FIT-HCMUS
+- Professional ethics such as copyright laws, privacy and legal documents related to IT. Rules and regulations in university and company.
+- Introduction to FIT-HCMUS
+- Introduction to IT certificates
+• Examination forms: Final examination, Quiz, quick test, Research Project, Case Study
+• Study and examination requirements:
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer science: reflection on the field, reflections from the field, Committee on the Fundamentals of Computer Science,,2004,National Academies Press
+- [2]Computer science: an overview, 12th edition,Gleen Brookshear, Dennis Brylow,2014,
+- [3]Computers are your future, Introductory, 12th Edition,Catherine Laberta,2011,
+- [4]Ethics for the Information Age, 7th Edition,Mike Quinn,2016,
+
+## COURSE TOPICS & CONTENT
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer science: reflection on the field, reflections from the field, Committee on the Fundamentals of Computer Science,,2004,National Academies Press
+- [2]Computer science: an overview, 12th edition,Gleen Brookshear, Dennis Brylow,2014,
+- [3]Computers are your future, Introductory, 12th Edition,Catherine Laberta,2011,
+- [4]Ethics for the Information Age, 7th Edition,Mike Quinn,2016,
+
+## POLICIES & REQUIREMENTS
+- All students are responsible for reading and following strictly the regulations and policies of the school and university.
+- Students who are absent for more than 3 theory sessions are not allowed to take the exams.
+- For any kind of cheating and plagiarism, students will be graded 0 for the course. The incident is then submitted to the school and university for further review.
+- Students are encouraged to form study groups to discuss on the topics. However, individual work must be done and submitted on your own.
+- Regular class attendance is strongly advised and is necessary for students to fully grasp many of the course concepts.
+- Please be on time to class.
+- If you miss a class session, it will be your responsibility to find out the materials that were covered.
+- Students in attendance are expected to be active participants in the course. The participation includes contributing to class discussions, providing insight into the class discussion topics, raising questions, and relating class material to personal experiences and other course topics.
+- Moodle and e-mail will be used to communicate with students and disseminate materials and assignments throughout the course. So, students should check Moodle and their email at least once per day.
+- When sending e-mail to the instructor, please begin the Subject of the message with the following format: [Course ID]. For example, "[CSC10001] Ask for additional materials".
+• Reading list:
+- [1]Computer science: reflection on the field, reflections from the field, Committee on the Fundamentals of Computer Science,,2004,National Academies Press
+- [2]Computer science: an overview, 12th edition,Gleen Brookshear, Dennis Brylow,2014,
+- [3]Computers are your future, Introductory, 12th Edition,Catherine Laberta,2011,
+- [4]Ethics for the Information Age, 7th Edition,Mike Quinn,2016,
+
+## READING MATERIALS
+- [1]Computer science: reflection on the field, reflections from the field, Committee on the Fundamentals of Computer Science,,2004,National Academies Press
+- [2]Computer science: an overview, 12th edition,Gleen Brookshear, Dennis Brylow,2014,
+- [3]Computers are your future, Introductory, 12th Edition,Catherine Laberta,2011,
+- [4]Ethics for the Information Age, 7th Edition,Mike Quinn,2016,
