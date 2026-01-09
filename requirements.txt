@@ -31,5 +31,7 @@ pipmaster
 simpleaichat
 nano_vectordb
 python-multipart
-networkxhttpx
 networkx
+httpx
+
+

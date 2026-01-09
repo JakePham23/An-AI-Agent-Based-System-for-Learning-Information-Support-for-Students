@@ -13,6 +13,10 @@ import os
 from typing import Annotated, TypedDict
 from datetime import datetime
 from langchain_core.messages import HumanMessage
+from lightrag.api.database import DatabaseManager
+
+# Initialize Database Manager
+db_manager = DatabaseManager()
 
 # Initialize global langgraph app
 langgraph_app = None
@@ -127,6 +131,16 @@ class QueryRequest(BaseModel):
         description="If True, enables streaming output for real-time responses. Only affects /query/stream endpoint.",
     )
 
+    # user_id: Optional[str] = Field(
+    #     default=None,
+    #     description="Unique identifier for the user. Required for history persistence.",
+    # )
+
+    # session_id: Optional[str] = Field(
+    #     default=None,
+    #     description="Unique identifier for the chat session. Required for history persistence.",
+    # )
+
     @field_validator("query", mode="after")
     @classmethod
     def query_strip_after(cls, query: str) -> str:
@@ -151,7 +165,7 @@ class QueryRequest(BaseModel):
         # Use Pydantic's `.model_dump(exclude_none=True)` to remove None values automatically
         # Exclude API-level parameters that don't belong in QueryParam
         request_data = self.model_dump(
-            exclude_none=True, exclude={"query", "include_chunk_content"}
+            exclude_none=True, exclude={"query", "include_chunk_content"} #, "user_id", "session_id"}
         )
 
         # Ensure `mode` and `stream` are set explicitly
@@ -433,6 +447,21 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
                 response_content = final_state["messages"][-1].content
                 return QueryResponse(response=response_content, references=[])
             
+            # 1. Check Cache
+            cached_response = db_manager.get_cached_response(request.query)
+            if cached_response:
+                return QueryResponse(response=cached_response, references=[])
+
+            # 2. Load History (if user/session provided)
+            # Only if conversation_history is NOT explicitly provided in request
+            # if not request.conversation_history and request.user_id and request.session_id:
+            #     # Ensure session exists
+            #     db_manager.get_or_create_conversation(request.user_id, request.session_id)
+            #     # Fetch history
+            #     history = db_manager.get_history(request.session_id, request.user_id, limit=5)
+            #     # Convert to format expected by param
+            #     param.conversation_history = history
+
             result = await rag.aquery_llm(request.query, param=param)
 
             # Extract LLM response and references from unified result
@@ -444,6 +473,17 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
             response_content = llm_response.get("content", "")
             if not response_content:
                 response_content = "No relevant context found for the query."
+
+            # 3. Save to History & Cache
+            # if request.user_id and request.session_id:
+            #     # Save User Query
+            #     db_manager.add_message(request.session_id, request.user_id, "user", request.query)
+            #     # Save AI Response
+            #     db_manager.add_message(request.session_id, request.user_id, "assistant", response_content)
+            
+            # Save to Cache
+            if response_content:
+                db_manager.cache_response(request.query, response_content)
 
             # Enrich references with chunk content if requested
             if request.include_references and request.include_chunk_content:
@@ -712,9 +752,38 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
                     },
                 )
 
+            # 1. Check Cache (Stream immediately if cached)
+            cached_response = db_manager.get_cached_response(request.query)
+            if cached_response:
+                async def cached_stream_generator():
+                    # Mock references if needed, or return empty
+                    if request.include_references:
+                        yield f"{json.dumps({'references': []})}\n"
+                    # Return cached response as a single chunk (or could split it)
+                    yield f"{json.dumps({'response': cached_response})}\n"
+                
+                return StreamingResponse(
+                    cached_stream_generator(),
+                    media_type="application/x-ndjson",
+                    headers={
+                        "Cache-Control": "no-cache",
+                        "Connection": "keep-alive",
+                        "Content-Type": "application/x-ndjson",
+                        "X-Accel-Buffering": "no",
+                    },
+                )
+
+            # 2. Load History (if user/session provided)
+            # if not request.conversation_history and request.user_id and request.session_id:
+            #     db_manager.get_or_create_conversation(request.user_id, request.session_id)
+            #     history = db_manager.get_history(request.session_id, request.user_id, limit=5)
+            #     param.conversation_history = history
+
             result = await rag.aquery_llm(request.query, param=param)
 
             async def stream_generator():
+                full_response_accumulator = []
+
                 # Extract references and LLM response from unified result
                 references = result.get("data", {}).get("references", [])
                 llm_response = result.get("llm_response", {})
@@ -753,6 +822,7 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
                         try:
                             async for chunk in response_stream:
                                 if chunk:  # Only send non-empty content
+                                    full_response_accumulator.append(chunk)
                                     yield f"{json.dumps({'response': chunk})}\n"
                         except Exception as e:
                             logger.error(f"Streaming error: {str(e)}")
@@ -762,6 +832,8 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
                     response_content = llm_response.get("content", "")
                     if not response_content:
                         response_content = "No relevant context found for the query."
+                    
+                    full_response_accumulator.append(response_content)
 
                     # Create complete response object
                     complete_response = {"response": response_content}
@@ -769,6 +841,16 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
                         complete_response["references"] = references
 
                     yield f"{json.dumps(complete_response)}\n"
+                
+                # 3. Save to History & Cache (After streaming completes)
+                final_response = "".join(full_response_accumulator)
+                # if request.user_id and request.session_id and final_response:
+                #     try:
+                #         db_manager.add_message(request.session_id, request.user_id, "user", request.query)
+                #         db_manager.add_message(request.session_id, request.user_id, "assistant", final_response)
+                #         db_manager.cache_response(request.query, final_response)
+                #     except Exception as e:
+                #         logger.error(f"Failed to save history/cache: {e}")
 
             return StreamingResponse(
                 stream_generator(),

@@ -1,0 +1,2533 @@
+{
+  "doc-4fa64331de9db982dce3cc0604c559f0": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4fa64331de9db982dce3cc0604c559f0",
+      "chunk-3895b0d3ab41960195dfb8bac81155aa"
+    ],
+    "content_summary": "# COURSE: Tư tưởng Hồ Chí Minh (BAA00003)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00003\n- **English Name**: Ho Chi Minh’s Ideology\n- **Vietnamese Name**: Tư tưởng Hồ Chí Minh\n- **Responsible Person**: for the module: Ngô Tuấn Phương\n- **Semester*...",
+    "content_length": 5411,
+    "created_at": "2025-12-29T06:06:23.699538+00:00",
+    "updated_at": "2025-12-29T06:10:59.878087+00:00",
+    "file_path": "BAA00003.txt",
+    "track_id": "scan_20251229_130623_9228ca68",
+    "metadata": {
+      "processing_start_time": 1766988383,
+      "processing_end_time": 1766988659
+    }
+  },
+  "doc-54deeee79b5e0528c44088e489304200": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4f43f6ec6a94b04327a01b696bef2f11",
+      "chunk-02c6fed66f3ecd0099c9ce5bb32a095f"
+    ],
+    "content_summary": "# COURSE: Pháp luật đại cương (BAA00004)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00004\n- **English Name**: Introduction to Law\n- **Vietnamese Name**: Pháp luật đại cương\n- **Responsible Person**: for the module: Hoàng Thanh Tú\n- **Semester**: (s)...",
+    "content_length": 6895,
+    "created_at": "2025-12-29T06:06:23.705336+00:00",
+    "updated_at": "2025-12-29T06:12:49.199855+00:00",
+    "file_path": "BAA00004.txt",
+    "track_id": "scan_20251229_130623_9228ca68",
+    "metadata": {
+      "processing_start_time": 1766988383,
+      "processing_end_time": 1766988769
+    }
+  },
+  "doc-db6757368deaeba9456ab14ce644d10a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-614aa07e0596a7ad8d83c796f71d8631",
+      "chunk-37ba42e3686581678162f3a2b46f892f"
+    ],
+    "content_summary": "# COURSE: Kinh tế đại cương (BAA00005)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00005\n- **English Name**: Introduction to Economics\n- **Vietnamese Name**: Kinh tế đại cương\n- **Responsible Person**: for the module: Dr. Nguyễn Thị Đông\n- **Semester...",
+    "content_length": 8222,
+    "created_at": "2025-12-29T06:15:14.708088+00:00",
+    "updated_at": "2025-12-29T06:23:06.053280+00:00",
+    "file_path": "BAA00005.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766988914,
+      "processing_end_time": 1766989386
+    }
+  },
+  "doc-a4a1f331c6ddb44360ef11134832cd3a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-5c44dc862db25eb907e6899c3b03262f",
+      "chunk-76b1cd8073cc4c029beaaa87a471a738"
+    ],
+    "content_summary": "# COURSE: Tâm lý đại cương (BAA00006)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00006\n- **English Name**: Introduction to Psychology\n- **Vietnamese Name**: Tâm lý đại cương\n- **Responsible Person**: for the module: Kim Thị Dung\n- **Semester**: (s) ...",
+    "content_length": 6730,
+    "created_at": "2025-12-29T06:15:14.715416+00:00",
+    "updated_at": "2025-12-29T06:24:58.880090+00:00",
+    "file_path": "BAA00006.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766988914,
+      "processing_end_time": 1766989498
+    }
+  },
+  "doc-521ec469f15945818cc295e57a3e8e93": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-9f6ef20a08997808e1d0cabe0d64fb08",
+      "chunk-b2df902dd4a0eb84290a6a25a3cbb6ea",
+      "chunk-c35adc1b36c1fcba819ed598576a18de"
+    ],
+    "content_summary": "# COURSE: Phương pháp luận sáng tạo (BAA00007)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00007\n- **English Name**: Creativity Methodologies\n- **Vietnamese Name**: Phương pháp luận sáng tạo\n- **Responsible Person**: for the module:\n- **Semester**: (...",
+    "content_length": 11304,
+    "created_at": "2025-12-29T06:15:14.724235+00:00",
+    "updated_at": "2025-12-29T06:39:32.060024+00:00",
+    "file_path": "BAA00007.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766989386,
+      "processing_end_time": 1766990372
+    }
+  },
+  "doc-53b94dcdd48a21663d891f2f2b7a7933": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-5d71e2cc76d961aa1312a507dce6ab55",
+      "chunk-38e02fb5070b717531b1854357e9ac4a"
+    ],
+    "content_summary": "# COURSE: Anh văn 1 (BAA00011)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00011\n- **English Name**: General English 1\n- **Vietnamese Name**: Anh văn 1\n- **Responsible Person**: for the module: Bộ môn ngoại ngữ\n- **Semester**: (s) in which the module...",
+    "content_length": 6030,
+    "created_at": "2025-12-29T06:15:14.729656+00:00",
+    "updated_at": "2025-12-29T06:35:44.014273+00:00",
+    "file_path": "BAA00011.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766989498,
+      "processing_end_time": 1766990144
+    }
+  },
+  "doc-1da84151a2d7b66e411c6cb10aafbdf9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-8429b9cddf36b7f607555ae4630ddf50",
+      "chunk-efa1dac9d86f88726b1a1a71c7ba82b6"
+    ],
+    "content_summary": "# COURSE: Anh văn 2 (BAA00012)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00012\n- **English Name**: General English 2\n- **Vietnamese Name**: Anh văn 2\n- **Responsible Person**: for the module: Bộ môn ngoại ngữ\n- **Semester**: (s) in which the module...",
+    "content_length": 5883,
+    "created_at": "2025-12-29T06:15:14.733043+00:00",
+    "updated_at": "2025-12-29T06:39:33.291683+00:00",
+    "file_path": "BAA00012.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990144,
+      "processing_end_time": 1766990373
+    }
+  },
+  "doc-7f2da1c15da75fb4f402a089c762fb3e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-46773dc1198d59f9818871316c13ccfc",
+      "chunk-6d133092f7d41f4475d8648232901810"
+    ],
+    "content_summary": "# COURSE: Anh văn 3 (BAA00013)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00013\n- **English Name**: Academic English 1\n- **Vietnamese Name**: Anh văn 3\n- **Responsible Person**: for the module: Bộ môn ngoại ngữ\n- **Semester**: (s) in which the modul...",
+    "content_length": 5996,
+    "created_at": "2025-12-29T06:15:14.736817+00:00",
+    "updated_at": "2025-12-29T06:43:12.595257+00:00",
+    "file_path": "BAA00013.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990372,
+      "processing_end_time": 1766990592
+    }
+  },
+  "doc-e74abb1b00f1178c118d0fdc859e0e0e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-1aa77b1cdff9255b1512aaa605c304f2",
+      "chunk-14596df04240fb4122c0c2c7a12fab7a"
+    ],
+    "content_summary": "# COURSE: Anh văn 4 (BAA00014)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00014\n- **English Name**: Academic English 2\n- **Vietnamese Name**: Anh văn 4\n- **Responsible Person**: for the module: Bộ môn ngoại ngữ\n- **Semester**: (s) in which the modul...",
+    "content_length": 6247,
+    "created_at": "2025-12-29T06:15:14.739322+00:00",
+    "updated_at": "2025-12-29T06:43:45.815586+00:00",
+    "file_path": "BAA00014.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990373,
+      "processing_end_time": 1766990625
+    }
+  },
+  "doc-338dbbab6384f1489a5f28c98067b11f": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-338dbbab6384f1489a5f28c98067b11f",
+      "chunk-227ff6d5e9c29cfc6368161baf0a63d8"
+    ],
+    "content_summary": "# COURSE: Thể dục 1 (BAA00021)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00021\n- **English Name**: Physical Education I\n- **Vietnamese Name**: Thể dục 1\n- **Responsible Person**: for the module: Dr. Nguyễn Văn Hùng\n- **Semester**: (s) in which the ...",
+    "content_length": 5280,
+    "created_at": "2025-12-29T06:15:14.742311+00:00",
+    "updated_at": "2025-12-29T06:46:18.796694+00:00",
+    "file_path": "BAA00021.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990592,
+      "processing_end_time": 1766990778
+    }
+  },
+  "doc-cd59ce51c2dee60ff8fab899044d0794": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cd59ce51c2dee60ff8fab899044d0794"
+    ],
+    "content_summary": "# COURSE: Thể dục 2 (BAA00022)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00022\n- **English Name**: Physical Education II\n- **Vietnamese Name**: Thể dục 2\n- **Responsible Person**: for the module: Assoc. Prof. Phạm Thị Lệ Hằng\n- **Semester**: (s) in...",
+    "content_length": 4801,
+    "created_at": "2025-12-29T06:15:14.745385+00:00",
+    "updated_at": "2025-12-29T06:49:40.749757+00:00",
+    "file_path": "BAA00022.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990625,
+      "processing_end_time": 1766990980
+    }
+  },
+  "doc-4d00343d2bf1e40e50894af3ec5558a6": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-0db21912bbbb1bd00e10380a85094142",
+      "chunk-6060f79c43ba6c29439ef54a7fa74c3f"
+    ],
+    "content_summary": "# COURSE: Triết học Mác - Lênin (BAA00101)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00101\n- **English Name**: Marxist-Leninist Philosophy\n- **Vietnamese Name**: Triết học Mác - Lênin\n- **Responsible Person**: for the module: Ngô Tuấn Phương\n- **Se...",
+    "content_length": 8230,
+    "created_at": "2025-12-29T06:15:14.749030+00:00",
+    "updated_at": "2025-12-29T06:52:20.473572+00:00",
+    "file_path": "BAA00101.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990778,
+      "processing_end_time": 1766991140
+    }
+  },
+  "doc-bebc0bdc5a9ef4f7ef7bbfbd7d5a94b9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-cef1326d4b3a78e126c1b58602c83bd2",
+      "chunk-71f479ff61160610dfb2163325efe62b"
+    ],
+    "content_summary": "# COURSE: Kinh tế chính trị Mác - Lênin (BAA00102)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00102\n- **English Name**: Marxist-Leninist Political Economics\n- **Vietnamese Name**: Kinh tế chính trị Mác - Lênin\n- **Responsible Person**: for the modul...",
+    "content_length": 7811,
+    "created_at": "2025-12-29T06:15:14.752940+00:00",
+    "updated_at": "2025-12-29T06:56:14.573163+00:00",
+    "file_path": "BAA00102.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766990980,
+      "processing_end_time": 1766991374
+    }
+  },
+  "doc-c4714d2b09f4f990a88d05e3b8bbe19d": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-71b23971f6ab8c4a5905727e83a8140c",
+      "chunk-a02dd3d546afcd32600000cbe92f8d4c"
+    ],
+    "content_summary": "# COURSE: Chủ nghĩa xã hội khoa học (BAA00103)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00103\n- **English Name**: Scientific Socialism\n- **Vietnamese Name**: Chủ nghĩa xã hội khoa học\n- **Responsible Person**: for the module: Dr. Nguyễn Đình Quốc ...",
+    "content_length": 8022,
+    "created_at": "2025-12-29T06:15:14.756959+00:00",
+    "updated_at": "2025-12-29T06:58:06.684697+00:00",
+    "file_path": "BAA00103.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766991140,
+      "processing_end_time": 1766991486
+    }
+  },
+  "doc-7168255fcaf219fb3ce1698ed640d44b": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-282b3c0d1b377188593f922c43b2aad9",
+      "chunk-692e5b3c1bdab4ff901291f79f9820d5"
+    ],
+    "content_summary": "# COURSE: Lịch sử Đảng Cộng sản Việt Nam (BAA00104)\n\n## GENERAL INFORMATION\n- **Course ID**: BAA00104\n- **English Name**: History of Vietnamese Communist Party\n- **Vietnamese Name**: Lịch sử Đảng Cộng sản Việt Nam\n- **Responsible Person**: for the mo...",
+    "content_length": 8309,
+    "created_at": "2025-12-29T06:15:14.761046+00:00",
+    "updated_at": "2025-12-29T07:01:35.040746+00:00",
+    "file_path": "BAA00104.txt",
+    "track_id": "scan_20251229_131514_5652b4f9",
+    "metadata": {
+      "processing_start_time": 1766991374,
+      "processing_end_time": 1766991695
+    }
+  },
+  "doc-c4b0481ded5655dbf2d49c49e2ec6879": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-047811c01c5f8a4f3e1f67ca6043329d",
+      "chunk-05b9ff8aae12734397c833b322b4485a"
+    ],
+    "content_summary": "# COURSE: Vi tích phân 1 (MTH00021)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00021\n- **English Name**: Calculus 1\n- **Vietnamese Name**: Vi tích phân 1\n- **Responsible Person**: for the module: Dr. Võ Sĩ Trọng Long\n- **Semester**: (s) in which the...",
+    "content_length": 5651,
+    "created_at": "2025-12-29T07:07:52.766857+00:00",
+    "updated_at": "2025-12-29T07:13:09.292792+00:00",
+    "file_path": "MTH00021.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766992072,
+      "processing_end_time": 1766992389
+    }
+  },
+  "doc-4d5e84fbb968525b4dc5e6a44efb353c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4270b9e47303869753cd15ddc983d68d",
+      "chunk-f5268099878643d8cfc34eea27b43c8f"
+    ],
+    "content_summary": "# COURSE: Vi tích phân 2 (MTH00022)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00022\n- **English Name**: Calculus 2\n- **Vietnamese Name**: Vi tích phân 2\n- **Responsible Person**: for the module: Dr. Nguyễn Thị Thu Vân\n- **Semester**: (s) in which t...",
+    "content_length": 5476,
+    "created_at": "2025-12-29T07:07:52.776316+00:00",
+    "updated_at": "2025-12-29T07:13:09.934524+00:00",
+    "file_path": "MTH00022.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766992072,
+      "processing_end_time": 1766992389
+    }
+  },
+  "doc-5247ab30f402f5dd0048023fa3440ad5": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-09ad964dff04e39add40fc42f3d76da2",
+      "chunk-37a1a0482afee4e7cb42937fc30544f8"
+    ],
+    "content_summary": "# COURSE: Đại số tuyến tính (MTH00035)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00035\n- **English Name**: Linear Algebra\n- **Vietnamese Name**: Đại số tuyến tính\n- **Responsible Person**: for the module: Dr. Lê Văn Luyện\n- **Semester**: (s) in whi...",
+    "content_length": 8861,
+    "created_at": "2025-12-29T07:07:52.783135+00:00",
+    "updated_at": "2025-12-29T07:18:55.488322+00:00",
+    "file_path": "MTH00035.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766992389,
+      "processing_end_time": 1766992735
+    }
+  },
+  "doc-76f802aaa53fa3bc8d83fde05bc04cc6": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-c24fad21b38e3bf337f79cc017d800c2",
+      "chunk-029ccd71c3e2ed2439bd0621c18d1ff5"
+    ],
+    "content_summary": "# COURSE: Xác suất thống kê (MTH00044)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00044\n- **English Name**: Applied Statistics for Engineers and Scientists\n- **Vietnamese Name**: Xác suất thống kê\n- **Responsible Person**: for the module: Dr. Nguyễn...",
+    "content_length": 8727,
+    "created_at": "2025-12-29T07:07:52.788902+00:00",
+    "updated_at": "2025-12-29T07:21:37.191307+00:00",
+    "file_path": "MTH00044.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766992389,
+      "processing_end_time": 1766992897
+    }
+  },
+  "doc-0777cede7401152a6a8b29bc2ae5ed68": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2290806f9560f9089ff80dd65e1e9b73",
+      "chunk-2f57aec9bdb7a74096db13c4a41e806f"
+    ],
+    "content_summary": "# COURSE: Toán rời rạc (MTH00045)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00045\n- **English Name**: Discrete Mathematics\n- **Vietnamese Name**: Toán rời rạc\n- **Responsible Person**: for the module: Dr. Lê Văn Hợp\n- **Semester**: (s) in which the...",
+    "content_length": 7733,
+    "created_at": "2025-12-29T07:07:52.793574+00:00",
+    "updated_at": "2025-12-29T07:25:43.694502+00:00",
+    "file_path": "MTH00045.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766992735,
+      "processing_end_time": 1766993143
+    }
+  },
+  "doc-e5b289d0597e19d01b041ed0621c24bc": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a1d45f47d4fd61cf5a18c943f79f3e70",
+      "chunk-4c2dacb4cf35f1533972166a2a653a27"
+    ],
+    "content_summary": "# COURSE: Toán học tổ hợp (MTH00050)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00050\n- **English Name**: Combinatorial Mathematics\n- **Vietnamese Name**: Toán học tổ hợp\n- **Responsible Person**: for the module: Dr. Lê Văn Luyện\n- **Semester**: (s)...",
+    "content_length": 7638,
+    "created_at": "2025-12-29T07:07:52.797542+00:00",
+    "updated_at": "2025-12-29T07:28:28.832009+00:00",
+    "file_path": "MTH00050.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766992897,
+      "processing_end_time": 1766993308
+    }
+  },
+  "doc-f0aebef614a41cae80dc0404ac882dd9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a9a8833568e77793d120eabff71003f9",
+      "chunk-e4677237b5dc15e1b9a6ea98411dcdc6"
+    ],
+    "content_summary": "# COURSE: Toán ứng dụng và thống kê (MTH00051)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00051\n- **English Name**: Telecommunication Systems\n- **Vietnamese Name**: Toán ứng dụng và thống kê\n- **Responsible Person**: for the module: Assoc. Prof. Ngu...",
+    "content_length": 7559,
+    "created_at": "2025-12-29T07:07:52.801142+00:00",
+    "updated_at": "2025-12-29T07:35:31.788143+00:00",
+    "file_path": "MTH00051.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766993143,
+      "processing_end_time": 1766993731
+    }
+  },
+  "doc-f83a27dd95f91953cde01e14e9fc2444": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f83a27dd95f91953cde01e14e9fc2444"
+    ],
+    "content_summary": "# COURSE: Phương pháp tính (MTH00052)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00052\n- **English Name**: Numerical Analysis\n- **Vietnamese Name**: Phương pháp tính\n- **Responsible Person**: for the module: Vũ Đỗ Huy Cường\n- **Semester**: (s) in wh...",
+    "content_length": 4815,
+    "created_at": "2025-12-29T07:07:52.804842+00:00",
+    "updated_at": "2025-12-29T07:35:57.678211+00:00",
+    "file_path": "MTH00052.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766993308,
+      "processing_end_time": 1766993757
+    }
+  },
+  "doc-3d8b45d374ec1d4c32b4380a5b59ad87": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3d8b45d374ec1d4c32b4380a5b59ad87"
+    ],
+    "content_summary": "# COURSE: Lý thuyết số (MTH00053)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00053\n- **English Name**: Number Theory\n- **Vietnamese Name**: Lý thuyết số\n- **Responsible Person**: for the module: Dr. Trần Nam Dũng\n- **Semester**: (s) in which the mod...",
+    "content_length": 4754,
+    "created_at": "2025-12-29T07:07:52.808126+00:00",
+    "updated_at": "2025-12-29T07:38:46.869985+00:00",
+    "file_path": "MTH00053.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766993731,
+      "processing_end_time": 1766993926
+    }
+  },
+  "doc-430f1df513ab2ffbe437b8b6613fee43": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-00a0c7d6d79a900dc02e805871f2f722",
+      "chunk-30c1dd83588227e43194bacdb415d061"
+    ],
+    "content_summary": "# COURSE: Phương pháp toán cho trí tuệ nhân tạo (MTH00056)\n\n## GENERAL INFORMATION\n- **Course ID**: MTH00056\n- **English Name**: Mathematics for Artificial Intelligence\n- **Vietnamese Name**: Phương pháp toán cho trí tuệ nhân tạo\n- **Responsible Pers...",
+    "content_length": 6792,
+    "created_at": "2025-12-29T07:07:52.812056+00:00",
+    "updated_at": "2025-12-29T07:40:16.066803+00:00",
+    "file_path": "MTH00056.txt",
+    "track_id": "scan_20251229_140752_0297da63",
+    "metadata": {
+      "processing_start_time": 1766993757,
+      "processing_end_time": 1766994016
+    }
+  },
+  "doc-29c15660ae7fa81e441afff739b0034a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-e02e2da332ecf8213417320ffed8ccd3",
+      "chunk-2b5e324b3c5f5d2098e8d6599e04ca3e"
+    ],
+    "content_summary": "--- THÔNG TIN CHƯƠNG TRÌNH ĐÀO TẠO ---\nKhoa: Công nghệ thông tin\nNgành đào tạo: Hệ thống thông tin\nChương trình: Chương trình chuẩn (Đại trà)\n\n--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (BẮT BUỘC) ---\nCác môn học sau đây thuộc khối \"Kiến thức giáo dục đại...",
+    "content_length": 4388,
+    "created_at": "2025-12-29T10:37:03.464331+00:00",
+    "updated_at": "2025-12-30T05:25:16.378515+00:00",
+    "file_path": "1-HeThongThongTin.txt",
+    "track_id": "scan_20251229_173703_9f531ba5",
+    "metadata": {
+      "processing_start_time": 1767071621,
+      "processing_end_time": 1767072316
+    }
+  },
+  "doc-d81cf18a0792227527d0af721474a05f": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-87e8716577a15e6e4a36ddcb580633a4",
+      "chunk-f01a19f6990c4326f52699cf977368fa",
+      "chunk-cd37429d541cc6d6ab0b2fb76252ab4b"
+    ],
+    "content_summary": "--- THÔNG TIN CHƯƠNG TRÌNH ĐÀO TẠO ---\nKhoa: Công nghệ thông tin\nNgành đào tạo: Khoa học máy tính\nChương trình: Chương trình chuẩn (Đại trà)\n\n--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (BẮT BUỘC) ---\nCác môn học sau đây thuộc khối \"Kiến thức giáo dục đại ...",
+    "content_length": 6695,
+    "created_at": "2025-12-29T10:37:03.473866+00:00",
+    "updated_at": "2025-12-30T05:44:02.119837+00:00",
+    "file_path": "3-KhoaHocMayTinh.txt",
+    "track_id": "scan_20251229_173703_9f531ba5",
+    "metadata": {
+      "processing_start_time": 1767072316,
+      "processing_end_time": 1767073442
+    }
+  },
+  "doc-d7a95d8a17ae27332def6223e792f737": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6afacfaa0164c400467c5f31dca524dc",
+      "chunk-7d648b7dd2eea67abc894628855312cb"
+    ],
+    "content_summary": "--- THÔNG TIN CHƯƠNG TRÌNH ĐÀO TẠO ---\nKhoa: Công nghệ thông tin\nNgành đào tạo: Kỹ thuật phần mềm\nChương trình: Chương trình chuẩn (Đại trà)\n\n--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (BẮT BUỘC) ---\nCác môn học sau đây thuộc khối \"Kiến thức giáo dục đại ...",
+    "content_length": 4597,
+    "created_at": "2025-12-29T10:37:03.479915+00:00",
+    "updated_at": "2025-12-30T05:25:39.779546+00:00",
+    "file_path": "4-KyThuatPhanMem.txt",
+    "track_id": "scan_20251229_173703_9f531ba5",
+    "metadata": {
+      "processing_start_time": 1767071621,
+      "processing_end_time": 1767072339
+    }
+  },
+  "doc-627c3535352a0043c7cb7f6aaafc3772": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-f519ba211ffbfcc3d3b9811ef5e12326",
+      "chunk-384eeba5eb65bde82dc81d45ba3fd6af",
+      "chunk-fc251918ce5a54b8949058f0599e069c"
+    ],
+    "content_summary": "--- THÔNG TIN CHƯƠNG TRÌNH ĐÀO TẠO ---\nKhoa: Công nghệ thông tin\nNgành đào tạo: Trí tuệ nhân tạo\nChương trình: Chương trình chuẩn (Đại trà)\n\n--- KHỐI KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG (BẮT BUỘC) ---\nCác môn học sau đây thuộc khối \"Kiến thức giáo dục đại c...",
+    "content_length": 6689,
+    "created_at": "2025-12-29T10:37:03.487656+00:00",
+    "updated_at": "2025-12-30T05:44:57.807570+00:00",
+    "file_path": "5-TriTueNhanTao.txt",
+    "track_id": "scan_20251229_173703_9f531ba5",
+    "metadata": {
+      "processing_start_time": 1767072339,
+      "processing_end_time": 1767073497
+    }
+  },
+  "doc-366e2a88f9d82128aaf68d054159f0d1": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-42359edbe7b35316fd4586d32961904b",
+      "chunk-3d53e2820e077b11c798039e3be355d2"
+    ],
+    "content_summary": "# COURSE: Nhập môn công nghệ thông tin (CSC00004)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC00004\n- **English Name**: Introduction to Information Technology\n- **Vietnamese Name**: Nhập môn công nghệ thông tin\n- **Responsible Person**: for the modul...",
+    "content_length": 11092,
+    "created_at": "2025-12-30T05:45:56.042737+00:00",
+    "updated_at": "2025-12-30T06:16:52.440413+00:00",
+    "file_path": "CSC00004.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767074562,
+      "processing_end_time": 1767075412
+    }
+  },
+  "doc-d51895eb6783145971cfc137a997d9f1": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b3332c3985a88c8291b7dc8db0e2ab6f",
+      "chunk-2f1fe0bc7fb3c78920a669569c6a8f40"
+    ],
+    "content_summary": "# COURSE: Nhập môn lập trình (CSC10001)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10001\n- **English Name**: Introduction to Programming\n- **Vietnamese Name**: Nhập môn lập trình\n- **Responsible Person**: for the module: Văn Chí Nam\n- **Semester**: ...",
+    "content_length": 6041,
+    "created_at": "2025-12-30T05:45:56.051708+00:00",
+    "updated_at": "2025-12-30T06:25:40.257392+00:00",
+    "file_path": "CSC10001.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767074562,
+      "processing_end_time": 1767075940
+    }
+  },
+  "doc-4a9aa7eda317a9ccf2efe11b8a247743": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-12ab0aadc57e7073cc94ebd492ab4b2e",
+      "chunk-9226c97f0680e5f2386405b269732393"
+    ],
+    "content_summary": "# COURSE: Kỹ thuật lập trình (CSC10002)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10002\n- **English Name**: Programming Techniques\n- **Vietnamese Name**: Kỹ thuật lập trình\n- **Responsible Person**: for the module: Dr. Đinh Bá Tiến\n- **Semester**: ...",
+    "content_length": 7397,
+    "created_at": "2025-12-30T05:45:56.058269+00:00",
+    "updated_at": "2025-12-30T06:34:09.066384+00:00",
+    "file_path": "CSC10002.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767075412,
+      "processing_end_time": 1767076449
+    }
+  },
+  "doc-07e06d0371af8cf2a70b7c81f61ff237": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-7016942ca30d5245abf76b725d66e57c",
+      "chunk-5ff0a5fd2f4dc93e893f619378a890d8"
+    ],
+    "content_summary": "# COURSE: Phương pháp lập trình hướng đối tượng (CSC10003)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10003\n- **English Name**: Object-Oriented Programming\n- **Vietnamese Name**: Phương pháp lập trình hướng đối tượng\n- **Responsible Person**: for th...",
+    "content_length": 8365,
+    "created_at": "2025-12-30T05:45:56.063024+00:00",
+    "updated_at": "2025-12-30T06:49:22.473452+00:00",
+    "file_path": "CSC10003.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767076496,
+      "processing_end_time": 1767077362
+    }
+  },
+  "doc-180b4f3518359bf08d43818907ac5e75": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2cd5b66eb99aef941bf15a44965de311",
+      "chunk-fc4de4b134773b9dbb2685bdf9138c80"
+    ],
+    "content_summary": "# COURSE: Cấu trúc dữ liệu và giải thuật (CSC10004)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10004\n- **English Name**: Data Structures and Algorithms\n- **Vietnamese Name**: Cấu trúc dữ liệu và giải thuật\n- **Responsible Person**: for the module: L...",
+    "content_length": 8144,
+    "created_at": "2025-12-30T05:45:56.067463+00:00",
+    "updated_at": "2025-12-30T06:51:26.876368+00:00",
+    "file_path": "CSC10004.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767076496,
+      "processing_end_time": 1767077486
+    }
+  },
+  "doc-a6b7a54ab8709427e222881c5d45ab27": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b80082cec0623e9d21d46a07ab61c242",
+      "chunk-511886f135ece8d9377abd5a4269e94e"
+    ],
+    "content_summary": "# COURSE: Cơ sở dữ liệu (CSC10006)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10006\n- **English Name**: Introduction to Databases\n- **Vietnamese Name**: Cơ sở dữ liệu\n- **Responsible Person**: for the module: Dr. Phạm Thị Bạch Huệ\n- **Semester**: (s...",
+    "content_length": 6780,
+    "created_at": "2025-12-30T05:45:56.072177+00:00",
+    "updated_at": "2025-12-30T06:54:37.406548+00:00",
+    "file_path": "CSC10006.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767077362,
+      "processing_end_time": 1767077677
+    }
+  },
+  "doc-cf95e842253e14158c8c53abd46b7c10": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-82450264807bed18ace6b82bedda755e",
+      "chunk-82a3519333f523f9bf4ff2a56651802c"
+    ],
+    "content_summary": "# COURSE: Hệ điều hành (CSC10007)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10007\n- **English Name**: Operating Systems\n- **Vietnamese Name**: Hệ điều hành\n- **Responsible Person**: for the module: Dr. Trần Trung Dũng\n- **Semester**: (s) in which t...",
+    "content_length": 6587,
+    "created_at": "2025-12-30T05:45:56.076777+00:00",
+    "updated_at": "2025-12-30T07:03:58.194436+00:00",
+    "file_path": "CSC10007.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767077487,
+      "processing_end_time": 1767078238
+    }
+  },
+  "doc-bedee50b36f90dd5e85c6174259b57e0": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-259a093541dddf89db4b3dd4d7fdabcf",
+      "chunk-e8274af85d73b19b445ab0b961b6d578"
+    ],
+    "content_summary": "# COURSE: Mạng máy tính (CSC10008)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10008\n- **English Name**: Computer Networking\n- **Vietnamese Name**: Mạng máy tính\n- **Responsible Person**: for the module: Huỳnh Thuỵ Bảo Trân\n- **Semester**: (s) in whi...",
+    "content_length": 6947,
+    "created_at": "2025-12-30T05:45:56.081519+00:00",
+    "updated_at": "2025-12-30T07:03:59.834673+00:00",
+    "file_path": "CSC10008.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767077677,
+      "processing_end_time": 1767078239
+    }
+  },
+  "doc-ce2f1c4564cdaa84ad525614cf6950f9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4d06ad3aa3d8fe3539fa0a274e7e3c96",
+      "chunk-b0fb2e4cd241fc25eaad9f5cac849835"
+    ],
+    "content_summary": "# COURSE: Hệ thống máy tính (CSC10009)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10009\n- **English Name**: Computer Systems\n- **Vietnamese Name**: Hệ thống máy tính\n- **Responsible Person**: for the module: Chung Thuỳ Linh\n- **Semester**: (s) in wh...",
+    "content_length": 7470,
+    "created_at": "2025-12-30T05:45:56.086431+00:00",
+    "updated_at": "2025-12-30T07:23:33.046347+00:00",
+    "file_path": "CSC10009.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767078238,
+      "processing_end_time": 1767079413
+    }
+  },
+  "doc-c8911beadbc413c771a67d7334bcd85e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-99f653158a14e33c0be836dd99141cb5",
+      "chunk-fd7f30c34427bbb1c355045ce3e5082a"
+    ],
+    "content_summary": "# COURSE: Cơ sở lập trình (CSC10012)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10012\n- **English Name**: Fundamentals of Programming\n- **Vietnamese Name**: Cơ sở lập trình\n- **Responsible Person**: for the module: Nguyễn Minh Huy\n- **Semester**: (s...",
+    "content_length": 7607,
+    "created_at": "2025-12-30T05:45:56.091316+00:00",
+    "updated_at": "2025-12-30T07:42:35.240781+00:00",
+    "file_path": "CSC10012.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080451,
+      "processing_end_time": 1767080555
+    }
+  },
+  "doc-971be220bb86f5aa14877b4902bab258": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-971be220bb86f5aa14877b4902bab258"
+    ],
+    "content_summary": "# COURSE: Kiến tập nghề nghiệp (CSC10102)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10102\n- **English Name**: Career Observation\n- **Vietnamese Name**: Kiến tập nghề nghiệp\n- **Responsible Person**: for the module: Cao Xuân Nam\n- **Semester**: (s) ...",
+    "content_length": 5099,
+    "created_at": "2025-12-30T05:45:56.095751+00:00",
+    "updated_at": "2025-12-30T07:44:38.150769+00:00",
+    "file_path": "CSC10102.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080644,
+      "processing_end_time": 1767080678
+    }
+  },
+  "doc-5a0cdf76255bdd62875db1afbc9b7dee": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-30ae257bbaccc8949d867abfd4122fb4",
+      "chunk-666ad22d606069331e8110161c52ce2e"
+    ],
+    "content_summary": "# COURSE: Khởi nghiệp (CSC10103)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10103\n- **English Name**: Entrepreneurship in IT\n- **Vietnamese Name**: Khởi nghiệp\n- **Responsible Person**: for the module: Dr. Đinh Bá Tiến\n- **Semester**: (s) in which t...",
+    "content_length": 7897,
+    "created_at": "2025-12-30T05:45:56.101129+00:00",
+    "updated_at": "2025-12-30T07:45:37.569599+00:00",
+    "file_path": "CSC10103.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080644,
+      "processing_end_time": 1767080737
+    }
+  },
+  "doc-ab765f3e359d5bbeda3722075454198a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6fa9999ee1fe4e756e9d1c6d43a4307d",
+      "chunk-a7f71d80abc6083184932aa30b343bb1"
+    ],
+    "content_summary": "# COURSE: Quy hoạch tuyến tính (CSC10104)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10104\n- **English Name**: Linear Programming\n- **Vietnamese Name**: Quy hoạch tuyến tính\n- **Responsible Person**: for the module: Lê Phúc Lữ\n- **Semester**: (s) in...",
+    "content_length": 8839,
+    "created_at": "2025-12-30T05:45:56.106290+00:00",
+    "updated_at": "2025-12-30T07:46:40.938416+00:00",
+    "file_path": "CSC10104.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080678,
+      "processing_end_time": 1767080800
+    }
+  },
+  "doc-86d242039ae7a6f2d7068d8d94c4f257": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-9a29c759ae99046ac2c3fe8bdf371df1",
+      "chunk-f24439ad7f02668289863355b7f07875"
+    ],
+    "content_summary": "# COURSE: Nhập môn tư duy thuật toán (CSC10105)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10105\n- **English Name**: Introduction to Algorithmic Thinking\n- **Vietnamese Name**: Nhập môn tư duy thuật toán\n- **Responsible Person**: for the module: Dr....",
+    "content_length": 6674,
+    "created_at": "2025-12-30T05:45:56.111094+00:00",
+    "updated_at": "2025-12-30T07:48:10.312863+00:00",
+    "file_path": "CSC10105.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080737,
+      "processing_end_time": 1767080890
+    }
+  },
+  "doc-d58714dee56ab67d7754cb326cb67fe9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-e3da7d39b6bdf31797321b628d538fae",
+      "chunk-29f2f81143ba1b329cf62c5e0e5a103c"
+    ],
+    "content_summary": "# COURSE: Thuật toán tổ hợp và ứng dụng (CSC10106)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10106\n- **English Name**: Combinatorial Algorithms and Applications\n- **Vietnamese Name**: Thuật toán tổ hợp và ứng dụng\n- **Responsible Person**: for the ...",
+    "content_length": 7534,
+    "created_at": "2025-12-30T05:45:56.116236+00:00",
+    "updated_at": "2025-12-30T07:49:48.016391+00:00",
+    "file_path": "CSC10106.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080801,
+      "processing_end_time": 1767080988
+    }
+  },
+  "doc-93c14e71ded9a2759dc4ddc8b6f2aa73": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-a57bed8cbf2444e09e5c94a70408bb2f",
+      "chunk-2d12367f0ebb6a75ee23ea936d23092c",
+      "chunk-35ac8349e47c207088349583eff9e0b7"
+    ],
+    "content_summary": "# COURSE: Thực tập thực tế (CSC10107)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10107\n- **English Name**: Internship\n- **Vietnamese Name**: Thực tập thực tế\n- **Responsible Person**: for the module: Văn Chí Nam\n- **Semester**: (s) in which the modu...",
+    "content_length": 10920,
+    "created_at": "2025-12-30T05:45:56.121668+00:00",
+    "updated_at": "2025-12-30T07:49:56.682481+00:00",
+    "file_path": "CSC10107.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080890,
+      "processing_end_time": 1767080996
+    }
+  },
+  "doc-6ca180b0a5a0e264895b4a9886dc3f92": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-5c15d3dc15c83a9ad079fa6d593c5a10",
+      "chunk-541f92c9ffdc4c352c5736bab419045f"
+    ],
+    "content_summary": "# COURSE: Trực quan hóa dữ liệu (CSC10108)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10108\n- **English Name**: Data Visualization\n- **Vietnamese Name**: Trực quan hóa dữ liệu\n- **Responsible Person**: for the module: Dr. Bùi Tiến Lên\n- **Semester**...",
+    "content_length": 5981,
+    "created_at": "2025-12-30T05:45:56.126643+00:00",
+    "updated_at": "2025-12-30T07:51:09.708122+00:00",
+    "file_path": "CSC10108.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080988,
+      "processing_end_time": 1767081069
+    }
+  },
+  "doc-8d0973bd6d3041eb7df31c3085a6ec47": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-dbadcb2ddf3d27bcf6666e73868b9263",
+      "chunk-73d48d8869ad20ff6e1ddb738acf8747"
+    ],
+    "content_summary": "# COURSE: Kỹ năng mềm (CSC10121)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10121\n- **English Name**: Personal and Interpersonal Skills\n- **Vietnamese Name**: Kỹ năng mềm\n- **Responsible Person**: for the module: Đỗ Thị Thanh Hà\n- **Semester**: (s) ...",
+    "content_length": 5974,
+    "created_at": "2025-12-30T05:45:56.131656+00:00",
+    "updated_at": "2025-12-30T07:51:24.547075+00:00",
+    "file_path": "CSC10121.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767080996,
+      "processing_end_time": 1767081084
+    }
+  },
+  "doc-c3615f419d8a632e599f41206cf2294f": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b88b91788f9d60a48e9bc7e18a9d25c6",
+      "chunk-2bce7ac607b8b407722828c17e94282a"
+    ],
+    "content_summary": "# COURSE: Thực tập dự án tốt nghiệp (CSC10204)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10204\n- **English Name**: Capstone Projects\n- **Vietnamese Name**: Thực tập dự án tốt nghiệp\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Văn ...",
+    "content_length": 8739,
+    "created_at": "2025-12-30T05:45:56.137480+00:00",
+    "updated_at": "2025-12-30T07:53:04.236254+00:00",
+    "file_path": "CSC10204.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081070,
+      "processing_end_time": 1767081184
+    }
+  },
+  "doc-0b0a3b1090695ba75a7b07e168d1ae3c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-46e0cea33d8bc19415cb42e98e486b17",
+      "chunk-316f9be9c7846e523d2eea43d4923668"
+    ],
+    "content_summary": "# COURSE: Khóa luận tốt nghiệp (CSC10251)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10251\n- **English Name**: Undergraduate Thesis\n- **Vietnamese Name**: Khóa luận tốt nghiệp\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Văn Vũ\n- **...",
+    "content_length": 8684,
+    "created_at": "2025-12-30T05:45:56.143083+00:00",
+    "updated_at": "2025-12-30T07:53:32.165959+00:00",
+    "file_path": "CSC10251.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081084,
+      "processing_end_time": 1767081212
+    }
+  },
+  "doc-3975f889c9f338260af84f8058ef1c29": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-792154d6205267b3a3a41b80de16d70c",
+      "chunk-f55a8726140cf552243b10d172da6a07"
+    ],
+    "content_summary": "# COURSE: Thực tập tốt nghiệp (CSC10252)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC10252\n- **English Name**: Industrial-based Thesis\n- **Vietnamese Name**: Thực tập tốt nghiệp\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Văn Vũ\n- *...",
+    "content_length": 9265,
+    "created_at": "2025-12-30T05:45:56.149136+00:00",
+    "updated_at": "2025-12-30T07:54:35.627429+00:00",
+    "file_path": "CSC10252.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081184,
+      "processing_end_time": 1767081275
+    }
+  },
+  "doc-1d9f89130ce7f3f0ef5d2d73d09ac725": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-36ca12fed667209588643f208da0949e",
+      "chunk-69b9176508fdf9d5ca323302a97875e5"
+    ],
+    "content_summary": "# COURSE: Mạng máy tính nâng cao (CSC11004)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC11004\n- **English Name**: Advanced Computer Networking\n- **Vietnamese Name**: Mạng máy tính nâng cao\n- **Responsible Person**: for the module: Lê Ngọc Sơn\n- **Sem...",
+    "content_length": 6844,
+    "created_at": "2025-12-30T05:45:56.154195+00:00",
+    "updated_at": "2025-12-30T07:56:12.670083+00:00",
+    "file_path": "CSC11004.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081212,
+      "processing_end_time": 1767081372
+    }
+  },
+  "doc-bb4410d4a1e5b8b8e8e06025fe268448": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-3d032a6fe9026824552479d9a0cca5b6",
+      "chunk-62a88f33f5bf6599aeaca364b95347b8"
+    ],
+    "content_summary": "# COURSE: An toàn và bảo mật dữ liệu trong hệ thống thông tin (CSC12001)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12001\n- **English Name**: Data Security in Information Systems\n- **Vietnamese Name**: An toàn và bảo mật dữ liệu trong hệ thống thông...",
+    "content_length": 6797,
+    "created_at": "2025-12-30T05:45:56.159900+00:00",
+    "updated_at": "2025-12-30T07:57:20.052566+00:00",
+    "file_path": "CSC12001.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081275,
+      "processing_end_time": 1767081440
+    }
+  },
+  "doc-422b7949861bff4964da01af23b36939": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-224c531e2a31e3fc8ee329c002bee92e",
+      "chunk-b3ed9e9c9dd1a8490ef25d42b960e9ad"
+    ],
+    "content_summary": "# COURSE: Cơ sở dữ liệu nâng cao (CSC12002)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12002\n- **English Name**: Advanced Database Systems\n- **Vietnamese Name**: Cơ sở dữ liệu nâng cao\n- **Responsible Person**: for the module: Dr. Nguyễn Trần Minh T...",
+    "content_length": 6169,
+    "created_at": "2025-12-30T05:45:56.165812+00:00",
+    "updated_at": "2025-12-30T07:57:33.730977+00:00",
+    "file_path": "CSC12002.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081372,
+      "processing_end_time": 1767081453
+    }
+  },
+  "doc-cec6fec57763c78d71e1e7bb99a39d81": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-840e0eb4d38bbd64fbd4ba6e48192922",
+      "chunk-652de78190ebf0514cebc565dd40a2b1"
+    ],
+    "content_summary": "# COURSE: Hệ quản trị cơ sở dữ liệu (CSC12003)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12003\n- **English Name**: Database Management Systems\n- **Vietnamese Name**: Hệ quản trị cơ sở dữ liệu\n- **Responsible Person**: for the module: Dr. Phạm Thị B...",
+    "content_length": 6790,
+    "created_at": "2025-12-30T05:45:56.170577+00:00",
+    "updated_at": "2025-12-30T08:03:00.762303+00:00",
+    "file_path": "CSC12003.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081780
+    }
+  },
+  "doc-72a8acdb4d9a2f3442a68824dc492e12": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-9d47124df16dc180dc9081323ef6969c",
+      "chunk-c743ef17feac89ceb7cd35d9d0870d4a"
+    ],
+    "content_summary": "# COURSE: Chuyên đề chọn lọc trong Hệ thống thông tin (CSC12102)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12102\n- **English Name**: Special Topics in Information Systems\n- **Vietnamese Name**: Chuyên đề chọn lọc trong Hệ thống thông tin\n- **Respon...",
+    "content_length": 6561,
+    "created_at": "2025-12-30T05:45:56.176099+00:00",
+    "updated_at": "2025-12-30T08:03:36.206813+00:00",
+    "file_path": "CSC12102.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081816
+    }
+  },
+  "doc-3b4f50ade73bb6a923fdffb62e1a79bb": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-ad965bce43beae0fa8c6cc6a4d32efbf",
+      "chunk-8349910d2f3e3207a3f720b885c1be9e"
+    ],
+    "content_summary": "# COURSE: Hệ thống thông tin phục vụ trí tuệ kinh doanh (CSC12107)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12107\n- **English Name**: Information Systems for Business Intelligence\n- **Vietnamese Name**: Hệ thống thông tin phục vụ trí tuệ kinh doan...",
+    "content_length": 9424,
+    "created_at": "2025-12-30T05:45:56.182494+00:00",
+    "updated_at": "2025-12-30T08:03:59.367815+00:00",
+    "file_path": "CSC12107.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081839
+    }
+  },
+  "doc-d24181eeee588b88f0a831abf99329b1": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-07be09f88fdef9e0115c48cbd0461f2e",
+      "chunk-27bd32beb456503701f87450d3684b28"
+    ],
+    "content_summary": "# COURSE: Hệ thống thông tin doanh nghiệp (CSC12109)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12109\n- **English Name**: Introduction to Enterprise Information Systems\n- **Vietnamese Name**: Hệ thống thông tin doanh nghiệp\n- **Responsible Person**:...",
+    "content_length": 6452,
+    "created_at": "2025-12-30T05:45:56.187558+00:00",
+    "updated_at": "2025-12-30T08:03:38.075978+00:00",
+    "file_path": "CSC12109.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081818
+    }
+  },
+  "doc-e2aafaaa4ceb05d6f270f2b9440fe7a9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-e9a3f64ed3a00fdaa6800a638f96982b",
+      "chunk-a20a9abadf6e6db8ee68045a4fa77d97"
+    ],
+    "content_summary": "# COURSE: Phân tích dữ liệu ứng dụng (CSC12110)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC12110\n- **English Name**: Applied Data Analytics\n- **Vietnamese Name**: Phân tích dữ liệu ứng dụng\n- **Responsible Person**: for the module: Dr. Phạm Nguyễn C...",
+    "content_length": 8423,
+    "created_at": "2025-12-30T05:45:56.193988+00:00",
+    "updated_at": "2025-12-30T08:05:05.839492+00:00",
+    "file_path": "CSC12110.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081905
+    }
+  },
+  "doc-d3ff2ef5b5602e85e69b82d086ddfb45": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b8cdb1ef4bdcf6cd8df95362e4e37427",
+      "chunk-aa300ca652ea56cbe3bd66f69f239612"
+    ],
+    "content_summary": "# COURSE: Nhập môn công nghệ phần mềm (CSC13002)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13002\n- **English Name**: Introduction to Software Engineering\n- **Vietnamese Name**: Nhập môn công nghệ phần mềm\n- **Responsible Person**: for the module: D...",
+    "content_length": 7294,
+    "created_at": "2025-12-30T05:45:56.200921+00:00",
+    "updated_at": "2025-12-30T08:04:33.222103+00:00",
+    "file_path": "CSC13002.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081873
+    }
+  },
+  "doc-c2d88b029f3bd8e253ff0f9aa0793d0c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-76232e06b6382ab7cc81b99a5e43eb1f",
+      "chunk-fe7b66583e0ebcf99a327b80a554972b"
+    ],
+    "content_summary": "# COURSE: Quản lý dự án phần mềm (CSC13006)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13006\n- **English Name**: Software Project Management\n- **Vietnamese Name**: Quản lý dự án phần mềm\n- **Responsible Person**: for the module: Dr. Ngô Huy Biên\n- *...",
+    "content_length": 8408,
+    "created_at": "2025-12-30T05:45:56.206320+00:00",
+    "updated_at": "2025-12-30T08:04:36.416315+00:00",
+    "file_path": "CSC13006.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081876
+    }
+  },
+  "doc-964ccc801c2587e7b5461c2ae50c40b5": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-5666be11c772187f45c07bb07c6c8502",
+      "chunk-5001b9b9270de6882a183e70b7e2d03f"
+    ],
+    "content_summary": "# COURSE: Phát triển ứng dụng web (CSC13008)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13008\n- **English Name**: Web Application Development\n- **Vietnamese Name**: Phát triển ứng dụng web\n- **Responsible Person**: for the module: Trần Thị Bích Hạnh...",
+    "content_length": 8911,
+    "created_at": "2025-12-30T05:45:56.212276+00:00",
+    "updated_at": "2025-12-30T08:05:47.036097+00:00",
+    "file_path": "CSC13008.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767081478,
+      "processing_end_time": 1767081947
+    }
+  },
+  "doc-2cbe9fa16df5302c4b26006dda9cdeec": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2ea14fbb3d356468c4c38db5ff86f44a",
+      "chunk-fa022457e94563ef68ad4e5125817ca8"
+    ],
+    "content_summary": "# COURSE: Các chủ đề nâng cao trong Công nghệ phần mềm (CSC13101)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13101\n- **English Name**: Advanced Topics in Software Engineering\n- **Vietnamese Name**: Các chủ đề nâng cao trong Công nghệ phần mềm\n- **Re...",
+    "content_length": 6711,
+    "created_at": "2025-12-30T05:45:56.218780+00:00",
+    "updated_at": "2025-12-30T08:08:19.408046+00:00",
+    "file_path": "CSC13101.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082099
+    }
+  },
+  "doc-1430973a2f8032057e23a1e79e2d3cd4": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2111d39f7cda993daa3c10eaa61c33fc",
+      "chunk-33b50d807bc6b3e3a8fa7b788b291716"
+    ],
+    "content_summary": "# COURSE: Kiến trúc phần mềm (CSC13106)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13106\n- **English Name**: Software Architecture\n- **Vietnamese Name**: Kiến trúc phần mềm\n- **Responsible Person**: for the module: Trần Văn Quý\n- **Semester**: (s) i...",
+    "content_length": 8807,
+    "created_at": "2025-12-30T05:45:56.225427+00:00",
+    "updated_at": "2025-12-30T08:08:28.032585+00:00",
+    "file_path": "CSC13106.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082108
+    }
+  },
+  "doc-55618d0c43df73cbf08773bcea125418": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-d109247f95d1ccd2e626d87eae9478e2",
+      "chunk-0692ecc0ed9739253244b6a78e8c9ece",
+      "chunk-6922a6241611ba2058336987ebd903ff"
+    ],
+    "content_summary": "# COURSE: Mô hình hóa phần mềm (CSC13108)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13108\n- **English Name**: Software Modeling\n- **Vietnamese Name**: Mô hình hóa phần mềm\n- **Responsible Person**: for the module: Bùi Tấn Lộc\n- **Semester**: (s) in...",
+    "content_length": 9964,
+    "created_at": "2025-12-30T05:45:56.231929+00:00",
+    "updated_at": "2025-12-30T08:11:13.386678+00:00",
+    "file_path": "CSC13108.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082273
+    }
+  },
+  "doc-963def03e6ea28f320a7e7908d9384d9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-7b3d4a2b4bfd5ebe502d4d78f868027b",
+      "chunk-94fc6cd396e614d2d62d9fb859aa68fb"
+    ],
+    "content_summary": "# COURSE: Thiết kế giao diện (CSC13112)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13112\n- **English Name**: User Interface Design\n- **Vietnamese Name**: Thiết kế giao diện\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Văn Vũ\n- **Sem...",
+    "content_length": 6918,
+    "created_at": "2025-12-30T05:45:56.238497+00:00",
+    "updated_at": "2025-12-30T08:10:13.191155+00:00",
+    "file_path": "CSC13112.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082213
+    }
+  },
+  "doc-e2eea7cbe5a3cb93ba80087f946459c6": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-7a95fc361c94f691bc610c2e196db8df",
+      "chunk-9ec36edffaf34ac9c5018481c45ac088"
+    ],
+    "content_summary": "# COURSE: Phát triển ứng dụng web nâng cao (CSC13114)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13114\n- **English Name**: Advanced Web Application Development\n- **Vietnamese Name**: Phát triển ứng dụng web nâng cao\n- **Responsible Person**: for the...",
+    "content_length": 8705,
+    "created_at": "2025-12-30T05:45:56.244653+00:00",
+    "updated_at": "2025-12-30T08:09:39.949025+00:00",
+    "file_path": "CSC13114.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082179
+    }
+  },
+  "doc-fadb65ce62a46075b46e57caeec82685": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-1246fc10ddca2da2e7a8cd379de8c078",
+      "chunk-b4f0f8890cd634d82861e9f6b1e4d651"
+    ],
+    "content_summary": "# COURSE: Các công nghệ mới trong phát triển phần mềm (CSC13115)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC13115\n- **English Name**: Modern Software Development Technologies\n- **Vietnamese Name**: Các công nghệ mới trong phát triển phần mềm\n- **Res...",
+    "content_length": 8219,
+    "created_at": "2025-12-30T05:45:56.251560+00:00",
+    "updated_at": "2025-12-30T08:10:45.068174+00:00",
+    "file_path": "CSC13115.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082245
+    }
+  },
+  "doc-6f8b9043fdbf4f95fecb9360cf0e0212": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-fba6238be0968f8df53514cfa21e271c",
+      "chunk-dc817b239ade09690d81ceb8681bcac6"
+    ],
+    "content_summary": "# COURSE: Automata và ngôn ngữ hình thức (CSC14001)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14001\n- **English Name**: Automata and Formal Languages\n- **Vietnamese Name**: Automata và ngôn ngữ hình thức\n- **Responsible Person**: for the module: Dr...",
+    "content_length": 7488,
+    "created_at": "2025-12-30T05:45:56.258648+00:00",
+    "updated_at": "2025-12-30T08:10:35.887652+00:00",
+    "file_path": "CSC14001.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082235
+    }
+  },
+  "doc-fd8e0bc856e29cd997650403796527f0": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6a3ef3ae3ef8f5756ce93bb25a979566",
+      "chunk-57a4e062e7e61e7421e8df5d09233c8a"
+    ],
+    "content_summary": "# COURSE: Các hệ cơ sở tri thức (CSC14002)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14002\n- **English Name**: Knowledge-Based Systems\n- **Vietnamese Name**: Các hệ cơ sở tri thức\n- **Responsible Person**: for the module: Assoc. Prof. Lê Hoàng Thái...",
+    "content_length": 6637,
+    "created_at": "2025-12-30T05:45:56.265788+00:00",
+    "updated_at": "2025-12-30T08:11:26.264549+00:00",
+    "file_path": "CSC14002.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082012,
+      "processing_end_time": 1767082286
+    }
+  },
+  "doc-4839ccbb189b044e1ac0e3f0e9e0adfd": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2b5afffee12c19fd349d0cc310c5dd93",
+      "chunk-f75bcd02f33b99232c0789b5853ce3b3"
+    ],
+    "content_summary": "# COURSE: Cơ sở trí tuệ nhân tạo (CSC14003)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14003\n- **English Name**: Fundamentals of Artificial Intelligence\n- **Vietnamese Name**: Cơ sở trí tuệ nhân tạo\n- **Responsible Person**: for the module: Dr. Nguy...",
+    "content_length": 6796,
+    "created_at": "2025-12-30T05:45:56.272624+00:00",
+    "updated_at": "2025-12-30T08:12:10.942850+00:00",
+    "file_path": "CSC14003.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082099,
+      "processing_end_time": 1767082330
+    }
+  },
+  "doc-abac0e72c679b9b1fc431eb95d65e007": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-c4ee014d9869e6e131418ae6cfe78b51",
+      "chunk-d3bad11647e05d5d9b1c20ffb85b3797"
+    ],
+    "content_summary": "# COURSE: Khai thác dữ liệu và ứng dụng (CSC14004)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14004\n- **English Name**: Data Mining and Applications\n- **Vietnamese Name**: Khai thác dữ liệu và ứng dụng\n- **Responsible Person**: for the module: Prof....",
+    "content_length": 7345,
+    "created_at": "2025-12-30T05:45:56.278912+00:00",
+    "updated_at": "2025-12-30T08:12:07.398572+00:00",
+    "file_path": "CSC14004.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082108,
+      "processing_end_time": 1767082327
+    }
+  },
+  "doc-b945ede3535cc2f6d0ead92c5b438d76": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-3848254fbc66b3312a518f8c7a4aa9b9",
+      "chunk-5b0f62f79e11ab285ff05df1bd5517e0"
+    ],
+    "content_summary": "# COURSE: Nhập môn học máy (CSC14005)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14005\n- **English Name**: Introduction to Machine Learning\n- **Vietnamese Name**: Nhập môn học máy\n- **Responsible Person**: for the module: Dr. Bùi Tiến Lên\n- **Semest...",
+    "content_length": 6357,
+    "created_at": "2025-12-30T05:45:56.285356+00:00",
+    "updated_at": "2025-12-30T08:13:29.972374+00:00",
+    "file_path": "CSC14005.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082180,
+      "processing_end_time": 1767082409
+    }
+  },
+  "doc-25a816220e7dd103b19ad01a71a78ed7": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-bc8810e6036f9cd95ff91d14c5aedd72",
+      "chunk-56b909a80e97ccea54aceb2a12e7205d"
+    ],
+    "content_summary": "# COURSE: Ẩn dữ liệu và chia sẻ thông tin (CSC14101)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14101\n- **English Name**: Data Hiding and Steganography\n- **Vietnamese Name**: Ẩn dữ liệu và chia sẻ thông tin\n- **Responsible Person**: for the module: ...",
+    "content_length": 6584,
+    "created_at": "2025-12-30T05:45:56.292364+00:00",
+    "updated_at": "2025-12-30T08:13:31.591906+00:00",
+    "file_path": "CSC14101.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082213,
+      "processing_end_time": 1767082411
+    }
+  },
+  "doc-4daa1ac7c084a34b62138c4f6339ed6c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-d1c8d5fa6ea7d2fcff1f219710ad4e10",
+      "chunk-83abeb16e2ce2401864d3513d3bdbd06"
+    ],
+    "content_summary": "# COURSE: Nhập môn thiết kế và phân tích giải thuật (CSC14111)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14111\n- **English Name**: Introduction to Design and Analysis of Algorithms\n- **Vietnamese Name**: Nhập môn thiết kế và phân tích giải thuật\n- ...",
+    "content_length": 5759,
+    "created_at": "2025-12-30T05:45:56.299547+00:00",
+    "updated_at": "2025-12-30T08:14:26.526099+00:00",
+    "file_path": "CSC14111.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082236,
+      "processing_end_time": 1767082466
+    }
+  },
+  "doc-0ee6bf9af372add52d70668d8eb35999": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-0bfdd6afe5ae6789897600acaba056a1",
+      "chunk-b61fae747c3818413a58b5f45e0e7816"
+    ],
+    "content_summary": "# COURSE: Trình biên dịch (CSC14113)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14113\n- **English Name**: Compiler\n- **Vietnamese Name**: Trình biên dịch\n- **Responsible Person**: for the module: Dr. Nguyễn Thanh Phương\n- **Semester**: (s) in which ...",
+    "content_length": 6025,
+    "created_at": "2025-12-30T05:45:56.305890+00:00",
+    "updated_at": "2025-12-30T08:13:42.249753+00:00",
+    "file_path": "CSC14113.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082245,
+      "processing_end_time": 1767082422
+    }
+  },
+  "doc-897f7c9e8497604d67c534e7829b56be": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-897f7c9e8497604d67c534e7829b56be",
+      "chunk-6682e39aa5910afd8c64029143c1fc01"
+    ],
+    "content_summary": "# COURSE: Nhập môn lập trình kết nối vạn vật (CSC14117)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14117\n- **English Name**: Introduction to IoT Programming\n- **Vietnamese Name**: Nhập môn lập trình kết nối vạn vật\n- **Responsible Person**: for the ...",
+    "content_length": 5582,
+    "created_at": "2025-12-30T05:45:56.311700+00:00",
+    "updated_at": "2025-12-30T08:14:30.760084+00:00",
+    "file_path": "CSC14117.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082273,
+      "processing_end_time": 1767082470
+    }
+  },
+  "doc-72dcd54030665f10477d2d53ff4383be": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-9280127bdfa6c6d5e487dad0281a1017",
+      "chunk-edfff1f6f16d050bc84d87ec32d5e19f"
+    ],
+    "content_summary": "# COURSE: Nhập môn dữ liệu lớn (CSC14118)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14118\n- **English Name**: Introduction to Big Data\n- **Vietnamese Name**: Nhập môn dữ liệu lớn\n- **Responsible Person**: for the module: Dr. Nguyễn Ngọc Thảo\n- **Se...",
+    "content_length": 7801,
+    "created_at": "2025-12-30T05:45:56.321262+00:00",
+    "updated_at": "2025-12-30T08:14:24.522091+00:00",
+    "file_path": "CSC14118.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082286,
+      "processing_end_time": 1767082464
+    }
+  },
+  "doc-234e5bcc61f8a5d35a85a3b10712d73a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a0fdb618d5a1584e6d38156e8a6a5c85",
+      "chunk-42a38d186c87d8abee1fbbaca9aff3f0"
+    ],
+    "content_summary": "# COURSE: Nhập môn khoa học dữ liệu (CSC14119)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14119\n- **English Name**: Introduction to Data Science\n- **Vietnamese Name**: Nhập môn khoa học dữ liệu\n- **Responsible Person**: for the module: Lê Ngọc Thành...",
+    "content_length": 6783,
+    "created_at": "2025-12-30T05:45:56.327708+00:00",
+    "updated_at": "2025-12-30T08:14:48.994810+00:00",
+    "file_path": "CSC14119.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082327,
+      "processing_end_time": 1767082488
+    }
+  },
+  "doc-de0a769933ac00dc733a08af5c10d585": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-fcc412529712afd56c4a8fff636a380a",
+      "chunk-5f510edda3c030eb7c2fe8108aa4220e"
+    ],
+    "content_summary": "# COURSE: Lập trình song song (CSC14120)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC14120\n- **English Name**: Parallel Programming\n- **Vietnamese Name**: Lập trình song song\n- **Responsible Person**: for the module: Trần Trung Kiên\n- **Semester**: (...",
+    "content_length": 6829,
+    "created_at": "2025-12-30T05:45:56.334600+00:00",
+    "updated_at": "2025-12-30T08:15:21.142735+00:00",
+    "file_path": "CSC14120.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082331,
+      "processing_end_time": 1767082521
+    }
+  },
+  "doc-c90c164536d58ce9e919fc873e96c446": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-65f1e88a310d9b977484412195dc58bd",
+      "chunk-ef36a2ce457e7eadfc9af9cd4a6a1fb3"
+    ],
+    "content_summary": "# COURSE: An ninh máy tính (CSC15001)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15001\n- **English Name**: Computer Security\n- **Vietnamese Name**: An ninh máy tính\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Đình Thúc\n- **Semester...",
+    "content_length": 6492,
+    "created_at": "2025-12-30T05:45:56.341785+00:00",
+    "updated_at": "2025-12-30T08:17:32.175198+00:00",
+    "file_path": "CSC15001.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082410,
+      "processing_end_time": 1767082652
+    }
+  },
+  "doc-de396bfd90b0e3dbabe2a47dc86f0799": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-ca76e97beadc1b6d891537b9699ffd29",
+      "chunk-c55aae13f95544c7504523b0e4959b5d"
+    ],
+    "content_summary": "# COURSE: Bảo mật cơ sở dữ liệu (CSC15002)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15002\n- **English Name**: Database Security\n- **Vietnamese Name**: Bảo mật cơ sở dữ liệu\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn Đình Thúc\n- ...",
+    "content_length": 5897,
+    "created_at": "2025-12-30T05:45:56.348670+00:00",
+    "updated_at": "2025-12-30T08:16:33.321453+00:00",
+    "file_path": "CSC15002.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082412,
+      "processing_end_time": 1767082593
+    }
+  },
+  "doc-2a79871b92128755dfcc8c1950707810": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b560216e4566f9ac42f96654d68d714e",
+      "chunk-f97280a6c8b34a5e9c7d8c2110c4c55c"
+    ],
+    "content_summary": "# COURSE: Mã hóa ứng dụng (CSC15003)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15003\n- **English Name**: Applied Cryptography\n- **Vietnamese Name**: Mã hóa ứng dụng\n- **Responsible Person**: for the module: Trần Anh Duy\n- **Semester**: (s) in which...",
+    "content_length": 9527,
+    "created_at": "2025-12-30T05:45:56.355578+00:00",
+    "updated_at": "2025-12-30T08:17:32.831998+00:00",
+    "file_path": "CSC15003.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082422,
+      "processing_end_time": 1767082652
+    }
+  },
+  "doc-deda780c4b44e876e1f7e1de144f63e2": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6d9f79ffe1292a87ab146a52e60defd5",
+      "chunk-3d3f0b9860aad840cd6230adc21f4618"
+    ],
+    "content_summary": "# COURSE: Học thống kê (CSC15004)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15004\n- **English Name**: Statistical Learning\n- **Vietnamese Name**: Học thống kê\n- **Responsible Person**: for the module: Dr. Ngô Minh Nhựt\n- **Semester**: (s) in which ...",
+    "content_length": 5769,
+    "created_at": "2025-12-30T05:45:56.362212+00:00",
+    "updated_at": "2025-12-30T08:16:59.441809+00:00",
+    "file_path": "CSC15004.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082465,
+      "processing_end_time": 1767082619
+    }
+  },
+  "doc-705030d42827282e5374cb7df8eb48de": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6b0bb64159b4b6d8f9fafd11d44fd56f",
+      "chunk-17d7927159a30e2bbf3dcbb81cfb3d2c"
+    ],
+    "content_summary": "# COURSE: Nhập môn mã hóa – mật mã (CSC15005)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15005\n- **English Name**: Introduction to Cryptography\n- **Vietnamese Name**: Nhập môn mã hóa – mật mã\n- **Responsible Person**: for the module: Assoc. Prof. Ng...",
+    "content_length": 6887,
+    "created_at": "2025-12-30T05:45:56.370020+00:00",
+    "updated_at": "2025-12-30T08:17:42.734659+00:00",
+    "file_path": "CSC15005.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082467,
+      "processing_end_time": 1767082662
+    }
+  },
+  "doc-44709a5d6bd0509abb834e628f2dc053": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-6af4a4297a0a52e20227fcc7f17802af",
+      "chunk-b846521e0db543d12204ac9cb5f7db5d"
+    ],
+    "content_summary": "# COURSE: Nhập môn xử lý ngôn ngữ tự nhiên (CSC15006)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15006\n- **English Name**: Introduction to Natural Language Processing\n- **Vietnamese Name**: Nhập môn xử lý ngôn ngữ tự nhiên\n- **Responsible Person**: ...",
+    "content_length": 7376,
+    "created_at": "2025-12-30T05:45:56.377678+00:00",
+    "updated_at": "2025-12-30T08:18:44.832100+00:00",
+    "file_path": "CSC15006.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082471,
+      "processing_end_time": 1767082724
+    }
+  },
+  "doc-33b2d7d177afa772b7ea2cd9776dd7d7": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-33327672bbbe6d5043c1f6081284678d",
+      "chunk-a0d42c211a00b70a39397e16361866f7"
+    ],
+    "content_summary": "# COURSE: Thống kê máy tính và ứng dụng (CSC15007)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15007\n- **English Name**: Computer Statistics and Applications\n- **Vietnamese Name**: Thống kê máy tính và ứng dụng\n- **Responsible Person**: for the modul...",
+    "content_length": 7072,
+    "created_at": "2025-12-30T05:45:56.384572+00:00",
+    "updated_at": "2025-12-30T08:18:52.596407+00:00",
+    "file_path": "CSC15007.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082489,
+      "processing_end_time": 1767082732
+    }
+  },
+  "doc-c2f9200e3279e4cb6bc11c15dc5c6d0a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b091fcf422a93cf36c409ab4818cbdf6",
+      "chunk-5f81ce728c86e723a0106ba652dfcbb5"
+    ],
+    "content_summary": "# COURSE: Xử lý ngôn ngữ tự nhiên ứng dụng (CSC15008)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15008\n- **English Name**: Natural Language Processing and Applications\n- **Vietnamese Name**: Xử lý ngôn ngữ tự nhiên ứng dụng\n- **Responsible Person**:...",
+    "content_length": 7248,
+    "created_at": "2025-12-30T05:45:56.392026+00:00",
+    "updated_at": "2025-12-30T08:18:53.387960+00:00",
+    "file_path": "CSC15008.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082521,
+      "processing_end_time": 1767082733
+    }
+  },
+  "doc-7c41c941b5c6b0c9ba5384dfebe42ec6": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-ded4152572df138bbc4ee29ec2dce75b",
+      "chunk-13224d8518da53c93669ac06b86938b0"
+    ],
+    "content_summary": "# COURSE: Xử lý tín hiệu số (CSC15009)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15009\n- **English Name**: Digital Signal Processing\n- **Vietnamese Name**: Xử lý tín hiệu số\n- **Responsible Person**: for the module: Thái Hùng Văn\n- **Semester**: (s...",
+    "content_length": 6226,
+    "created_at": "2025-12-30T05:45:56.399480+00:00",
+    "updated_at": "2025-12-30T08:20:07.778798+00:00",
+    "file_path": "CSC15009.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082593,
+      "processing_end_time": 1767082807
+    }
+  },
+  "doc-1fb225d1092ba622617723445ba57011": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4c352c0f9f4cfbf559bf85b1a05e978b",
+      "chunk-a30a8f9076747b03c8bf9d65d8e1a0ca"
+    ],
+    "content_summary": "# COURSE: Blockchain và ứng dụng (CSC15010)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15010\n- **English Name**: Blockchain and Applications\n- **Vietnamese Name**: Blockchain và ứng dụng\n- **Responsible Person**: for the module: Assoc. Prof. Nguyễn ...",
+    "content_length": 6996,
+    "created_at": "2025-12-30T05:45:56.406832+00:00",
+    "updated_at": "2025-12-30T08:20:08.443040+00:00",
+    "file_path": "CSC15010.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082620,
+      "processing_end_time": 1767082808
+    }
+  },
+  "doc-d41296d97f06c5ba3ba00c2ef4eaf587": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b0cfcf329d8ccb753962f4e4450a1301",
+      "chunk-f89d74a1d49c6cfcb55ae7d7cd3f79bc"
+    ],
+    "content_summary": "# COURSE: Nhập môn ngôn ngữ học thống kê và ứng dụng (CSC15011)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15011\n- **English Name**: Introduction to Statistics Linguistics and Applications\n- **Vietnamese Name**: Nhập môn ngôn ngữ học thống kê và ứng...",
+    "content_length": 8357,
+    "created_at": "2025-12-30T05:45:56.414133+00:00",
+    "updated_at": "2025-12-30T08:20:48.511179+00:00",
+    "file_path": "CSC15011.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082652,
+      "processing_end_time": 1767082848
+    }
+  },
+  "doc-e14fb67c37883699f8ff0dd0195fdc35": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-e79e14eb00fdc0c4eba369cfbab55075",
+      "chunk-7f5ea3a5dcb49b82015656287cb3bcd7"
+    ],
+    "content_summary": "# COURSE: Phân tích dữ liệu bảo toàn tính riêng tư (CSC15107)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15107\n- **English Name**: Privacy-Preserving Data Analysis\n- **Vietnamese Name**: Phân tích dữ liệu bảo toàn tính riêng tư\n- **Responsible Perso...",
+    "content_length": 6434,
+    "created_at": "2025-12-30T05:45:56.421015+00:00",
+    "updated_at": "2025-12-30T08:21:09.520421+00:00",
+    "file_path": "CSC15107.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082653,
+      "processing_end_time": 1767082869
+    }
+  },
+  "doc-94cb8fa93a03e46518d3a0b0c3e1a66e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-45e4b85ee9a54841424290e2ce33901d",
+      "chunk-b7670c3f3ea3a67433fb2c34d76223b9"
+    ],
+    "content_summary": "# COURSE: Đồ án Ngôn ngữ học tính toán (CSC15202)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC15202\n- **English Name**: Capstone Projects in Computational Linguistics\n- **Vietnamese Name**: Đồ án Ngôn ngữ học tính toán\n- **Responsible Person**: for t...",
+    "content_length": 5701,
+    "created_at": "2025-12-30T05:45:56.428244+00:00",
+    "updated_at": "2025-12-30T08:21:01.241964+00:00",
+    "file_path": "CSC15202.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082663,
+      "processing_end_time": 1767082861
+    }
+  },
+  "doc-62b1c420ada59427e804f67c67e5a321": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-7ca3ea57cea47f8aa7630e670b863b30",
+      "chunk-204a6b534375fc21b3dd1bdbe1e52c5d"
+    ],
+    "content_summary": "# COURSE: Phân tích thống kê dữ liệu nhiều biến (CSC16003)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16003\n- **English Name**: Multivariate Statistical Analysis\n- **Vietnamese Name**: Phân tích thống kê dữ liệu nhiều biến\n- **Responsible Person**: ...",
+    "content_length": 8011,
+    "created_at": "2025-12-30T05:45:56.435797+00:00",
+    "updated_at": "2025-12-30T08:21:22.251448+00:00",
+    "file_path": "CSC16003.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082725,
+      "processing_end_time": 1767082882
+    }
+  },
+  "doc-d5f1dfa6f0163e8283510991dfb1b498": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-24d27908a5a788a8b6d92194c3a7894b",
+      "chunk-820f98ba2410c41e027ecccf6e21766a"
+    ],
+    "content_summary": "# COURSE: Thị giác máy tính (CSC16004)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16004\n- **English Name**: Computer Vision\n- **Vietnamese Name**: Thị giác máy tính\n- **Responsible Person**: for the module: Dr. Trần Thái Sơn\n- **Semester**: (s) in w...",
+    "content_length": 5783,
+    "created_at": "2025-12-30T05:45:56.443299+00:00",
+    "updated_at": "2025-12-30T08:21:11.862613+00:00",
+    "file_path": "CSC16004.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082733,
+      "processing_end_time": 1767082871
+    }
+  },
+  "doc-07e57b3802e41240c5d1f1b3ac879d76": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-58afc573853e3f3cd65b3fbfa137c109",
+      "chunk-0b9abfa779f1ce4717b434fec4044da8"
+    ],
+    "content_summary": "# COURSE: Xử lý ảnh số và video số (CSC16005)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16005\n- **English Name**: Digital Image and Video Processing\n- **Vietnamese Name**: Xử lý ảnh số và video số\n- **Responsible Person**: for the module: Assoc. Pr...",
+    "content_length": 8310,
+    "created_at": "2025-12-30T05:45:56.451566+00:00",
+    "updated_at": "2025-12-30T08:22:10.748864+00:00",
+    "file_path": "CSC16005.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082734,
+      "processing_end_time": 1767082930
+    }
+  },
+  "doc-3114b6d865619eee5e96aef5b1195e71": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-0ad54f9fdb71854036b09b8edbdd8219",
+      "chunk-4badeba01b5aba3287b53f1cdb0147e4"
+    ],
+    "content_summary": "# COURSE: Kỹ thuật lập trình xử lý ảnh số và video số (CSC16102)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16102\n- **English Name**: Programming Techniques in Digital Image and Video Processing\n- **Vietnamese Name**: Kỹ thuật lập trình xử lý ảnh số...",
+    "content_length": 6649,
+    "created_at": "2025-12-30T05:45:56.459146+00:00",
+    "updated_at": "2025-12-30T08:24:13.375821+00:00",
+    "file_path": "CSC16102.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082808,
+      "processing_end_time": 1767083053
+    }
+  },
+  "doc-9356c4ed35528d1f44ca0b6fa62837fd": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-854c1b2973e9f64de68020a004cc4eab",
+      "chunk-86ee76d79beeb2bfe21c968ed319c18b"
+    ],
+    "content_summary": "# COURSE: Thị giác robot (CSC16104)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16104\n- **English Name**: Robot Vision\n- **Vietnamese Name**: Thị giác robot\n- **Responsible Person**: for the module: Nguyễn Trọng Việt\n- **Semester**: (s) in which the ...",
+    "content_length": 6274,
+    "created_at": "2025-12-30T05:45:56.466608+00:00",
+    "updated_at": "2025-12-30T08:22:46.072519+00:00",
+    "file_path": "CSC16104.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082808,
+      "processing_end_time": 1767082966
+    }
+  },
+  "doc-96d9548a59c7b595f074834e77bc33b6": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-fa37b30e4078ae1165deddafc4d0b7a6",
+      "chunk-357cd3d6c8192fa5c11b2e601c62e209"
+    ],
+    "content_summary": "# COURSE: Nhập môn lập trình điều khiển thiết bị thông minh (CSC16106)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16106\n- **English Name**: Introduction to Smart Device Programming\n- **Vietnamese Name**: Nhập môn lập trình điều khiển thiết bị thông ...",
+    "content_length": 5807,
+    "created_at": "2025-12-30T05:45:56.474178+00:00",
+    "updated_at": "2025-12-30T08:24:23.079540+00:00",
+    "file_path": "CSC16106.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082849,
+      "processing_end_time": 1767083063
+    }
+  },
+  "doc-a6ac30977f2a321ab283cf57bbccc35c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-f182ec7acd747b5570e423f266779848",
+      "chunk-22f4695b5d044313451cdc1d8e536517"
+    ],
+    "content_summary": "# COURSE: Ứng dụng thị giác máy tính (CSC16107)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16107\n- **English Name**: Applications of Computer Vision\n- **Vietnamese Name**: Ứng dụng thị giác máy tính\n- **Responsible Person**: for the module: Dr. Võ H...",
+    "content_length": 6421,
+    "created_at": "2025-12-30T05:45:56.483025+00:00",
+    "updated_at": "2025-12-30T08:24:04.935628+00:00",
+    "file_path": "CSC16107.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082861,
+      "processing_end_time": 1767083044
+    }
+  },
+  "doc-078c9412b8fbf3296f669535767ff36c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b1fb340c9c9c9bc5375af95762345923",
+      "chunk-3f6d7c1d905ec03a165e715083fe5f6b"
+    ],
+    "content_summary": "# COURSE: Ứng dụng xử lý ảnh số và video số (CSC16109)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16109\n- **English Name**: Applications in Digital Image and Video Processing\n- **Vietnamese Name**: Ứng dụng xử lý ảnh số và video số\n- **Responsible P...",
+    "content_length": 8641,
+    "created_at": "2025-12-30T05:45:56.508806+00:00",
+    "updated_at": "2025-12-30T08:24:38.021691+00:00",
+    "file_path": "CSC16109.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082870,
+      "processing_end_time": 1767083078
+    }
+  },
+  "doc-2978d6f82d966770978dd55a25eec814": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-44a8349b8b24c2e483a1e67fe1cb0b42",
+      "chunk-b2576047a0fef61ee2a057b916883eef"
+    ],
+    "content_summary": "# COURSE: Chuyên đề Đồ họa máy tính (CSC16110)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC16110\n- **English Name**: Selected Topics in Computer Graphics\n- **Vietnamese Name**: Chuyên đề Đồ họa máy tính\n- **Responsible Person**: for the module: Phạm ...",
+    "content_length": 6109,
+    "created_at": "2025-12-30T05:45:56.516771+00:00",
+    "updated_at": "2025-12-30T08:24:07.300988+00:00",
+    "file_path": "CSC16110.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082872,
+      "processing_end_time": 1767083047
+    }
+  },
+  "doc-71bb9c2402558abee4f09cdbabe4df54": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-7b3911deed5991e64416fd3307a4a966",
+      "chunk-03f1f1db604be5091e5701bd184d6246"
+    ],
+    "content_summary": "# COURSE: Phân tích dữ liệu thông minh (CSC17001)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC17001\n- **English Name**: Intelligent Data Analysis\n- **Vietnamese Name**: Phân tích dữ liệu thông minh\n- **Responsible Person**: for the module: Dr. Nguyễn...",
+    "content_length": 5966,
+    "created_at": "2025-12-30T05:45:56.527558+00:00",
+    "updated_at": "2025-12-30T08:24:57.466965+00:00",
+    "file_path": "CSC17001.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082882,
+      "processing_end_time": 1767083097
+    }
+  },
+  "doc-0f08135cc12e245c7b38c6f656e94b2a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-1e3d27b2b5d75b994585e9acca96259b",
+      "chunk-fe50ab5062233febc53947436885ba4a"
+    ],
+    "content_summary": "# COURSE: Hệ thống tư vấn (CSC17101)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC17101\n- **English Name**: Recommender Systems\n- **Vietnamese Name**: Hệ thống tư vấn\n- **Responsible Person**: for the module: Assoc. Prof. Lê Nguyễn Hoài Nam\n- **Semest...",
+    "content_length": 7607,
+    "created_at": "2025-12-30T05:45:56.535897+00:00",
+    "updated_at": "2025-12-30T08:25:08.262579+00:00",
+    "file_path": "CSC17101.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082931,
+      "processing_end_time": 1767083108
+    }
+  },
+  "doc-c19c56b5aadbb9c4a813e9d36b39f197": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-8579a62ce97a2889f39f57e50661604d",
+      "chunk-fabd2325110f4c13fb171e6e3c859f64"
+    ],
+    "content_summary": "# COURSE: Khai thác dữ liệu đồ thị (CSC17103)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC17103\n- **English Name**: Graph Mining\n- **Vietnamese Name**: Khai thác dữ liệu đồ thị\n- **Responsible Person**: for the module: Lê Ngọc Thành\n- **Semester**: (...",
+    "content_length": 6747,
+    "created_at": "2025-12-30T05:45:56.543493+00:00",
+    "updated_at": "2025-12-30T08:26:11.090751+00:00",
+    "file_path": "CSC17103.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767082966,
+      "processing_end_time": 1767083171
+    }
+  },
+  "doc-dc144e999fa4e1552406521dd0b97806": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-53f341e155fc927ef49618789657b445",
+      "chunk-f009d935d54aacd6ffc233f1fd986c53"
+    ],
+    "content_summary": "# COURSE: Lập trình cho khoa học dữ liệu (CSC17104)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC17104\n- **English Name**: Programming for Data Science\n- **Vietnamese Name**: Lập trình cho khoa học dữ liệu\n- **Responsible Person**: for the module: Trầ...",
+    "content_length": 5590,
+    "created_at": "2025-12-30T05:45:56.551649+00:00",
+    "updated_at": "2025-12-30T08:25:56.976692+00:00",
+    "file_path": "CSC17104.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767083045,
+      "processing_end_time": 1767083156
+    }
+  },
+  "doc-4780629f3f10997e5575ea4d8eee9b1d": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a4551aac2642429cfecd7698a5138fb9",
+      "chunk-d8dbc93c6aebfa8acd8912513f6f4bd8"
+    ],
+    "content_summary": "# COURSE: Xử lý phân tích dữ liệu trực tuyến (CSC17106)\n\n## GENERAL INFORMATION\n- **Course ID**: CSC17106\n- **English Name**: Online Analytical Processing\n- **Vietnamese Name**: Xử lý phân tích dữ liệu trực tuyến\n- **Responsible Person**: for the mod...",
+    "content_length": 8321,
+    "created_at": "2025-12-30T05:45:56.559930+00:00",
+    "updated_at": "2025-12-30T08:27:15.649063+00:00",
+    "file_path": "CSC17106.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767083048,
+      "processing_end_time": 1767083235
+    }
+  },
+  "doc-d200df68350da5865a3261c85a90cb98": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-c5c58542f250303c363c3bf141a3405f",
+      "chunk-ca04808a223cdacb67451940ce5904a1"
+    ],
+    "content_summary": "# COURSE: Môi trường đại cương (ENV00001)\n\n## GENERAL INFORMATION\n- **Course ID**: ENV00001\n- **English Name**: Environmental Science\n- **Vietnamese Name**: Môi trường đại cương\n- **Responsible Person**: for the module:\n- **Semester**: (s) in which t...",
+    "content_length": 6629,
+    "created_at": "2025-12-30T05:45:56.568224+00:00",
+    "updated_at": "2025-12-30T08:27:00.945498+00:00",
+    "file_path": "ENV00001.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767083054,
+      "processing_end_time": 1767083220
+    }
+  },
+  "doc-d66b92aa3d9ac497056ef43aeeeae9f0": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-d9fcd0cd88b1f771b0b7c0a634dae345",
+      "chunk-3dc2d01be79d4fd783cdf40b7e607f94"
+    ],
+    "content_summary": "# COURSE: Con người và môi trường (ENV00003)\n\n## GENERAL INFORMATION\n- **Course ID**: ENV00003\n- **English Name**: Human and Environment\n- **Vietnamese Name**: Con người và môi trường\n- **Responsible Person**: for the module:\n- **Semester**: (s) in w...",
+    "content_length": 6777,
+    "created_at": "2025-12-30T05:45:56.576451+00:00",
+    "updated_at": "2025-12-30T08:27:33.818476+00:00",
+    "file_path": "ENV00003.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767083063,
+      "processing_end_time": 1767083253
+    }
+  },
+  "doc-6eb87c429aba74350ed04fcd127c2445": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b96d172b18ad24d282f07fda8130c4ce",
+      "chunk-cfd30d4089d4f27dbf39824ba46f8303"
+    ],
+    "content_summary": "# COURSE: Khoa học Trái đất (GEO00002)\n\n## GENERAL INFORMATION\n- **Course ID**: GEO00002\n- **English Name**: Earth Science\n- **Vietnamese Name**: Khoa học Trái đất\n- **Responsible Person**: for the module:\n- **Semester**: (s) in which the module is t...",
+    "content_length": 7791,
+    "created_at": "2025-12-30T05:45:56.584713+00:00",
+    "updated_at": "2025-12-30T08:27:39.338401+00:00",
+    "file_path": "GEO00002.txt",
+    "track_id": "scan_20251230_124556_4362f560",
+    "metadata": {
+      "processing_start_time": 1767083078,
+      "processing_end_time": 1767083259
+    }
+  },
+  "doc-559c6fa9b805e6c0bf7053e0069b99e2": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-e94f0303f57b1bed4bc2976ce3c462af",
+      "chunk-65190a537d97833d1a5a72897334488d"
+    ],
+    "content_summary": "# COURSE: Sinh đại cương 1 (BIO00001)\n\n## GENERAL INFORMATION\n- **Course ID**: BIO00001\n- **English Name**: Biology 1\n- **Vietnamese Name**: Sinh đại cương 1\n- **Responsible Person**: for the module:\n- **Semester**: (s) in which the module is taught:...",
+    "content_length": 8021,
+    "created_at": "2026-01-01T07:06:44.663753+00:00",
+    "updated_at": "2026-01-01T07:36:33.441230+00:00",
+    "file_path": "BIO00001.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767252972,
+      "processing_end_time": 1767252993
+    }
+  },
+  "doc-d8b47627aa48301034fffbd337cd8c56": {
+    "status": "processed",
+    "chunks_count": 5,
+    "chunks_list": [
+      "chunk-40f5c785c06df4b3324e099f50b70e2c",
+      "chunk-273d37c1fae46adb09b591a8025ea681",
+      "chunk-ef6933366f7b6bf389a3955fb41ff8ef",
+      "chunk-be13a5cbfcbc29aed38a09a9d337a003",
+      "chunk-d05f2073c44ae09898f8da7f4f9ed227"
+    ],
+    "content_summary": "# COURSE: Sinh đại cương 2 (BIO00002)\n\n## GENERAL INFORMATION\n- **Course ID**: BIO00002\n- **English Name**: Biology 2\n- **Vietnamese Name**: Sinh đại cương 2\n- **Responsible Person**: for the module:\n- **Semester**: (s) in which the module is taught:...",
+    "content_length": 8741,
+    "created_at": "2026-01-01T07:06:44.674174+00:00",
+    "updated_at": "2026-01-01T08:38:58.788645+00:00",
+    "file_path": "BIO00002.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767256667,
+      "processing_end_time": 1767256738
+    }
+  },
+  "doc-39c42053b348100364cb206ee04c6850": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-512fed25a131747a68bdb37b95dfd57d",
+      "chunk-899c137073c514c6358e594deaee8cbd",
+      "chunk-477193663af9076682b2f17073eb93e3",
+      "chunk-35e727fe28fbc8566cb522e6ad240243"
+    ],
+    "content_summary": "# COURSE: Thực tập Sinh đại cương 1 (BIO00081)\n\n## GENERAL INFORMATION\n- **Course ID**: BIO00081\n- **English Name**: Biology Laboratory 1\n- **Vietnamese Name**: Thực tập Sinh đại cương 1\n- **Responsible Person**: for the module:\n- **Semester**: (s) i...",
+    "content_length": 8897,
+    "created_at": "2026-01-01T07:06:44.683836+00:00",
+    "updated_at": "2026-01-01T08:39:57.800172+00:00",
+    "file_path": "BIO00081.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767256739,
+      "processing_end_time": 1767256797
+    }
+  },
+  "doc-8de6bbc6d113f04b99a5af907fc9b2cf": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-545d5a97a379a623a41ebdfd9c567533",
+      "chunk-9771e45f177a409a66528daf40246d6b",
+      "chunk-32ceff0709e95d78b1dd6aae9cc9cb83"
+    ],
+    "content_summary": "# COURSE: Thực tập Sinh đại cương 2 (BIO00082)\n\n## GENERAL INFORMATION\n- **Course ID**: BIO00082\n- **English Name**: Biology Laboratory 2\n- **Vietnamese Name**: Thực tập Sinh đại cương 2\n- **Responsible Person**: for the module:\n- **Semester**: (s) i...",
+    "content_length": 6227,
+    "created_at": "2026-01-01T07:06:44.692995+00:00",
+    "updated_at": "2026-01-01T08:40:44.895455+00:00",
+    "file_path": "BIO00082.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767256798,
+      "processing_end_time": 1767256844
+    }
+  },
+  "doc-f39e546a495cd7bf74ed463ee1d98fed": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-c6a09ee0b5983c09f87c078bfd723f40",
+      "chunk-d43da66912dc8deea0505b674cdb77be",
+      "chunk-d319f9964d0cc91ad50188427325a6c9"
+    ],
+    "content_summary": "# COURSE: Hóa đại cương 1 (CHE00001)\n\n## GENERAL INFORMATION\n- **Course ID**: CHE00001\n- **English Name**: General Chemistry 1\n- **Vietnamese Name**: Hóa đại cương 1\n- **Responsible Person**: for the module:\n- **Semester**: (s) in which the module is...",
+    "content_length": 6726,
+    "created_at": "2026-01-01T07:06:44.702610+00:00",
+    "updated_at": "2026-01-01T08:41:42.896809+00:00",
+    "file_path": "CHE00001.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767256845,
+      "processing_end_time": 1767256902
+    }
+  },
+  "doc-30a84393995eb0f0b27a1ea6480c3058": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-c8c3ef26a56fb6c26ed67ffaa6461b41",
+      "chunk-f6e7a800f4f326e32f4be4b9d6a9c370",
+      "chunk-7d6616e04c69c563d50c707d841cdbef"
+    ],
+    "content_summary": "# COURSE: Hóa đại cương 2 (CHE00002)\n\n## GENERAL INFORMATION\n- **Course ID**: CHE00002\n- **English Name**: General Chemistry 2\n- **Vietnamese Name**: Hóa đại cương 2\n- **Responsible Person**: for the module:\n- **Semester**: (s) in which the module is...",
+    "content_length": 6998,
+    "created_at": "2026-01-01T07:06:44.712079+00:00",
+    "updated_at": "2026-01-01T08:42:37.119038+00:00",
+    "file_path": "CHE00002.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767256903,
+      "processing_end_time": 1767256957
+    }
+  },
+  "doc-35f1bed28074bb1ed9baf786ad18150a": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-cbbac6d7d403f6697ecb73107ea678ed",
+      "chunk-d80b0288361e70f1c01c48d0ef370143",
+      "chunk-aec2061956b33812bfc7b812b899502b",
+      "chunk-cfe6f74615f05745eba8baf09d20c629"
+    ],
+    "content_summary": "# COURSE: Thực hành Hóa đại cương 1 (CHE00081)\n\n## GENERAL INFORMATION\n- **Course ID**: CHE00081\n- **English Name**: General Chemistry Laboratory 1\n- **Vietnamese Name**: Thực hành Hóa đại cương 1\n- **Responsible Person**: for the module:\n- **Semeste...",
+    "content_length": 8063,
+    "created_at": "2026-01-01T07:06:44.721834+00:00",
+    "updated_at": "2026-01-01T08:44:36.461231+00:00",
+    "file_path": "CHE00081.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767256957,
+      "processing_end_time": 1767257076
+    }
+  },
+  "doc-8452d01f68e43b7ba5cd502985b05adc": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-db32376b4aeb811543da3337fd39fd45",
+      "chunk-9a765da72d4ed06e5ab7c27c6c797ca5",
+      "chunk-26a1bf0bbf418e28485f2eb35fad25d6",
+      "chunk-2ec2808464e9116c7dea29eef5617f92"
+    ],
+    "content_summary": "# COURSE: Thực hành Hóa đại cương 2 (CHE00082)\n\n## GENERAL INFORMATION\n- **Course ID**: CHE00082\n- **English Name**: General Chemistry Laboratory 2\n- **Vietnamese Name**: Thực hành Hóa đại cương 2\n- **Responsible Person**: for the module:\n- **Semeste...",
+    "content_length": 7510,
+    "created_at": "2026-01-01T07:06:44.731898+00:00",
+    "updated_at": "2026-01-01T08:46:22.350925+00:00",
+    "file_path": "CHE00082.txt",
+    "track_id": "scan_20260101_140644_b564b8ae",
+    "metadata": {
+      "processing_start_time": 1767257076,
+      "processing_end_time": 1767257182
+    }
+  },
+  "doc-8f5365d3a62497790469aa7d8de550b3": {
+    "status": "pending",
+    "content_summary": "--- NỘI DUNG: CLC_DeCuongTomTat.json ---\n========================================\n\n* filename: CLC_DeCuongTomTat.pdf\n* type: Native_Text\n# pages:\n  * page_number: 1\n  * content: ĐẠI HỌC QUỐC GIA TP. HCM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN\nKHOA CÔNG NGHỆ...",
+    "content_length": 439271,
+    "created_at": "2026-01-01T07:17:00.580010+00:00",
+    "updated_at": "2026-01-05T15:43:07.696457+00:00",
+    "file_path": "CTDT_Web_CTDT_CLC_CLC_DeCuongTomTat.txt",
+    "track_id": "scan_20260101_141700_5bc250fa",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-0a6bfb4597760c107af8d9e2b67430ed": {
+    "status": "pending",
+    "content_summary": "--- NỘI DUNG: VP_DeCuongTomTat.json ---\n========================================\n\n* filename: VP_DeCuongTomTat.pdf\n* type: Native_Text\n# pages:\n  * page_number: 1\n  * content: ĐẠI HỌC QUỐC GIA TP. HCM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN\nKHOA CÔNG NGHỆ T...",
+    "content_length": 447634,
+    "created_at": "2026-01-01T07:17:00.652070+00:00",
+    "updated_at": "2026-01-05T15:43:07.696653+00:00",
+    "file_path": "CTDT_Web_CTDT_VP_VP_DeCuongTomTat.txt",
+    "track_id": "scan_20260101_141700_5bc250fa",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-0940c76ec289b5eaff3c41982846e243": {
+    "status": "processed",
+    "chunks_count": 12,
+    "chunks_list": [
+      "chunk-f412a6d031c4aaa10c289f92974e1e22",
+      "chunk-b640db5c8b3fd9808b2be6f1b5b56212",
+      "chunk-86309bd471fd99af867d6f5f49bd118a",
+      "chunk-9e6b8baa4fe915bf86d5ffafde76d156",
+      "chunk-5571097e6eb87bde5cdea0de0acd236e",
+      "chunk-27649611419a8cdf9ab696521d664dc8",
+      "chunk-adff8be34edf7083a7fea1554e702193",
+      "chunk-1302af3a0f86326c416ed2ab1743b426",
+      "chunk-a2ae1402434de4b93642a58bb39254a2",
+      "chunk-e2c5a09f8c637c843e4b3b495c3179e5",
+      "chunk-13b31bc933bc02f62b429819cd750a05",
+      "chunk-e4c50f1e5c6ce8085872f19f8fb30210"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2011\nTỔNG SỐ TRANG: 11\n==================================================\n\n--- Trang 1 ---\nĐẠI HỌC QUỐC GIA TP.HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSá:¿i£0/QĐÐ-KH...",
+    "content_length": 15583,
+    "created_at": "2026-01-01T08:50:50.836466+00:00",
+    "updated_at": "2026-01-01T09:10:57.435408+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2011.txt",
+    "track_id": "scan_20260101_155050_796ac110",
+    "metadata": {
+      "processing_start_time": 1767257458,
+      "processing_end_time": 1767258657
+    }
+  },
+  "doc-17d1a09a476d10dbd3ff85e30174410e": {
+    "status": "processed",
+    "chunks_count": 12,
+    "chunks_list": [
+      "chunk-b8322b189888eecf295aea28cea2157e",
+      "chunk-59878bca8123290ae6e77198595855b7",
+      "chunk-cd2ed44c97689da62ff9813b37c859ad",
+      "chunk-fb3c80144d07f557bf433704290760cb",
+      "chunk-8c57f03109d1d863fd2b5719e46a1234",
+      "chunk-e39e1b2473f24c062fdf97354fa8ddc2",
+      "chunk-cd36e5d54dab10166c3908aac00f54be",
+      "chunk-a1715c60a6b20869acb6fd54d15dd87a",
+      "chunk-74847241a7658b6fa5a85a5f9028748f",
+      "chunk-482788b30609329348aaa72873f378ed",
+      "chunk-840cbada70d1c241ad48699e2c912a12",
+      "chunk-9ed3ea962a6f454804433021e8bfb73b"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2012\nTỔNG SỐ TRANG: 11\n==================================================\n\n--- Trang 1 ---\n_ ĐẠI HỌC QUOC GIA TP.HCM ; CONG HOA XA HOI CHU NGHIA VIET NAM\nTRUONG ĐẠI HOC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSó:4IZf/QĐ...",
+    "content_length": 15486,
+    "created_at": "2026-01-01T08:50:50.858987+00:00",
+    "updated_at": "2026-01-01T09:10:52.872862+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2012.txt",
+    "track_id": "scan_20260101_155050_796ac110",
+    "metadata": {
+      "processing_start_time": 1767257461,
+      "processing_end_time": 1767258652
+    }
+  },
+  "doc-ac0e9c7fecb944c737d2bdf9f0859903": {
+    "status": "processed",
+    "chunks_count": 12,
+    "chunks_list": [
+      "chunk-b7f8ab9671116d04baaaa7b96553b73a",
+      "chunk-814faefad324282f392de87ab43e32ae",
+      "chunk-95870c3c7a17d0540a14c96b73f6761f",
+      "chunk-10303bb6e1c444fb700e3789d7222ad9",
+      "chunk-c01c7a906ae0adc4972144a940601fc0",
+      "chunk-989fe2b9a66deb5cc94d4d751777edea",
+      "chunk-f96d3fa9f04cea498d41bd3033890f33",
+      "chunk-5b7c8a644ad1f55220c55630444a87a0",
+      "chunk-8f42d92d722e04e28817080da66e2f39",
+      "chunk-7359fcfe50afb9dd0ee8caf33d551e32",
+      "chunk-3db202842945631a273b2658b942b91c",
+      "chunk-2e4f570323123daaa562015033362df2"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2013\nTỔNG SỐ TRANG: 11\n==================================================\n\n--- Trang 1 ---\n_ ĐẠIHỌC QUỐC GIATP.HCM _ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSóz?#1/QĐÐ-K...",
+    "content_length": 15645,
+    "created_at": "2026-01-01T08:50:50.876069+00:00",
+    "updated_at": "2026-01-01T09:50:08.441283+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2013.txt",
+    "track_id": "scan_20260101_155050_796ac110",
+    "metadata": {
+      "processing_start_time": 1767258653,
+      "processing_end_time": 1767261008
+    }
+  },
+  "doc-b0238f836fcbabef3fb2b8a1d6b96f2e": {
+    "status": "processed",
+    "chunks_count": 13,
+    "chunks_list": [
+      "chunk-a8f922ffff26a5b6436a9774eaff5b4f",
+      "chunk-ddfa6e81a1acbc22607d404bb3a0bcb3",
+      "chunk-e72808cf630064d4e0c9ff15dcd3e17f",
+      "chunk-07dc6fde4928a35317d687970493b588",
+      "chunk-43ab2f052a5dae1d620ff2613b7430e8",
+      "chunk-a08dbc5c2c86a102a87db7390b8387c8",
+      "chunk-c01b3e5ebcdb4ee57b20826540ef08ae",
+      "chunk-56163e3b6ab8695c5e4497262682bc50",
+      "chunk-1f7eb22ba04c3be8e349ae32f0c053a9",
+      "chunk-93ed76f8f1656708ffc4c31878dc7142",
+      "chunk-cb46ce341041acba4247724f3f15575c",
+      "chunk-3147f2fb4ce0502fbfc8a0deb9eb52be",
+      "chunk-2b753d752304458e4077172c7089fd12"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2014\nTỔNG SỐ TRANG: 12\n==================================================\n\n--- Trang 1 ---\n_ ĐẠI HỌC QUOC GIA TP.HCM l CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSố;⁄l@) /Q...",
+    "content_length": 17387,
+    "created_at": "2026-01-01T08:50:50.893266+00:00",
+    "updated_at": "2026-01-01T09:50:43.353931+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2014.txt",
+    "track_id": "scan_20260101_155050_796ac110",
+    "metadata": {
+      "processing_start_time": 1767258658,
+      "processing_end_time": 1767261043
+    }
+  },
+  "doc-fc491693e881536ade8798f832c5f48c": {
+    "status": "processed",
+    "chunks_count": 13,
+    "chunks_list": [
+      "chunk-5f50d24ff0c88489ffdcfc5b6bde594f",
+      "chunk-df6377f8601d45a296999e85a8bad25b",
+      "chunk-c38797a0d673ee249ec259c3f880eb75",
+      "chunk-7c93b7a78fde246e0b2a2cbff8055c09",
+      "chunk-bd2a0882dc811e25bc939bb120654ac1",
+      "chunk-dd541c2eab1c030e65e7fe6ae3d57938",
+      "chunk-5237a2f2a9f454fa735c980495d92014",
+      "chunk-875911a43015b64aec30f8b38dc2345d",
+      "chunk-3175f272e2a0606cba5aecac2ae7a07e",
+      "chunk-8acae7aebf55267fb85e75f54326c586",
+      "chunk-39f69552fca1acd11c4f0062657bee3f",
+      "chunk-bee1b41f4ac86970e103ec4ae94fb80f",
+      "chunk-dc71e4f48ecd3a20d8d0117ea207877d"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2015\nTỔNG SỐ TRANG: 12\n==================================================\n\n--- Trang 1 ---\n_ ĐẠI HỌC QUỐC GIATP.HCM _ CONG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSố:/£/QĐ-KH...",
+    "content_length": 17241,
+    "created_at": "2026-01-01T08:50:50.910276+00:00",
+    "updated_at": "2026-01-04T03:23:38.011182+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2015.txt",
+    "track_id": "scan_20260101_155050_796ac110",
+    "metadata": {
+      "processing_start_time": 1767496005,
+      "processing_end_time": 1767497018
+    }
+  },
+  "doc-95ac12a06b08af530d85cc9ae3c97420": {
+    "status": "processed",
+    "chunks_count": 14,
+    "chunks_list": [
+      "chunk-129865708e80d2d2b87e20331521f542",
+      "chunk-f894fc62701f55bebc2b01b31da17861",
+      "chunk-32cca16086cb80f4fb4e98ce1804a1a5",
+      "chunk-3be051900ac2410416d3c505f98579a5",
+      "chunk-8ff8ea31267e5c462c20209549b47afd",
+      "chunk-3432acfe274dd9540a2ae091546d0e4a",
+      "chunk-e4b5c404ddb734c0338f9ac1d91573ad",
+      "chunk-a3dbc123d4024eff8d877db768e32708",
+      "chunk-18d3bea4b3749659782d7f491c3668b0",
+      "chunk-11bc6483b9434411ca22223f9c365f45",
+      "chunk-ad3d59ba4ccdd930cd5062d3c93eebb2",
+      "chunk-47442a3845be7efb7ab341009c7188f5",
+      "chunk-32dc9da2e6fb0673ce220f3a8b12df1d",
+      "chunk-e0302c78bbdfdd7b9a5a09d872b3b17b"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2016\nTỔNG SỐ TRANG: 12\n==================================================\n\n--- Trang 1 ---\n_ ĐẠI HỌC QUỐC GIA TP.HCM ; CONG HOA XA HOI CHU NGHIA VIET NAM\nTRUONG DAI HOC KHOA HOC TU NHIEN Độc lập - Tự do - Hạnh phúc\n\nSá:27/QĐ-K...",
+    "content_length": 17591,
+    "created_at": "2026-01-01T08:50:50.927645+00:00",
+    "updated_at": "2026-01-04T03:30:57.320653+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2016.txt",
+    "track_id": "scan_20260101_155050_796ac110",
+    "metadata": {
+      "processing_start_time": 1767496005,
+      "processing_end_time": 1767497457
+    }
+  },
+  "doc-76760ee365522a5978fbfd93b0bed5a7": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-0a40841d08a80c1ac4da553cf8a10c6f",
+      "chunk-fa201554bc606cd146ff485c04bc871b",
+      "chunk-576e57c5cae607680ad89ab0483febda"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2004-K2008\nTỔNG SỐ TRANG: 3\n==================================================\n\n--- Trang 1 ---\nĐẠI HỌC QUỐC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập — Tự do — Hạnh phúc\n\n_ CHƯƠNG...",
+    "content_length": 2816,
+    "created_at": "2026-01-01T09:22:05.846009+00:00",
+    "updated_at": "2026-01-04T03:33:00.233125+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2004-K2008.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "metadata": {
+      "processing_start_time": 1767497058,
+      "processing_end_time": 1767497580
+    }
+  },
+  "doc-3511dc9fccaf2ed4088a7232a66a0939": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-ef08234e3c2ab193004d10ff9b37e5f2",
+      "chunk-16149585bab45b0e81a61a82f5bc83b8",
+      "chunk-ee772e2d9e9403baa95ee3292408178f",
+      "chunk-503019b7203b9ab0adf626d890852dfb"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CD_K2009-K2010\nTỔNG SỐ TRANG: 3\n==================================================\n\n--- Trang 1 ---\nĐẠI HỌC QUÓC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN _ Độc lập - Tự do — Hanh phúc\n\nCHƯƠNG...",
+    "content_length": 4013,
+    "created_at": "2026-01-01T09:22:05.871484+00:00",
+    "updated_at": "2026-01-04T04:00:09.936115+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CD_CTDT_CNTT_CD_K2009-K2010.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "metadata": {
+      "processing_start_time": 1767497457,
+      "processing_end_time": 1767499209
+    }
+  },
+  "doc-863bb3df9eca334626964578c299c1ff": {
+    "status": "processing",
+    "chunks_count": 9,
+    "chunks_list": [
+      "chunk-f999823fd4060f048fcfabbf4c24e1fa",
+      "chunk-56e2a6145791eb35c55e28c7cbd546d4",
+      "chunk-53f044d79117f95f05a14abf3cceea30",
+      "chunk-ccfc5e587945e240130b8cda48f06fc4",
+      "chunk-24e64481ede159e191b7554bf3c76eb1",
+      "chunk-610e4804c42cc7d7d66e0e6825504a60",
+      "chunk-471f2b9f9549fc03f29ee04362b9454d",
+      "chunk-cf71853d6bc4bb5f7ce76506c9a41234",
+      "chunk-43fcbfa700dc88008f02702b67f5994e"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNNTT_CLC_K2013\nTỔNG SỐ TRANG: 10\n==================================================\n\n--- Trang 1 ---\nĐẠI HỌC QUOC GIA TP. HCM CONG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐH KHTN Độc lập - Tự do - Hạnh phúc\n\nSố: 204 /QĐÐ-KHTN-ĐT\nTP. Hà C...",
+    "content_length": 11789,
+    "created_at": "2026-01-01T09:22:05.893517+00:00",
+    "updated_at": "2026-01-05T15:43:07.733826+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CLC_CTDT_CNNTT_CLC_K2013.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "metadata": {
+      "processing_start_time": 1767627787
+    }
+  },
+  "doc-f6c805eba5d1c3f44aa2d23fe287c3e2": {
+    "status": "pending",
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CLC_K2014\nTỔNG SỐ TRANG: 12\n==================================================\n\n--- Trang 1 ---\n_ ĐẠI HỌC QUỐC GIA TP.HCM... CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSố: 2)04...",
+    "content_length": 17035,
+    "created_at": "2026-01-01T09:22:05.916238+00:00",
+    "updated_at": "2026-01-04T05:00:10.918715+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CLC_CTDT_CNTT_CLC_K2014.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-559a8f688c29a66ba733d14dca25d516": {
+    "status": "pending",
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CLC_K2015\nTỔNG SỐ TRANG: 9\n==================================================\n\n--- Trang 1 ---\nĐẠI HỌC QUỐC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập — Tự do — Hạnh phúc\n\nCHƯƠNG TRÌNH ...",
+    "content_length": 15495,
+    "created_at": "2026-01-01T09:22:05.937843+00:00",
+    "updated_at": "2026-01-05T15:43:07.696748+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CLC_CTDT_CNTT_CLC_K2015.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "error_msg": "",
+    "metadata": {},
+    "chunks_list": []
+  },
+  "doc-ef2c87b0147aa841af5c6e48450cd50f": {
+    "status": "processing",
+    "chunks_count": 14,
+    "chunks_list": [
+      "chunk-82ed94a3e137bd75e2dfc837f6daed20",
+      "chunk-b9b1cd23f5715e781faff05d8926f264",
+      "chunk-b1cb8093018ff495b40e72bc95c41ebc",
+      "chunk-e298bdcc2955fe3238cc201802e9c58f",
+      "chunk-039fbc64456999d9eaf0b0f6d4a8ba86",
+      "chunk-f740b352d2a1c7d0a7df137569b24df5",
+      "chunk-a5cfc10afd16627548ee76effbcd90a1",
+      "chunk-5919178a56e57c65b8cfab8144f8ef79",
+      "chunk-08e224d718a565e6d5f75f67c3e67540",
+      "chunk-d715d65383987fed2fbb8dfe622ba23d",
+      "chunk-f42a8c10599a8d24e15764ff4be46ee6",
+      "chunk-d40e413bf2478fa6187cbd3bc423fe4f",
+      "chunk-67093d35eb5e30f3fc1efb703fc79c7b",
+      "chunk-90f7e037ec28504225f3f241ee06de1f"
+    ],
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CLC_K2016\nTỔNG SỐ TRANG: 12\n==================================================\n\n--- Trang 1 ---\n_ ĐẠI HỌC QUỐC GIA TP.HCM | CỘNG HÒA XÃ HOI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập - Tự do - Hạnh phúc\n\nSó: 403/Q...",
+    "content_length": 18865,
+    "created_at": "2026-01-01T09:22:05.960756+00:00",
+    "updated_at": "2026-01-05T15:43:07.734125+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CLC_CTDT_CNTT_CLC_K2016.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "metadata": {
+      "processing_start_time": 1767627787
+    }
+  },
+  "doc-a5838108fe655d5b24496305fac839f9": {
+    "status": "pending",
+    "content_summary": "TÀI LIỆU: CTDT_CNTT_CLC_K2020_V2\nTỔNG SỐ TRANG: 36\n==================================================\n\n--- Trang 1 ---\nĐẠI HỌC QUOC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nTRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN Độc lập — Tự do - Hạnh phúc\n\nCHƯƠNG TR...",
+    "content_length": 67975,
+    "created_at": "2026-01-01T09:22:05.993339+00:00",
+    "updated_at": "2026-01-01T09:22:05.993352+00:00",
+    "file_path": "CTDT_YEARS_CNTT_CLC_CTDT_CNTT_CLC_K2020_V2.txt",
+    "track_id": "scan_20260101_162205_b3b1eedf",
+    "chunks_list": []
+  },
+  "doc-f384148710d0f0e8f433e600b2aba1cd": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  1 \nTổng \n  quan \n  về \n  Cơ \n  sở \n  dữ \n  liệu\nSlide \n  bài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n  học \n  Khoa \n  h...",
+    "content_length": 24485,
+    "created_at": "2026-01-04T04:43:22.468590+00:00",
+    "updated_at": "2026-01-04T04:43:22.468603+00:00",
+    "file_path": "CTT102-Chuong 1-TongQuan.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-4f4fdc954f4879c6b58a401c7efa172a": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  2 \nMô \n  Hình \n  Thực \n  Thể \n  -­‐ \n  Kết \n  Hợp (En:ty-­‐Rela:onship \n  Model) \nSlide \n  bài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n ...",
+    "content_length": 18840,
+    "created_at": "2026-01-04T04:43:22.498467+00:00",
+    "updated_at": "2026-01-04T04:43:22.498480+00:00",
+    "file_path": "CTT102-Chuong 2-Mo hinh Thuc The Ket Hop.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-fc43b1d0018297751e205522e4b98916": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  3 \nMô \n  hình \n  dữ \n  liệu \n  quan \n  hệ \nBài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n  học \n  Khoa \n  học \n  Tự \n  nh...",
+    "content_length": 23589,
+    "created_at": "2026-01-04T04:43:22.519212+00:00",
+    "updated_at": "2026-01-04T04:43:22.519224+00:00",
+    "file_path": "CTT102-Chuong 3 Mo hinh quan he.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-f0747206e85c0874a1a1731f751d3f91": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  4\nĐại \n  số \n  quan \n  hệ \nBài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n  học \n  Khoa \n  học \n  Tự \n  nhiên \nNội \n  dung...",
+    "content_length": 33305,
+    "created_at": "2026-01-04T04:43:22.540570+00:00",
+    "updated_at": "2026-01-04T04:43:22.540579+00:00",
+    "file_path": "CTT102-Chuong 4 Dai so quan he.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-ed6669bd11cb2cc8b694d72e336e9953": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  5 \nSQL \n  (Structured \n  Query \n  Language) \nBài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n  học \n  Khoa \n  học \n  Tự \n  ...",
+    "content_length": 72890,
+    "created_at": "2026-01-04T04:43:22.565877+00:00",
+    "updated_at": "2026-01-04T04:43:22.565888+00:00",
+    "file_path": "CTT102-Chuong 5-SQL.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-9169d72cf4e914c544a1c44116339e2a": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  6 \nPhép \n  -nh \n  quan \n  hệ \n(Ngôn \n  ngữ \n  tân \n  từ) \nBài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n  học \n  Khoa \n  ...",
+    "content_length": 23097,
+    "created_at": "2026-01-04T04:43:22.586971+00:00",
+    "updated_at": "2026-01-04T04:43:22.586985+00:00",
+    "file_path": "CTT102-Chuong 6-Phep tinh quan he.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-a3f55fb5f70ec6b32a14de688d8eeec5": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  7 \nRàng \n  buộc \n  toàn \n  vẹn \n  (Integrety Constraints) \nSlide \n  bài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n  học \n...",
+    "content_length": 27206,
+    "created_at": "2026-01-04T04:43:22.607739+00:00",
+    "updated_at": "2026-01-04T04:43:22.607746+00:00",
+    "file_path": "CTT102-Chuong 7-RBTV.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-0b229d728892a07fdd7e229a298151a7": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  8\nPhụ \n  thuộc \n  hàm \n  và \n  dạng \n  chuẩn (Func:onal \n  Dependencies \n  & Normal \n  Form) \nSlide \n  bài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  T...",
+    "content_length": 25819,
+    "created_at": "2026-01-04T04:43:22.628617+00:00",
+    "updated_at": "2026-01-04T04:43:22.628627+00:00",
+    "file_path": "CTT102-Chuong 8-PTHDC.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  },
+  "doc-cc18e24b487547914e6659d40c70fd92": {
+    "status": "pending",
+    "content_summary": "CHƯƠNG \n  9 \nGiới \n  thiệu \n  các \n  vấn \n  đề \n  liên \n  quan \n  đến CSDL \nSlide \n  bài \n  giảng \n  môn \n  Cơ \n  sở \n  dữ \n  liệu \n© \n  Bộ \n  môn \n  Hệ \n  Thống \n  Thông \n  Tin \n  -­‐ \n  Khoa \n  Công \n  Nghệ \n  Thông \n  Tin \n  -­‐ \n  Trường \n  Đại \n...",
+    "content_length": 13566,
+    "created_at": "2026-01-04T04:43:22.647795+00:00",
+    "updated_at": "2026-01-04T04:43:22.647804+00:00",
+    "file_path": "CTT102-Chuong 9-Cac van de lien quan.txt",
+    "track_id": "scan_20260104_114322_9d086b33",
+    "chunks_list": []
+  }
+}
