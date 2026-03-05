@@ -1,5 +1,6 @@
 from typing import TypedDict, List
 from langgraph.graph import StateGraph, END
+from langgraph.checkpoint.memory import MemorySaver
 import agents
 
 # 1. ĐỊNH NGHĨA STATE (Bộ nhớ chung của quy trình)
@@ -147,19 +148,5 @@ workflow.add_conditional_edges(
 workflow.add_edge("reflection", END)
 
 # Compile
-app = workflow.compile()
-
-# --- CHẠY THỬ ---
-if __name__ == "__main__":
-    query = "Học Công nghệ phần mềm cần những kiến thức gì?"
-    print(f"Query: {query}\n")
-    
-    # Dùng invoke để chạy
-    try:
-        result = app.invoke({"query": query})
-        print("\n=== KẾT QUẢ CUỐI CÙNG ===")
-        print(result["final_response"])
-        if "reflection" in result:
-            print("\n[Reflection]:", result["reflection"])
-    except Exception as e:
-        print(f"Lỗi: {e}")
+checkpointer = MemorySaver()
+app = workflow.compile(checkpointer=checkpointer)
